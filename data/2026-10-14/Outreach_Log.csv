@@ -85,3 +85,4 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-15,skipped,nmedari@ateeca.com,Ateeca,Senior .NET Developer Angular,Lansing MI,C2C/W2,,https://www.linkedin.com/in/nahomi-medari/,strict local-only
 2026-10-15,skipped,pavan.r@siatechsol.com,SIA Tech,Senior .NET Full Stack Azure,Long Island City NY,Contract,,,NJ-local only
 2026-10-15,skipped,akhil.k@siraconsultinginc.com,Sira Consulting,Senior Android Developer,St. Louis MO,C2C $65,,,native Android
+2026-10-15,sent,srini@codebaseinc.com,Codebase Inc,Sr Full Stack Developer React/Node/Postgres,Remote USA,C2C/W2 long term,Aaron_Ramirez_Codebase_Sr_Full_Stack_Developer_React_Node.pdf,,messages/61_codebase_srini.txt

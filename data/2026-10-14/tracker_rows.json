@@ -1518,5 +1518,24 @@
   "msg": "NOT SENT – NJ-local only",
   "status": "NOT SENT (excluded by post)",
   "src": "Google Groups"
+ },
+ {
+  "company": "Codebase Inc (2nd recruiter: Srini)",
+  "role": "Sr Full Stack Developer (React + Vite, Node/TS, PostgreSQL, Prisma)",
+  "loc": "Remote (USA)",
+  "arr": "Remote",
+  "type": "Contract, long term (C2C/W2 group)",
+  "pay": "Not listed (asked)",
+  "posted": "2026-10-15 (LinkedIn group post, 18m old, pasted by Aaron)",
+  "skills": "React + Vite, Node.js/TypeScript APIs, modern application architecture, PostgreSQL, Prisma/ORM",
+  "visa": "Not stated",
+  "recruiter": "Srini (Codebase Inc)",
+  "contact": "srini@codebaseinc.com · in post",
+  "link": "LinkedIn group post (screenshot from Aaron)",
+  "fit": "Strong (exact stack; remote); different recruiter and role from Codebase healthcare req (#ajay)",
+  "resume": "Aaron_Ramirez_Codebase_Sr_Full_Stack_Developer_React_Node.pdf",
+  "msg": "messages/61_codebase_srini.txt",
+  "status": "SENT 2026-10-15 13:44 PT (Mensaje enviado, PDF attached)",
+  "src": "LinkedIn post (Aaron)"
  }
 ]

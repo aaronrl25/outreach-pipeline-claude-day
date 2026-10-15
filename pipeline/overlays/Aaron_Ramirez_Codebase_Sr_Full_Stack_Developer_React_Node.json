@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Codebase_Sr_Full_Stack_Developer_React_Node",
+ "tagline": "Sr Full Stack Developer  ·  React + Vite, TypeScript, Node.js APIs  ·  PostgreSQL, Prisma ORM, Modern Application Architecture",
+ "location": "San Francisco Bay Area  ·  Remote (USA)  ·  Contract (C2C or W2), long term",
+ "summary": "Senior Full Stack Developer with 10+ years building modern web applications end to end for Walmart Global Tech, IBM/AEP, and HCSC. React (Vite, TypeScript, Hooks, Redux Toolkit, React Query) front ends on Node.js / TypeScript APIs (Express, REST, GraphQL, WebSockets) backed by PostgreSQL with Prisma and other ORMs; designs modern application architecture (modular monorepos, micro-frontends, service boundaries, CI/CD on AWS and Azure). Owns features from schema and API design through UI, testing (Jest, React Testing Library, Supertest, Cypress), and production observability; mentors engineers and works remote-first with distributed teams.",
+ "core_skills": [
+  [
+   "React + Vite, TypeScript, Hooks, Redux Toolkit",
+   "Node.js / TypeScript APIs (Express, REST, GraphQL)"
+  ],
+  [
+   "PostgreSQL, Prisma ORM, Schema & Query Design",
+   "Modern Application Architecture & Monorepos"
+  ],
+  [
+   "AWS / Azure, Docker, CI/CD (GitHub Actions)",
+   "Testing: Jest, React Testing Library, Supertest, Cypress"
+  ],
+  [
+   "Performance, Caching, Observability (Dynatrace)",
+   "Auth & Security (JWT / OAuth2)"
+  ],
+  [
+   "Remote-First Collaboration & Mentoring",
+   "AI-Assisted Development (Claude Code, Copilot)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, React Hooks, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, Fastify), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, PostgreSQL, Prisma ORM, MongoDB, Firebase, Java / Spring Boot"
+ }
+}

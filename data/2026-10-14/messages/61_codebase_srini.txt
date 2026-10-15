@@ -1,0 +1,17 @@
+To: srini@codebaseinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Codebase_Sr_Full_Stack_Developer_React_Node.pdf
+Subject: Sr Full Stack Developer (React + Vite, Node.js/TypeScript, PostgreSQL) – Remote – Aaron Ramirez (C2C)
+
+Hi Srini,
+
+I saw your post for the Sr Full Stack Developer role (remote, long term) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of full stack development at Walmart Global Tech, IBM/AEP, and HCSC: React + Vite / TypeScript front ends on Node.js / TypeScript APIs (Express, REST, GraphQL) with PostgreSQL and Prisma ORM.
+- Modern application architecture: modular monorepos, micro-frontends, clear service boundaries, CI/CD on AWS and Azure; testing with Jest, React Testing Library, Supertest, and Cypress; remote-first delivery with distributed teams.
+
+Could you share the client and rate range? Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
