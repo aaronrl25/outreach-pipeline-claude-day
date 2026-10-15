@@ -1594,5 +1594,24 @@
   "msg": "NOT SENT",
   "status": "NOT SENT (excluded)",
   "src": "LinkedIn post"
+ },
+ {
+  "company": "Apolis (Rohit Dewatwal, Google Groups)",
+  "role": "Senior Node.js Backend Engineer – AWS & MongoDB (ReactJS)",
+  "loc": "Dallas, TX",
+  "arr": "Onsite 5 days",
+  "type": "Long-term C2C, possible 3-month CTH",
+  "pay": "$60–65/hr C2C",
+  "posted": "2026-10-15 13:24 PT (C2C/Hotlist Requirement Posting group)",
+  "skills": "Node.js 5+, ReactJS 5+, JS 8+, AWS Lambda/API Gateway/SQS/SNS/ECS/CloudFormation, MongoDB, TypeScript, CI/CD, tech leadership",
+  "visa": "Not stated",
+  "recruiter": "Rohit Dewatwal (Apolis)",
+  "contact": "rohitdewatwal.apolis@gmail.com · group post",
+  "link": "Google Groups c2chotlist-requirement-posting",
+  "fit": "Good (Node + React + AWS + MongoDB all claimed; rate in range); relocation stated",
+  "resume": "Aaron_Ramirez_Apolis_Senior_NodeJS_Backend_Engineer_AWS.pdf",
+  "msg": "messages/64_apolis.txt",
+  "status": "SENT 2026-10-15 14:35 PT (Mensaje enviado, PDF attached)",
+  "src": "Google Groups"
  }
 ]

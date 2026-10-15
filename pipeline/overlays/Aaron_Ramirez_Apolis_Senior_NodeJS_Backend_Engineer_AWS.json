@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Apolis_Senior_NodeJS_Backend_Engineer_AWS",
+ "tagline": "Senior Node.js Backend Engineer  ·  Node.js, TypeScript, ReactJS  ·  AWS Serverless (Lambda, API Gateway, SQS/SNS, ECS), MongoDB",
+ "location": "Open to onsite in Dallas, TX (relocating is fine)  ·  Contract (C2C), long term",
+ "summary": "Senior Node.js Backend Engineer with 10+ years of software development (8+ years JavaScript, Node.js and ReactJS) at Walmart Global Tech, IBM/AEP, and HCSC. Designs and maintains scalable middleware platforms, RESTful APIs, and serverless applications on AWS (Lambda, API Gateway, S3, SNS, SQS, ECS, CloudFront, CloudFormation) with MongoDB and other NoSQL stores; drives the full SDLC from requirements and technical design through testing, CI/CD, and deployment. Strong on Node.js internals (event loop, clustering, memory management), TypeScript and modern ECMAScript, unit testing (Jest, Supertest), and technical leadership of Agile/Scrum teams.",
+ "core_skills": [
+  [
+   "Node.js / TypeScript (Express, Fastify), Event Loop, Clustering",
+   "ReactJS, Redux Toolkit, Modern ECMAScript"
+  ],
+  [
+   "AWS Serverless: Lambda, API Gateway, SQS/SNS, Kinesis",
+   "AWS ECS, S3, CloudFront, SES, CloudFormation"
+  ],
+  [
+   "MongoDB & NoSQL Design, PostgreSQL",
+   "RESTful APIs, Middleware, Microservices"
+  ],
+  [
+   "Jest, Supertest, React Testing Library, Cypress",
+   "CI/CD (GitHub Actions, Jenkins), Docker, DevOps"
+  ],
+  [
+   "Technical Leadership, Code Review, Mentoring",
+   "Agile / Scrum / XP"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js / TypeScript (Express, Fastify), RESTful APIs, middleware, microservices, GraphQL, WebSockets/Socket.IO, MongoDB (Mongoose, aggregation), PostgreSQL, Redis, Java / Spring Boot",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, S3, SNS, SQS, Kinesis, ECS/Fargate, CloudFront, SES, CloudFormation, RDS), Azure (App Service, DevOps); GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

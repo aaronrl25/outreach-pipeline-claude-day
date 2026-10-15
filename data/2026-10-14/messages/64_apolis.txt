@@ -1,0 +1,19 @@
+To: rohitdewatwal.apolis@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Apolis_Senior_NodeJS_Backend_Engineer_AWS.pdf
+Subject: Senior Node.js Backend Engineer – AWS & MongoDB – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Rohit,
+
+I saw your posting on the C2C/Hotlist Requirement Posting group for the Senior Node.js Backend Engineer (AWS & MongoDB) role in Dallas, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years of software development (8+ years JavaScript, 5+ years each of Node.js and ReactJS) at Walmart Global Tech, IBM/AEP, and HCSC: scalable middleware platforms, RESTful APIs, and serverless applications on AWS (Lambda, API Gateway, S3, SNS, SQS, ECS, CloudFront, CloudFormation) with MongoDB and other NoSQL stores.
+- TypeScript and modern ECMAScript, Node.js internals (event loop, clustering, memory management), unit testing with Jest and Supertest, CI/CD and DevOps, technical leadership in Agile/Scrum teams.
+
+Location: relocating to Dallas for the five-day onsite schedule is fine with me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
