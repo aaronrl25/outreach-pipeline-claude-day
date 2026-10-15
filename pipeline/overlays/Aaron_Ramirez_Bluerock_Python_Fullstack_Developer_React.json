@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Python Fullstack Developer  ·  Python (Flask, FastAPI, SQLAlchemy), React + TypeScript  ·  REST / JSON-RPC APIs, PostgreSQL",
+ "location": "San Francisco Bay Area  ·  Open to remote, hybrid, or onsite  ·  Contract (C2C or W2)",
+ "summary": "Python Fullstack Developer with 10+ years at Walmart Global Tech, IBM/AEP, and HCSC. Backend in Python with Flask (RESTful API design, blueprints, middleware, app factory pattern) and FastAPI (async endpoints, dependency injection, Pydantic models, OpenAPI docs), SQLAlchemy ORM modeling and query optimization, and PyTest. Front end in React + TypeScript with hooks, Redux / Context API / Zustand state management, responsive and accessible UI, and RESTful / JSON-RPC integration. Owns technical decisions end to end, mentors junior developers, and ships through Git-based workflows (branching, PRs, code reviews) with debugging, profiling, and performance optimization.",
+ "core_skills": [
+  [
+   "Python: Flask, FastAPI, Pydantic, OpenAPI",
+   "React + TypeScript, Hooks, Redux / Context / Zustand"
+  ],
+  [
+   "SQLAlchemy ORM, PostgreSQL, Query Optimization",
+   "RESTful & JSON-RPC 2.0 API Design"
+  ],
+  [
+   "PyTest, Jest, React Testing Library, Cypress",
+   "Responsive, Accessible, Performant UIs"
+  ],
+  [
+   "Git Branching, PRs, Code Review, Mentoring",
+   "Debugging, Profiling, Performance Optimization"
+  ],
+  [
+   "AWS / Azure, Docker, CI/CD",
+   "Node.js & Java / Spring Boot (secondary)"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Bluerock_Python_Fullstack_Developer_React"
+}

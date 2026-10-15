@@ -1440,7 +1440,7 @@
   "fit": "Medium (thin post; visa list omits TN, asked)",
   "resume": "Aaron_Ramirez_IDSGlobal_React_Developer.pdf",
   "msg": "messages/58_idsglobal.txt",
-  "status": "SENT 2026-10-15 11:06 PT (Mensaje enviado, PDF attached); REPLIED 2026-10-15: Arvind asked location/relocation (Aaron answered 11:11 PT), then 11:48 PT asked to confirm $60/hr C2C/1099 all-inclusive with client Infosys/T-Mobile and requested DL, visa copy, passport number, education, availability (Aaron's call; identity docs not handled by Claude)",
+  "status": "SENT 2026-10-15 11:06 PT (Mensaje enviado, PDF attached); REPLIED 2026-10-15: Arvind asked location/relocation (Aaron answered 11:11 PT), then 11:48 PT asked to confirm $60/hr C2C/1099 all-inclusive with client Infosys/T-Mobile and requested DL, visa copy, passport number, education, availability (Aaron's call; identity docs not handled by Claude); Aaron replied with documents 12:47 PT",
   "src": "LinkedIn post"
  },
  {
@@ -1478,7 +1478,7 @@
   "fit": "Medium-low (vague post, personal Gmail); asked client/location/rate",
   "resume": "Aaron_Ramirez_React_Developer_USA_General.pdf",
   "msg": "messages/60_riya.txt",
-  "status": "SENT 2026-10-15 13:09 PT (Mensaje enviado, PDF attached)",
+  "status": "SENT 2026-10-15 13:09 PT (Mensaje enviado, PDF attached); Riya asked details, Aaron answered; screening call booked Fri 2026-10-16 11:00–11:30 PT",
   "src": "LinkedIn post"
  },
  {
@@ -1537,5 +1537,62 @@
   "msg": "messages/61_codebase_srini.txt",
   "status": "SENT 2026-10-15 13:44 PT (Mensaje enviado, PDF attached)",
   "src": "LinkedIn post (Aaron)"
+ },
+ {
+  "company": "Bluerock Talent Group",
+  "role": "Python Fullstack Developer (Flask/FastAPI + React + Kendo UI + TypeScript)",
+  "loc": "Not listed (asked)",
+  "arr": "Not stated",
+  "type": "Contract (C2C/W2 group)",
+  "pay": "Not listed (asked)",
+  "posted": "2026-10-15 (LinkedIn post)",
+  "skills": "Python Flask/FastAPI, SQLAlchemy, PyTest, React+TS, Kendo UI, Redux/Zustand, JSON-RPC",
+  "visa": "Not stated",
+  "recruiter": "Joshitha Nathi (Bluerock)",
+  "contact": "joshitha@bluerocktalentgroup.com · in post",
+  "link": "LinkedIn content search Full Stack C2C",
+  "fit": "Good (Python + React match; Kendo UI not claimed, omitted)",
+  "resume": "Aaron_Ramirez_Bluerock_Python_Fullstack_Developer_React.pdf",
+  "msg": "messages/62_bluerock.txt",
+  "status": "SENT 2026-10-15 14:26 PT (Mensaje enviado, PDF attached)",
+  "src": "LinkedIn post"
+ },
+ {
+  "company": "Reveille Technologies (2nd recruiter: Prema)",
+  "role": "Python Full Stack Developer (PHP, Python, React)",
+  "loc": "Menlo Park, CA",
+  "arr": "Hybrid, day-1 onsite, local only",
+  "type": "C2C",
+  "pay": "Not listed",
+  "posted": "2026-10-15 (LinkedIn post, 19m old)",
+  "skills": "PHP, Python, JavaScript, React, SQL, TypeScript, REST; 12–15 yrs asked",
+  "visa": "Not stated",
+  "recruiter": "Prema Narayanan (Reveille)",
+  "contact": "prema@reveilletechnologies.com · in post",
+  "link": "LinkedIn content search Full Stack C2C",
+  "fit": "Good (same Menlo Park req as Applab/Akhilesh; Bay Area local); different recruiter and role from Reveille #1",
+  "resume": "Aaron_Ramirez_Reveille_Python_Full_Stack_Developer_MenloPark.pdf (copy of FullStack_React_Python_PHP)",
+  "msg": "messages/63_reveille_prema.txt",
+  "status": "SENT 2026-10-15 14:26 PT (Mensaje enviado, PDF attached)",
+  "src": "LinkedIn post"
+ },
+ {
+  "company": "Programmers.ai",
+  "role": "Java Full Stack Developer (Angular/React)",
+  "loc": "Alpharetta, GA",
+  "arr": "Local only, F2F",
+  "type": "Contract, 11+ yrs",
+  "pay": "Not listed",
+  "posted": "2026-10-15 (LinkedIn post)",
+  "skills": "Java, Spring Boot, microservices, Angular/React, fixed income",
+  "visa": "Not stated",
+  "recruiter": "Suraj Dubey (Programmers.ai)",
+  "contact": "Suraj.Dubey@programmers.ai · in post",
+  "link": "LinkedIn content search Full Stack C2C",
+  "fit": "Excluded: Java-centric, strict local",
+  "resume": "n/a",
+  "msg": "NOT SENT",
+  "status": "NOT SENT (excluded)",
+  "src": "LinkedIn post"
  }
 ]

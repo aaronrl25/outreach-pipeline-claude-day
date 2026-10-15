@@ -1,0 +1,17 @@
+To: joshitha@bluerocktalentgroup.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Bluerock_Python_Fullstack_Developer_React.pdf
+Subject: Python Fullstack Developer (Flask / FastAPI + React / TypeScript) – Aaron Ramirez (C2C)
+
+Hi Joshitha,
+
+I saw your post for the Python Fullstack Developer role and would like to be considered. My tailored resume is attached.
+
+- 10+ years of full stack development at Walmart Global Tech, IBM/AEP, and HCSC: Python backends with Flask (RESTful API design, blueprints, app factory pattern) and FastAPI (async endpoints, dependency injection, Pydantic models, OpenAPI), SQLAlchemy ORM, and PyTest.
+- React + TypeScript front ends with hooks and Redux / Context API / Zustand state management; responsive, accessible, performant UIs; RESTful and JSON-RPC integration; Git branching, PRs, and code reviews; mentoring junior developers.
+
+Could you share the client, location, and rate range? Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
