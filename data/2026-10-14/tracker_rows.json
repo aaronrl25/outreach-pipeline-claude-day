@@ -1003,7 +1003,7 @@
   "fit": "Medium (React match; relocation needed; salary low; TN not on list)",
   "resume": "Aaron_Ramirez_Datadot_Senior_React_Frontend_Developer.pdf",
   "msg": "messages/42_datadot.txt",
-  "status": "SENT 2026-10-14 22:53 PT (in Gmail Sent, PDF attached); REPLIED 2026-10-15 05:48 PT (Vishal asked W-2 + visa/sponsorship); answered 2026-10-15 09:41 PT via Gmail (W-2 yes, TN valid to 2029-12-19, no H-1B sponsorship); Aaron replied to Vishal 09:26 PT with attachment (RTR); 2026-10-15 09:48 PT Vishal: client range $80K–$115K + benefits, cannot match $150–180K; asks whether to proceed (Aaron's call); Aaron accepted $80–115K range 10:08 PT ('Yes let's do it'); Vishal sent RTR U202876 10:12 PT (Aaron handling)",
+  "status": "SENT 2026-10-14 22:53 PT (in Gmail Sent, PDF attached); REPLIED 2026-10-15 05:48 PT (Vishal asked W-2 + visa/sponsorship); answered 2026-10-15 09:41 PT via Gmail (W-2 yes, TN valid to 2029-12-19, no H-1B sponsorship); Aaron replied to Vishal 09:26 PT with attachment (RTR); 2026-10-15 09:48 PT Vishal: client range $80K–$115K + benefits, cannot match $150–180K; asks whether to proceed (Aaron's call); Aaron accepted $80–115K range 10:08 PT ('Yes let's do it'); Vishal sent RTR U202876 10:12 PT (Aaron handling); Rate confirmation U202876 acknowledged by Aaron 10:50 PT",
   "src": "LinkedIn post"
  },
  {
@@ -1440,7 +1440,7 @@
   "fit": "Medium (thin post; visa list omits TN, asked)",
   "resume": "Aaron_Ramirez_IDSGlobal_React_Developer.pdf",
   "msg": "messages/58_idsglobal.txt",
-  "status": "SENT 2026-10-15 11:06 PT (pending Gmail Sent check)",
+  "status": "SENT 2026-10-15 11:06 PT (Mensaje enviado, PDF attached); REPLIED 2026-10-15: Arvind asked location/relocation (Aaron answered 11:11 PT), then 11:48 PT asked to confirm $60/hr C2C/1099 all-inclusive with client Infosys/T-Mobile and requested DL, visa copy, passport number, education, availability (Aaron's call; identity docs not handled by Claude)",
   "src": "LinkedIn post"
  },
  {
@@ -1461,5 +1461,62 @@
   "msg": "messages/59_procorp.txt",
   "status": "SENT 2026-10-15 by Aaron himself (resume Aaron_Ramirez_Procorp_Senior_React_Developer_Rutherford.pdf); Claude draft discarded",
   "src": "LinkedIn post (Aaron)"
+ },
+ {
+  "company": "Riya Rajeev (unnamed staffing, Gmail)",
+  "role": "React Developer (U.S. clients)",
+  "loc": "USA (unspecified)",
+  "arr": "Not stated (asked)",
+  "type": "C2C / W2",
+  "pay": "Not listed (asked)",
+  "posted": "2026-10-15 (LinkedIn post)",
+  "skills": "React.js, TypeScript, REST, state mgmt, Next.js, Redux, Tailwind, Node, Jest/RTL",
+  "visa": "Not stated",
+  "recruiter": "Riya Rajeev",
+  "contact": "riyarajeev53@gmail.com · in post",
+  "link": "LinkedIn content search React C2C",
+  "fit": "Medium-low (vague post, personal Gmail); asked client/location/rate",
+  "resume": "Aaron_Ramirez_React_Developer_USA_General.pdf",
+  "msg": "messages/60_riya.txt",
+  "status": "SENT 2026-10-15 13:09 PT (Mensaje enviado, PDF attached)",
+  "src": "LinkedIn post"
+ },
+ {
+  "company": "Ateeca",
+  "role": "Senior .NET Developer (C#, SQL Server, Angular)",
+  "loc": "Lansing, MI",
+  "arr": "Hybrid Wed/Thu onsite, locals within 100 miles only, no exceptions",
+  "type": "C2C / W2, 12 months",
+  "pay": "Not listed",
+  "posted": "2026-10-15 (LinkedIn post)",
+  "skills": ".NET, C#, MS SQL Server, Angular, Michigan DNR",
+  "visa": "Not stated",
+  "recruiter": "Nahomi Medari (Ateeca)",
+  "contact": "nmedari@ateeca.com · in post",
+  "link": "LinkedIn content search .NET C2C",
+  "fit": "Excluded: strict Michigan-local requirement",
+  "resume": "n/a",
+  "msg": "NOT SENT – strict local-only",
+  "status": "NOT SENT (excluded by post)",
+  "src": "LinkedIn post"
+ },
+ {
+  "company": "SIA Tech Solutions",
+  "role": "Senior .NET Full Stack Developer with Azure Integration",
+  "loc": "Long Island City, NY",
+  "arr": "In-person interview, local to NJ only",
+  "type": "Long-term contract",
+  "pay": "Not listed",
+  "posted": "2026-10-15 11:55 PT (Google Groups)",
+  "skills": ".NET full stack, Azure integration, 15+ yrs",
+  "visa": "Not stated",
+  "recruiter": "Pavan R (SIA Tech)",
+  "contact": "pavan.r@siatechsol.com · group post",
+  "link": "Google Groups c2chotlist-requirement-posting",
+  "fit": "Excluded: NJ-local only, 15+ yrs",
+  "resume": "n/a",
+  "msg": "NOT SENT – NJ-local only",
+  "status": "NOT SENT (excluded by post)",
+  "src": "Google Groups"
  }
 ]

@@ -81,3 +81,7 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-15,sent,arvind.subramanian@idsglobalinc.com,IDS Global,React Developer,Atlanta/Seattle/Houston,C2C $60,Aaron_Ramirez_IDSGlobal_React_Developer.pdf,https://www.linkedin.com/in/iamarvind/,messages/58_idsglobal.txt
 2026-10-15,skipped,raj.kumar@conjointinc.com,Conjoint,Sitecore Lead Developer,Remote,C2C,,,Sitecore-specific
 2026-10-15,sent,sunitha@procorpsystems.com,Procorp Systems,Senior React Developer,Rutherford NJ,"C2C (H1B/H4 only, TN asked)",Aaron_Ramirez_Procorp_Senior_React_Developer_Rutherford.pdf,,"messages/59_procorp.txt (Gmail draft, not sent)"
+2026-10-15,sent,riyarajeev53@gmail.com,Riya Rajeev (unnamed),React Developer USA,USA,C2C/W2,Aaron_Ramirez_React_Developer_USA_General.pdf,https://www.linkedin.com/in/riya-rajeev-0bbaa4241/,messages/60_riya.txt
+2026-10-15,skipped,nmedari@ateeca.com,Ateeca,Senior .NET Developer Angular,Lansing MI,C2C/W2,,https://www.linkedin.com/in/nahomi-medari/,strict local-only
+2026-10-15,skipped,pavan.r@siatechsol.com,SIA Tech,Senior .NET Full Stack Azure,Long Island City NY,Contract,,,NJ-local only
+2026-10-15,skipped,akhil.k@siraconsultinginc.com,Sira Consulting,Senior Android Developer,St. Louis MO,C2C $65,,,native Android
