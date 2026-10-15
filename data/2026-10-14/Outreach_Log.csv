@@ -75,3 +75,8 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-15,skipped,tekhire035@gmail.com,Tekhire,Java Backend Engineer AWS,Mountain View CA,Contract,,https://www.linkedin.com/in/swetha-v-a12997227/,backend-only Java
 2026-10-15,sent,somya.shrivastava@conov8.com,ConoV8 Systems,Front-End Developer Angular,Malvern PA hybrid,Contract,Aaron_Ramirez_ConoV8_Front_End_Developer_Angular.pdf,,messages/53_conov8.txt
 2026-10-15,sent,Geethak@staffworxs.com,Staffworxs,Lead Developer React Native / Mobile,Fort Lauderdale FL hybrid,C2C/W2,Aaron_Ramirez_Staffworxs_Lead_Mobile_Developer_React_Native.pdf,,messages/54_staffworxs.txt
+2026-10-15,sent,dvemula@tror.ai,Tror.ai / Intuit,Full Stack Engineer React+Java,Mountain View CA onsite,C2C,Aaron_Ramirez_Tror_Intuit_Full_Stack_Engineer_React_Java.pdf,,messages/55_tror.txt
+2026-10-15,sent,shoaib.anjum@hiresdev.com,HiresDev / Bigge,Senior Technical Lead .NET/C# Angular Azure,Houston TX hybrid,C2C 9mo (TN ok),Aaron_Ramirez_HiresDev_Senior_Technical_Lead_DotNet_Angular.pdf,,messages/56_hiresdev.txt
+2026-10-15,sent,chandra@tekcommands.com,Tek Commands,.NET Developer AI/ML Azure React,Alpharetta GA onsite,C2C/W2,Aaron_Ramirez_TekCommands_DotNet_Developer_React_Azure_AI.pdf,https://www.linkedin.com/in/chandra-shekhar-01989b3b5/,messages/57_tekcommands.txt
+2026-10-15,sent,arvind.subramanian@idsglobalinc.com,IDS Global,React Developer,Atlanta/Seattle/Houston,C2C $60,Aaron_Ramirez_IDSGlobal_React_Developer.pdf,https://www.linkedin.com/in/iamarvind/,messages/58_idsglobal.txt
+2026-10-15,skipped,raj.kumar@conjointinc.com,Conjoint,Sitecore Lead Developer,Remote,C2C,,,Sitecore-specific

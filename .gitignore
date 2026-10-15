@@ -6,3 +6,5 @@ __pycache__/
 **/*passport*
 **/*license*
 **/*I-94*
+
+out/
