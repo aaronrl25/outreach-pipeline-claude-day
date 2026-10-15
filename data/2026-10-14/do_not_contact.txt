@@ -1,0 +1,2 @@
+# Requirements Aaron already has an interview for. Skip every vendor posting of these.
+2026-10-15 | Menlo Park, CA hybrid | Python / PHP Full Stack Developer (React, Python, PHP, SQL, TypeScript) | vendors seen: Akhilesh Vasudeva, Applab Systems (Devendra Rai), Reveille (Prema) | reason: interview scheduled
