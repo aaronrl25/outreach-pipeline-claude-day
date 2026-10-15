@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Senior React Developer  ·  React, TypeScript, Redux  ·  Enterprise Web Applications",
+ "location": "Open to onsite in Weehawken, NJ  ·  Contract (C2C)",
+ "summary": "Senior React Developer with 10+ years of experience delivering enterprise React applications at Walmart Global Tech (marketplace platform supporting billions in annual GMV), IBM/AEP (utility field operations), and HCSC (HIPAA-compliant healthcare). Expert in React, TypeScript, Redux / Redux Toolkit, Hooks, and performance optimization, with strong REST/GraphQL integration and micro-frontend architecture experience. Leads code review and testing standards (Jest, React Testing Library) and ships through GitHub Actions, Azure DevOps, and Jenkins CI/CD in Agile/Scrum teams.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Redux / Redux Toolkit, Zustand, Hooks"
+  ],
+  [
+   "Enterprise SPA Architecture & Micro-Frontends",
+   "REST / GraphQL API Integration"
+  ],
+  [
+   "Performance Optimization & Web Vitals",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins",
+   "Design Systems, HTML5, CSS3, Accessibility"
+  ],
+  [
+   "Agile/Scrum, Code Review & Mentoring",
+   "Node.js / Express Backend Collaboration"
+  ]
+ ],
+ "name": "Aaron_Ramirez_NLB_Senior_React_Developer"
+}

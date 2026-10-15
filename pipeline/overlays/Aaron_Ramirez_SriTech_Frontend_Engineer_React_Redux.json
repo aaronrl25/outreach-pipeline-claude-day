@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Frontend Engineer  ·  React, Redux Toolkit, RTK Query, MUI  ·  Vite, Performance & Web Security",
+ "location": "Open to onsite in Austin, TX  ·  Contract (C2C)",
+ "summary": "Frontend Engineer with 10+ years of front-end development and 9+ years of React, delivering enterprise applications at Walmart Global Tech, IBM/AEP, and HCSC. Strong hands-on experience with React, Redux Toolkit and RTK Query, Material UI (MUI), modern JavaScript/ES2023+, Vite, and ESLint; integrates REST / OpenAPI-documented APIs and owns frontend-backend contracts. Deep knowledge of React performance optimization (40% faster load through code splitting, caching, and virtualization), Vitest/Jest and React Testing Library, and web security: XSS prevention, CSP, iframe isolation, and JWT/OAuth web authentication.",
+ "core_skills": [
+  [
+   "React (9+ yrs), Hooks, TypeScript",
+   "Redux Toolkit & RTK Query"
+  ],
+  [
+   "Material UI (MUI), Design Systems, Accessibility",
+   "JavaScript ES2023+, Vite, ESLint"
+  ],
+  [
+   "REST / OpenAPI Integration",
+   "React Performance Optimization & Web Vitals"
+  ],
+  [
+   "Vitest / Jest, React Testing Library",
+   "Web Security: XSS, CSP, iframe Isolation, Auth"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES2023+), Redux Toolkit, RTK Query, Zustand, Context API, React Hooks, React Query, Material UI (MUI), HTML5, CSS3, Tailwind, Styled Components, Vite, Webpack, ESLint, design systems, accessibility (WCAG), Core Web Vitals"
+ },
+ "name": "Aaron_Ramirez_SriTech_Frontend_Engineer_React_Redux"
+}

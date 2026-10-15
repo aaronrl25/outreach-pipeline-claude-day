@@ -1,0 +1,44 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_EnvisionTech_Full_Stack_Engineer",
+ "tagline": "Full Stack Engineer / Technical Lead  ·  React, Node.js, REST APIs, NoSQL  ·  AI-Assisted Development (Claude, Copilot)",
+ "location": "Local to the San Francisco Bay Area  ·  Open to onsite or hybrid in Sunnyvale, CA  ·  Contract (C2C or W2)",
+ "summary": "Full Stack Engineer and Technical Lead with 10+ years of software development, including 4+ years leading onsite and offshore engineering teams for enterprise applications at Walmart Global Tech, IBM/American Electric Power, and HCSC. Builds React front ends and Node.js/Express RESTful APIs over microservices with NoSQL (MongoDB, Firebase, DynamoDB) and PostgreSQL data stores on AWS and Azure; collaborates closely with Java/Spring Boot backend teams on API contracts and enterprise modernization. Uses Claude Code, Claude API, and GitHub Copilot daily to accelerate delivery, and shipped a production GenAI assistant on the Claude API. Owns architecture standards, code review, sprint planning, test strategy, and release processes for distributed teams.",
+ "core_skills": [
+  [
+   "Technical Leadership: Onsite & Offshore Teams (4+ yrs)",
+   "Enterprise Application Development (10+ yrs)"
+  ],
+  [
+   "React, TypeScript, Redux Toolkit, Hooks",
+   "Node.js / Express RESTful APIs & Microservices"
+  ],
+  [
+   "NoSQL: MongoDB, Firebase, DynamoDB · PostgreSQL",
+   "AI-Assisted Development: Claude Code, Claude API, Copilot"
+  ],
+  [
+   "API Design, Integration with Java / Spring Boot Services",
+   "AWS, Azure, Docker, CI/CD (GitHub Actions, Azure DevOps)"
+  ],
+  [
+   "Process Flows, Test Scenarios, Jest / RTL / Supertest",
+   "Agile/Scrum, Sprint Planning, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express RESTful APIs, TypeScript, microservices, API gateways, integration with Java/Spring Boot services, GraphQL, WebSockets/Socket.IO, NoSQL (MongoDB, Firebase, DynamoDB), PostgreSQL, message queues",
+  "Process & Tools:": "Agile/Scrum, Jira, Confluence, Figma, Storybook, Git/GitHub, offshore/onsite team coordination, mentoring, Claude Code, Claude API, GitHub Copilot, Cursor"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Mobile & Web Tech Lead"
+  },
+  "3": {
+   "title": "Senior React Native Engineer · Team Lead"
+  },
+  "5": {
+   "title": "React Native Engineer · Team Lead"
+  }
+ }
+}

@@ -1,0 +1,21 @@
+To: prudhvi@elementtechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Element_Full_Stack_Developer_Columbus.pdf
+Subject: Full Stack Developer (ReactJS + Python) – Columbus, OH – Aaron Ramirez (C2C)
+
+Hi Prudhvi,
+
+I saw your post for the Full Stack Developer role in Columbus, OH (6-month contract) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of full-stack development at Walmart Global Tech, IBM/AEP, and HCSC: component-driven ReactJS front ends with hooks and state management; REST API integration with authentication, error handling, pagination, and caching.
+- Python REST APIs with FastAPI and Flask, secure auth, and resilient downstream integrations (idempotency, retries, backoff); Agentic AI integration with LLM tool/function calling, prompt versioning, human-in-the-loop approvals, and auditability.
+
+One gap to flag up front: I have not worked with Camunda 7 BPMN or Databricks job orchestration specifically; I've built equivalent workflow and orchestration logic in Node/Python services and can ramp quickly.
+
+I'm currently in the San Francisco Bay Area and open to onsite or hybrid in Columbus; could you share the client, work arrangement, and rate range?
+
+Visa: TN (Mexican national, authorized to work in the U.S.). Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Application Developer  ·  Python & TypeScript, AWS Serverless (Lambda, EventBridge, SQS)  ·  Contract-First APIs (OpenAPI)",
+ "location": "Local to the San Francisco Bay Area (San Jose)  ·  Contract (C2C or W2)",
+ "summary": "Application Developer with 10+ years building scalable application services and APIs in TypeScript (Node.js) and Python for Walmart Global Tech, IBM/AEP, and HCSC. Designs contract-first REST APIs with OpenAPI, builds event-driven services on AWS (Lambda, EventBridge, SQS, API Gateway, DynamoDB), implements authentication and authorization (JWT, OAuth2, role- and policy-based access), and ships through CI/CD pipelines (GitHub Actions, Azure DevOps). React front-end expertise on top of the service work; Agile/Scrum delivery with code reviews and mentoring.",
+ "core_skills": [
+  [
+   "TypeScript / Node.js Services & APIs",
+   "Python Services (FastAPI, Flask)"
+  ],
+  [
+   "AWS Serverless: Lambda, EventBridge, SQS, API Gateway",
+   "Contract-First API Design (OpenAPI)"
+  ],
+  [
+   "Authentication & Authorization (JWT, OAuth2, RBAC/Policy)",
+   "Event-Driven Architecture"
+  ],
+  [
+   "CI/CD Pipelines (GitHub Actions, Azure DevOps)",
+   "PostgreSQL, DynamoDB"
+  ],
+  [
+   "React & TypeScript Front Ends",
+   "Agile/Scrum, Code Review"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Hitesh_Python_TypeScript_AWS_Developer"
+}

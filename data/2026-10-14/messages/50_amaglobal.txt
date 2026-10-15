@@ -1,0 +1,19 @@
+To: rupak@amaglobaltech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AMAGlobal_Java_Fullstack_Developer_React.pdf
+Subject: Java Fullstack Developer (React-strong) – Mountain View, CA hybrid – Aaron Ramirez (local)
+
+Hi Rupak,
+
+I saw your post for the Java Fullstack Developer openings in Mountain View, CA (hybrid, local only) and would like to be considered, specifically for position 2 (strong in React.js). I'm local to the San Francisco Bay Area. My tailored resume is attached.
+
+- 10+ years of full stack development at Walmart Global Tech, IBM/AEP, and HCSC: React / TypeScript front ends (expert) integrated with Java / Spring Boot microservices and REST web services.
+- Hands-on on the service side: API design, Spring MVC and Hibernate data access, OAuth2 / JWT auth, SAP and enterprise backend integration; secure coding and Java best practices; JUnit, Jest, and React Testing Library.
+
+One thing to confirm up front: your post lists C2C for H1B and W2 for GC/USC. I'm on TN status (Mexican national, authorized to work in the U.S., I-94 valid through December 2029), available on C2C or W2. Can the client consider TN?
+
+Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

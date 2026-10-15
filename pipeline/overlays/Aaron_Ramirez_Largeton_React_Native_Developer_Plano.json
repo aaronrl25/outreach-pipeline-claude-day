@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "React Native Developer  ·  iOS & Android  ·  TypeScript, REST API Integration, Redux / RTK Query, CI/CD",
+ "location": "Open to onsite or hybrid in Plano, TX  ·  Contract (C2C or W2)",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years delivering enterprise mobile applications for iOS and Android at Walmart Global Tech, IBM/AEP, and HCSC. Strong in TypeScript, REST API integration, mobile architecture, Redux / RTK Query, and GitHub-based workflows with CI/CD (GitHub Actions, Azure DevOps, Expo EAS); native iOS work in Swift and Android modules in Kotlin. Uses AI-assisted development daily (Claude Code, Cursor, GitHub Copilot) and delivers in Agile/Scrum teams on enterprise mobile programs serving 500K+ users.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "REST API Integration & Mobile Architecture",
+   "Redux / RTK Query, Zustand, React Navigation"
+  ],
+  [
+   "GitHub Workflows, GitHub Actions, Azure DevOps CI/CD",
+   "iOS Native (Swift) & Android (Kotlin) Modules"
+  ],
+  [
+   "AI-Assisted Development: Claude Code, Cursor, Copilot",
+   "Enterprise Mobile Delivery, Agile/Scrum"
+  ],
+  [
+   "Jest, Detox, Dynatrace Crash Analytics",
+   "Expo / EAS, App Store & Google Play Releases"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Largeton_React_Native_Developer_Plano"
+}

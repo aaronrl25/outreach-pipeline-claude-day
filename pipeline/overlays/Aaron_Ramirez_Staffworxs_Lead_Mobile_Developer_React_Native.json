@@ -1,0 +1,45 @@
+{
+ "base": "mobile",
+ "tagline": "Lead .NET / Mobile Developer  ·  React Native (iOS & Android), C# / .NET, TypeScript, React  ·  AWS, System Design, Technical Leadership",
+ "location": "Open to hybrid in Fort Lauderdale, FL (willing to relocate)  ·  Contract (C2C or W2)",
+ "summary": "Hands-on React Native Technical Lead with 10+ years in software engineering and 6+ years building and supporting high-volume consumer and enterprise mobile applications across iOS and Android at Walmart Global Tech (500K+ daily users), HCSC (1M+ members), and IBM/AEP. Owns mobile architecture, coding standards, reusable components, and technical-debt reduction while staying active in design, code review, and troubleshooting; leads production support with crash analytics (Dynatrace, Crashlytics), log and trace analysis, and root-cause fixes that raised crash-free sessions to 99.9%. Deep in React Native internals (native modules and bridging, Hermes, Metro, Gradle, Xcode), secure auth and token handling, push notifications, deep links, payments and analytics SDKs, and release engineering through App Store Connect and Google Play with phased rollouts and feature flags. Mentors onshore and offshore engineers and coordinates with product, backend, QA, DevOps, and security teams through releases and hypercare. Backend and API work in C# / .NET (ASP.NET Core, Web API), Node.js, and Java / Spring Boot.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript, Hooks, Navigation",
+   "Native Modules, Bridging / TurboModules, Hermes, Metro"
+  ],
+  [
+   "Technical Leadership: Roadmap, Standards, Code Review",
+   "C# / .NET (ASP.NET Core, Web API), Node.js, REST APIs"
+  ],
+  [
+   "Release Engineering: Signing, Feature Flags, Phased Rollout, App Store & Play",
+   "Mobile Security: Secure Storage, Token Mgmt, OWASP Mobile"
+  ],
+  [
+   "REST APIs, Auth/SSO, Deep Links, Push, Payments & Analytics SDKs",
+   "Jest, RN Testing Library, Detox, Appium; CI/CD Pipelines"
+  ],
+  [
+   "Performance: Startup, Responsiveness, Memory, Network",
+   "Onshore / Offshore Mentoring, Agile Estimation & Planning"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Mobile & Web Tech Lead"
+  },
+  "3": {
+   "title": "Senior React Native Engineer · Team Lead"
+  },
+  "5": {
+   "title": "React Native Engineer · Team Lead"
+  }
+ },
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), TypeScript, native modules and bridging / TurboModules (Swift, Kotlin), Hermes, Metro, Gradle, Xcode, Electrode Native micro-frontends, deep links, push notifications, payments and analytics SDKs, offline sync, performance profiling",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Appium, Supertest; Dynatrace, Firebase Crashlytics, Sentry; Agile/Scrum, Jira, release planning, hypercare, onshore/offshore coordination, mentoring, Claude Code, Cursor",
+  "APIs & Backend:": "C# / .NET (ASP.NET Core, Web API), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, Java / Spring Boot, Firebase, PostgreSQL, SQL Server, MongoDB"
+ },
+ "name": "Aaron_Ramirez_Staffworxs_Lead_Mobile_Developer_React_Native"
+}

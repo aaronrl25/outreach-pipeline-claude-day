@@ -1,0 +1,22 @@
+To: venky@cyberobotix.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Cyberobotix_Lead_Developer_Technical_Lead.pdf
+Subject: Lead Developer / Technical Lead (React, Next.js, AWS, GenAI) – Atlanta, GA – Aaron Ramirez (C2C)
+
+Hi Venky,
+
+I saw your post for the hands-on Lead Developer / Technical Lead role in Atlanta and would like to be considered. My tailored resume is attached.
+
+- 10+ years in software engineering; hands-on lead who writes production code daily and has led squads of 6–7 engineers at Walmart Global Tech and IBM/AEP.
+- Expert in React, Next.js, and TypeScript; Figma-to-code responsive UI; API design and event-driven architecture on AWS (Lambda, API Gateway, DynamoDB, S3, ECS).
+- Generative AI features with the Claude API and LangChain (RAG, agents); Claude Code, GitHub Copilot, and Cursor every day; GitHub Actions CI/CD with unit, integration, and end-to-end tests.
+
+Two things up front: my team sizes have been 6–7 rather than 8–20, and my AWS CDK / Step Functions / LangGraph exposure is lighter than the rest of the stack. Open to onsite 5 days in Atlanta.
+
+Visa: TN (Mexican national, authorized to work in the U.S.). Available on C2C or C2H. Glad to discuss rate and start date this week.
+
+Current location: San Francisco Bay Area (would relocate for this role).
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

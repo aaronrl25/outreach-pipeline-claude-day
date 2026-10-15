@@ -1,0 +1,20 @@
+To: sandeep@nstargroupinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_nStar_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Senior Full Stack Engineer – Agentic AI (Remote) – Aaron Ramirez (C2C)
+
+Hi Sandeep,
+
+I saw your post for the Senior Full Stack Engineer – Agentic AI role (100% remote, 12+ months) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of software engineering: React.js and TypeScript front ends with REST API services in Node.js and Python (FastAPI, Flask), SQL, Docker, and CI/CD.
+- 2+ years building LLM-powered features: GenAI seller-support assistant on Claude API / LangChain at Walmart Global Tech, Azure AI Services integrations at IBM/AEP, RAG and agentic workflows; daily use of GitHub Copilot and Claude Code.
+- Production troubleshooting, security and scalability on AWS and Azure; Agile/Scrum with Jira and Confluence.
+
+Up front: my background is strongest in React and application-layer AI integration, and I don't have Oracle Fusion Cloud experience. If the client needs that specifically, I'd rather you know now.
+
+Visa: TN (Mexican national, authorized to work in the U.S.). Available on C2C (also open to W2 or 1099). Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

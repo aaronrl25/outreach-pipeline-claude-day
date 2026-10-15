@@ -1,0 +1,21 @@
+To: hiteshmasurkar9@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Hitesh_Python_TypeScript_AWS_Developer.pdf
+Subject: Python & TypeScript Developer (AWS) – San Jose / Bay Area local – Aaron Ramirez (C2C)
+
+Hi Hitesh,
+
+I saw your posting on the C2C/Hotlist Requirement Posting group for the Python & TypeScript Developer (AWS) role and would like to be considered for the San Jose location. I'm local to the San Francisco Bay Area. My tailored resume is attached.
+
+- 10+ years building application services and APIs in TypeScript (Node.js) and Python at Walmart Global Tech, IBM/AEP, and HCSC; contract-first REST APIs with OpenAPI.
+- Event-driven services on AWS (Lambda, EventBridge, SQS, API Gateway, DynamoDB); authentication and authorization (JWT, OAuth2, role- and policy-based access); CI/CD with GitHub Actions and Azure DevOps.
+
+Two gaps to flag up front: I have not used Terraform or Amazon Verified Permissions / Cedar specifically; my infrastructure work has been through CI/CD pipelines and AWS serverless configuration, and I've implemented policy-based authorization in application code.
+
+Could you share the client, onsite expectation, duration, and rate range?
+
+Visa: TN (Mexican national, authorized to work in the U.S.). Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

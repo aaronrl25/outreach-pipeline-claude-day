@@ -1,0 +1,32 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_Dexian_Senior_React_Native_Developer_Android",
+ "tagline": "Senior React Native Developer (Android)  ·  Mobile Architecture from Scratch  ·  TypeScript, Kotlin Modules  ·  Remote",
+ "location": "Remote (U.S.)  ·  Multi-Year W2 Contract or C2C",
+ "summary": "Senior React Native Developer with 10+ years in software engineering and 6+ years of strong hands-on React Native development, with a focus on Android: native Android modules in Kotlin, Play Store release management, and performance tuning for low-end devices (Walmart Spark Driver). Built mobile applications from scratch and shaped their technical direction on small, high-ownership teams at Walmart Global Tech, Eurybia Studio, and Roambee, and delivered retail selling, fulfillment, and inventory apps used by 500K+ associates. Codes quickly from requirements with minimal direction, in TypeScript with Redux Toolkit, React Navigation, REST/GraphQL, and offline-first patterns, and ships through Expo EAS, GitHub Actions, and Azure DevOps with Jest and Detox coverage.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · Android & iOS",
+   "Native Android Modules (Kotlin) & Platform APIs"
+  ],
+  [
+   "Mobile App Architecture from Scratch",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux Toolkit, Zustand, React Navigation",
+   "REST / GraphQL Integration, Offline Sync"
+  ],
+  [
+   "Independent Delivery from Requirements",
+   "Collaboration with Staff Engineers & Cross-Functional Teams"
+  ],
+  [
+   "Expo / EAS, GitHub Actions, Azure DevOps CI/CD",
+   "Jest, Detox, Dynatrace Crash Analytics"
+  ]
+ ],
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), Android (Kotlin native modules, Gradle, Play Console) & iOS (Swift modules, App Store Connect), React Navigation, Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline-first sync, performance profiling for low-end devices"
+ }
+}

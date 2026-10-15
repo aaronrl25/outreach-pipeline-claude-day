@@ -1,0 +1,18 @@
+To: vaishu@abcocomputers.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ABCO_Forward_Deployed_Engineer.pdf
+Subject: Forward Deployed Engineer (Full Stack + AI agents) – Mountain View, CA (local) – Aaron Ramirez (C2C)
+
+Hi Vaishnavi,
+
+I'm interested in the Forward Deployed Engineer (Supporting Engineer) C2C opportunity. I'm local to the San Francisco Bay Area (Mountain View) and open to onsite. My tailored resume is attached.
+
+- 10+ years full stack: React/Angular front ends, Node.js BFF and GraphQL layers, backend APIs, cloud, and CI/CD at Walmart Global Tech, IBM/AEP, and HCSC.
+- Hands-on AI work: GenAI seller-support assistant on the Claude API / LangChain at Walmart, Azure AI Services at AEP, and daily agentic engineering workflows (Claude Code, Cursor).
+- Delivery ownership across dependencies, with legacy modernization and large-scale migration experience.
+
+I noted the visa list in your post; I'm on a TN visa and available on C2C, so please let me know if that works for the client. Happy to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "tagline": "Full Stack AI Engineer  ·  React, Node.js, Python  ·  LLM / Agentic Applications, RAG, AWS & Azure",
+ "location": "Open to hybrid in New York, NY or Fort Mill, SC  ·  12+ Month Contract (C2C or W2)",
+ "summary": "Full Stack Engineer with 10+ years building enterprise web platforms in React and modern JavaScript/TypeScript, now focused on LLM-powered applications: built a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace platform, integrated Azure AI Services for field-note summarization and classification at IBM/AEP, and designs prompt, retrieval (RAG), and agentic workflows with Claude Code and Cursor daily. Delivers REST APIs in Node.js and Python, runs cloud services on AWS and Azure with Docker and CI/CD, and applies observability (Dynatrace, CloudWatch) and automated testing to keep AI features reliable in production. Strongest in React, TypeScript, and application-layer AI integration; comfortable in Python services and SQL.",
+ "core_skills": [
+  [
+   "React / React.js, TypeScript, Modern Front-End",
+   "Generative AI: LLM APIs (Claude, Azure OpenAI), Prompt Engineering"
+  ],
+  [
+   "RAG Pipelines & Agentic AI Workflows (LangChain)",
+   "Node.js & Python REST API Development"
+  ],
+  [
+   "AWS (ECS, Lambda, RDS, S3), Azure (App Service, AI Services)",
+   "CI/CD, Docker, Model/Feature Monitoring & Observability"
+  ],
+  [
+   "SQL (PostgreSQL), Distributed Systems, Microservices",
+   "Production Engineering, Testing, Code Review"
+  ],
+  [
+   "Enterprise AI Application Integration",
+   "Agile/Scrum, Cross-Functional Delivery"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Hooks, React Query, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG)",
+  "APIs & Backend:": "Node.js/Express and Python (FastAPI/Flask) REST APIs, Claude API, Azure OpenAI / Azure AI Services, LangChain, RAG with vector search, GraphQL, WebSockets, microservices, PostgreSQL, MongoDB, Firebase"
+ },
+ "name": "Aaron_Ramirez_Javen_Full_Stack_AI_Engineer"
+}

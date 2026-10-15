@@ -1,0 +1,19 @@
+To: jibin.joseph@gvrinfotek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_GVR_Full_Stack_Developer_React_Native.pdf
+Subject: Full Stack Developer (React Native, ReactJS, Node.js) – New York City – Aaron Ramirez (C2C)
+
+Hi Jibin,
+
+I'd like to be considered for the Full Stack Developer (React Native & Java) role in New York City. My tailored resume is attached.
+
+- 10+ years across React Native, ReactJS, Node.js, and JavaScript/TypeScript at Walmart Global Tech, IBM/AEP, and HCSC.
+- RESTful API design and enterprise integrations behind API gateways; OAuth 2.0, JWT, SSO, and role-based access on HIPAA and utility platforms.
+- Docker, CI/CD, microservices; experienced collaborating with Java/Spring Boot backend teams on modernization.
+- Open to onsite or hybrid in NYC and to virtual plus onsite interview rounds.
+
+My backend depth is Node.js rather than Java/Spring Boot; if the client needs a React Native-leading full stack engineer, I'd be a strong fit. Available on C2C. Glad to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

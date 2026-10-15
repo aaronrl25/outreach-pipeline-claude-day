@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Senior UI / Full Stack Developer  ·  React + Vite, Node.js/TypeScript APIs, PostgreSQL  ·  Healthcare",
+ "location": "Remote (U.S.)  ·  Contract (C2C)",
+ "summary": "Senior UI and Full Stack Developer with 10+ years of experience and a front-end-first focus: React with Vite, TypeScript, Redux, and design systems backed by Node.js/TypeScript APIs on PostgreSQL with Prisma-style ORM schema design and migrations. Delivered a HIPAA-compliant healthcare member platform for 1M+ HCSC (Blue Cross Blue Shield of Illinois) members and large-scale React applications at Walmart Global Tech and IBM/AEP. Experienced with event-driven architecture, workflows, queues, concurrency and idempotency, and resilient third-party integrations; ships through Docker and CI/CD with Jest and React Testing Library coverage above 80%.",
+ "core_skills": [
+  [
+   "React + Vite, TypeScript, Hooks, Redux",
+   "Node.js / TypeScript API Development"
+  ],
+  [
+   "PostgreSQL, Prisma / ORM, Migrations, SQL Performance",
+   "Event-Driven Systems, Queues, Idempotency"
+  ],
+  [
+   "UI/UX Implementation, Design Systems, Accessibility",
+   "Healthcare / HIPAA Delivery (HCSC)"
+  ],
+  [
+   "REST & GraphQL Integrations",
+   "Docker, GitHub Actions / Azure DevOps CI/CD, AWS"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express REST APIs, TypeScript, PostgreSQL (schema design, migrations, query optimization), Prisma / TypeORM, GraphQL, WebSockets/Socket.IO, microservices, message queues (SQS, RabbitMQ), Firebase, MongoDB"
+ },
+ "name": "Aaron_Ramirez_Codebase_UI_Full_Stack_Developer_Healthcare"
+}

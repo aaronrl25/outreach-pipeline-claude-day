@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Senior Full Stack Developer  ·  TypeScript, React, Node.js, PostgreSQL  ·  Healthcare (HIPAA)",
+ "location": "Remote (U.S.)  ·  Contract (C2C)",
+ "summary": "Senior Full Stack Developer with 10+ years of experience building production TypeScript applications end to end: React front ends (Vite, Redux, React Query) and Node.js/TypeScript APIs on PostgreSQL with ORM-managed schemas and migrations. Recent healthcare experience at HCSC (Blue Cross Blue Shield of Illinois), delivering a HIPAA-compliant member platform for 1M+ members with authenticated, encrypted sessions. Builds event-driven, resilient integrations with message queues, idempotent retries, and WebSocket/Socket.IO real-time flows at Walmart Global Tech and IBM/AEP; ships through Docker and GitHub Actions/Azure DevOps CI/CD with automated Jest and Supertest gates.",
+ "core_skills": [
+  [
+   "TypeScript & JavaScript (ES6+) Full Stack",
+   "React (Vite, Hooks, Redux, React Query)"
+  ],
+  [
+   "Node.js / TypeScript REST APIs (Express)",
+   "PostgreSQL: Schema Design, Migrations, SQL Tuning"
+  ],
+  [
+   "Prisma / ORM Data Layers",
+   "Event-Driven Architecture, Queues, Idempotent Retries"
+  ],
+  [
+   "Healthcare / HIPAA Delivery (HCSC)",
+   "Docker, CI/CD (GitHub Actions, Azure DevOps), AWS"
+  ],
+  [
+   "Jest, React Testing Library, Supertest",
+   "Code Review, Troubleshooting, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express REST APIs, TypeScript, PostgreSQL (schema design, migrations, query optimization), Prisma / TypeORM, GraphQL, WebSockets/Socket.IO, microservices, message queues (SQS, RabbitMQ), Firebase, MongoDB"
+ },
+ "name": "Aaron_Ramirez_Headwaytek_Senior_Full_Stack_Developer"
+}

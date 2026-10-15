@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Python + React Developer  ·  React, TypeScript, Python (FastAPI / Django), REST  ·  AWS / Azure, CI/CD",
+ "location": "Open to onsite in Phoenix, AZ  ·  Contract (C2C or W2)",
+ "summary": "Full Stack Python and React Developer with 10+ years of experience at Walmart Global Tech, IBM/AEP, and HCSC. Builds React and TypeScript front ends (hooks, Redux Toolkit, React Query) backed by Python REST APIs (FastAPI, Django REST Framework, Flask) and Node.js services over PostgreSQL and MongoDB. Strong in API design, authentication, performance tuning, and automated testing (Jest, React Testing Library, Pytest, Cypress); CI/CD with GitHub Actions and Azure DevOps on AWS and Azure; Agile/Scrum delivery with code reviews and mentoring.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Python REST APIs: FastAPI, Django REST, Flask"
+  ],
+  [
+   "Redux Toolkit, React Query, Hooks",
+   "PostgreSQL, MongoDB, SQL"
+  ],
+  [
+   "REST / GraphQL API Design & Auth",
+   "AWS / Azure, Docker, CI/CD"
+  ],
+  [
+   "Jest, React Testing Library, Pytest, Cypress",
+   "Performance Optimization"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "Node.js / Express"
+  ]
+ ],
+ "name": "Aaron_Ramirez_DiverseLynx_Python_React_Developer_Phoenix"
+}

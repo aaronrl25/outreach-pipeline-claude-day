@@ -1,0 +1,17 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_nStar_Senior_Full_Stack_Engineer_Agentic_AI",
+ "tagline": "Senior Full Stack Engineer  ·  React.js, Python (FastAPI/Django), Node.js  ·  LLM / RAG / Agentic AI Applications",
+ "location": "Remote (U.S.)  ·  12+ Month Contract (C2C, W2, or 1099)",
+ "summary": "Senior Full Stack Engineer with 10+ years building enterprise applications in React.js and modern TypeScript, with REST API services in Node.js and Python (FastAPI, Flask; familiar with Django), SQL, Docker, and CI/CD. Over the last two years focused on LLM-powered features: built a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace platform, integrated Azure AI Services for summarization and classification at IBM/AEP, and designs prompt, retrieval (RAG), and agentic workflows with Claude Code, Cursor, and GitHub Copilot daily. Applies observability (Dynatrace, CloudWatch) and automated testing to keep AI features secure, scalable, and reliable in production; experienced in Agile/Scrum with Jira and Confluence. Strongest in React and application-layer AI integration; enterprise finance (Oracle Fusion) exposure is limited and disclosed up front.",
+ "core_skills": [
+  ["React.js, TypeScript, Modern Front-End", "Python REST APIs (FastAPI, Flask; Django familiarity) & Node.js"],
+  ["LLM Integration (Claude API, Azure OpenAI), Prompt Engineering", "RAG Pipelines & Agentic AI Workflows (LangChain)"],
+  ["SQL (PostgreSQL), REST / SOAP / GraphQL APIs", "Docker, Kubernetes (basics), GitHub Actions CI/CD"],
+  ["AWS (ECS, Lambda, RDS, S3), Azure (App Service, AI Services)", "Production Troubleshooting, Security & Scalability"],
+  ["GitHub Copilot / Claude Code / Cursor Daily", "Agile/Scrum, Jira, Confluence"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express and Python (FastAPI, Flask; Django familiarity) REST APIs, Claude API, Azure OpenAI / Azure AI Services, LangChain, RAG with vector search, GraphQL, SOAP integrations, WebSockets, microservices, PostgreSQL, MongoDB, Firebase"
+ }
+}

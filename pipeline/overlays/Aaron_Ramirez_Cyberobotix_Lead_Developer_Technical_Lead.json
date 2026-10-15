@@ -1,0 +1,18 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Cyberobotix_Lead_Developer_Technical_Lead",
+ "tagline": "Lead Developer / Technical Lead  ·  React, Next.js, TypeScript  ·  AWS Serverless, Generative AI (Claude, Bedrock), CI/CD",
+ "location": "Open to onsite (5 days) in Atlanta, GA  ·  Contract (C2C or C2H)",
+ "summary": "Hands-on Technical Lead with 10+ years in software engineering who writes production code daily while leading engineering teams (led squads of 6–7 engineers at Walmart Global Tech and IBM/AEP). Expert in React, Next.js, and TypeScript, with Figma-to-code responsive UI delivery, API design, and event-driven architecture on AWS (Lambda, API Gateway, DynamoDB, S3, ECS). Builds Generative AI features with the Claude API and LangChain (RAG, AI agents) and uses Claude Code, GitHub Copilot, and Cursor daily; ships through GitHub Actions CI/CD with unit, integration, and end-to-end test automation. Deepest in front-end and application-layer architecture; AWS CDK, Step Functions, and LangGraph exposure is lighter and disclosed up front.",
+ "core_skills": [
+  ["React, Next.js & TypeScript (Expert)", "Hands-On Technical Leadership (teams of 6–7)"],
+  ["AWS Serverless: Lambda, API Gateway, DynamoDB, S3", "Generative AI: Claude API, LangChain, RAG, AI Agents"],
+  ["API Design & Event-Driven Architecture", "Figma-to-Code, Responsive & Accessible UI"],
+  ["GitHub Actions CI/CD, Docker", "Automated Testing: Unit, Integration, End-to-End"],
+  ["Daily AI Coding Tools: Claude Code, Copilot, Cursor", "Agile/Scrum, Code Review, Mentoring"]
+ ],
+ "tech_overrides": {
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, DynamoDB, S3, ECS/Fargate, RDS, CloudFront, EventBridge basics), Azure (App Service, DevOps, AI Services); GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace, CloudWatch",
+  "APIs & Backend:": "REST APIs, GraphQL, WebSockets/Socket.IO, event-driven and microservice architecture, Node.js/Express, Claude API, LangChain (RAG, agents), Firebase, PostgreSQL, DynamoDB, MongoDB"
+ }
+}

@@ -1,0 +1,20 @@
+To: hr@aspirax.co
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Aspirax_Senior_React_Developer_SanLeandro.pdf
+Subject: Senior React Developer – San Leandro, CA (onsite) – Aaron Ramirez (local, C2C)
+
+Hi,
+
+I saw your post for the Senior React Developer role onsite in San Leandro, CA and would like to be considered. I'm local to the San Francisco Bay Area and available for onsite work. My tailored resume is attached.
+
+- 10+ years designing and developing scalable React.js and TypeScript applications at Walmart Global Tech, IBM/AEP, and HCSC: reusable components, hooks, and frontend libraries; responsive, accessible UI from UX/UI designs.
+- REST API and microservices integration; state management with Redux Toolkit, Context API, and Zustand; React Router; performance, scalability, and browser-compatibility optimization.
+- Jest, React Testing Library, Cypress, and Playwright; architecture discussions, code reviews, and frontend coding standards in Agile/Scrum teams.
+
+Could you share the client, duration, and rate range?
+
+Visa: TN (Mexican national, authorized to work in the U.S.). Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

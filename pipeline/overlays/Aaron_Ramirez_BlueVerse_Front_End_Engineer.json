@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_BlueVerse_Front_End_Engineer",
+ "tagline": "Front End Engineer  ·  React, TypeScript, Angular  ·  Enterprise UI, Performance & Accessibility",
+ "location": "Open to onsite/hybrid in VA, MD or DC  ·  Contract (C2C)",
+ "summary": "Front End Engineer with 10+ years building enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC. Expert in React and TypeScript with strong Angular (RxJS, NgRx) experience; designs reusable component libraries and design systems, integrates REST and GraphQL APIs, and delivers responsive, accessible (WCAG 2.1) interfaces with measured Core Web Vitals improvements. Keeps quality high with Jest, React Testing Library, and Cypress, structured code reviews, and CI/CD on AWS and Azure inside Agile/Scrum teams; mentors junior engineers and partners with product, design, and backend teams.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Angular, RxJS, NgRx"
+  ],
+  [
+   "Redux / Redux Toolkit, Context API",
+   "REST & GraphQL Integration"
+  ],
+  [
+   "Component Libraries & Design Systems",
+   "Accessibility (WCAG 2.1) & Responsive UI"
+  ],
+  [
+   "Performance & Core Web Vitals",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "CI/CD (GitHub Actions, Azure DevOps), AWS/Azure",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ]
+}

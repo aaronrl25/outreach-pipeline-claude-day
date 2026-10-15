@@ -1,0 +1,20 @@
+To: kuldeep.r@saksoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Saksoft_React_Native_Mobile_Engineer.pdf
+Subject: React Native Mobile Engineer (IMT, LTM/Microsoft) – Seattle / Remote – Aaron Ramirez (C2C)
+
+Hi Kuldeep,
+
+Thanks for sharing the React Native Mobile Engineer opportunity for the IMT mobile app (LTM/Microsoft, Seattle/remote, long-term contract). I'm interested, and my tailored resume is attached.
+
+- 6+ years of hands-on React Native on iOS and Android, 10+ years in software overall, at Walmart Global Tech (500K+ daily users), IBM/AEP, and HCSC (1M+ members).
+- TypeScript, Expo, RTK Query / Redux, REST and GraphQL integrations, SSO and session management, Jest and Detox test automation; telemetry with Dynatrace and Crashlytics.
+- Reusable component libraries and the current React Native architecture (JSI, Fabric, TurboModules), with native modules in Swift and Kotlin; App Store and Google Play releases.
+- Productive quickly in large existing codebases, steady incremental delivery, PR reviews, and ownership through production deployment.
+- Remote (U.S.) and open to Seattle.
+
+I'm on a TN visa and available on C2C; for W2 I'd need TN support. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

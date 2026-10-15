@@ -1,0 +1,19 @@
+To: rajeev@javentechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Javen_Full_Stack_AI_Engineer.pdf
+Subject: Full Stack AI Engineer (React + LLM/agentic apps) – NY / Fort Mill – Aaron Ramirez (C2C)
+
+Hi Rajeev,
+
+I'm interested in the Full Stack AI/ML Engineer 12+ month contract (New York / Fort Mill hybrid). My tailored resume is attached.
+
+- 10+ years building enterprise React/TypeScript platforms at Walmart Global Tech, IBM/AEP, and HCSC.
+- Hands-on LLM application work: a GenAI seller-support assistant on the Claude API / LangChain at Walmart, Azure AI Services for field-note summarization at AEP, and RAG/agentic workflows with Claude Code and Cursor daily.
+- Node.js and Python REST APIs, AWS/Azure, Docker, CI/CD, and observability for production AI features.
+- Open to hybrid in New York or Fort Mill.
+
+To be clear up front: my depth is React and application-layer AI integration rather than ML model training or MLOps. If the client needs a React-led engineer who can integrate LLM features end to end, I'd be a strong fit. Do you accept C2C, or is this W2 with TN support? Glad to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

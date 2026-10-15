@@ -1,0 +1,22 @@
+To: somya.shrivastava@conov8.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ConoV8_Front_End_Developer_Angular.pdf
+Subject: Front-End Developer – Angular – Malvern, PA hybrid – Aaron Ramirez (C2C)
+
+Hi Somya,
+
+I saw your post for the Front-End Developer (Angular) role in Malvern, PA (hybrid, open for relocation) and would like to be considered. My tailored resume is attached, and I'm fine with the assessment.
+
+- 10+ years of front-end development at Walmart Global Tech, IBM/AEP, and HCSC: Angular 18+, TypeScript, RxJS, NgRx, and modern Angular application modernization work.
+- Micro-frontend architecture (Module Federation, Electrode Native), AWS-backed services, REST and database integrations, unit testing (Jasmine/Karma, Jest, Cypress), and production observability with Dynatrace APM.
+- React expert as a second framework; Claude Code and GitHub Copilot are part of my daily workflow.
+
+Two things up front: I'm currently in the San Francisco Bay Area and willing to relocate to the Malvern area for the hybrid schedule. On observability I've used Dynatrace rather than Honeycomb; same concepts, quick ramp.
+
+Visa: your post lists OPT and H4 EAD. I'm on TN status (Mexican national, authorized to work in the U.S., I-94 valid through December 2029), available on C2C or W2. Can the client consider TN?
+
+Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

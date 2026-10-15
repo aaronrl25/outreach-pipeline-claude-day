@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Portsmouth_TypeScript_NodeJS_Developer",
+ "tagline": "Full Stack TypeScript & Node.js Developer  ·  React, AWS Serverless (Lambda, API Gateway, DynamoDB)  ·  Aurora Postgres",
+ "location": "Open to onsite/hybrid in Portsmouth, NH  ·  Contract (C2C)",
+ "summary": "Full Stack TypeScript and Node.js Developer with 10+ years delivering web applications end to end for Walmart Global Tech, IBM/AEP, and HCSC. Designs and builds RESTful APIs in Node.js and TypeScript, responsive React front ends, and AWS cloud-native services (Lambda, API Gateway, DynamoDB, S3) backed by PostgreSQL / Aurora Postgres. Owns the full development lifecycle from requirements through deployment and maintenance, leads code reviews and coding standards, mentors developers, and works closely with product managers and designers to remove blockers and ship on schedule. Git-based workflows, CI/CD pipelines (GitHub Actions, Azure DevOps), and Agile/Scrum delivery.",
+ "core_skills": [
+  [
+   "TypeScript & Node.js REST API Development",
+   "React & Modern Front-End (Hooks, Redux Toolkit)"
+  ],
+  [
+   "AWS Serverless: Lambda, API Gateway, DynamoDB",
+   "PostgreSQL / Aurora Postgres, Data Modeling"
+  ],
+  [
+   "Full SDLC Ownership & Mentoring",
+   "Code Review & Coding Standards"
+  ],
+  [
+   "CI/CD & DevOps (GitHub Actions, Azure DevOps)",
+   "Git, Agile/Scrum"
+  ],
+  [
+   "Angular (Secondary) & Design Systems",
+   "Stakeholder Collaboration"
+  ]
+ ]
+}

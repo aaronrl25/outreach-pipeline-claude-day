@@ -1,0 +1,18 @@
+To: careers@cogentcube.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_CogentCube_Senior_React_Developer.pdf
+Subject: Senior React Developer – San Leandro, CA (local) – Aaron Ramirez
+
+Hello,
+
+I saw your post for the Senior React Developer role in San Leandro, CA. I'm local to the San Francisco Bay Area and open to onsite. My tailored resume is attached.
+
+- 10+ years building scalable React.js and TypeScript applications at Walmart Global Tech, IBM/AEP, and HCSC.
+- Reusable components and hooks, Redux Toolkit / Context API / Zustand, React Router, REST and microservice integration.
+- Jest, React Testing Library, and Cypress testing; CI/CD deployments; code review standards; mentoring.
+
+Could you confirm whether this is C2C or W2? I'm available on C2C; for W2 I'm on a TN visa and would need TN support. Glad to connect this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

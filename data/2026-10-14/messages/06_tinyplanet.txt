@@ -1,0 +1,19 @@
+To: arshiya.asma@tinyplanetinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TinyPlanet_Sr_Mobile_React_Native_Developer.pdf
+Subject: Sr Mobile React Native Developer – Seattle, WA – Aaron Ramirez (6+ yrs RN, C2C)
+
+Hi Arshiya,
+
+I saw your post for the Sr Mobile React Native Developer role in Seattle and would like to be considered. My tailored resume is attached.
+
+- 6+ years of hands-on React Native on iOS and Android, 10+ years in software overall.
+- Shipped production apps at Walmart Global Tech (500K+ daily associates) and HCSC (1M+ members, HIPAA) with TypeScript, Redux Toolkit, REST/GraphQL, SSO/JWT auth, Detox, and Dynatrace.
+- Native module work in Swift and Kotlin; App Store and Google Play releases through Expo EAS, GitHub Actions, and Azure DevOps.
+- Open to onsite or hybrid in Seattle.
+
+I'm available on C2C. If the role is W2 instead, I'm on a TN visa and would need the employer to support the TN transfer. Happy to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

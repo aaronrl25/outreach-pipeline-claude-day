@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Frontend UI Architect  ·  React, TypeScript & Node.js  ·  Design Systems, Micro-Frontends, Performance",
+ "location": "Open to onsite in Dallas, TX  ·  Long-Term Contract (C2C)",
+ "summary": "Frontend UI Architect with 10+ years of experience defining front-end architecture, standards, and delivery for large-scale React and Node.js platforms at Walmart Global Tech, IBM/AEP, and HCSC. Sets architecture standards, code review protocols, and system design documentation; designs reusable component systems and micro-frontend architectures (Electrode Native) that cut integration time by 60% and duplicate code by 40%. Builds Node.js/Express middleware and BFF layers over microservice REST, GraphQL, and WebSocket APIs; drives performance (40% faster load), accessibility, and testing standards (Jest, React Testing Library, Cypress) across cross-functional squads of 6+ engineers.",
+ "core_skills": [
+  [
+   "Front-End Architecture & System Design",
+   "React, TypeScript, Hooks, Redux Toolkit"
+  ],
+  [
+   "Node.js / Express Middleware & BFF Layers",
+   "Micro-Frontends & Reusable Component Systems"
+  ],
+  [
+   "Design Systems, Storybook, Accessibility (WCAG)",
+   "Performance, Core Web Vitals, Bundle Optimization"
+  ],
+  [
+   "REST / GraphQL / WebSocket Integration",
+   "CI/CD: GitHub Actions, Azure DevOps, Docker, AWS"
+  ],
+  [
+   "Technical Leadership, Code Review Standards",
+   "Jest, React Testing Library, Cypress"
+  ]
+ ],
+ "name": "Aaron_Ramirez_ExemplarITS_Frontend_UI_Architect_React_Node"
+}

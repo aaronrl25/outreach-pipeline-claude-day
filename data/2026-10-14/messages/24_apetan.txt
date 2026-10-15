@@ -1,0 +1,22 @@
+To: vikas.y@apetan.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Apetan_Microsoft_Software_Engineer_AI.pdf
+Subject: Re: Software Engineer ||MIcrosoft
+
+Hi Vikas,
+
+Thanks for reaching out about the Software Engineer contract with Microsoft (Chicago, onsite once a week). I'm interested, and my tailored resume is attached.
+
+- 10+ years building production web applications and backend services at Walmart Global Tech, IBM/AEP, and HCSC.
+- Exactly the profile you describe: an engineer who builds with AI rather than an ML engineer. I shipped a GenAI assistant on the Claude API / LangChain through middleware at Walmart and integrated Azure AI Services at AEP; I use Cursor and Claude Code daily.
+- REST APIs, microservices, data movement between systems, event-driven and real-time flows; Python (FastAPI) and Node.js with PostgreSQL/SQL; AWS, Azure, and Google Cloud.
+- Strong TypeScript/React background, so backend-to-frontend data contracts are second nature.
+- Available for the weekly onsite in Chicago.
+
+One thing to confirm before I fill in the template: I'm on a TN visa (Mexican national, authorized to work in the U.S.) and would go C2C. If that works for the client, I'll send the C2C details right away. To be direct, my Python depth is FastAPI services alongside a larger Node.js footprint; the AI integration, API, and data-flow work is where I'm strongest.
+
+Happy to take a call at (773) 708-2882.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

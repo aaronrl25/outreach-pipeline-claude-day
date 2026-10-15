@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Senior React Developer  ·  React.js, TypeScript, Redux Toolkit / Zustand  ·  Testing & Performance",
+ "location": "Local to the San Francisco Bay Area  ·  Open to onsite in San Leandro, CA  ·  Contract or Full-Time",
+ "summary": "Senior React Developer with 10+ years of experience designing and developing scalable web applications in React.js and TypeScript at Walmart Global Tech, IBM/AEP, and HCSC. Builds reusable React components, hooks, and front-end libraries; manages state with Redux Toolkit, Context API, and Zustand; implements routing with React Router; and integrates REST APIs and microservices. Delivers responsive, accessible interfaces from UX/UI designs, optimizes performance and browser compatibility, and writes unit and integration tests with Jest, React Testing Library, and Cypress. Leads architecture discussions, enforces coding standards through code review, supports CI/CD deployments, and mentors junior and mid-level developers in Agile/Scrum teams.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert)",
+   "Reusable Components, Hooks & Front-End Libraries"
+  ],
+  [
+   "Redux Toolkit, Context API, Zustand",
+   "React Router, Responsive & Accessible UI"
+  ],
+  [
+   "REST API & Microservice Integration",
+   "Performance, Scalability & Browser Compatibility"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Playwright",
+   "CI/CD Pipelines & Deployments (GitHub Actions, Azure DevOps)"
+  ],
+  [
+   "Code Review & Front-End Standards",
+   "Mentoring, Agile/Scrum, Cross-Team Collaboration"
+  ]
+ ],
+ "name": "Aaron_Ramirez_CogentCube_Senior_React_Developer"
+}

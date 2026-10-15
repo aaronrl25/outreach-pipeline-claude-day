@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "Senior Mobile React Native Developer  ·  iOS & Android  ·  TypeScript, Redux Toolkit, REST / GraphQL, Detox",
+ "location": "Open to onsite or hybrid in Seattle, WA  ·  Contract (C2C or W2)",
+ "summary": "Senior Mobile React Native Developer with 10+ years in software engineering and 6+ years shipping production React Native apps to the App Store and Google Play at Walmart Global Tech, IBM/AEP, and HCSC. Expert in TypeScript, Redux Toolkit and Redux, React Navigation, and REST/GraphQL integration, with hands-on native module work in Swift and Kotlin. Implements SSO and JWT/OAuth authentication, automated Detox and Jest test suites, and Dynatrace crash analytics for apps serving 500K+ daily users. Delivers through GitHub Actions, Azure DevOps, and Expo EAS pipelines with Docker-based build agents.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux Toolkit / RTK, Redux Saga, Zustand",
+   "REST & GraphQL API Integration"
+  ],
+  [
+   "Native Modules (Swift / Kotlin), App Store & Google Play",
+   "SSO, JWT / OAuth 2.0 Authentication"
+  ],
+  [
+   "Detox & Jest Automated Testing",
+   "Dynatrace Crash Analytics & Performance"
+  ],
+  [
+   "Expo / EAS, GitHub Actions, Azure DevOps CI/CD",
+   "Agile/Scrum, Code Review & Mentoring"
+  ]
+ ],
+ "name": "Aaron_Ramirez_TinyPlanet_Sr_Mobile_React_Native_Developer"
+}

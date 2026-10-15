@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Datadot_Senior_React_Frontend_Developer",
+ "tagline": "Senior React Frontend Developer  ·  React, TypeScript, Redux  ·  Enterprise Web Applications",
+ "location": "Open to hybrid in Dallas, TX or New Jersey (willing to relocate)  ·  Full-time",
+ "summary": "Senior React Frontend Developer with 10+ years of experience delivering enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC. Expert in React, TypeScript, and Redux / Redux Toolkit, with strong REST and GraphQL integration, responsive and accessible UI, and performance optimization. Builds reusable component libraries and design systems, keeps quality high with Jest / React Testing Library / Cypress and structured code reviews, and works in Agile/Scrum teams with Git-based workflows and CI/CD on AWS and Azure.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Redux / Redux Toolkit, Context API"
+  ],
+  [
+   "REST & GraphQL Integration",
+   "Responsive, Accessible UI (HTML5, CSS3, MUI, Tailwind)"
+  ],
+  [
+   "Component Libraries & Design Systems",
+   "Performance Optimization & Core Web Vitals"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "CI/CD (GitHub Actions, Azure DevOps), AWS/Azure"
+  ],
+  [
+   "Agile/Scrum & Code Review",
+   "Cross-Functional Collaboration"
+  ]
+ ]
+}

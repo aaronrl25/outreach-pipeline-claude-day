@@ -1,0 +1,14 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Javen_Full_Stack_Developer_III",
+ "tagline": "Full Stack Developer  ·  React.js, Node.js, React Native  ·  RESTful APIs, TypeScript, GraphQL, Production Support",
+ "location": "Open to relocating to Minnesota  ·  Contract (C2C or W2)",
+ "summary": "Full Stack Developer with 10+ years building scalable web and mobile applications in React.js, Node.js, and React Native for Walmart Global Tech, IBM/AEP, and HCSC. Develops RESTful APIs and GraphQL services in Node.js/Express, builds React and React Native front ends in TypeScript, and owns production support: on-call troubleshooting, root-cause analysis, and fixes for high-traffic systems serving 500K+ daily users. Strong in front-end testing (Jest, React Testing Library, Cypress, Detox) and Agile/Scrum delivery with GitHub-based CI/CD.",
+ "core_skills": [
+  ["React.js & TypeScript (Expert)", "Node.js / Express RESTful APIs"],
+  ["React Native (6+ yrs) · iOS & Android", "GraphQL & REST Integration"],
+  ["Production Support & Troubleshooting", "Front-End Testing: Jest, RTL, Cypress, Detox"],
+  ["Agile/Scrum Development", "PostgreSQL, MongoDB, Firebase"],
+  ["AWS / Azure, Docker, GitHub Actions CI/CD", "Code Review, Mentoring, Technical Documentation"]
+ ]
+}

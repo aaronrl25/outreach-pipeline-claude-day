@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "React Engineer  ·  React, TypeScript, Reusable Component Libraries  ·  API Integration & CI/CD",
+ "location": "Open to onsite in Seattle, WA  ·  12-Month Contract (C2C or W2)",
+ "summary": "React Engineer with 10+ years of software experience designing, developing, and maintaining scalable web applications in React and TypeScript at Walmart Global Tech, IBM/AEP, and HCSC. Builds reusable component libraries and design systems, integrates REST and GraphQL APIs, and optimizes performance (40% faster load times through code splitting, caching, and virtualization). Maintains code quality through Jest and React Testing Library coverage, structured code review, and GitHub Actions / Azure DevOps CI/CD, collaborating daily with product managers, designers, and backend engineers.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Reusable Components, Hooks & Design Systems"
+  ],
+  [
+   "REST / GraphQL API Integration",
+   "Performance Optimization & Core Web Vitals"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, React Query",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Docker",
+   "Cross-Functional Collaboration (Product, Design, Backend)"
+  ],
+  [
+   "Next.js, HTML5, CSS3, Tailwind",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "name": "Aaron_Ramirez_AxiomGlobal_React_Engineer"
+}

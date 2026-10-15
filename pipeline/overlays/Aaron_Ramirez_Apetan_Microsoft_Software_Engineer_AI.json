@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Apetan_Microsoft_Software_Engineer_AI",
+ "tagline": "Software Engineer  ·  Python FastAPI, Node.js, TypeScript  ·  Production LLM Integration (OpenAI, Claude, Azure AI), Data Pipelines",
+ "location": "Open to hybrid in Chicago, IL (weekly onsite)  ·  Contract (C2C)",
+ "summary": "Software Engineer with 10+ years building production web applications and backend services, and hands-on experience integrating existing AI capabilities into shipped products rather than training models: a GenAI assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace platform, and Azure AI Services for summarization and classification of field data at IBM/American Electric Power. Designs REST APIs and microservices, moves data between systems through REST, WebSocket, and event-driven flows, and understands how backend data is structured and consumed by TypeScript/React front ends. Works in Python (FastAPI) and Node.js with PostgreSQL and SQL, containerizes services with Docker on AWS, Azure, and Google Cloud, and uses Cursor and Claude Code daily. Available for the weekly onsite in Chicago.",
+ "core_skills": [
+  [
+   "Python & FastAPI Backend Services",
+   "Node.js / TypeScript APIs & Microservices"
+  ],
+  [
+   "LLM Integration: OpenAI, Claude API, Azure AI, Vertex AI patterns",
+   "Data Transformation, Enrichment & System-to-System Data Flow"
+  ],
+  [
+   "REST API Design, Third-Party Integrations",
+   "Event-Driven / Real-Time Workflows (Queues, WebSockets)"
+  ],
+  [
+   "SQL (PostgreSQL), NoSQL (MongoDB, Firebase)",
+   "Google Cloud, AWS, Azure; Docker; GitHub Actions CI/CD"
+  ],
+  [
+   "Backend-to-Frontend Contracts (TypeScript, React)",
+   "AI-Assisted Development: Cursor, Claude Code, Codex"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Python (FastAPI, Flask), Node.js/Express, TypeScript, REST and GraphQL APIs, microservices, OpenAI API, Claude API, Azure AI Services, LangChain, retrieval pipelines, WebSockets/Socket.IO, message queues (SQS, Pub/Sub), PostgreSQL, SQL, MongoDB, Firebase",
+  "Cloud & CI/CD:": "Google Cloud (Firebase, Cloud Messaging, Pub/Sub, Cloud Run basics), AWS (ECS/Fargate, Lambda, RDS, S3), Azure (App Service, DevOps, AI Services), Docker, GitHub Actions, Azure DevOps, Jenkins, Dynatrace"
+ }
+}

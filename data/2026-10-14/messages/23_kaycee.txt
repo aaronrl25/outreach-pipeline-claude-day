@@ -1,0 +1,20 @@
+To: karthik@kayceetechsolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_KayCee_AI_Full_Stack_Engineer_Azure.pdf
+Subject: AI Full Stack Engineer (Azure) – Remote – Aaron Ramirez (React/TypeScript + LLM apps, C2C)
+
+Hi Karthik,
+
+I saw your post for the AI Full Stack Engineer (Azure) remote contract supporting the pharma chatbot platform (FastAPI, React, multi-agent LLM orchestration on Azure Container Apps). My tailored resume is attached.
+
+- 10+ years in software engineering with TypeScript/React as a primary skill at Walmart Global Tech, IBM/AEP, and HCSC.
+- Production LLM experience: a GenAI assistant on the Claude API / LangChain at Walmart, Azure AI Services integration at AEP, and daily agentic workflows (Claude Code, Cursor).
+- Azure DevOps pipelines, Key Vault and managed identity patterns, Dynatrace/Azure monitoring, PR-gated releases in a regulated (HIPAA) environment; production support across severity levels.
+- Python FastAPI services alongside Node.js; PostgreSQL, Docker.
+- U.S. based and available during Central Time business hours.
+
+I'm on a TN visa and available on C2C, and glad to discuss the rate. Happy to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

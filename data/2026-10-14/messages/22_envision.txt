@@ -1,0 +1,18 @@
+To: satender.kumar@envisiontechsol.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_EnvisionTech_Full_Stack_Engineer.pdf
+Subject: Full Stack Engineer – Sunnyvale, CA (local) – Aaron Ramirez (React/Node tech lead, C2C)
+
+Hi Satender,
+
+I saw your post for the Full Stack Engineer role in Sunnyvale and would like to be considered. I'm local to the San Francisco Bay Area and open to onsite or hybrid. My tailored resume is attached.
+
+- 10+ years of enterprise software development at Walmart Global Tech, IBM/American Electric Power, and HCSC, with 4+ years as technical lead over onsite and offshore teams.
+- React front ends and Node.js RESTful APIs over microservices, NoSQL (MongoDB, Firebase, DynamoDB) and PostgreSQL, on AWS and Azure; close collaboration with Java/Spring Boot backend teams on API design.
+- Daily use of Claude Code, the Claude API, and GitHub Copilot; shipped a production GenAI assistant at Walmart.
+
+My backend depth is Node.js rather than Java; if the client wants a React/Node-led full stack lead who works alongside Spring Boot services, I'd be a strong fit. Do you accept C2C, or is this W2 with TN support? Glad to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

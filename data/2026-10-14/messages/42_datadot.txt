@@ -1,0 +1,21 @@
+To: vishal@datadotlabs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Datadot_Senior_React_Frontend_Developer.pdf
+Subject: Senior React Frontend Developer – Application
+
+Hi Vishal,
+
+I saw your post for the full-time Senior React Frontend Developer role (Dallas, TX / New Jersey, hybrid) and would like to apply. My tailored resume is attached. The details you asked for:
+
+- Current location: San Francisco Bay Area, CA (willing to relocate to Dallas or New Jersey for a hybrid schedule)
+- Visa status: TN (Mexican national), authorized to work in the U.S. now. I noticed TN wasn't on your list; it is employer-supported and renewable with no lottery, so I wanted to be upfront and ask whether the client can consider it.
+- Total experience: 10+ years in software development (7+ years hands-on React)
+- Relevant skills: React, TypeScript, Redux / Redux Toolkit, REST and GraphQL integration, responsive and accessible UI, Jest / React Testing Library / Cypress, CI/CD on AWS and Azure, Agile/Scrum
+- Target role: Senior React Frontend Developer
+- LinkedIn: linkedin.com/in/aaronsoftware
+
+Glad to discuss compensation and start date once we talk.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

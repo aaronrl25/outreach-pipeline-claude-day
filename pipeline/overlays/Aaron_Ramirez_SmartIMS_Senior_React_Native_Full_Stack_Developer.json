@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "Senior React Native Full Stack Developer  ·  iOS & Android, Node.js, TypeScript  ·  REST / WebSockets, AWS",
+ "location": "Open to onsite in Louisville, KY  ·  Contract (C2C or W2)",
+ "summary": "Senior React Native Full Stack Developer with 10+ years in software engineering and 6+ years of hands-on React Native, delivering iOS and Android apps backed by Node.js/Express services, PostgreSQL and Firebase, and AWS/Azure cloud at Walmart Global Tech, IBM/AEP, and HCSC. Strong in TypeScript, Redux / Redux Toolkit, React Navigation, REST and WebSocket integration, and JWT/OAuth authentication; owns the full lifecycle from API design to App Store and Google Play release through GitHub Actions, Azure DevOps, and Expo EAS pipelines with Jest and Detox test gates.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "Node.js / Express REST & WebSocket APIs"
+  ],
+  [
+   "TypeScript, JavaScript (ES6+), React.js",
+   "PostgreSQL, Firebase, MongoDB"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, React Navigation",
+   "AWS (ECS, Lambda, RDS, S3), Azure, Docker"
+  ],
+  [
+   "JWT / OAuth 2.0 Authentication, Secure Storage",
+   "Expo / EAS, GitHub Actions, Azure DevOps, Jenkins CI/CD"
+  ],
+  [
+   "Jest, Detox, Supertest Testing",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "name": "Aaron_Ramirez_SmartIMS_Senior_React_Native_Full_Stack_Developer"
+}

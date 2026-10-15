@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Full Stack Architect  ·  React, TypeScript, Node.js  ·  System Design, Distributed Systems, Microservices",
+ "location": "Local to the San Francisco Bay Area  ·  Open to onsite in Fremont, CA  ·  Long-Term Contract (C2C or W2)",
+ "summary": "Full Stack Architect with 10+ years of experience designing and delivering distributed, microservice-based platforms with React front ends and Node.js/TypeScript services at Walmart Global Tech, IBM/AEP, and HCSC. Sets architecture standards and system design documentation for cross-functional squads; integrates 10+ microservices over REST, GraphQL, and WebSockets; and runs containerized services on AWS ECS/Fargate and Azure with PostgreSQL. Experienced collaborating with Java/Spring Boot backend teams on enterprise modernization, API design, and event-driven integrations; raises reliability through Dynatrace observability, automated test gates, and CI/CD.",
+ "core_skills": [
+  [
+   "System Design & Distributed Systems",
+   "Microservices Architecture & API Design"
+  ],
+  [
+   "React, TypeScript, Redux, Design Systems",
+   "Node.js / Express, GraphQL, REST, WebSockets"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS, S3), Azure, Docker",
+   "PostgreSQL, MongoDB, Event-Driven Integrations"
+  ],
+  [
+   "Technical Leadership, Architecture Standards",
+   "Observability: Dynatrace, CloudWatch, On-Call Runbooks"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins",
+   "Collaboration with Java / Spring Boot Teams"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Akidev_Full_Stack_Architect"
+}

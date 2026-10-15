@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "Full Stack Developer  ·  React Native, ReactJS, Node.js, TypeScript  ·  REST APIs, OAuth 2.0 / SSO, Docker",
+ "location": "Open to onsite or hybrid in New York City, NY  ·  Contract (C2C, C2H or W2)",
+ "summary": "Full Stack Developer with 10+ years of experience across React Native, ReactJS, Node.js, and JavaScript/TypeScript, delivering enterprise mobile and web applications at Walmart Global Tech, IBM/AEP, and HCSC. Extensive RESTful API design and enterprise integration experience behind API gateways and microservices, with OAuth 2.0, JWT, SSO, and role-based access implemented for HIPAA-regulated and utility field platforms. Applies OOP and design patterns, application security best practices, and ships through Git-based CI/CD with Docker containers on AWS ECS and Azure; experienced collaborating with Java/Spring Boot backend teams on enterprise modernization.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "ReactJS, TypeScript, JavaScript (ES6+)"
+  ],
+  [
+   "Node.js / Express RESTful APIs & Microservices",
+   "API Gateway & Enterprise Integrations"
+  ],
+  [
+   "OAuth 2.0, JWT, SSO, IAM, Role-Based Access",
+   "OOP, Design Patterns, Application Security"
+  ],
+  [
+   "Docker, Kubernetes-Deployed Services, AWS / Azure",
+   "Git, GitHub Actions, Azure DevOps, Jenkins CI/CD"
+  ],
+  [
+   "PostgreSQL, Firebase, MongoDB",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "name": "Aaron_Ramirez_GVR_Full_Stack_Developer_React_Native"
+}

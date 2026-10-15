@@ -1,0 +1,18 @@
+To: recruiter7@akidev.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Akidev_Full_Stack_Architect.pdf
+Subject: Full Stack Architect – Fremont, CA (local) – Aaron Ramirez (C2C/W2)
+
+Hello,
+
+I saw your post for the Full Stack Developer – Architect long-term contract in Fremont, CA. I'm local to the San Francisco Bay Area and open to onsite. My tailored resume is attached.
+
+- 10+ years designing distributed, microservice-based platforms with React front ends and Node.js/TypeScript services at Walmart Global Tech, IBM/AEP, and HCSC.
+- System design and architecture standards for cross-functional squads; 10+ microservices integrated over REST, GraphQL, and WebSockets on AWS ECS/Fargate and Azure.
+- Experienced collaborating with Java/Spring Boot backend teams on enterprise modernization and API design.
+
+My backend depth is Node.js rather than Java; if the client values React, system design, and distributed systems first, I'd be a strong fit. Available on C2C. Happy to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

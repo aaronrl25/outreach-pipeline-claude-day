@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_HireWithJarvis_Senior_Frontend_Engineer_PaloAlto",
+ "tagline": "Senior Frontend Engineer  ·  React, TypeScript, Data-Rich Product UIs  ·  Full-Stack Foundation (Node, GraphQL)",
+ "location": "Local to the San Francisco Bay Area  ·  Full-time, onsite in Palo Alto",
+ "summary": "Senior Frontend Engineer with 10+ years building polished, customer-facing products end to end for Walmart Global Tech, IBM/AEP, and HCSC. Owns features from ambiguous concept through launch: partners closely with Product and Design, turns complex data into intuitive interfaces (dashboards, data tables, charts), and shapes frontend architecture as teams scale. Deep React and TypeScript expertise on a full-stack foundation (Node.js, GraphQL, REST, PostgreSQL). Uses AI tools daily (Claude Code, GitHub Copilot, Cursor) in the development workflow and mentors engineers through code review and design-system work.",
+ "core_skills": [
+  [
+   "React & TypeScript (Expert)",
+   "Full-Stack Foundation: Node.js, GraphQL, REST"
+  ],
+  [
+   "Data Visualization & Complex Data UIs",
+   "Design Systems & Component Architecture"
+  ],
+  [
+   "Frontend Architecture & Performance",
+   "Product & Design Collaboration"
+  ],
+  [
+   "AI-Assisted Development (Claude Code, Copilot)",
+   "Mentoring & Code Review"
+  ],
+  [
+   "Testing (Jest, RTL, Cypress, Playwright)",
+   "CI/CD, Git, Agile Delivery"
+  ]
+ ]
+}

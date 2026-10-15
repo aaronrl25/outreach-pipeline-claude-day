@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Full Stack Developer  ·  ReactJS, Python (FastAPI / Flask), REST APIs  ·  Workflow Orchestration & Agentic AI Integration",
+ "location": "Open to onsite/hybrid in Columbus, OH  ·  Contract (C2C or W2)",
+ "summary": "Full Stack Developer with 10+ years delivering ReactJS front ends and Python / Node.js REST APIs for Walmart Global Tech, IBM/AEP, and HCSC. Builds component-driven React UIs with hooks and state management; integrates REST APIs with authentication, error handling, pagination, and caching; develops Python services with FastAPI and Flask, secure auth, and resilient downstream integrations (idempotency, retries, backoff). Integrates LLM and agent calls into governed application workflows with tool/function calling, prompt versioning, human-in-the-loop approvals, and audit logging; CI/CD on AWS and Azure; Agile/Scrum delivery.",
+ "core_skills": [
+  [
+   "ReactJS, Hooks, TypeScript, State Management",
+   "REST API Integration (Auth, Errors, Pagination, Caching)"
+  ],
+  [
+   "Python REST APIs: FastAPI, Flask",
+   "Node.js / Express Services"
+  ],
+  [
+   "Resilient Integrations: Idempotency, Retries, Backoff",
+   "Agentic AI: LLM Tool Calling, Human-in-the-Loop, Auditability"
+  ],
+  [
+   "PostgreSQL, SQL, Data Pipelines",
+   "CI/CD (GitHub Actions, Azure DevOps), AWS/Azure"
+  ],
+  [
+   "Jest, Pytest, Cypress",
+   "Agile/Scrum, Code Review"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Element_Full_Stack_Developer_Columbus"
+}

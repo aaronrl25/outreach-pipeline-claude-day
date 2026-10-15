@@ -1,0 +1,14 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_Amaze_React_Native_Developer_Plano",
+ "tagline": "React Native Developer  ·  iOS & Android  ·  TypeScript, REST API Integration, Mobile Architecture, GitHub",
+ "location": "Open to onsite in Plano, TX  ·  Contract (C2C)",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years delivering enterprise mobile applications for iOS and Android at Walmart Global Tech, IBM/AEP, and HCSC. Strong in TypeScript, REST API integration, and mobile architecture (modular feature design, navigation, state management with Redux / RTK Query, offline sync), with GitHub-based workflows and CI/CD (GitHub Actions, Azure DevOps, Expo EAS); native iOS modules in Swift and Android modules in Kotlin. Delivers in Agile/Scrum teams on enterprise mobile programs serving 500K+ users.",
+ "core_skills": [
+  ["React Native (6+ yrs) · iOS & Android", "TypeScript & JavaScript (ES6+)"],
+  ["REST API Integration (REST, GraphQL, auth)", "Mobile Architecture: Modular Features, Navigation, State"],
+  ["Redux / RTK Query, Zustand, React Navigation", "GitHub, GitHub Actions, Azure DevOps CI/CD"],
+  ["iOS Native (Swift) & Android (Kotlin) Modules", "Jest, Detox, Dynatrace Crash Analytics"],
+  ["Expo / EAS, App Store & Google Play Releases", "Enterprise Mobile Delivery, Agile/Scrum"]
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_HiresDev_Senior_Technical_Lead_DotNet_Angular",
+ "tagline": "Senior Technical Lead  ·  C# / .NET, Angular, TypeScript  ·  Microsoft Azure, Azure DevOps CI/CD, Team Leadership",
+ "location": "Open to hybrid in Houston, TX (relocating is fine)  ·  Contract (C2C)",
+ "summary": "Hands-on Senior Technical Lead with 10+ years delivering enterprise software for Walmart Global Tech, IBM/AEP, and HCSC, splitting time between development and team leadership (teams of 5–7 engineers). C# / .NET (ASP.NET Core, Web API) services with Angular (TypeScript, RxJS, NgRx) and React front ends; builds and hosts applications on Microsoft Azure (App Service, Azure DevOps CI/CD and release pipelines); runs Agile/Scrum sprints end to end with code reviews, testing standards, production releases, and root-cause analysis. Clear communicator with technical and business stakeholders; GitHub Copilot, Claude Code, and Cursor in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET (ASP.NET Core, Web API)",
+   "Angular, TypeScript, RxJS, NgRx"
+  ],
+  [
+   "Microsoft Azure (App Service, Functions, SQL)",
+   "Azure DevOps CI/CD & Release Pipelines"
+  ],
+  [
+   "Technical Leadership (60/40 build & lead)",
+   "Agile/Scrum Sprint Execution End to End"
+  ],
+  [
+   "Code Review, Testing Standards, Root-Cause Analysis",
+   "REST APIs, Microservices, SQL Server / PostgreSQL"
+  ],
+  [
+   "React.js (Expert) & Node.js",
+   "AI-Assisted Development: GitHub Copilot, Claude Code, Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET (ASP.NET Core, Web API, Entity Framework), REST APIs, microservices, Node.js/Express, Java / Spring Boot, SQL Server, PostgreSQL, MongoDB",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material), React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps (pipelines, releases, boards), AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

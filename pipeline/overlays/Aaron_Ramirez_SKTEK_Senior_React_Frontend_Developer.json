@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_SKTEK_Senior_React_Frontend_Developer",
+ "tagline": "Senior React Frontend Developer  ·  React.js, TypeScript, Redux Toolkit  ·  Enterprise-Scale, Reusable Component Architecture",
+ "location": "San Francisco Bay Area  ·  Open to remote, hybrid, or onsite  ·  Full-time",
+ "summary": "Senior React Frontend Developer with 10+ years of experience (7+ years hands-on React) building scalable, reusable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive React.js and TypeScript applications around reusable components, custom hooks, and well-structured frontend modules; manages state with Redux / Redux Toolkit; integrates REST APIs with backend teams. Applies frontend design patterns, SOLID principles, and clean-code practices, optimizes performance, and keeps quality high with Jest, React Testing Library, Cypress, and Playwright plus structured code reviews. Experience with micro-frontends, design systems, cloud/API integration, Python, and GenAI integrations.",
+ "core_skills": [
+  [
+   "React.js, Hooks & Functional Components",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux / Redux Toolkit, RTK Query",
+   "Reusable Components, Custom Hooks & Modules"
+  ],
+  [
+   "Frontend Architecture, Design Patterns, SOLID",
+   "Performance Optimization & Troubleshooting"
+  ],
+  [
+   "REST APIs & Asynchronous Programming",
+   "HTML5, CSS3, Responsive UI"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Playwright",
+   "Micro Frontends, Design Systems, CI/CD, Git"
+  ]
+ ]
+}

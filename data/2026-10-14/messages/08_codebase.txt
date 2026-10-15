@@ -1,0 +1,19 @@
+To: ajay@codebaseinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Codebase_UI_Full_Stack_Developer_Healthcare.pdf
+Subject: UI Full Stack Developer (React + Vite, Node/TS, Healthcare) – Remote – Aaron Ramirez (C2C)
+
+Hi Ajay,
+
+I saw your post for the remote UI Fullstack Developer with healthcare experience. My tailored resume is attached.
+
+- 10+ years front-end-first full stack: React + Vite, TypeScript, Node.js/TypeScript APIs, PostgreSQL with Prisma-style ORM schema design and migrations.
+- Healthcare: delivered a HIPAA-compliant member platform for 1M+ HCSC (Blue Cross Blue Shield of Illinois) members.
+- Event-driven architecture, workflows, queues, concurrency and idempotency at Walmart Global Tech and IBM/AEP.
+- Fully remote, U.S. based; available on C2C.
+
+Happy to talk this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

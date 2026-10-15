@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_TekCommands_DotNet_Developer_React_Azure_AI",
+ "tagline": ".NET Developer  ·  ASP.NET Core (C#), React JS, Microsoft Azure  ·  GenAI Platform Design & Production AI Integration",
+ "location": "Open to onsite in Alpharetta, GA (relocating is fine)  ·  Contract (C2C or W2)",
+ "summary": "Full stack .NET and React developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. ASP.NET Core (C#) Web APIs and services with React JS / TypeScript front ends on the Azure cloud platform (App Service, Functions, Azure DevOps CI/CD, Azure AI Services). Designs and integrates GenAI capabilities in production: LLM tool/function calling, RAG pipelines, prompt versioning, human-in-the-loop approvals, and monitoring; GitHub Copilot and Claude Code in daily use. Agile/Scrum delivery with code reviews and mentoring.",
+ "core_skills": [
+  [
+   "ASP.NET Core (C#), Web API, Entity Framework",
+   "React JS, TypeScript, Redux Toolkit"
+  ],
+  [
+   "Microsoft Azure (App Service, Functions, Azure SQL, AI Services)",
+   "Azure DevOps CI/CD Pipelines"
+  ],
+  [
+   "GenAI Platform Design & Architecture",
+   "Production AI/ML Integration (LLM, RAG, Tool Calling)"
+  ],
+  [
+   "REST APIs, Microservices, SQL Server / PostgreSQL",
+   "Jest, React Testing Library, xUnit"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "Node.js & Java / Spring Boot (secondary)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / ASP.NET Core (Web API, Entity Framework), REST APIs, microservices, Node.js/Express, Java / Spring Boot, SQL Server, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services / Azure OpenAI), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress; code review, performance profiling, Lighthouse"
+ }
+}

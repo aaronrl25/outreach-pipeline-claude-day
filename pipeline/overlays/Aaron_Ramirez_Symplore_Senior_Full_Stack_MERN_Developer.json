@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Senior Full Stack MERN Developer  ·  React.js, Node.js, MongoDB, TypeScript  ·  REST / GraphQL, CI/CD",
+ "location": "Open to hybrid in Dallas, TX (3 days onsite)  ·  Contract (C2C or W2)",
+ "summary": "Senior Full Stack MERN Developer with 10+ years of JavaScript/TypeScript engineering: React.js front ends, Node.js/Express services, and MongoDB, PostgreSQL, and Oracle-compatible relational data layers with tuned SQL queries, delivered for Walmart Global Tech, IBM/AEP, and HCSC. Designs REST and GraphQL APIs, integrates 10+ microservices, and ships through automated Jest, React Testing Library, and Supertest gates in GitHub Actions, Azure DevOps, and Jenkins CI/CD. Agile/Scrum delivery with code review standards, performance optimization (40% faster load), and mentoring across cross-functional teams.",
+ "core_skills": [
+  [
+   "React.js, TypeScript, Redux Toolkit, Hooks",
+   "Node.js / Express REST & GraphQL APIs"
+  ],
+  [
+   "MongoDB, PostgreSQL, Oracle / Relational SQL",
+   "SQL Query Optimization & Schema Design"
+  ],
+  [
+   "Microservices, WebSockets, Event-Driven Integration",
+   "Automated Testing: Jest, RTL, Supertest, Cypress"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Docker",
+   "AWS (ECS/Fargate, Lambda, RDS, S3), Azure"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "Performance Optimization & Web Vitals"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express REST and GraphQL APIs, TypeScript, MongoDB (Mongoose, aggregation), PostgreSQL, Oracle/relational SQL and query optimization, WebSockets/Socket.IO, microservices, message queues, Firebase"
+ },
+ "name": "Aaron_Ramirez_Symplore_Senior_Full_Stack_MERN_Developer"
+}

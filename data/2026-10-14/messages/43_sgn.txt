@@ -1,0 +1,20 @@
+To: nikhil.k@sgnglobaltech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_SGN_React_Native_Technical_Lead_Atlanta.pdf
+Subject: React Native Technical Lead – Retail – Atlanta, GA (W2) – Aaron Ramirez (TN)
+
+Hi Nikhil,
+
+I saw your post for the React Native Technical Lead (Retail Domain) role in Atlanta, GA and would like to be considered. My tailored resume is attached.
+
+- Hands-on React Native lead: 6+ years of React Native on iOS and Android, 10+ years in software overall, at Walmart Global Tech (high-volume consumer app), HCSC, and IBM/AEP.
+- TypeScript, hooks, navigation, state management, native modules / TurboModules, Hermes, Metro, Gradle, Xcode; native Swift and Kotlin modules; REST, auth, payments, push notifications, deep linking, third-party SDKs.
+- Production troubleshooting with Crashlytics, Dynatrace, and Sentry; Jest and Detox; mobile CI/CD, app signing, App Store and Google Play releases; code reviews, mentoring, and incident management.
+
+One note up front: I have 10+ years overall rather than 15+, and I'm in the San Francisco Bay Area but willing to relocate to Atlanta for onsite work.
+
+Work authorization: TN status (Mexican national), authorized to work in the U.S. now, so I fit your visa list. W2 is fine for this role. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

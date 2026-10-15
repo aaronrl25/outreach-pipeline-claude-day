@@ -1,0 +1,20 @@
+To: davizotech@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Davizo_React_Native_Technical_Lead.pdf
+Subject: React Native Technical Lead – Retail – Atlanta, GA – Aaron Ramirez (C2C)
+
+Hi Nidhi,
+
+I saw your post for the React Native Technical Lead (Retail, Capgemini / Tropical Smoothie, Atlanta onsite, C2C) and would like to be considered. My tailored resume is attached.
+
+- 6+ years of hands-on React Native on iOS and Android, 10+ years in software overall, leading mobile teams at Walmart Global Tech (500K+ daily users) and HCSC (1M+ members).
+- Owns architecture, coding standards, and production support: crash and log analysis with Dynatrace, root-cause fixes that reached 99.9% crash-free sessions, release engineering through App Store Connect and Google Play with feature flags and phased rollouts.
+- Native modules and bridging (Swift/Kotlin), secure auth and token handling, push, deep links, payments and analytics SDKs; Jest, Detox, Appium; CI/CD pipelines.
+- Mentors onshore and offshore engineers and coordinates with product, backend, QA, DevOps, and security through releases and hypercare.
+- Open to 100% onsite in Atlanta.
+
+I'm on a TN visa with valid U.S. work authorization and available on C2C; glad to discuss the rate. Ready for technical interviews this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

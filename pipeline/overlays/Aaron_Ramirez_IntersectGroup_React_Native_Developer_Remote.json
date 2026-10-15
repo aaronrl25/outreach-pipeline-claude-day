@@ -1,0 +1,32 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_IntersectGroup_React_Native_Developer_Remote",
+ "tagline": "React Native Developer  ·  Android & iOS  ·  TypeScript, Redux, REST / GraphQL  ·  Remote",
+ "location": "Remote (U.S.)  ·  Long-Term Contract (C2C or W2)",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years developing, enhancing, and maintaining production React Native applications for Android and iOS at Walmart Global Tech, IBM/AEP, and HCSC, including retail store, fulfillment, and inventory apps used by 500K+ associates daily. Establishes technical foundations for new mobile initiatives: architecture, state management, native module integration (Kotlin/Swift), offline sync, and CI/CD release pipelines to Google Play and the App Store. Works closely with staff engineers and cross-functional teams, contributes to architectural decisions, and delivers independently from requirements in long-term remote engagements.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · Android & iOS",
+   "Native Android Modules (Kotlin) & Platform APIs"
+  ],
+  [
+   "Mobile App Architecture from Scratch",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux Toolkit, Zustand, React Navigation",
+   "REST / GraphQL Integration, Offline Sync"
+  ],
+  [
+   "Independent Delivery from Requirements",
+   "Collaboration with Staff Engineers & Cross-Functional Teams"
+  ],
+  [
+   "Expo / EAS, GitHub Actions, Azure DevOps CI/CD",
+   "Jest, Detox, Dynatrace Crash Analytics"
+  ]
+ ],
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), Android (Kotlin native modules, Gradle, Play Console) & iOS (Swift modules, App Store Connect), React Navigation, Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline-first sync, performance profiling for low-end devices"
+ }
+}
