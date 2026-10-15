@@ -1003,7 +1003,7 @@
   "fit": "Medium (React match; relocation needed; salary low; TN not on list)",
   "resume": "Aaron_Ramirez_Datadot_Senior_React_Frontend_Developer.pdf",
   "msg": "messages/42_datadot.txt",
-  "status": "SENT 2026-10-14 22:53 PT (in Gmail Sent, PDF attached); REPLIED 2026-10-15 05:48 PT (Vishal asked W-2 + visa/sponsorship); answered 2026-10-15 09:41 PT via Gmail (W-2 yes, TN valid to 2029-12-19, no H-1B sponsorship); Aaron replied to Vishal 09:26 PT with attachment (RTR); 2026-10-15 09:48 PT Vishal: client range $80K–$115K + benefits, cannot match $150–180K; asks whether to proceed (Aaron's call)",
+  "status": "SENT 2026-10-14 22:53 PT (in Gmail Sent, PDF attached); REPLIED 2026-10-15 05:48 PT (Vishal asked W-2 + visa/sponsorship); answered 2026-10-15 09:41 PT via Gmail (W-2 yes, TN valid to 2029-12-19, no H-1B sponsorship); Aaron replied to Vishal 09:26 PT with attachment (RTR); 2026-10-15 09:48 PT Vishal: client range $80K–$115K + benefits, cannot match $150–180K; asks whether to proceed (Aaron's call); Aaron accepted $80–115K range 10:08 PT ('Yes let's do it'); Vishal sent RTR U202876 10:12 PT (Aaron handling)",
   "src": "LinkedIn post"
  },
  {
@@ -1421,7 +1421,7 @@
   "fit": "Good (C#/.NET + React + Azure + GenAI); relocation stated",
   "resume": "Aaron_Ramirez_TekCommands_DotNet_Developer_React_Azure_AI.pdf",
   "msg": "messages/57_tekcommands.txt",
-  "status": "SENT 2026-10-15 11:06 PT (Mensaje enviado, PDF attached)",
+  "status": "SENT 2026-10-15 11:06 PT (Mensaje enviado, PDF attached); REPLIED 2026-10-15 10:08 PT Chandra: max $45/hr W2, onsite Alpharetta, wants interest ASAP (Aaron's call)",
   "src": "LinkedIn post"
  },
  {
@@ -1442,5 +1442,24 @@
   "msg": "messages/58_idsglobal.txt",
   "status": "SENT 2026-10-15 11:06 PT (pending Gmail Sent check)",
   "src": "LinkedIn post"
+ },
+ {
+  "company": "Procorp Systems",
+  "role": "Senior React Developer (12 yrs asked)",
+  "loc": "Rutherford, NJ (work); F2F in Irving TX / Tampa FL / Rutherford NJ",
+  "arr": "Onsite",
+  "type": "C2C",
+  "pay": "Not listed",
+  "posted": "2026-10-12 (LinkedIn post, pasted by Aaron 2026-10-15)",
+  "skills": "React (no detail in post)",
+  "visa": "H1B and H4 EAD only; TN asked",
+  "recruiter": "Sunitha K (Procorp Systems)",
+  "contact": "sunitha@procorpsystems.com · in post",
+  "link": "LinkedIn post (screenshot from Aaron)",
+  "fit": "Good (same Rutherford NJ Senior React req as AlphaSilicon #?, different vendor); visa list omits TN",
+  "resume": "Aaron_Ramirez_Procorp_Senior_React_Developer_Rutherford.pdf",
+  "msg": "messages/59_procorp.txt",
+  "status": "SENT 2026-10-15 by Aaron himself (resume Aaron_Ramirez_Procorp_Senior_React_Developer_Rutherford.pdf); Claude draft discarded",
+  "src": "LinkedIn post (Aaron)"
  }
 ]
