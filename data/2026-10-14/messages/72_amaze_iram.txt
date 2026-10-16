@@ -1,0 +1,19 @@
+To: iram.n@amazesystemsinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Amaze_Mobile_Architect_iOS_Android_AI.pdf
+Subject: Mobile Architect – iOS / Android / AI (Remote) – Aaron Ramirez
+
+Hi Iram,
+
+I saw your LinkedIn post for the remote Mobile Architect (iOS / Android / AI) role and would like to be considered. My tailored resume is attached.
+
+- 10+ years in software engineering and 6+ years architecting high-volume e-commerce and enterprise mobile apps across iOS and Android at Walmart Global Tech (Seller Center and store apps, 500K+ daily users), HCSC (1M+ members), and IBM/AEP: MVVM and Clean Architecture, React Native with native Swift and Kotlin modules, App Store Connect and Google Play publishing with phased rollouts, and mobile CI/CD, testing, and observability (99.9% crash-free sessions).
+- AI-driven SDLC in practice: GitHub Copilot, Claude Code, and Cursor standards, automation, review guardrails, and AI-generated test coverage; distributed systems behind the apps (REST/GraphQL APIs, event-driven integrations, offline sync); staff-level technical leadership and mentoring across product, backend, QA, DevOps, and security teams.
+
+Location: San Francisco Bay Area, remote. Available on W2 or C2C.
+
+Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

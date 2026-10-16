@@ -1,0 +1,19 @@
+To: Saloni@rapscorp.com
+Attach: ~/Desktop/Aaron_Ramirez_Resume_Senior_ReactJS.pdf
+Subject: React Developer – Jersey City, NJ (Hybrid) – Aaron Ramirez (9+ yrs)
+
+Hi Saloni,
+
+I'd like to apply for the React Developer position in Jersey City. My resume is attached.
+
+- 9+ years of software development with React.js, TypeScript, HTML5/CSS, and JavaScript at the core.
+- Strong Redux and state-management background; experienced consuming REST APIs in client-server architectures.
+- Recent enterprise work at Walmart Global Tech, IBM/AEP, and HCSC.
+- Available for the hybrid schedule (3 days onsite).
+
+Happy to connect this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25

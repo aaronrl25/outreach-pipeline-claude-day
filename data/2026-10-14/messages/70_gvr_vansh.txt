@@ -1,0 +1,19 @@
+To: vansh.tyagi@gvrinfotek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_GVR_Lead_Node_Engineer_React_Livingston.pdf
+Subject: Lead Node Engineer – Livingston, NJ (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Vansh,
+
+I saw your LinkedIn post for the Lead Node Engineer role in Livingston, NJ (hybrid) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of software development (8+ years JavaScript/TypeScript, Node.js and React) at Walmart Global Tech, IBM/AEP, and HCSC: scalable backend services and REST APIs in Node.js, distributed-systems patterns (queues, event-driven workflows, caching), SQL and NoSQL stores (PostgreSQL, MongoDB, Redis), and solid React front ends.
+- CI/CD with Docker and Jenkins / GitHub Actions, automated testing and TDD (Jest, Supertest, Cypress), production troubleshooting and performance optimization; lead of teams of 5–7 engineers, including payment flows at Walmart Seller Center.
+
+Current location: San Francisco Bay Area; relocating to the Livingston, NJ area for the hybrid schedule and attending the in-person interview is fine with me. LinkedIn: linkedin.com/in/aaronsoftware.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

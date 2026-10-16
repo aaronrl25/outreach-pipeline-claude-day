@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Lead_Full_Stack_Developer_Python_Angular",
+ "tagline": "Lead Full Stack Developer  ·  Angular 17+ / TypeScript / RxJS & Signals  ·  Python, FastAPI, Pydantic, SQLAlchemy  ·  AWS, Kubernetes (EKS), PostgreSQL",
+ "location": "San Francisco Bay Area (PST)  ·  100% Remote  ·  Contract (C2C), long term",
+ "summary": "Lead Full Stack Developer with 10+ years of product engineering and technical leadership at Walmart Global Tech, IBM/AEP, and HCSC (regulated healthcare). Front end in Angular 17+ with TypeScript, RxJS and signals, NgRx state management, typed Reactive Forms, and real-time UI patterns (WebSockets, streaming updates); back end in Python with FastAPI, Pydantic models, SQLAlchemy ORM, asynchronous processing, and complex business logic over PostgreSQL. Designs system architecture for scalability and performance (CPU/memory profiling, async workloads, caching), deploys on AWS with Kubernetes/EKS, Docker, and CI/CD pipelines, and leads teams of 5–7 engineers through fast-paced implementation and transition programs. React expert as a second framework; Claude Code, GitHub Copilot, and Cursor in daily use.",
+ "core_skills": [
+  [
+   "Angular 17+ (18/19), TypeScript, RxJS, Signals",
+   "Python, FastAPI, Pydantic, SQLAlchemy, Async"
+  ],
+  [
+   "NgRx State Management, Typed Reactive Forms",
+   "Real-Time UI Patterns (WebSockets, Streaming)"
+  ],
+  [
+   "System Architecture, Scalability, Performance Tuning",
+   "PostgreSQL / SQL, Redis, Data Modeling"
+  ],
+  [
+   "AWS, Kubernetes / EKS, Docker, CI/CD Pipelines",
+   "Regulated Domains: Healthcare (HCSC), Retail Payments"
+  ],
+  [
+   "Technical Leadership, Mentoring, Code Review",
+   "AI-Assisted Development: Claude Code, GitHub Copilot, Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 17+ (standalone components, signals, typed Reactive Forms), TypeScript, RxJS, NgRx, Angular Material; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG)",
+  "APIs & Backend:": "Python (FastAPI, Flask, Pydantic, SQLAlchemy, asyncio, Celery), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (EKS, ECS/Fargate, Lambda, RDS, S3, CloudFront), Kubernetes, Docker, Helm, GitHub Actions, Jenkins, Azure DevOps, Dynatrace",
+  "Testing & Quality:": "PyTest, Jasmine/Karma, Jest, Cypress, Playwright; code review, performance profiling, CPU/memory analysis"
+ }
+}

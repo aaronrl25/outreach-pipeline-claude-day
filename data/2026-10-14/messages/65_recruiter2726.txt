@@ -1,0 +1,19 @@
+To: recruiter2726@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_Full_Stack_Developer_Python_Angular.pdf
+Subject: Lead Full Stack Developer – Python & Angular (100% Remote) – Aaron Ramirez (C2C)
+
+Hi,
+
+I saw your posting on the C2C/Hotlist Requirement Posting group for the Lead Full Stack Developer (Python & Angular, 100% remote) role and would like to be considered. My updated resume is attached.
+
+- 10+ years of full stack product engineering and technical leadership at Walmart Global Tech, IBM/AEP, and HCSC (regulated healthcare): Angular 17+ with TypeScript, RxJS and signals, NgRx, typed Reactive Forms, and real-time UI patterns on the front end; Python with FastAPI, Pydantic, SQLAlchemy, and asynchronous processing over PostgreSQL on the back end.
+- System architecture, scalability and performance work (CPU/memory profiling, async workloads, caching) on AWS with Kubernetes/EKS, Docker, and CI/CD pipelines; teams of 5–7 engineers led through fast-paced implementation and transition programs; Claude Code, GitHub Copilot, and Cursor in daily use.
+
+Current location: San Francisco Bay Area (PST hours). Availability: immediate.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

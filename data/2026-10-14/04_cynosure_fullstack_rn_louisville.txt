@@ -1,0 +1,19 @@
+To: mm@cynosuretechnologies.com
+Attach: ~/Desktop/Aaron_Ramirez_Resume_ReactNative_Mobile_Dallas_Louisville.pdf
+Subject: Full Stack Developer (Vue/Node + React Native) – Louisville, KY – Aaron Ramirez
+
+Hi Manohar,
+
+I saw your Louisville full-stack post and would like to be considered. My resume is attached.
+
+- 6+ years of hands-on React Native mobile development on iOS and Android, 9+ years in software overall.
+- Node.js backends and Vue.js front ends in production, plus GraphQL/REST and offline storage.
+- Daily use of AI coding assistants (Claude Code, Cursor).
+- Open to onsite in Louisville.
+
+Glad to talk whenever works for you.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25

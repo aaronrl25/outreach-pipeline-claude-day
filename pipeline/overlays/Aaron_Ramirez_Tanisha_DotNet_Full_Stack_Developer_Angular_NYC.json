@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Tanisha_DotNet_Full_Stack_Developer_Angular_NYC",
+ "tagline": "Full Stack Developer  ·  C# / .NET Core, ASP.NET, Angular, TypeScript  ·  Payment Platforms, MS SQL, RESTful APIs",
+ "location": "Open to hybrid in New York City (relocating to the NY/NJ area is fine)  ·  Long-Term Contract (C2C or W2)",
+ "summary": "Full Stack Developer with 10+ years delivering enterprise and payment-facing software for Walmart Global Tech (Seller Center payments and payouts), IBM/AEP, and HCSC. C# / .NET (ASP.NET Core, .NET Framework, Web API, Entity Framework) services with extensive Angular front-end development (TypeScript, RxJS, NgRx, reactive forms); relational databases on MS SQL Server and PostgreSQL with SQL tuning; RESTful API design and integration. Solid object-oriented design, design patterns, and best practices; disciplined unit testing and mocking (xUnit/NUnit, Moq, Jasmine, Jest), refactoring, Git versioning, and Agile delivery from solution design through implementation, production launch, and developer support including reporting tasks. React expert as a second framework; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET Core & .NET Framework, ASP.NET, Web API",
+   "Angular, TypeScript, RxJS, NgRx, Reactive Forms"
+  ],
+  [
+   "MS SQL Server, T-SQL, PostgreSQL, Entity Framework",
+   "RESTful API Design & Integration"
+  ],
+  [
+   "Object-Oriented Design, Design Patterns, SOLID",
+   "Unit Testing & Mocking: xUnit/NUnit, Moq, Jasmine, Jest"
+  ],
+  [
+   "Payment Platforms, Production Launches, Developer Support",
+   "Agile/Scrum, Refactoring, Git, Code Review"
+  ],
+  [
+   "React.js (Expert) & Node.js",
+   "AI-Assisted Development: GitHub Copilot, Claude Code"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET (ASP.NET Core, Web API, Entity Framework), REST APIs, microservices, Node.js/Express, Java / Spring Boot, SQL Server, PostgreSQL, MongoDB",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material), React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps (pipelines, releases, boards), AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

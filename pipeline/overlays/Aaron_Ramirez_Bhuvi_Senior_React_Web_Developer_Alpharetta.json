@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Senior React Web Developer  ·  9+ Years Front-End  ·  SPAs, TypeScript, Redux, HTML5/CSS3, REST APIs",
+ "location": "Open to onsite in Alpharetta, GA (relocating is fine; available for F2F interview)  ·  Contract (C2C)",
+ "summary": "Senior React Web Developer with 10+ years of front-end development, 9+ of them building React-based single page applications and rich internet applications for Walmart Global Tech, IBM/AEP, and HCSC. Expert in object-oriented JavaScript, TypeScript, HTML5, CSS3, AJAX, and the DOM API, with React, Redux, Node.js, and Angular experience and build tooling from Webpack and Vite to Gulp. Applies design patterns and clean code structure, continuous integration and deployment, and works effectively with PMO, product management, business, infrastructure, and architecture teams; drafts architecture diagrams, specifications, and design documents. B.S. in Computer Systems Engineering.",
+ "core_skills": [
+  [
+   "React (9+ yrs), Redux, Hooks, TypeScript",
+   "Single Page & Rich Internet Applications"
+  ],
+  [
+   "Object-Oriented JavaScript, HTML5, CSS3, AJAX, DOM API",
+   "Angular (TypeScript, RxJS), Node.js, jQuery"
+  ],
+  [
+   "REST / JSON / SOAP APIs, Web Technologies",
+   "Webpack, Vite, Gulp Build Systems"
+  ],
+  [
+   "Design Patterns, Code Structure, CI/CD",
+   "Architecture Diagrams, Specs & Design Documents"
+  ],
+  [
+   "Cross-Team Collaboration (PMO, Product, Infrastructure)",
+   "Jest, React Testing Library, Cypress"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular (TypeScript, RxJS), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, jQuery, HTML5, CSS3, AJAX, DOM API, Webpack, Vite, Gulp, Tailwind, design systems, accessibility (WCAG)"
+ },
+ "name": "Aaron_Ramirez_Bhuvi_Senior_React_Web_Developer_Alpharetta"
+}

@@ -1,0 +1,41 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_GVR_Lead_Node_Engineer_React_Livingston",
+ "tagline": "Lead Node.js Engineer  ·  Node.js, TypeScript, React  ·  Scalable REST Services, Distributed Systems, Docker / Jenkins CI/CD, TDD",
+ "location": "Open to hybrid in Livingston, NJ (relocating to the NJ area is fine)  ·  Long-Term Contract (C2C)",
+ "summary": "Lead Node.js Engineer with 10+ years of software development (8+ years JavaScript/TypeScript, Node.js and React) at Walmart Global Tech, IBM/AEP, and HCSC. Designs and leads scalable backend services and REST APIs in Node.js/TypeScript with distributed-systems patterns (queues, event-driven workflows, caching, idempotency), SQL and NoSQL data stores (PostgreSQL, MongoDB, Redis), and solid React front ends. Owns CI/CD pipelines with Docker and Jenkins/GitHub Actions, automated testing and TDD (Jest, Supertest, Cypress), code quality practices, production troubleshooting, and performance optimization; leads teams of 5–7 engineers in Agile/Scrum delivery, including fintech-grade payment flows at Walmart Seller Center.",
+ "core_skills": [
+  [
+   "Node.js / TypeScript (Express, Fastify), Event Loop, Clustering",
+   "React.js, Redux Toolkit, Modern JavaScript"
+  ],
+  [
+   "Scalable Backend Services & REST APIs",
+   "Distributed Systems, Event-Driven Architecture, Caching"
+  ],
+  [
+   "PostgreSQL / SQL, MongoDB, Redis",
+   "CI/CD: Docker, Jenkins, GitHub Actions"
+  ],
+  [
+   "Automated Testing, TDD: Jest, Supertest, Cypress",
+   "Production Troubleshooting & Performance Optimization"
+  ],
+  [
+   "Technical Leadership, Code Quality, Mentoring",
+   "Agile / Scrum, Fintech & Payments Domain"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js / TypeScript (Express, Fastify), RESTful APIs, middleware, microservices, GraphQL, WebSockets/Socket.IO, MongoDB (Mongoose, aggregation), PostgreSQL, Redis, Java / Spring Boot",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, S3, SNS, SQS, Kinesis, ECS/Fargate, CloudFront, SES, CloudFormation, RDS), Azure (App Service, DevOps); GitHub Actions, Jenkins, Docker, Dynatrace"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Tech Lead"
+  },
+  "1": {
+   "title": "Senior Software Engineer · Team Lead"
+  }
+ }
+}
