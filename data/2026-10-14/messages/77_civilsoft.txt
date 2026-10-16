@@ -1,0 +1,19 @@
+To: Shubham.sainik@civilsoftinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_CivilSoft_Web_Application_Developer_Angular_Python.pdf
+Subject: Web Application Developer (Angular / Python / SQL) – Detroit, MI – Aaron Ramirez (C2C)
+
+Hi Shubham,
+
+I saw your LinkedIn post for the Web Application Developer role in Detroit, MI (hybrid, Angular / Python / SQL) and would like to be considered. My tailored resume is attached. LinkedIn: linkedin.com/in/aaronsoftware.
+
+- 10+ years of hands-on web application development for Walmart Global Tech, IBM/AEP, and HCSC: Angular (TypeScript, RxJS, NgRx, reactive forms, Angular Material) front ends with Python back ends (FastAPI, Flask, SQLAlchemy ORM) and SQL database design, querying, and integration over PostgreSQL and SQL Server.
+- RESTful API design and integration, AWS/Azure deployments with Docker and CI/CD, test coverage with PyTest, Jasmine/Karma, Jest, and Cypress; experience in regulated enterprise and healthcare environments.
+
+Location: relocating to Detroit for the three-day onsite schedule is fine with me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

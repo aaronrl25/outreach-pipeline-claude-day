@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_CivilSoft_Web_Application_Developer_Angular_Python",
+ "tagline": "Web Application Developer  ·  Angular, TypeScript, RxJS  ·  Python (FastAPI, Flask), SQL / PostgreSQL, REST APIs",
+ "location": "Open to hybrid in Detroit, MI (relocating is fine)  ·  Contract (C2C)",
+ "summary": "Web Application Developer with 10+ years of hands-on web development for Walmart Global Tech, IBM/AEP, HCSC, and public-sector-grade regulated environments. Front end in Angular (TypeScript, RxJS, NgRx, reactive forms, Angular Material); back end in Python (FastAPI, Flask, SQLAlchemy ORM) with SQL database design, querying, and integration over PostgreSQL and SQL Server; RESTful API design and integration. Ships on AWS and Azure with Docker and CI/CD pipelines, keeps quality high with PyTest, Jasmine/Karma, Jest, and Cypress, and works directly with product owners and stakeholders in Agile delivery. React expert as a second framework.",
+ "core_skills": [
+  [
+   "Angular, TypeScript, RxJS, NgRx, Reactive Forms",
+   "Python: FastAPI, Flask, SQLAlchemy ORM"
+  ],
+  [
+   "SQL: PostgreSQL, SQL Server, Query Design & Integration",
+   "RESTful API Design & Integration"
+  ],
+  [
+   "HTML5, CSS3/SCSS, Angular Material, Responsive UI",
+   "AWS / Azure, Docker, CI/CD Pipelines"
+  ],
+  [
+   "PyTest, Jasmine/Karma, Jest, Cypress",
+   "Regulated / Enterprise Environments (Healthcare, Retail)"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "React & Next.js (Expert, secondary)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 17+ (standalone components, signals, typed Reactive Forms), TypeScript, RxJS, NgRx, Angular Material; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG)",
+  "APIs & Backend:": "Python (FastAPI, Flask, Pydantic, SQLAlchemy, asyncio, Celery), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (EKS, ECS/Fargate, Lambda, RDS, S3, CloudFront), Kubernetes, Docker, Helm, GitHub Actions, Jenkins, Azure DevOps, Dynatrace",
+  "Testing & Quality:": "PyTest, Jasmine/Karma, Jest, Cypress, Playwright; code review, performance profiling, CPU/memory analysis"
+ }
+}

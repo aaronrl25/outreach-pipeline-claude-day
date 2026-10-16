@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Cloudtek_AI_Full_Stack_Azure_Remote",
+ "tagline": "AI Full Stack Engineer  ·  Python FastAPI, React / TypeScript, Azure  ·  Multi-Agent Workflows, Anthropic Claude API, LLM Integration",
+ "location": "San Francisco Bay Area  ·  Remote  ·  Contract (C2C or W2), 12+ months",
+ "summary": "Full Stack Engineer with 10+ years in software engineering, TypeScript/React as a primary skill, and production experience building and operating LLM-based applications: shipped a GenAI assistant streaming Claude API / LangChain responses through middleware for Walmart's marketplace platform, and integrated Azure AI Services for field-note summarization and classification at IBM/American Electric Power. Delivers features from requirement through peer-reviewed PR, test, and release inside Azure DevOps pipelines, and owns production support across severity levels with Dynatrace and Azure monitoring. Hands-on with Python FastAPI services, PostgreSQL, Docker, Key Vault and managed identity patterns on Azure, and regulated, PR-gated environments (HIPAA at HCSC). U.S. based; multi-agent workflows in production: intent routing, product Q&A over retrieval, scheduling and tool-calling agents with the Anthropic Claude API and Azure OpenAI.",
+ "core_skills": [
+  [
+   "React / TypeScript Front Ends (Primary)",
+   "Python FastAPI & Node.js REST APIs"
+  ],
+  [
+   "LLM Apps: Claude API, Azure OpenAI, LangChain, RAG",
+   "Multi-Agent Workflows: Intent Routing, Q&A, Scheduling"
+  ],
+  [
+   "Azure: Container Apps, DevOps YAML Pipelines, Key Vault, Managed Identity",
+   "Observability: Application Insights, Dynatrace, Azure Monitor"
+  ],
+  [
+   "Microsoft Entra ID / MSAL & OAuth 2.0 Auth Flows",
+   "Production Support (Sev 1–4), Incident Resolution"
+  ],
+  [
+   "Regulated Environments, Change Governance, PR-Gated Releases",
+   "Integrations: Microsoft Graph, Salesforce, REST/GraphQL"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Python FastAPI, Node.js/Express, TypeScript, Claude API, Azure OpenAI, LangChain, RAG and Markdown knowledge retrieval, REST, GraphQL, WebSockets, PostgreSQL, MongoDB, Redis, message queues",
+  "Cloud & CI/CD:": "Azure (Container Apps, App Service, DevOps YAML pipelines, Bicep basics, Key Vault, Managed Identity, Application Insights, Log Analytics, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

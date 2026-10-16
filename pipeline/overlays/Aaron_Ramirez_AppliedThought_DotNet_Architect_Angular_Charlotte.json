@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_AppliedThought_DotNet_Architect_Angular_Charlotte",
+ "tagline": ".NET Architect  ·  C# / .NET Core & .NET Framework, Angular, TypeScript  ·  Oracle & SQL Server, ETL / Data Integration, Full Stack Architecture",
+ "location": "Open to Charlotte, NC (relocating is fine)  ·  Contract (W2 or C2C)",
+ "summary": "Hands-on .NET Architect with 10+ years delivering enterprise full stack applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs and builds C# / .NET Core and .NET Framework services (ASP.NET Core, Web API, Entity Framework) with Angular front ends (TypeScript, RxJS, NgRx), relational data on Oracle Database and SQL Server (schema design, stored procedures, query tuning), and ETL / data integration pipelines between enterprise systems (SAP, utility field systems, healthcare claims). Sets architecture standards, leads teams of 5–7 engineers through code review and release, hosts on Microsoft Azure and AWS with CI/CD, and communicates clearly with technical and business stakeholders. React expert as a second framework; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET Core & .NET Framework, ASP.NET Core, Web API",
+   "Angular, TypeScript, RxJS, NgRx, Reactive Forms"
+  ],
+  [
+   "Oracle Database & SQL Server: Schema, PL/SQL & T-SQL, Tuning",
+   "ETL & Data Integration Pipelines, Enterprise Integrations"
+  ],
+  [
+   "Full Stack Architecture, Design Patterns, SOLID",
+   "Microsoft Azure, AWS, Azure DevOps CI/CD"
+  ],
+  [
+   "Technical Leadership, Architecture Standards, Code Review",
+   "Unit Testing: xUnit/NUnit, Jasmine, Jest, Cypress"
+  ],
+  [
+   "React.js (Expert) & Node.js",
+   "AI-Assisted Development: GitHub Copilot, Claude Code"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Core & .NET Framework (ASP.NET Core, Web API, Entity Framework, Dapper), REST APIs, microservices, ETL / data integration (SSIS-style pipelines, Python), Oracle Database (PL/SQL), SQL Server (T-SQL), PostgreSQL, Node.js, Java / Spring Boot",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material), React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps (pipelines, releases, boards), AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

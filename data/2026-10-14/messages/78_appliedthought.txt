@@ -1,0 +1,17 @@
+To: dharani@theappliedthought.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AppliedThought_DotNet_Architect_Angular_Charlotte.pdf
+Subject: .NET Architect (Angular / Oracle / SQL Server) – Charlotte, NC – Aaron Ramirez
+
+Hi Dharani,
+
+I saw your LinkedIn post for the .NET Architect role in Charlotte, NC and would like to be considered. My tailored resume is attached. Details requested: LinkedIn linkedin.com/in/aaronsoftware; current location San Francisco Bay Area, relocating to Charlotte is fine with me; rate open to discussion.
+
+- 10+ years delivering enterprise full stack applications for Walmart Global Tech, IBM/AEP, and HCSC: C# / .NET Core and .NET Framework services (ASP.NET Core, Web API, Entity Framework) with Angular front ends (TypeScript, RxJS, NgRx), relational data on Oracle Database and SQL Server, and ETL / data integration pipelines between enterprise systems.
+- Architecture ownership: standards, design patterns, code review, and release leadership for teams of 5–7 engineers on Microsoft Azure and AWS with CI/CD.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

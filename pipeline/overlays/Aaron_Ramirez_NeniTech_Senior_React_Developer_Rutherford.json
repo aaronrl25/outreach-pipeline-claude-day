@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Senior React Developer  ·  React JS Ecosystem, TypeScript, Redux  ·  Agile Delivery & Code Quality",
+ "location": "Open to onsite from day 1 in Rutherford, NJ (relocating is fine; immediate start)  ·  Contract (C2C)",
+ "summary": "Senior React Developer with 10+ years of experience designing, developing, and maintaining high-quality React JS applications for Walmart Global Tech, IBM/AEP, and HCSC. Deep command of the React ecosystem: TypeScript, Hooks, Redux and Redux Toolkit, React Router, and React Query, plus modern front-end tooling (Vite, Webpack, Storybook). Collaborates with cross-functional teams to prioritize requirements, troubleshoots and resolves production issues efficiently, and raises code quality through structured code reviews and Jest / React Testing Library coverage above 80%, all inside Agile/Scrum delivery with Git-based workflows.",
+ "core_skills": [
+  [
+   "React JS & Ecosystem (Expert)",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, Context API",
+   "Front-End Frameworks & Libraries (Next.js, MUI, Tailwind)"
+  ],
+  [
+   "Troubleshooting & Production Support",
+   "Code Review & Quality Standards"
+  ],
+  [
+   "REST / GraphQL Integration",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Agile/Scrum, Git/GitHub Workflows",
+   "Cross-Functional Collaboration & Communication"
+  ]
+ ],
+ "name": "Aaron_Ramirez_NeniTech_Senior_React_Developer_Rutherford"
+}

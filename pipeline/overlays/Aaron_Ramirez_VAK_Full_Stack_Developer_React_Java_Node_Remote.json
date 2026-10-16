@@ -1,0 +1,63 @@
+{
+ "base": "web",
+ "tagline": "Full Stack Developer  ·  React / TypeScript, Java / Spring Boot, Node.js / Express  ·  REST APIs, SQL & NoSQL, Agile Delivery",
+ "location": "San Francisco Bay Area  ·  Remote  ·  12-Month W2 Contract",
+ "summary": "Full Stack Developer with 10+ years designing, developing, testing, deploying, and maintaining end-to-end web applications for Walmart Global Tech, IBM/AEP, and HCSC: reusable, responsive React / TypeScript components (HTML5, CSS3) on top of scalable backend services and RESTful APIs in Java / Spring Boot and Node.js / Express. Integrates front ends with APIs, databases (PostgreSQL, SQL Server, MongoDB), authentication services, and third-party systems; writes clean, secure, well-tested code with JUnit, Jest, React Testing Library, and Cypress; performs root-cause analysis and performance tuning; and collaborates with product owners, UX, architects, QA, and DevOps in Agile delivery cycles.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert), HTML5, CSS3",
+   "Java / Spring Boot & Node.js / Express"
+  ],
+  [
+   "RESTful APIs, Microservices, Third-Party Integrations",
+   "SQL & NoSQL: PostgreSQL, SQL Server, MongoDB"
+  ],
+  [
+   "Authentication (OAuth2 / JWT), Secure Coding",
+   "Unit & Integration Tests: JUnit, Jest, RTL, Cypress"
+  ],
+  [
+   "Root-Cause Analysis, Performance Optimization",
+   "CI/CD, Docker, AWS / Azure"
+  ],
+  [
+   "Agile/Scrum, Code Review, Technical Design",
+   "Claude Code, GitHub Copilot (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST web services, JUnit; Node.js/Express, GraphQL, WebSockets, PostgreSQL, MongoDB, SAP integration",
+  "Testing & Quality:": "JUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded full stack development for Walmart's Seller Center vendor portal (billions in annual GMV): Java / Spring Boot REST microservices and a React / TypeScript front end; designed service contracts, integrated with marketplace backend systems, and set architecture standards and code review protocols for a squad of 6+ engineers.",
+    "Built and maintained REST endpoints and shared service modules consumed across 3 product teams, with API documentation, integration tests, and performance profiling that reduced redundant implementation work and accelerated sprint delivery.",
+    "Drove AI-assisted development with Claude Code and GitHub Copilot: scaffolding, test generation, and refactoring across the React and Spring Boot codebases."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's full stack field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST, delivering data-entry and dispatch workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization (OAuth2 / JWT) across the React front end and Spring Boot services; improved end-to-end response time by 40% through API payload optimization, caching, code splitting, and state architecture refactoring.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  },
+  "2": {
+   "bullets": [
+    "Delivered full stack features for Walmart's warehouse management system (500K+ daily active associates): Java / Spring Boot REST endpoints and React / React Native associate UI; drove architecture decisions across the service and UI codebase.",
+    "Designed Jest and React Testing Library unit testing infrastructure, increasing coverage to 80%+ and reducing production regression incidents by 35%.",
+    "Optimized load time by 40% via network request batching, API response caching, bundle optimization, and list virtualization."
+   ]
+  },
+  "5": {
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, on Java / Spring Boot services; led a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing native apps, reducing new-feature integration time by 60%.",
+    "Contributed reusable component libraries and performance-optimized React modules to the Spark Driver and Dispense platforms."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_VAK_Full_Stack_Developer_React_Java_Node_Remote"
+}

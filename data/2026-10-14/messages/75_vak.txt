@@ -1,0 +1,19 @@
+To: Mani@vakconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VAK_Full_Stack_Developer_React_Java_Node_Remote.pdf
+Subject: Full Stack Developer (React / Java / Node.js) – Remote W2 – Aaron Ramirez
+
+Hi Mani,
+
+I saw your LinkedIn post for the remote Full Stack Developer role (React, Java, Node.js; 12-month W2 contract) and would like to be considered. My tailored resume is attached.
+
+- 10+ years designing, developing, testing, deploying, and maintaining end-to-end web applications for Walmart Global Tech, IBM/AEP, and HCSC: reusable, responsive React/TypeScript components with HTML5/CSS3 on top of RESTful services in Java / Spring Boot and Node.js / Express.
+- Integration with APIs, SQL and NoSQL databases (PostgreSQL, SQL Server, MongoDB), authentication services, and third-party systems; unit and integration tests with JUnit, Jest, React Testing Library, and Cypress; root-cause analysis and performance tuning; Agile delivery with product owners, UX, architects, QA, and DevOps.
+
+Location: San Francisco Bay Area, remote.
+
+Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

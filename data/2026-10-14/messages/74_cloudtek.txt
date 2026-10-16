@@ -1,0 +1,19 @@
+To: vick@cloudtekis.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Cloudtek_AI_Full_Stack_Azure_Remote.pdf
+Subject: AI Full Stack – Azure (Remote) – Aaron Ramirez (C2C / W2)
+
+Hi Vick,
+
+I saw your LinkedIn post for the remote AI Full Stack – Azure role (FastAPI backend, React/TypeScript frontend, multi-agent workflows) and would like to be considered. My tailored resume is attached. LinkedIn: linkedin.com/in/aaronsoftware (profile active since 2015).
+
+- 10+ years in software engineering at Walmart Global Tech, IBM/AEP, and HCSC with React/TypeScript as a primary skill and Python FastAPI services; shipped a production GenAI assistant on the Anthropic Claude API and LangChain for Walmart's marketplace platform and integrated Azure AI Services at AEP.
+- Multi-agent workflows in production: intent routing, product Q&A over retrieval, scheduling and tool-calling agents; Azure Container Apps, DevOps pipelines, Key Vault and managed identity, Application Insights and Dynatrace for production support.
+
+Location: San Francisco Bay Area, remote. Available for the interview round today or Monday.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
