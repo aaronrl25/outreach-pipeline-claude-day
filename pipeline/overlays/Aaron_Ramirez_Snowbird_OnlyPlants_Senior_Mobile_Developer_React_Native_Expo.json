@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "Senior Mobile Application Developer  ·  React Native, TypeScript, Expo / EAS  ·  iOS & Android",
+ "location": "Remote (US)  ·  Full-time",
+ "summary": "Senior Mobile Application Developer with 10+ years in software engineering and 6+ years shipping production React Native and TypeScript apps to the App Store and Google Play at Walmart Global Tech, IBM/AEP, HCSC, and an early-stage studio I co-founded. Hands-on with Expo and EAS build and submit, bare-workflow native modules in Swift and Kotlin, REST API integration, authentication and secure storage, push notifications, geolocation, and camera features for consumer apps. Owns features end to end: design handoff, implementation, Jest and Detox automated tests, GitHub pull-request review and CI checks, release, and production monitoring with Dynatrace for apps serving 500K+ daily users.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Expo / EAS Build & Submit, Bare Workflow",
+   "REST API Integration, Auth & Secure Storage"
+  ],
+  [
+   "Push Notifications, Geolocation, Camera / Image",
+   "State Management: Redux Toolkit, Zustand, Caching"
+  ],
+  [
+   "Jest, React Testing Library & Detox Testing",
+   "GitHub PRs, Code Review, GitHub Actions CI"
+  ],
+  [
+   "Native Modules (Swift / Kotlin), App Store & Google Play",
+   "AWS (Lambda, ECS, RDS, S3), Firebase, Dynatrace"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Snowbird_OnlyPlants_Senior_Mobile_Developer_React_Native_Expo"
+}
