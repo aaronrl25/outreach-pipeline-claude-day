@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_WWT_Lead_Developer_AI_Native_Engineering_Remote",
+ "tagline": "Lead Developer, AI-Native Engineering  ·  JavaScript / TypeScript, Node.js, React, Python  ·  AI Tooling Adoption, Enablement, Reference Architectures",
+ "location": "Remote (US)  ·  Full-time",
+ "summary": "Lead Developer with 10+ years of professional software development across JavaScript/TypeScript, Node.js, React, Java, Python, and C# stacks at Walmart Global Tech, IBM/AEP, and HCSC, plus a studio I co-founded. Hands-on with AI-native engineering: evaluates and adopts AI development tools (Claude Code, Cursor, GitHub Copilot), integrates LLMs in production (Anthropic Claude API, Azure OpenAI, LangChain, RAG, MCP servers), and builds proofs of concept and reusable reference implementations that teams adopt. Sets engineering standards, writes developer documentation and architecture guidance, mentors engineers through structured code review, and presents technical direction to senior stakeholders. Strong DevOps footing: CI/CD on GitHub Actions and Azure DevOps, automated testing, Docker, Kubernetes, and cloud-native architectures on AWS and Azure with PostgreSQL and MongoDB.",
+ "core_skills": [
+  [
+   "JavaScript / TypeScript, Node.js, React, Python",
+   "AI Dev Tools: Claude Code, Cursor, GitHub Copilot"
+  ],
+  [
+   "LLM Integration: Claude API, Azure OpenAI, LangChain, RAG, MCP",
+   "Proofs of Concept & Reference Architectures"
+  ],
+  [
+   "Engineering Standards, Documentation & Enablement",
+   "Mentoring, Code Review, Technical Direction"
+  ],
+  [
+   "DevOps: CI/CD (GitHub Actions, Azure DevOps), Automated Testing",
+   "Cloud-Native: AWS, Azure, Docker, Kubernetes"
+  ],
+  [
+   "SQL & NoSQL: PostgreSQL, MongoDB, Redis",
+   "Stakeholder Communication, Technical Presentations"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java / Spring Boot, Python FastAPI, C# / .NET (ASP.NET Core, Web API), Node.js/Express, TypeScript, Claude API, Azure OpenAI, LangChain, RAG, MCP servers, REST, GraphQL, PostgreSQL, MongoDB, Redis, Kafka",
+  "Cloud & CI/CD:": "Azure (Container Apps, App Service, DevOps YAML pipelines, Bicep basics, Key Vault, Managed Identity, Application Insights, Log Analytics, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

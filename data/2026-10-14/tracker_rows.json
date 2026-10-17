@@ -2829,5 +2829,43 @@
   "msg": "APPLICATION",
   "status": "NOT SENT (no longer accepting applications)",
   "src": "LinkedIn Jobs (forwarded)"
+ },
+ {
+  "company": "World Wide Technology (WWT)",
+  "role": "Lead Developer – AI Native Engineering (Req 26-2602)",
+  "loc": "Remote - Nationwide, US",
+  "arr": "Remote",
+  "type": "Full-time",
+  "pay": "$122,800 – $184,200",
+  "posted": "2026-10-17",
+  "skills": "7–10+ yrs, AI dev tooling adoption, PoCs, reference architectures, enablement, DevOps/CI/CD, cloud-native",
+  "visa": "Not stated",
+  "recruiter": "World Wide Technology (WWT)",
+  "contact": "ADP careers portal (myjobs.adp.com/wwtexternalcareersite)",
+  "link": "https://myjobs.adp.com/wwtexternalcareersite/cx/job-listing?keyword=AI%20Native%20Engineering",
+  "fit": "Strong fit",
+  "resume": "Aaron_Ramirez_WWT_Lead_Developer_AI_Native_Engineering_Remote.pdf",
+  "msg": "APPLICATION",
+  "status": "APPLIED 2026-10-17 (Application Complete confirmation)",
+  "src": "WWT careers (Aaron sent link)"
+ },
+ {
+  "company": "World Wide Technology (WWT)",
+  "role": "Developer – AI Native Engineering (Req 26-2601)",
+  "loc": "Remote - Nationwide, US",
+  "arr": "Remote",
+  "type": "Full-time",
+  "pay": "$82,400 – $123,600",
+  "posted": "2026-10-17",
+  "skills": "5+ yrs, JS/Node/Vue, Postgres/MongoDB, AI tooling, training content",
+  "visa": "Not stated",
+  "recruiter": "World Wide Technology (WWT)",
+  "contact": "ADP careers portal",
+  "link": "https://myjobs.adp.com/wwtexternalcareersite/cx/job-details?reqId=5001220293400",
+  "fit": "Already applied by Aaron before 2026-10-17",
+  "resume": "n/a",
+  "msg": "APPLICATION",
+  "status": "APPLIED (by Aaron earlier; portal shows Applied)",
+  "src": "WWT careers (Aaron sent link)"
  }
 ]
