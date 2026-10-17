@@ -1,0 +1,19 @@
+To: davidmyers@evolveesolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Evolve_React_Developer_Chicago_DirectHire.pdf
+Subject: React Developer – Chicago, IL (Direct Hire) – Aaron Ramirez
+
+Hi David,
+
+I saw your LinkedIn post listing the React Developer opening in Chicago, IL (W2, direct hire) and would like to be considered. My resume is attached.
+
+- 10+ years of experience (7+ years hands-on React) building scalable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: React, TypeScript, Redux, Next.js, TanStack Query, GraphQL and REST/OpenAPI integration, AWS-hosted platforms.
+- Reusable component architecture, design systems and micro-frontends, performance optimization, and quality through Jest, React Testing Library, Cypress, and Playwright with structured code reviews.
+
+Location: previously based in Chicago; relocating back for this role is fine with me.
+
+Open to full-time direct hire. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

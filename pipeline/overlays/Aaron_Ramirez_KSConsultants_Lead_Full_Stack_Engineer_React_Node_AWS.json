@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_KSConsultants_Lead_Full_Stack_Engineer_React_Node_AWS",
+ "tagline": "Lead Full Stack Engineer  ·  React.js / Next.js, Node.js / NestJS, TypeScript  ·  AWS Serverless (Lambda, API Gateway, Cognito, S3), PostgreSQL / Aurora, Kafka",
+ "location": "San Francisco Bay Area  ·  100% Remote  ·  1-Year Contract (C2C)",
+ "summary": "Lead Full Stack Engineer with 10+ years building and modernizing high-performance, cloud-native web platforms for Walmart Global Tech (marketplace and auction-style seller tooling), IBM/AEP, and HCSC. React.js and Next.js front ends on Node.js / NestJS / TypeScript services with REST APIs behind API Gateway and microservices on AWS serverless (Lambda, S3, Cognito), PostgreSQL / Aurora PostgreSQL data, and Apache Kafka / AWS MSK messaging. Owns CI/CD pipelines and serverless deployment strategies, performance and observability, and leads engineering teams of 5–7 through design reviews, code review, and mentoring.",
+ "core_skills": [
+  [
+   "React.js, Next.js, TypeScript, Redux Toolkit",
+   "Node.js, NestJS, Express, TypeScript APIs"
+  ],
+  [
+   "AWS Serverless: Lambda, API Gateway, Cognito, S3",
+   "PostgreSQL / Aurora PostgreSQL, Prisma, Schema Design"
+  ],
+  [
+   "Apache Kafka / AWS MSK, Event-Driven Microservices",
+   "REST APIs, Microservices, Auth (Cognito / OAuth2 / JWT)"
+  ],
+  [
+   "CI/CD & Serverless Deployment (GitHub Actions, SAM/CDK)",
+   "Testing: Jest, React Testing Library, Supertest, Cypress"
+  ],
+  [
+   "Technical Leadership, Code Review, Mentoring",
+   "AI-Assisted Development (Claude Code, Copilot)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, React Hooks, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, Fastify), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, PostgreSQL, Prisma ORM, MongoDB, Firebase, Java / Spring Boot",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, Cognito, S3, MSK/Kafka, ECS/Fargate, RDS/Aurora PostgreSQL, CloudFront, CloudFormation/CDK), Azure (App Service, DevOps); GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

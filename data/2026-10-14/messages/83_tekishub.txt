@@ -1,0 +1,19 @@
+To: shaik.mohammed@tekishub.us
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TekisHub_Platform_Engineer_Full_Stack_AI_Alpharetta.pdf
+Subject: Platform Engineer (Full Stack + AI Engineering) – Alpharetta, GA – Aaron Ramirez (C2C / W2)
+
+Hi Shaik,
+
+I saw your LinkedIn post for the Platform Engineer (Full Stack + AI Engineering) role in Alpharetta, GA (hybrid) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of full stack and AI engineering at Walmart Global Tech, IBM/AEP, and HCSC: React, Angular, and TypeScript front ends on Java / Spring Boot, Python FastAPI, and C# .NET services, APIs, microservices, and distributed systems; GenAI in production with the Anthropic Claude API and Azure OpenAI, AI agents and tool calling, RAG pipelines, and MCP servers.
+- Kubernetes, CI/CD, and infrastructure as code with observability (Dynatrace, Application Insights) and automation; regulated financial and healthcare environments (retail payments at Walmart, HCSC).
+
+Location: relocating to Alpharetta for the hybrid schedule is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

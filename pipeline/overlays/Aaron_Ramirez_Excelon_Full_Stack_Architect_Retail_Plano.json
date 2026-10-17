@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Full-Stack Architect  ·  React / Next.js, TypeScript, Node.js, Java / Spring Boot Microservices  ·  Retail & E-Commerce Platforms (Walmart)",
+ "location": "Open to onsite in Plano, TX (relocating is fine)  ·  Contract (C2C or W2)",
+ "summary": "Full-Stack Architect with 10+ years designing and delivering retail and e-commerce platforms at Walmart Global Tech (Seller Center marketplace, store apps), IBM/AEP, and HCSC. Front end in modern JavaScript/TypeScript ecosystems: React, Next.js with server-side rendering, state management, component libraries, and web performance optimization. Back end in Node.js/TypeScript and Java / Spring Boot: resilient distributed microservices, REST and GraphQL APIs, event-driven integrations, caching and data-integrity patterns. Hands-on across legacy and modern codebases for complex bug fixes, concurrency and rendering issues, and refactoring; builds proofs of concept, sets architecture standards, and leads cross-functional squads of 6+ engineers on AWS and Azure with CI/CD.",
+ "core_skills": [
+  [
+   "React, Next.js (SSR), TypeScript, State Management",
+   "Node.js / TypeScript & Java / Spring Boot Microservices"
+  ],
+  [
+   "Retail & E-Commerce Domain (Walmart Marketplace)",
+   "Distributed Systems, REST / GraphQL, Event-Driven Design"
+  ],
+  [
+   "Web Performance Optimization, Component Libraries",
+   "Complex Debugging: Concurrency, Caching, Data Integrity"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS), Azure, Docker, Kubernetes",
+   "Proofs of Concept, Architecture Standards, Design Docs"
+  ],
+  [
+   "Technical Leadership, Code Review, Mentoring",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Excelon_Full_Stack_Architect_Retail_Plano",
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express (TypeScript), Java / Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST web services, GraphQL, WebSockets, Kafka, PostgreSQL, MongoDB, Redis, SAP integration"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Empower_UI_Developer_React_Angular_WoodlandHills",
+ "tagline": "UI Developer  ·  React & Angular, TypeScript  ·  Responsive, Accessible Enterprise UIs, REST Integration",
+ "location": "California (San Francisco Bay Area) · Open to onsite in Woodland Hills, CA (relocating within California is fine)  ·  Contract (C2C)",
+ "summary": "UI Developer with 10+ years building and maintaining enterprise web applications in React and Angular with TypeScript, HTML5, and CSS3 for Walmart Global Tech, IBM/AEP, HCSC. Builds responsive, accessible (WCAG), high-performance user interfaces, integrates front ends with REST APIs and enterprise services, and drives front-end best practices, performance optimization, and application modernization. Works with Azure (App Service, DevOps pipelines), Git, and CI/CD in Agile teams; uses GitHub Copilot, Claude Code, and Cursor daily to speed delivery; mentors junior developers and works independently with minimal supervision.",
+ "core_skills": [
+  [
+   "React (Expert) · Hooks, Redux Toolkit, React Query",
+   "Angular (TypeScript, RxJS, NgRx, Angular Material)"
+  ],
+  [
+   "TypeScript & JavaScript (ES6+), HTML5, CSS3/SCSS",
+   "REST API Integration & Enterprise Services"
+  ],
+  [
+   "Responsive, Accessible (WCAG) & High-Performance UI",
+   "Front-End Modernization & Performance Optimization"
+  ],
+  [
+   "Azure (App Service, DevOps), Git, CI/CD Pipelines",
+   "AI-Assisted Development: GitHub Copilot, Claude Code, Cursor"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "Jest, React Testing Library, Cypress, Jasmine/Karma"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Angular (8–17: TypeScript, RxJS, NgRx, Angular Material, Angular CLI), Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3/SCSS, Tailwind, Bootstrap, design systems, accessibility (WCAG), Core Web Vitals"
+ }
+}

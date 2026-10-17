@@ -1,0 +1,19 @@
+To: pavan@rallycloudtech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_RallyCloud_React_Native_Developer_Dallas.pdf
+Subject: React Native Developer – Dallas, TX (Tech Mahindra) – Aaron Ramirez (C2C)
+
+Hi Pavan,
+
+I saw your LinkedIn post for the React Native Developer role in Dallas, TX (Tech Mahindra, 12 months) and would like to be considered. My tailored resume is attached.
+
+- 10+ years in software development with 6+ years of React Native building and maintaining high-performance iOS and Android apps at Walmart Global Tech, IBM/AEP, and HCSC: native integrations (camera, GPS, push notifications, biometrics) through Swift and Kotlin modules, memory-leak fixes, bundle-size reduction, lazy loading, and 60fps animation work.
+- REST/GraphQL and local database integration (SQLite, Realm, Firebase), Jest and Detox test automation, and App Store / Google Play release management in Agile/Scrum teams with design, backend, and product.
+
+Location: relocating to Dallas for the onsite schedule is fine with me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,19 @@
+To: dheeraj.singh@excelonsolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Excelon_Full_Stack_Architect_Retail_Plano.pdf
+Subject: Full-Stack Architect (React / Next.js / Node / Spring Boot, Retail) – Plano, TX – Aaron Ramirez (C2C)
+
+Hi Dheeraj,
+
+I saw your LinkedIn post for the Full-Stack Architect role in Plano, TX (retail domain) and would like to be considered. My tailored resume is attached.
+
+- 10+ years designing and delivering retail and e-commerce platforms at Walmart Global Tech (Seller Center marketplace and store apps), IBM/AEP, and HCSC: React and Next.js with SSR, state management, component libraries, and web performance optimization on the front end; Node.js/TypeScript and Java / Spring Boot microservices, REST/GraphQL, event-driven integrations, and caching on the back end.
+- Hands-on across legacy and modern codebases for concurrency, caching, data-integrity, and UI rendering issues; proofs of concept, architecture standards, and leadership of cross-functional squads on AWS and Azure.
+
+Location: relocating to Plano for the onsite schedule is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

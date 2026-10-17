@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_TekisHub_Platform_Engineer_Full_Stack_AI_Alpharetta",
+ "tagline": "Platform Engineer (Full Stack + AI)  ·  React / Angular / TypeScript, Java / Python / C# .NET  ·  GenAI, LLM Agents, RAG & MCP, Kubernetes, CI/CD",
+ "location": "Open to hybrid in Alpharetta, GA (relocating is fine)  ·  Contract (C2C or W2)",
+ "summary": "Platform Engineer with 10+ years of full stack and AI engineering at Walmart Global Tech, IBM/AEP, and HCSC: React, Angular, and TypeScript front ends on Java / Spring Boot, Python FastAPI, and C# .NET services, APIs, microservices, and distributed systems. Builds GenAI capabilities in production: LLM integration (Anthropic Claude API, Azure OpenAI), AI agents and tool calling, RAG pipelines, and MCP servers for agent tooling. Runs platform work on Kubernetes with CI/CD and infrastructure as code, observability (Dynatrace, Application Insights), and automation; experience in regulated financial and healthcare environments (HCSC, retail payments at Walmart).",
+ "core_skills": [
+  [
+   "React, Angular, TypeScript",
+   "Java / Spring Boot, Python FastAPI, C# .NET"
+  ],
+  [
+   "GenAI: Claude API, Azure OpenAI, LLM Agents, RAG, MCP",
+   "APIs, Microservices & Distributed Systems"
+  ],
+  [
+   "Kubernetes, Docker, CI/CD, Infrastructure as Code",
+   "Platform Engineering, Observability & Automation"
+  ],
+  [
+   "Regulated Domains: Payments, Healthcare",
+   "Production Support, Incident Resolution"
+  ],
+  [
+   "Technical Leadership, Code Review, Mentoring",
+   "AI-Assisted Development: Claude Code, Copilot, Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java / Spring Boot, Python FastAPI, C# / .NET (ASP.NET Core, Web API), Node.js/Express, TypeScript, Claude API, Azure OpenAI, LangChain, RAG, MCP servers, REST, GraphQL, PostgreSQL, MongoDB, Redis, Kafka",
+  "Cloud & CI/CD:": "Azure (Container Apps, App Service, DevOps YAML pipelines, Bicep basics, Key Vault, Managed Identity, Application Insights, Log Analytics, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

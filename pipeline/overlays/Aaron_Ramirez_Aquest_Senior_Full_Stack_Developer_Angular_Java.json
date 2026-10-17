@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Aquest_Senior_Full_Stack_Developer_Angular_Java",
+ "tagline": "Senior Full Stack Developer  ·  Angular, TypeScript, Java / Spring Boot  ·  REST & SOAP Services, Microservices, Jenkins CI/CD",
+ "location": "Open to hybrid in New Jersey (relocating is fine; Dallas or Raleigh also fine)  ·  Contract (W2)",
+ "summary": "Senior Full Stack Developer with 10+ years of professional software engineering for Walmart Global Tech, IBM/AEP, and HCSC. Core stack: Java with Spring / Spring Boot services and Angular, TypeScript, JavaScript, HTML5/CSS3 front ends; REST and SOAP web services, microservices architecture, and cloud platforms (AWS, Azure). DevOps and tooling with Jenkins, Git, automated testing frameworks (JUnit, Jasmine/Karma, Jest, Cypress), and Jira; solid command of data structures, design patterns, the SDLC, and Agile delivery. Clear communicator with technical leadership experience across cross-functional teams; React expert as a second framework.",
+ "core_skills": [
+  [
+   "Java, Spring / Spring Boot, Hibernate",
+   "Angular, TypeScript, JavaScript, HTML5/CSS3"
+  ],
+  [
+   "REST / SOAP Web Services, Microservices",
+   "Cloud Platforms: AWS, Azure"
+  ],
+  [
+   "Jenkins, Git, Jira, Automated Testing",
+   "Data Structures, Design Patterns, SDLC"
+  ],
+  [
+   "Technical Leadership, Cross-Team Collaboration",
+   "Agile/Scrum Delivery, Code Review"
+  ],
+  [
+   "React.js & Next.js (Expert, secondary)",
+   "AI-Assisted Development: Claude Code, GitHub Copilot"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse",
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST and SOAP web services, JUnit; Node.js/Express, GraphQL, PostgreSQL, MongoDB, SQL Server"
+ }
+}

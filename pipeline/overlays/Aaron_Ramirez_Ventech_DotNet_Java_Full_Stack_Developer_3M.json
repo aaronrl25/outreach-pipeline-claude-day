@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Ventech_DotNet_Java_Full_Stack_Developer_3M",
+ "tagline": "Full Stack Developer  ·  C# / .NET (ASP.NET, MVC, Web API, SQL Server) & Java / Spring Boot  ·  Angular / React, TypeScript, REST & GraphQL, AWS / Azure",
+ "location": "Open to Edina, MN (relocating is fine)  ·  24-Month Contract (C2C)",
+ "summary": "Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC across both Microsoft and Java stacks: C# / .NET (ASP.NET, MVC, Web API, Entity Framework, SQL Server) and Java / Spring Boot services behind Angular and React front ends in HTML5, JavaScript/TypeScript, XML/JSON, and RESTful web services. Designs microservices-oriented, API-first architectures (REST, GraphQL) and ships on AWS and Azure with Docker and CI/CD; B.S. in Computer Systems Engineering. Cross-platform mobile with React Native. Disciplined unit testing, code review, and Agile delivery.",
+ "core_skills": [
+  [
+   "C# / .NET: ASP.NET, MVC, Web API, SQL Server, EF",
+   "Java / Spring Boot, REST Web Services"
+  ],
+  [
+   "Angular & React, TypeScript, HTML5, XML / JSON",
+   "Microservices & API-First Design (REST, GraphQL)"
+  ],
+  [
+   "AWS & Azure (4+ yrs), Docker, CI/CD",
+   "React Native Cross-Platform Mobile"
+  ],
+  [
+   "Unit Testing: xUnit/NUnit, JUnit, Jasmine, Jest",
+   "Agile/Scrum, Code Review, Design Patterns"
+  ],
+  [
+   "B.S. Computer Systems Engineering",
+   "AI-Assisted Development: GitHub Copilot, Claude Code"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET (ASP.NET, MVC, Web API, Entity Framework), Java / Spring Boot, Spring MVC, Hibernate, REST and GraphQL APIs, microservices, Node.js/Express, SQL Server, PostgreSQL, MongoDB",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material), React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps (pipelines, releases, boards), AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace"
+ }
+}

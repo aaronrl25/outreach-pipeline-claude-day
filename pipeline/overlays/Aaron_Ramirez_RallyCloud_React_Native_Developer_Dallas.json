@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "React Native Developer  ·  iOS & Android, TypeScript  ·  Native Integrations (Camera, GPS, Push, Biometrics), Performance, App Store Releases",
+ "location": "Open to onsite in Dallas, TX (relocating is fine)  ·  12-Month Contract (C2C)",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years building and maintaining high-performance iOS and Android apps at Walmart Global Tech, IBM/AEP, and HCSC. Connects native device features (camera and barcode scanning, GPS/geolocation, push notifications, biometrics) through native modules in Swift and Kotlin; fixes memory leaks, trims bundle sizes, implements lazy loading, and resolves frame drops to hold 60fps animations. Integrates REST/GraphQL services and local mobile databases (SQLite, Realm, Firebase), writes unit and automated tests (Jest, Detox), and manages App Store and Google Play releases; works with UI/UX designers, backend engineers, and product managers in Agile/Scrum teams.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Native Integrations: Camera, GPS, Push, Biometrics (Swift/Kotlin)",
+   "Performance: Memory Leaks, Bundle Size, Lazy Loading, 60fps"
+  ],
+  [
+   "REST / GraphQL APIs, SQLite, Realm, Firebase",
+   "Redux / RTK Query, Zustand, React Navigation"
+  ],
+  [
+   "Jest, Mocha, Detox, Dynatrace Crash Analytics",
+   "App Store & Google Play Release Management"
+  ],
+  [
+   "Agile/Scrum with Design, Backend & Product",
+   "CI/CD: GitHub Actions, Azure DevOps, Expo EAS"
+  ]
+ ],
+ "name": "Aaron_Ramirez_RallyCloud_React_Native_Developer_Dallas"
+}

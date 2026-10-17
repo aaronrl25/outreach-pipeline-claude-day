@@ -1,0 +1,19 @@
+To: aashi.jain@theksconsultants.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_KSConsultants_Lead_Full_Stack_Engineer_React_Node_AWS.pdf
+Subject: Lead Full Stack Engineer (React / Next.js / Node / AWS Serverless) – Remote – Aaron Ramirez (C2C)
+
+Hi Aashi,
+
+I saw your LinkedIn post for the Lead Full Stack Engineer role (Solugenix / ecoATM, 100% remote, 1-year contract) and would like to be considered. My tailored resume is attached.
+
+- 10+ years building and modernizing cloud-native web platforms for Walmart Global Tech (marketplace seller tooling), IBM/AEP, and HCSC: React.js and Next.js front ends on Node.js / NestJS / TypeScript services, REST APIs behind API Gateway, microservices on AWS serverless (Lambda, S3, Cognito), PostgreSQL / Aurora, and Kafka / AWS MSK messaging.
+- Owns CI/CD pipelines and serverless deployment strategies, performance and observability, and leads engineering teams of 5–7 through design reviews, code review, and mentoring.
+
+Location: San Francisco Bay Area, remote.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
