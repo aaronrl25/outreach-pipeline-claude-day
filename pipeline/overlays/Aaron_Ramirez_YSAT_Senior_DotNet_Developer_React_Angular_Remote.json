@@ -1,0 +1,20 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_YSAT_Senior_DotNet_Developer_React_Angular_Remote",
+ "tagline": "Senior .NET Developer  ·  C# / .NET Core & .NET Framework, ASP.NET Core MVC & Web API  ·  React.js & Angular, SQL Server, Azure / AWS",
+ "location": "Remote (US)  ·  open to onsite  ·  Contract (W2 or C2C)",
+ "summary": "Senior .NET Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# services on .NET Framework, .NET Core, and modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core) exposing RESTful APIs and microservices over SQL Server (T-SQL, stored procedures, schema design), behind React.js and Angular front ends in TypeScript, HTML5, and CSS3. Applies OOP, SOLID, and design patterns daily; deploys on Microsoft Azure and AWS with Git-based CI/CD and DevOps practices; works Agile/Scrum across the full SDLC with strong debugging, troubleshooting, and performance optimization. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  ["C# / .NET Framework, .NET Core & modern .NET", "ASP.NET Core MVC, Web API, RESTful APIs"],
+  ["Entity Framework / EF Core, SQL Server (T-SQL, Stored Procedures)", "Microservices, OOP, SOLID, Design Patterns"],
+  ["React.js, Angular, TypeScript, HTML5, CSS3", "Microsoft Azure & AWS Cloud Services"],
+  ["Git, CI/CD Pipelines, Docker, DevOps Practices", "Agile/Scrum, Full SDLC, Code Review"],
+  ["Debugging, Troubleshooting, Performance Optimization", "Node.js & Java / Spring Boot (secondary)"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Framework, .NET Core & modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+ }
+}

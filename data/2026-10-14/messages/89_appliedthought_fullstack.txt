@@ -1,0 +1,17 @@
+To: dharani@theappliedthought.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AppliedThought_DotNet_Full_Stack_Developer_React_Node.pdf
+Subject: .NET Full Stack Developer (React / Node / .NET) – Berkeley Heights, NJ / Alpharetta, GA – Aaron Ramirez
+
+Hi Dharani,
+
+Following up on my note from Friday for the .NET Architect role in Charlotte: I would also like to be considered for the .NET Full Stack Developer role in Berkeley Heights, NJ / Alpharetta, GA (5 days onsite). My resume tailored to this role is attached. Details requested: LinkedIn linkedin.com/in/aaronsoftware; visa TN; current location San Francisco Bay Area, and relocating to Berkeley Heights or Alpharetta for the onsite schedule is fine with me; rate open to discussion.
+
+- Core stacks hands-on at Walmart Global Tech, IBM/AEP, and HCSC: MERN/MEAN (Node.js, Express, React and Angular in TypeScript) and C# / .NET 6/8 Web API, plus Java / Spring Boot REST microservices.
+- Cloud-native delivery with Docker, serverless (AWS Lambda, Azure Functions), and event-driven architecture; GitHub Copilot and Claude Code daily to prompt and iterate through complex logic.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
