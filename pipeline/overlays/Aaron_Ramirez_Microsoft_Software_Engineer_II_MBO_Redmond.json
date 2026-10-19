@@ -1,0 +1,21 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Microsoft_Software_Engineer_II_MBO_Redmond",
+ "tagline": "Software Engineer  ·  TypeScript / JavaScript, Node.js, C# / .NET, React  ·  Distributed Systems, REST Microservices, Azure & AWS  ·  AI-Native Development",
+ "location": "San Francisco Bay Area  ·  open to relocating to Redmond, WA (3 days/week in-office)  ·  Full-Time",
+ "summary": "Software Engineer with 9+ years and a B.S. in Computer Systems Engineering, designing, building, testing, deploying, and operating secure, reliable, scalable services and business applications for Walmart Global Tech, IBM/American Electric Power, and HCSC. Codes daily in TypeScript/JavaScript and Node.js with C# / .NET and Java/Spring Boot services behind React front ends; integrates REST microservices, WebSocket event streams, PostgreSQL and SQL Server at the scale of 500K+ daily users and billions in annual marketplace GMV. Practices AI-native development with GitHub Copilot, Claude Code, and Cursor, reviewing and owning every AI-generated change, and has shipped GenAI features on the Claude API, LangChain, and Azure AI Services. Strong in test strategy (Jest, xUnit, Supertest, 80%+ coverage), CI/CD and safe deployment (GitHub Actions, Azure DevOps, Jenkins, Docker on AWS ECS), and live-site reliability through logging and telemetry with Dynatrace APM, cutting MTTR on critical incidents by 50%. Works with minimal supervision, leads design and code reviews, and communicates clearly across product, security, and engineering partners.",
+ "core_skills": [
+  ["TypeScript / JavaScript, Node.js, C# / .NET, Java", "Distributed Systems, REST Microservices, Event-Driven Design"],
+  ["AI-Native Development (GitHub Copilot, Claude Code, Cursor)", "GenAI Features: Claude API, LangChain, Azure AI Services"],
+  ["Azure (App Service, Functions, Azure DevOps) & AWS (ECS, Lambda, RDS)", "CI/CD, Safe Deployment, Feature Flags, Docker"],
+  ["Logging, Telemetry & Live-Site Reliability (Dynatrace APM)", "Test Strategy: Jest, React Testing Library, xUnit, Supertest, Cypress"],
+  ["Secure Coding: JWT, RBAC, HIPAA-Compliant Data Handling", "Design Docs, Code Review, Agile/Scrum, Estimation"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, C# / .NET (ASP.NET Core Web API, Entity Framework), Java / Spring Boot, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, event-driven architecture, PostgreSQL, SQL Server, MongoDB, Firebase",
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps, AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront); GitHub Actions, Jenkins, Docker, feature flags, safe-deployment gates, Dynatrace APM (logging, telemetry, session replay)",
+  "Testing & Quality:": "Jest, React Testing Library, xUnit, Supertest, Cypress, Detox; test strategy, code coverage gates, code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, design documents, estimation, Git/GitHub, GitHub Copilot, Claude Code, Cursor, Figma, Storybook, mentoring"
+ }
+}
