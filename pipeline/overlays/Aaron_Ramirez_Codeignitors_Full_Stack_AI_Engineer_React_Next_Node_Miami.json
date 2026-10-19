@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Codeignitors_Full_Stack_AI_Engineer_React_Next_Node_Miami",
+ "tagline": "Full Stack AI Engineer · React, Next.js, TypeScript, Node.js · LLM API Integration, Streaming Interfaces (SSE / WebSockets), RAG & AI Agent Workflows",
+ "location": "Open to Miami, FL (relocating is fine) · W2 Contract",
+ "summary": "Full Stack AI Engineer with 10+ years building production-grade applications for Walmart Global Tech, IBM/AEP, and HCSC, including 7+ years of professional React and TypeScript and 7+ years designing RESTful APIs and asynchronous backend services in Node.js. Shipped a GenAI seller-support assistant on Walmart's Seller Center that streams Claude API / LangChain responses token by token through Node.js middleware over WebSockets, and integrated Azure AI Services to summarize and classify field notes for AEP. Owns the full UI lifecycle from wireframe to production with accessibility, responsiveness, and Core Web Vitals performance in React and Next.js; builds real-time interfaces with Server-Sent Events and WebSockets/Socket.IO; and orchestrates LLM API calls, tool use, and multi-step AI workflows inside scalable multi-tenant marketplace platforms. Python as a secondary language. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React, Next.js, TypeScript (7+ yrs)",
+   "Node.js REST APIs & Async Backend Services (7+ yrs)"
+  ],
+  [
+   "LLM API Integration: Claude API, LangChain, Azure AI Services",
+   "Streaming UIs: SSE, WebSockets / Socket.IO, Token-Level Rendering"
+  ],
+  [
+   "AI Agent Workflows, Tool Calling, RAG Pipelines",
+   "Multi-Tenant, Scalable Marketplace Architectures"
+  ],
+  [
+   "Accessibility, Responsiveness, Core Web Vitals",
+   "PostgreSQL, MongoDB, Firebase; AWS & Azure"
+  ],
+  [
+   "Testing: Jest, RTL, Supertest, Cypress; CI/CD, Docker",
+   "GitHub Copilot, Claude Code, Cursor (daily); Python (secondary)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, Server-Sent Events (SSE), WebSockets/Socket.IO, microservices, LLM APIs (Claude API, LangChain, Azure AI Services), RAG and agent workflows, Firebase, PostgreSQL, MongoDB, Python (secondary)"
+ }
+}

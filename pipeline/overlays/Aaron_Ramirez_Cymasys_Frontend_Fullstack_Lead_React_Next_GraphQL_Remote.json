@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Cymasys_Frontend_Fullstack_Lead_React_Next_GraphQL_Remote",
+ "tagline": "Frontend Fullstack Lead · React.js, Next.js, TypeScript / JavaScript · GraphQL & Node.js · Frontend Architecture, Micro Frontends, Technical Leadership",
+ "location": "100% Remote (USA) · San Francisco Bay Area · W2 Contract",
+ "summary": "Frontend Fullstack Lead with 10+ years of hands-on React.js, Next.js, and TypeScript/JavaScript development and frontend architecture for Walmart Global Tech, IBM/AEP, and HCSC. Designs system architecture, component libraries, and state management for large-scale SPAs and micro frontends, including Electrode Native micro-frontends embedding React modules into existing applications; builds GraphQL and REST integrations on Node.js; and sets architecture standards, code review protocols, and design documentation while leading squads of 4 to 6 engineers and making the architectural decisions. Expert in HTML5, CSS3, accessibility (WCAG), and Core Web Vitals; experienced with headless CMS-driven content delivery and design systems. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, Next.js, TypeScript / JavaScript (Expert)",
+   "GraphQL (Apollo) & Node.js / Express"
+  ],
+  [
+   "Frontend Architecture, System Design, Design Systems",
+   "Micro Frontends (Electrode Native, Module Federation), Web Components"
+  ],
+  [
+   "Technical Leadership: Architecture Decisions, Code Review, Mentoring",
+   "State Management: Redux Toolkit, Zustand, React Query, Context API"
+  ],
+  [
+   "HTML5, CSS3 / SCSS, Tailwind, Accessibility (WCAG), Core Web Vitals",
+   "REST APIs, WebSockets, Headless CMS Integration"
+  ],
+  [
+   "Testing: Jest, RTL, Cypress; CI/CD: GitHub Actions, Jenkins",
+   "GitHub Copilot, Claude Code, Cursor (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), micro frontends (Electrode Native, module federation), Web Components, Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, Apollo Client, HTML5, CSS3/SCSS, Tailwind, Styled Components, design systems, Storybook, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "GraphQL (Apollo Server), REST APIs, WebSockets/Socket.IO, microservices, Node.js/Express, headless CMS integration, Firebase, PostgreSQL, MongoDB"
+ }
+}

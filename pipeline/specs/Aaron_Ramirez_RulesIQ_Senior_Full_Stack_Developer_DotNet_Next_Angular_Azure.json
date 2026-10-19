@@ -1,0 +1,139 @@
+{
+ "roles": [
+  {
+   "title": "Staff Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
+   "bullets": [
+    "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated web and mobile clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Web, iOS & Android)",
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) and React Native front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Web & Mobile)",
+   "bullets": [
+    "Delivered React and React Native (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior React Native Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Mobile 2.0 – Healthcare Member App",
+   "bullets": [
+    "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  {
+   "title": "React Native Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React Native inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "React Native Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing native apps, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer & Co-Founder",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Co-founded the studio; shipped 0-to-1 React, Next.js, and React Native (Expo) products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web & Mobile)",
+   "bullets": [
+    "Built React and React Native clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "Next.js, React.js, TypeScript, Angular (TypeScript, RxJS, NgRx), Redux Toolkit, React Query, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "Mobile:",
+   "React Native (Expo, EAS), iOS & Android release management, React Navigation, push notifications, offline sync"
+  ],
+  [
+   "APIs & Backend:",
+   "C# / .NET Core & .NET 8 (ASP.NET Core Web API, Azure Functions, Entity Framework Core, Dapper), REST APIs, microservices, distributed systems, SQL Server 2019+ / Azure SQL (T-SQL, stored procedures, indexing, tuning), PostgreSQL, Node.js/Express"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), on-premises to Azure migration, Azure DevOps, GitHub Actions, AWS (ECS/Fargate, Lambda, RDS), Jenkins, Docker, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "xUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_RulesIQ_Senior_Full_Stack_Developer_DotNet_Next_Angular_Azure",
+ "tagline": "Senior Full Stack Developer · Next.js & TypeScript, Angular · .NET Core / .NET 8, C#, ASP.NET Web API, Azure Functions · Microsoft Azure Migration, SQL Server / Azure SQL",
+ "location": "Open to Schiller Park, IL or Coppell, TX hybrid (relocating is fine) · 6-Month Contract-to-Hire (W2, C2C or 1099)",
+ "summary": "Senior Full Stack Developer with 10+ years of enterprise application development for Walmart Global Tech, IBM/AEP, and HCSC, balanced 50/50 across front end and back end. Builds modern web applications in Next.js and TypeScript and Angular on top of .NET Core / .NET 8, C#, ASP.NET Web API, and Azure Functions services exposing RESTful APIs within microservices and distributed systems; works with SQL Server 2019+ and Azure SQL including query optimization, indexing, and performance tuning. Experienced in application modernization: migrating on-premises workloads to Microsoft Azure (App Service, Functions, Azure SQL) with Azure DevOps and GitHub Actions CI/CD, Docker, and Dynatrace monitoring. Applies OOP, SOLID, and design patterns; collaborates with product, QA, and DevOps in Agile/Scrum. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Next.js, React & TypeScript (Expert)",
+   "Angular (TypeScript, RxJS, NgRx)"
+  ],
+  [
+   ".NET Core / .NET 8, C#, ASP.NET Web API, Azure Functions",
+   "RESTful APIs, Microservices, Distributed Systems"
+  ],
+  [
+   "SQL Server 2019+ / Azure SQL: Query Optimization, Indexing, Tuning",
+   "Entity Framework Core, Dapper, PostgreSQL"
+  ],
+  [
+   "Microsoft Azure Migration & Modernization (App Service, Functions)",
+   "Azure DevOps, GitHub Actions, Docker, CI/CD"
+  ],
+  [
+   "OOP, SOLID, Design Patterns, Code Review, Agile/Scrum",
+   "GitHub Copilot, Claude Code (daily)"
+  ]
+ ]
+}
