@@ -1,0 +1,20 @@
+To: renu.k@kanandcorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_KAnand_Staff_Engineer_Front_End_React_Austin.pdf
+Subject: Staff Engineer – Front End (React / TypeScript) – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Renu,
+
+I saw your LinkedIn post for the Staff Engineer – Front End role in Austin, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years of UI-focused development with React, TypeScript, and JavaScript (ES6+) for Walmart Global Tech, IBM/AEP, and HCSC, on a strong foundation of framework-independent JavaScript (DOM, async patterns, performance); set architecture standards, code review protocols, and system design documentation for squads of 6+ engineers.
+- Build and maintain reusable React component libraries in Storybook with design tokens and accessible interaction states; strong testing ethic with Jest, React Testing Library, and Cypress gates in CI/CD (coverage raised to 80%+, production regressions cut by 35%); migrated legacy and class-based UIs into modern hooks, TypeScript, and shared component libraries.
+- Accessibility (WCAG 2.1, ARIA, keyboard and screen-reader testing) built into every delivery; Claude Code, GitHub Copilot, and Cursor in daily use to shorten design-to-code time, generate tests, and scaffold components from Figma specs.
+
+Location: Austin, TX works for me, onsite or hybrid.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

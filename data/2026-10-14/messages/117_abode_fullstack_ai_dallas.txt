@@ -1,0 +1,20 @@
+To: sanghmitra@abodetechzone.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Abode_Senior_Full_Stack_AI_Engineer_React_Azure_Dallas.pdf
+Subject: Senior Full Stack AI Engineer (React / Azure / AI) – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Sanghmitra,
+
+I saw your LinkedIn post for the Senior Full Stack AI Engineer role in Dallas, TX (12-month contract, onsite) and would like to be considered. My tailored resume is attached.
+
+- React and modern front-end development as my primary skill for 10+ years at Walmart Global Tech, IBM/AEP, and HCSC: React 18, TypeScript, Redux Toolkit, React Query, component libraries, accessibility, and Core Web Vitals performance on applications serving hundreds of thousands of daily users.
+- Azure cloud engineering and deployments (App Service, Container Apps, Azure DevOps pipelines, Key Vault, Application Insights, Azure AI Services) plus AWS; backend and API development with Node.js/Express and Python FastAPI over REST, GraphQL, and WebSockets with PostgreSQL.
+- AI/LLM and automation in production: shipped a GenAI seller-support assistant on the Claude API and LangChain for Walmart's marketplace, and integrated Azure AI Services to summarize and classify field notes at AEP.
+
+Location: Dallas, TX, five days onsite works for me, and I am available for all four interview rounds this week.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
