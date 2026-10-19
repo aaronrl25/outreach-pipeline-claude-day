@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Bluelink_Senior_Technical_Specialist_DotNet_Core_Irvine",
+ "tagline": "Senior Technical Specialist (.NET Core) · C#, .NET Core / .NET 6+, ASP.NET Core, SQL Server, REST APIs, Microservices · L3 Production Support, Release & Deployment Management · Angular / React UI",
+ "location": "San Francisco Bay Area, California · open to Irvine, CA onsite (relocating is fine) · Long-Term Contract (C2C or W2)",
+ "summary": "Senior Technical Specialist with 10+ years of software development and production application support for Walmart Global Tech, IBM/AEP, and HCSC. Hands-on with C#, .NET Core / .NET 6+, and ASP.NET Core services exposing REST APIs and microservices over SQL Server, behind Angular and React front ends. Owns sprint stories through deployment: bi-weekly releases, hotfixes, and go-live activities on Azure DevOps, GitHub Actions, and Jenkins CI/CD pipelines with Git and Jira; drives L3 production incidents to closure with root cause analysis, instrumented Dynatrace monitoring (session replay, error tracking) and cut mean time to resolution on P1 incidents by 50%. Cloud experience on Azure and AWS; works independently in fast-paced environments with product, QA, release management, and offshore teams. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C#, .NET Core / .NET 6+, ASP.NET Core Web API",
+   "SQL Server (T-SQL, Stored Procedures), Entity Framework Core"
+  ],
+  [
+   "REST APIs, Microservices, Enterprise Application Support",
+   "L3 Production Support, Root Cause Analysis, Troubleshooting"
+  ],
+  [
+   "Release Management: Deployments, Hotfixes, Go-Live",
+   "CI/CD: Azure DevOps, GitHub Actions, Jenkins; Git, Jira"
+  ],
+  [
+   "Monitoring: Dynatrace APM (also Datadog/Splunk-style dashboards)",
+   "Cloud: Microsoft Azure, AWS; Docker"
+  ],
+  [
+   "Angular & React UI (TypeScript)",
+   "Independent Delivery, Agile/Scrum, Offshore Collaboration"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Framework, .NET Core & modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+ }
+}

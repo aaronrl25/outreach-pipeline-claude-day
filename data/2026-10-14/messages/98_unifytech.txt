@@ -1,0 +1,19 @@
+To: suresht@unifytech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_UnifyTech_Technical_Architect_React_Node_AWS_Irvine.pdf
+Subject: Technical Architect (534218) – React / Node / AWS – Irvine, CA – Aaron Ramirez
+
+Hi Suresh,
+
+I saw your LinkedIn post for the Technical Architect role (534218) in Irvine, CA (onsite, long-term W2/1099) and would like to be considered. My tailored resume is attached.
+
+- 10+ years designing and delivering large-scale web platforms for Walmart Global Tech, IBM/AEP, and HCSC: architecture standards, system design documentation, and code review protocols for React / TypeScript / Redux front ends and Node.js / Express microservices with REST and GraphQL APIs.
+- AWS (Lambda, ECS/Fargate, S3, RDS, CloudFront) and Azure deployments with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; security (JWT, OAuth 2.0, role-based access); monitoring, logging, and observability with Dynatrace, cutting MTTR on critical incidents by 50%; technical leadership of 6+ engineer squads.
+
+Location: relocating to Irvine for the onsite schedule is fine with me.
+
+Available on W2 or 1099. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

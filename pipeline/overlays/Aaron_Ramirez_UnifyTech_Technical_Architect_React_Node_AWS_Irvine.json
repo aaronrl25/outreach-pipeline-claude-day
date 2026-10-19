@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_UnifyTech_Technical_Architect_React_Node_AWS_Irvine",
+ "tagline": "Technical Architect · React, TypeScript, Redux, Node.js / Express · REST & GraphQL Microservices on AWS (Lambda, ECS/Fargate, S3, RDS) · CI/CD, Docker, Observability",
+ "location": "Open to Irvine, CA onsite (relocating is fine) · Long-Term Contract (W2 or 1099)",
+ "summary": "Technical Architect and hands-on Staff-level engineer with 10+ years designing and delivering large-scale web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Sets architecture standards, system design documentation, and code review protocols for React / TypeScript / Redux front ends and Node.js / Express microservices exposing REST and GraphQL APIs; deploys on AWS (Lambda, ECS/Fargate, S3, RDS, CloudFront) and Azure with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD pipelines; and builds in security (JWT, OAuth 2.0, role-based access), monitoring, logging, and observability with Dynatrace, cutting MTTR on critical incidents by 50%. Leads cross-functional squads of 6+ engineers, drives automation and DevOps practices, and integrates real-time WebSocket and GenAI (Claude API / LangChain) services into production platforms serving 500K+ daily users. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React, TypeScript, JavaScript, HTML5, CSS3, Redux",
+   "Node.js / Express, REST, GraphQL, Microservices"
+  ],
+  [
+   "AWS: Lambda, ECS/Fargate, S3, RDS, CloudFront; Azure",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, GitLab; Docker"
+  ],
+  [
+   "Architecture Standards, System Design, Design Documentation",
+   "Security: JWT, OAuth 2.0, RBAC; Secure Coding"
+  ],
+  [
+   "Monitoring, Logging & Observability (Dynatrace APM)",
+   "Automation, DevOps Practices, Performance Optimization"
+  ],
+  [
+   "Technical Leadership of 6+ Engineer Squads, Code Review",
+   "GitHub Copilot, Claude Code (daily); Git / GitHub / GitLab"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, event-driven integrations, Firebase, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "AWS (Lambda, ECS/Fargate, S3, RDS, CloudFront), Azure (App Service, DevOps, AI Services); GitHub Actions, Azure DevOps, Jenkins, GitLab, Docker, Dynatrace (monitoring, logging, observability)"
+ }
+}

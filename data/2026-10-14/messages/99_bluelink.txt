@@ -1,0 +1,19 @@
+To: deepakg@bluelinkitservices.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Bluelink_Senior_Technical_Specialist_DotNet_Core_Irvine.pdf
+Subject: Senior Technical Specialist (.NET Core) – Irvine, CA – Aaron Ramirez (C2C)
+
+Hi Deepak,
+
+I saw your LinkedIn post for the Senior Technical Specialist (.NET Core) role in Irvine, CA (onsite) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of software development and production application support for Walmart Global Tech, IBM/AEP, and HCSC: C#, .NET Core / .NET 6+, and ASP.NET Core services with REST APIs and microservices over SQL Server, behind Angular and React UIs.
+- Owns releases end to end: deployments, hotfixes, and go-live on Azure DevOps, GitHub Actions, and Jenkins CI/CD with Git and Jira; drives L3 production incidents to closure with root cause analysis and Dynatrace monitoring, cutting MTTR on P1 incidents by 50%; cloud experience on Azure and AWS.
+
+Location: California (San Francisco Bay Area); relocating to Irvine for the onsite schedule is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
