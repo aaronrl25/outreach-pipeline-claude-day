@@ -1,0 +1,19 @@
+To: hiring@linqsol.com,divya@linqsol.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_LinQ_DotNet_Developer_Full_Stack_React_Remote_Austin.pdf
+Subject: .NET Developer (Sr. Software Engineer, Full Stack) – Remote / Austin, TX – Aaron Ramirez (C2C)
+
+Hi Afshan and Divya,
+
+I saw your LinkedIn post for the .NET Developer / Sr. Software Engineer (Full Stack) role with the Modis pharma client, remote or Austin, TX, and would like to be considered. My tailored resume is attached; I would also appreciate the full JD.
+
+- 10+ years of full stack experience delivering scalable enterprise systems for Walmart Global Tech, IBM/AEP, and HCSC: C# / ASP.NET Core Web APIs with Entity Framework over SQL Server and PostgreSQL, structured as microservices with event-driven integrations and real-time messaging.
+- React and Angular front ends in TypeScript; technical design, code review, and Agile/Scrum delivery; Azure DevOps and GitHub Actions CI/CD with Docker on Azure and AWS.
+
+Location: San Francisco Bay Area; remote works well, and relocating to Austin is also fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

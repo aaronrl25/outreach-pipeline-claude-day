@@ -1,0 +1,20 @@
+To: nk@worknovasllc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Worknova_Design_Systems_Front_End_Engineer_Remote.pdf
+Subject: Senior UX Designer (Design Systems) – Remote – Aaron Ramirez, design-systems front-end engineer
+
+Hi,
+
+I saw your LinkedIn post for the remote Senior UX Designer (Design Systems) contract and would like to be considered. My background is on the engineering side of design systems, which I believe is directly useful for completing and enhancing a Carbon-based system: I build and maintain the React component libraries, design tokens, and themes that Figma libraries map to, and I work side by side with UX designers in Figma to keep components, variants, properties, and tokens aligned between the design library and code. My tailored resume is attached; I would appreciate the full JD.
+
+- 10+ years building enterprise UI for Walmart Global Tech, IBM/AEP, and HCSC, including React component libraries documented in Storybook with design tokens, CSS variables, light/dark themes, responsive behavior, and interactive states.
+- Data-heavy internal applications: complex data tables, filters, forms, sorting, and pagination for Walmart Seller Center and HCSC member tooling, with accessibility (WCAG) built in.
+- Experience auditing existing component libraries, establishing contribution and review guidelines, and shipping the same components to web (React) and mobile (React Native).
+
+Location: San Francisco Bay Area; remote.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

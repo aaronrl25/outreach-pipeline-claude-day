@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Worknova_Design_Systems_Front_End_Engineer_Remote",
+ "tagline": "Senior Front-End Engineer · Design Systems · React Component Libraries, Storybook, Design Tokens & CSS Variables, Light/Dark Themes · Accessibility (WCAG), Responsive Web & Mobile · Figma Collaboration",
+ "location": "San Francisco Bay Area · Remote · Contract (C2C or W2)",
+ "summary": "Senior Front-End Engineer with 10+ years building and maintaining enterprise UI for Walmart Global Tech, IBM/AEP, and HCSC, with a focus on design-system implementation. Builds and extends reusable React component libraries documented in Storybook, with design tokens and CSS variables, light/dark theme support, responsive behavior, and interactive states; partners closely with UX designers in Figma to align components, variants, properties, and tokens between the design library and code. Deep experience with data-heavy internal applications: complex data tables, filters, forms, sorting, and pagination for Walmart Seller Center and HCSC member tooling. Accessibility (WCAG) and performance (Core Web Vitals) are built in, and the same components ship to web (React) and mobile (React Native). Audits existing component libraries and establishes contribution and review guidelines; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Design Systems: React Component Libraries, Storybook",
+   "Design Tokens, CSS Variables, Light/Dark Themes"
+  ],
+  [
+   "Figma Collaboration: Components, Variants, Properties",
+   "Accessibility (WCAG), Responsive & Interactive States"
+  ],
+  [
+   "Data-Heavy UI: Tables, Filters, Forms, Pagination",
+   "Enterprise & Internal Application UI"
+  ],
+  [
+   "React.js, Next.js, TypeScript, Tailwind, Styled Components",
+   "React Native (Web + Mobile Component Reuse)"
+  ],
+  [
+   "Library Audits, Contribution & Review Guidelines",
+   "Jest, React Testing Library, Cypress, Chromatic-style Visual Review"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Storybook, design tokens, CSS variables, Tailwind, Styled Components, CSS3/SCSS, responsive design, light/dark theming, accessibility (WCAG), Core Web Vitals, Figma (design-to-code collaboration)",
+  "Process & Tools:": "Agile/Scrum, Jira, Git/GitHub, code review, Figma, Storybook, design-system contribution guidelines; AI-assisted development with Claude Code, GitHub Copilot, Cursor"
+ }
+}
