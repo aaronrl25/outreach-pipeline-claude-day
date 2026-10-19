@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_iTek_Sr_React_Frontend_Developer_Alpharetta",
+ "tagline": "Sr. React Frontend Developer · React.js, TypeScript, Redux, Node.js, Angular · Single Page Applications, HTML5 / CSS3 / ES6+, REST & JSON · CI/CD",
+ "location": "San Francisco Bay Area · open to Alpharetta, GA (3 days onsite; relocating is fine) · Contract (C2C or W2)",
+ "summary": "Sr. React Frontend Developer with 10+ years of React-based front-end development for Walmart Global Tech, IBM/AEP, and HCSC. Builds rich Single Page Applications in React.js, TypeScript, and object-oriented JavaScript (ES6+) with Redux / Redux Toolkit, Zustand, Context API, and React Query, over HTML5, CSS3, and AJAX/fetch-based REST and JSON integrations; also works in Angular (TypeScript, RxJS) and Node.js/Express. Applies design patterns, clean code structure, and code review standards; ships through GitHub Actions, Jenkins, and Azure DevOps CI/CD with Docker-based deployments. Strong on performance (bundle splitting, virtualization, Core Web Vitals) and accessibility (WCAG). GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert), React Hooks, Next.js",
+   "Single Page Applications, Rich Internet Applications"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, Context API, React Query",
+   "Object-Oriented JavaScript (ES6+), HTML5, CSS3, AJAX"
+  ],
+  [
+   "Angular (TypeScript, RxJS), Node.js / Express",
+   "REST APIs, JSON, GraphQL, WebSockets"
+  ],
+  [
+   "Design Patterns, Code Structure, Code Review",
+   "CI/CD: GitHub Actions, Jenkins, Azure DevOps, Docker"
+  ],
+  [
+   "Performance (Core Web Vitals), Accessibility (WCAG)",
+   "Jest, React Testing Library, Cypress, Storybook"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+, OOP), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, Angular (TypeScript, RxJS), HTML5, CSS3/SCSS, Tailwind, Styled Components, AJAX/fetch, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "REST APIs, JSON, GraphQL, WebSockets/Socket.IO, HTTP, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+ }
+}

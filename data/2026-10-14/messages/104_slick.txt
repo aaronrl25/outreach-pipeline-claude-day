@@ -1,0 +1,20 @@
+To: pavani@slickintegrations.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Slick_Azure_Application_Development_Lead_DotNet_Houston.pdf
+Subject: Azure Application Development Lead (.NET) – Houston, TX – Aaron Ramirez (C2C)
+
+Hi Pavani,
+
+I saw your LinkedIn post for the Azure Application Development Lead in Houston, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering and supporting enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: C#, ASP.NET Core, and .NET services exposing REST APIs and microservices over SQL Server / Azure SQL, with React / TypeScript front ends.
+- Microsoft Azure delivery (App Service, Functions, Azure SQL, AI Services) through Azure DevOps and GitHub Actions pipelines with Docker; led teams through requirements, design, build, testing, deployment, and production support, defining architecture, service boundaries, and code standards.
+- Observability with Dynatrace APM (50% lower MTTR on critical incidents), secure coding (JWT, RBAC, HIPAA), and legacy modernization into cloud-native services.
+
+Location: San Francisco Bay Area; relocating to Houston is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

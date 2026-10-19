@@ -1,0 +1,20 @@
+To: rec31@itekpeople.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_iTek_Sr_React_Frontend_Developer_Alpharetta.pdf
+Subject: Sr React Frontend Developer – Alpharetta, GA – Aaron Ramirez (C2C/W2)
+
+Hello,
+
+I saw your LinkedIn post for the Sr React Frontend Developer role in Alpharetta, GA (3 days onsite) and would like to be considered. My tailored resume is attached.
+
+- 10+ years of React-based front-end development for Walmart Global Tech, IBM/AEP, and HCSC: Single Page Applications in React, TypeScript, and object-oriented JavaScript (ES6+) with Redux, Zustand, and React Query over HTML5, CSS3, and AJAX/REST/JSON integrations.
+- Also work in Angular (TypeScript, RxJS) and Node.js/Express; apply design patterns and code review standards and ship through GitHub Actions, Jenkins, and Azure DevOps CI/CD with Docker.
+- Performance work: 40% faster load times via bundle splitting and list virtualization; Jest/React Testing Library coverage at 80%+.
+
+Location: San Francisco Bay Area; relocating to Alpharetta for the three-day onsite schedule is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

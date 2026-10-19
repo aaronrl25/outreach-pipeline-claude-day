@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Exaways_Senior_Front_End_Developer_React_AI_SanFrancisco",
+ "tagline": "Senior Front End Developer · React (Hooks), TypeScript · Redux + Sagas, React Query (TanStack), Zustand · WebSockets, GraphQL · AI-Assisted Development (Cursor, Copilot, Claude)",
+ "location": "San Francisco, CA (local; hybrid onsite) · Contract (C2C or W2)",
+ "summary": "Senior Front End Developer based in San Francisco with 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC. Hooks-based React and TypeScript with Redux + Redux Saga, TanStack React Query, Zustand, and Context API; real-time and data layers over WebSockets, GraphQL, and REST; UI built with design systems, Tailwind CSS, Styled Components, Figma, and Storybook. AI-native workflow: Cursor, GitHub Copilot, and Claude Code daily, plus a production GenAI assistant front end streaming Claude API / LangChain responses. Testing with Jest, React Testing Library, and Cypress; ships through GitHub Actions CI/CD with strong performance (Core Web Vitals) and accessibility (WCAG) practice.",
+ "core_skills": [
+  [
+   "React (Hooks-Based), TypeScript, Next.js",
+   "AI Tools: Cursor, GitHub Copilot, Claude Code (daily)"
+  ],
+  [
+   "Redux + Redux Saga, TanStack React Query, Zustand, Context API",
+   "WebSockets / Socket.IO, GraphQL, REST APIs"
+  ],
+  [
+   "Design Systems, Tailwind CSS, Styled Components (CSS-in-JS)",
+   "Figma, Storybook, Accessibility (WCAG)"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "GitHub Actions CI/CD, Docker, Dynatrace"
+  ],
+  [
+   "Performance (Core Web Vitals, Bundle Splitting)",
+   "GenAI UI Integration (Claude API, LangChain, Azure AI)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Hooks), Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Redux Saga, TanStack React Query, Zustand, Context API, HTML5, CSS3, Tailwind CSS, Styled Components (CSS-in-JS), design systems, Storybook, accessibility (WCAG), Core Web Vitals",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Cursor, GitHub Copilot, Claude Code, Claude API / LangChain"
+ }
+}

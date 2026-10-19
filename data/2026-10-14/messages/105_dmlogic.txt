@@ -1,0 +1,20 @@
+To: sravani@dmlogiccorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_DMLogic_Lead_DotNet_Full_Stack_Developer_React_Healthcare_Remote.pdf
+Subject: Lead .NET Full Stack Developer (React / Healthcare) – Remote – Aaron Ramirez (C2C)
+
+Hi Sravani,
+
+I saw your LinkedIn post for the Lead .NET Full Stack Developer (React, healthcare) for the renal care client, remote on C2C, and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering healthcare and enterprise applications: led HCSC Mobile 2.0, a HIPAA-compliant Blue Cross Blue Shield member platform serving 1M+ members, plus platforms for IBM/AEP and Walmart Global Tech.
+- React / TypeScript front ends on C#, ASP.NET Core, and .NET Core Web API microservices over SQL Server, PostgreSQL, and MongoDB; Microsoft Azure and AWS deployments through Azure DevOps and GitHub Actions CI/CD with Docker.
+- Technical leadership: architecture decisions, code review standards, sprint planning, and mentoring of 4 to 6 engineers; secure PHI handling with JWT and role-based access.
+
+Location: San Francisco Bay Area, fully remote.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

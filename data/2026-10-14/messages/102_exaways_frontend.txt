@@ -1,0 +1,20 @@
+To: vigneshwar.jayakumar@exaways.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Exaways_Senior_Front_End_Developer_React_AI_SanFrancisco.pdf
+Subject: Senior Front End Developer (React / AI) – San Francisco, CA – Aaron Ramirez (C2C)
+
+Hi Vigneshwar,
+
+I saw your LinkedIn post for the Senior Front End Developer with strong AI experience in San Francisco, CA (hybrid onsite) and would like to be considered. I am based in San Francisco. My tailored resume is attached.
+
+- 10+ years building hooks-based React and TypeScript applications for Walmart Global Tech, IBM/AEP, and HCSC, with Redux + Redux Saga, TanStack React Query, Zustand, and Context API.
+- Data and real-time layers over WebSockets, GraphQL, and REST; UI built with design systems, Tailwind CSS, Styled Components, Figma, and Storybook; testing with Jest and React Testing Library.
+- AI-native workflow: Cursor, GitHub Copilot, and Claude Code daily, plus a production GenAI assistant front end streaming Claude API / LangChain responses.
+
+Location: San Francisco, CA (local), available for the hybrid onsite schedule.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

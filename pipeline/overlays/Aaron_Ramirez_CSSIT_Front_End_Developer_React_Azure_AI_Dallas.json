@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_CSSIT_Front_End_Developer_React_Azure_AI_Dallas",
+ "tagline": "Front End Developer · React.js, TypeScript, Redux · Microsoft Azure (App Service, DevOps, AI Services) · GenAI / LLM-Integrated UIs · REST & WebSockets",
+ "location": "San Francisco Bay Area · open to Dallas, TX onsite 5 days (relocating is fine) · 12-Month Contract (C2C or W2)",
+ "summary": "Front End Developer with 10+ years building React and TypeScript applications for Walmart Global Tech, IBM/AEP, and HCSC. Delivers responsive, accessible UIs with Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3, and Tailwind, integrated with REST microservices and real-time WebSockets. Hands-on with Microsoft Azure: App Service deployments, Azure DevOps CI/CD pipelines with Docker-based agents, and Azure AI Services integrated into production field-operations workflows; built a GenAI assistant front end streaming Claude API / LangChain responses through Node.js middleware. Uses GitHub Copilot, Claude Code, and Cursor daily; strong testing discipline with Jest, React Testing Library, and Cypress.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert), Next.js, React Hooks",
+   "Microsoft Azure (App Service, DevOps, AI Services)"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, Context API, React Query",
+   "GenAI / LLM UI Integration (Claude API, LangChain, Azure AI)"
+  ],
+  [
+   "HTML5, CSS3, Tailwind, Responsive & Accessible UI (WCAG)",
+   "REST APIs, GraphQL, WebSockets, Microservices"
+  ],
+  [
+   "Azure DevOps & GitHub Actions CI/CD, Docker",
+   "Jest, React Testing Library, Cypress, Storybook"
+  ],
+  [
+   "Performance Optimization, Core Web Vitals, Dynatrace",
+   "GitHub Copilot, Claude Code, Cursor (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure DevOps, AI Services), GitHub Actions, AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Jenkins, Docker, Dynatrace",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, GitHub Copilot, Claude Code, Cursor, Claude API / LangChain"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Slick_Azure_Application_Development_Lead_DotNet_Houston",
+ "tagline": "Azure Application Development Lead · C#, ASP.NET Core, .NET, REST APIs · Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps · Team Leadership, Modernization",
+ "location": "San Francisco Bay Area · open to Houston, TX onsite (relocating is fine) · Contract (C2C or W2)",
+ "summary": "Application Development Lead with 10+ years delivering and supporting enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs and develops C#, ASP.NET Core, and .NET services exposing REST APIs and microservices over SQL Server and Azure SQL, with React / TypeScript front ends, deployed on Microsoft Azure (App Service, Functions, Azure SQL, AI Services) through Azure DevOps and GitHub Actions pipelines with Docker. Leads development teams through requirements analysis, solution design, build, testing, deployment, and production support; defines architecture, service boundaries, integration patterns, and code standards; has driven modernization of legacy applications into cloud-native services. Strong on observability (Dynatrace APM), unit and integration testing, secure coding (JWT, RBAC, HIPAA), and stakeholder collaboration. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / ASP.NET Core, .NET, Web API, Entity Framework Core",
+   "Microsoft Azure (App Service, Functions, Azure SQL, AI Services)"
+  ],
+  [
+   "Application Architecture, Service Boundaries, Integration Patterns",
+   "Azure DevOps & GitHub Actions CI/CD, Docker"
+  ],
+  [
+   "Team Leadership: Requirements → Design → Delivery → Support",
+   "Application Modernization & Cloud Migration"
+  ],
+  [
+   "REST APIs, Microservices, SQL Server / Azure SQL",
+   "React.js, TypeScript (Front End)"
+  ],
+  [
+   "Observability (Dynatrace APM), Unit & Integration Testing",
+   "Secure Coding: JWT, RBAC, HIPAA; Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / ASP.NET Core, .NET Web API, Entity Framework Core, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, SQL Server, Azure SQL, PostgreSQL, MongoDB, Node.js/Express",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, AI Services), Azure DevOps, GitHub Actions, AWS (ECS/Fargate, Lambda, RDS, S3), Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}
