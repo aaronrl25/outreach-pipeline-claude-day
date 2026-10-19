@@ -1,0 +1,20 @@
+To: shruti@kanakits.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_KanakIT_Principal_Mobile_Developer_React_Native_Hybrid.pdf
+Subject: Principal Mobile Developer – Hybrid (Vienna VA / Pensacola FL / Winchester VA / San Diego CA) – Aaron Ramirez
+
+Hi Shruti,
+
+I saw your LinkedIn post for the Principal Mobile Developer (Level 4) position with the DIGITAL department, hybrid in Vienna, VA / Pensacola, FL / Winchester, VA / San Diego, CA, and would like to be considered. My tailored resume is attached; I would also appreciate the full JD.
+
+- 10+ years in software engineering with 6+ years leading enterprise and consumer mobile applications across iOS and Android: Walmart Global Tech (Seller Center and store apps, 500K+ daily users), HCSC (HIPAA-compliant app for 1M+ Blue Cross Blue Shield members), and IBM/AEP.
+- Sets mobile platform direction: React Native with native Swift and Kotlin modules, MVVM / Clean Architecture, App Store and Google Play release strategy with phased rollouts and feature flags, mobile CI/CD and observability (Dynatrace, Crashlytics).
+- Introduces new tools and practices across teams, including AI-assisted development standards (GitHub Copilot, Claude Code, Cursor), and mentors engineers in Agile release trains.
+
+Location: San Francisco Bay Area; relocating to any of the listed hybrid locations is fine with me.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

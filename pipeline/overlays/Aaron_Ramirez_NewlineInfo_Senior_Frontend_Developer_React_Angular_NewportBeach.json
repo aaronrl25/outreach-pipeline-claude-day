@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_NewlineInfo_Senior_Frontend_Developer_React_Angular_NewportBeach",
+ "tagline": "Senior Frontend Developer · React.js & Angular, TypeScript / JavaScript, HTML5, CSS3 · REST API Integration · Azure, Git, CI/CD, Agile · AI-Assisted Development (Claude Code, GitHub Copilot, Cursor)",
+ "location": "San Francisco Bay Area · open to Newport Beach, CA, 5 days onsite (relocating is fine) · Long-term contract (C2C or W2)",
+ "summary": "Senior Frontend Developer with 10+ years of front-end application development for Walmart Global Tech, IBM/AEP, and HCSC. Strong React.js and Angular in TypeScript and modern JavaScript (ES6+) over HTML5 and CSS3/SCSS, with Redux / Redux Toolkit, Zustand, React Query, RxJS, and NgRx for state, and REST and GraphQL API integration. Ships through Azure DevOps, GitHub Actions, and Jenkins CI/CD with Docker on Azure (App Service, AI Services) and AWS, in Agile/Scrum sprints with Jira and Git-based code review. Uses AI-assisted development tools daily in delivery: Claude Code, GitHub Copilot, and Cursor, including a GenAI assistant shipped on the Claude API. Strong on performance (Core Web Vitals), accessibility (WCAG), and testing with Jest, React Testing Library, Cypress, and Jasmine/Karma.",
+ "core_skills": [
+  [
+   "React.js, Next.js, TypeScript, React Hooks",
+   "Angular (TypeScript, RxJS, NgRx)"
+  ],
+  [
+   "JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind",
+   "REST & GraphQL API Integration, WebSockets"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, React Query",
+   "Azure (App Service, DevOps, AI Services), AWS"
+  ],
+  [
+   "CI/CD: Azure DevOps, GitHub Actions, Jenkins, Docker",
+   "Git, Jira, Agile/Scrum, Code Review"
+  ],
+  [
+   "AI-Assisted Dev: Claude Code, GitHub Copilot, Cursor",
+   "Jest, React Testing Library, Cypress, Jasmine/Karma"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, Angular (TypeScript, RxJS, NgRx, Angular Material), HTML5, CSS3/SCSS, Tailwind, Styled Components, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, DevOps, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure DevOps, GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Process & Tools:": "Agile/Scrum, Jira, Git/GitHub, code review, Figma, Storybook; AI-assisted development with Claude Code, GitHub Copilot, Cursor",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Jasmine, Karma, Detox, Supertest; performance profiling, Lighthouse"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_KanakIT_Principal_Mobile_Developer_React_Native_Hybrid",
+ "tagline": "Principal Mobile Developer · React Native, iOS (Swift) & Android (Kotlin) · Mobile Platform Strategy, Architecture & Enterprise Initiatives · Mobile CI/CD, Observability, AI-Assisted SDLC",
+ "location": "San Francisco Bay Area · open to hybrid in Vienna, VA / Pensacola, FL / Winchester, VA / San Diego, CA (relocating is fine) · Contract (W2 or C2C)",
+ "summary": "Principal-level Mobile Developer with 10+ years in software engineering and 6+ years leading high-volume enterprise and consumer mobile applications across iOS and Android at Walmart Global Tech (Seller Center and store apps, 500K+ daily users), HCSC (HIPAA-compliant app for 1M+ Blue Cross Blue Shield members), and IBM/AEP. Sets mobile platform direction: architecture (MVVM, Clean Architecture, modular / micro-frontend design), React Native with native iOS (Swift) and Android (Kotlin) modules, release strategy across App Store Connect and Google Play with phased rollouts and feature flags, and mobile CI/CD, testing, and observability (Dynatrace, Crashlytics). Introduces new tools and practices across teams, including AI-assisted development standards with GitHub Copilot, Claude Code, and Cursor, and advocates for mobile quality and accessibility with product, backend, QA, DevOps, and security partners. Mentors engineers and leads cross-team initiatives in Agile release trains.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript; iOS (Swift) & Android (Kotlin)",
+   "Mobile Platform Strategy & Architecture (MVVM, Clean, Modular)"
+  ],
+  [
+   "Enterprise Mobile Initiatives, Release Trains (Agile / SAFe-style)",
+   "App Store Connect & Google Play, Phased Rollouts, Feature Flags"
+  ],
+  [
+   "Mobile CI/CD, Testing (Jest, Detox, Appium) & Observability",
+   "Introducing Tools & Practices: AI-Assisted SDLC (Copilot, Claude Code, Cursor)"
+  ],
+  [
+   "REST / GraphQL APIs, Event-Driven Integrations, Offline Sync",
+   "Regulated Domains: HIPAA (HCSC), E-Commerce (Walmart)"
+  ],
+  [
+   "Principal / Staff-Level Technical Leadership",
+   "Mentoring, Change Management & Cross-Team Collaboration"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Mobile Lead"
+  },
+  "3": {
+   "title": "Senior React Native Engineer · Team Lead"
+  },
+  "5": {
+   "title": "React Native Engineer · Team Lead"
+  }
+ },
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), TypeScript, native modules and bridging / TurboModules (Swift, Kotlin), MVVM, Clean Architecture, Hermes, Metro, Gradle, Xcode, Electrode Native micro-frontends, deep links, push notifications, payments and analytics SDKs, offline sync, performance profiling, mobile accessibility",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Appium, Supertest; Agile/Scrum release trains, Jira, Figma, code review, mentoring; AI-assisted SDLC with Claude Code, GitHub Copilot, Cursor"
+ }
+}
