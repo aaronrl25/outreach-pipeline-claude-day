@@ -1,0 +1,18 @@
+To: avinash.p@signitives.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Signitives_Lead_Full_Stack_DotNet_Developer_React_Azure_Remote.pdf
+Subject: Lead Full Stack .NET Developer (React / Azure) – Nashville, TN Remote – Aaron Ramirez (C2C)
+
+Hi Avinash,
+
+I saw your LinkedIn post for the Lead Full Stack .NET Developer role (Nashville, TN, remote, long-term contract) and would like to be considered. My tailored resume is attached, and I am happy to take the live React coding test.
+
+- 10+ years delivering scalable enterprise and healthcare applications for Walmart Global Tech, IBM/AEP, and HCSC, including a HIPAA-compliant Blue Cross Blue Shield member platform serving 1M+ members.
+- React / TypeScript front ends on ASP.NET Core, C#, and .NET Core microservices with RESTful APIs over SQL Server, PostgreSQL, and MongoDB; Microsoft Azure (App Service, Functions, Azure SQL) with Azure DevOps and GitHub Actions CI/CD pipelines.
+- Technical leadership: architecture decisions, code review standards, sprint planning, and mentoring, plus legacy modernization bringing React modules into existing applications.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

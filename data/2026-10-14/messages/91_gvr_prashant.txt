@@ -1,0 +1,19 @@
+To: prashant.kumar@gvrinfotek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_GVR_Senior_DotNet_Full_Stack_Developer_React_Angular_Newark_Remote.pdf
+Subject: Senior .NET Full Stack Developer – Newark, NJ / Remote – Aaron Ramirez (C2C)
+
+Hi Prashant,
+
+I saw your LinkedIn post for the Senior .NET Full Stack Developer role (Newark, NJ or remote, 3–6+ months with possible extension) and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: C# / .NET / .NET Core Web API services exposing RESTful APIs over MS SQL Server (tables, indexes, stored procedures, views, query optimization), behind Angular and React front ends.
+- Deployments to on-premise and AWS environments with Git-based CI/CD and Docker; GitHub Copilot and Anthropic Claude (Claude Code) in daily use; comfortable working independently across the full SDLC.
+
+Details you asked for: current location San Francisco Bay Area (remote preferred; Newark onsite also works); total experience 10+ years; work authorization TN (no sponsorship needed); availability: two weeks' notice or sooner.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

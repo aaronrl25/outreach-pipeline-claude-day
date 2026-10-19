@@ -1,0 +1,33 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_ZodiacHRC_Lead_DotNet_Developer_React_Native_GraphQL_FortLauderdale",
+ "tagline": "Lead Developer · React Native & ReactJS (TypeScript), GraphQL & REST API Integration · .NET Backend (ASP.NET Core / Web API) · Redux / Context API",
+ "location": "Open to Fort Lauderdale, FL hybrid, 3 days onsite (relocating is fine) · Contract (C2C or W2) · US-based, fully authorized to work in the US",
+ "summary": "Lead Developer with 10+ years shipping high-quality cross-platform apps for Walmart Global Tech, IBM/AEP, and HCSC, including 7+ years focused on React Native alongside ReactJS. Integrates and consumes GraphQL and REST APIs, designs mobile app architecture and state management (Redux, Context API), and collaborates with .NET backend teams on ASP.NET Core / Web API services to deliver secure, scalable solutions. Writes clean, reusable, maintainable TypeScript; optimizes performance, responsiveness, and user experience; debugs production issues with Dynatrace; and leads code reviews, sprint planning, and Agile/Scrum delivery with product managers, UX/UI designers, and QA. B.S. in Computer Systems Engineering. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React Native (7+ yrs) & ReactJS, TypeScript / JavaScript",
+   "GraphQL & REST API Integration"
+  ],
+  [
+   "Mobile App Architecture, Redux / Context API State Management",
+   ".NET Backend Collaboration: ASP.NET Core, Web API, C#"
+  ],
+  [
+   "Performance, Responsiveness & UX Optimization",
+   "Production Debugging, Dynatrace, Crash Analytics"
+  ],
+  [
+   "Git, CI/CD (GitHub Actions, Azure DevOps), Expo EAS",
+   "Agile/Scrum, Code Review, Sprint Planning, Mentoring"
+  ],
+  [
+   "Secure Auth (JWT / OAuth 2.0), HIPAA Data Handling",
+   "GitHub Copilot, Claude Code (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "GraphQL (Apollo), REST APIs, WebSockets/Socket.IO, microservices, C# / ASP.NET Core Web API, Node.js/Express, Firebase, PostgreSQL, SQL Server, MongoDB",
+  "Languages:": "TypeScript, JavaScript (ES6+), C#, Node.js, SQL, HTML5, CSS3"
+ }
+}

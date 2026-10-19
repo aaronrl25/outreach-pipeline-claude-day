@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Plano_Frontend_Lead_Developer_React_Next_MFE",
+ "tagline": "Front End Lead Developer · React.js, Next.js, TypeScript, JavaScript, HTML5, CSS · SPAs & Micro Frontends (MFE) · REST / GraphQL, CI/CD · GitHub Copilot",
+ "location": "Open to Plano, TX (relocating is fine; available for in-person client interview) · Contract (C2C or W2)",
+ "summary": "Front End Lead Developer with 10+ years of IT experience and 7+ years leading front-end development for Walmart Global Tech, IBM/AEP, and HCSC. Expert in React.js, Next.js, TypeScript, JavaScript, HTML5, and CSS, building SPAs and Micro Frontend (MFE) applications, including Electrode Native micro-frontends embedding React modules into existing apps. Integrates REST and GraphQL APIs, owns Git-based CI/CD pipelines (GitHub Actions, Jenkins, Azure DevOps), and provides technical leadership: architecture standards, code review protocols, sprint planning, and mentoring of 4 to 6 engineer teams. Proficient with AI development tools, GitHub Copilot and Claude Code daily, plus Cursor, with clear written and verbal communication across product, design, and engineering.",
+ "core_skills": [
+  [
+   "React.js, Next.js, TypeScript, JavaScript (Expert)",
+   "HTML5, CSS3 / SCSS, Tailwind, Responsive & Accessible UI"
+  ],
+  [
+   "SPAs & Micro Frontends (MFE), Module Federation Patterns",
+   "REST / GraphQL API Integration, WebSockets"
+  ],
+  [
+   "Technical Leadership, Team Mentoring, Code Review",
+   "Git, CI/CD: GitHub Actions, Jenkins, Azure DevOps"
+  ],
+  [
+   "State Management: Redux Toolkit, Zustand, React Query",
+   "Testing: Jest, React Testing Library, Cypress"
+  ],
+  [
+   "GitHub Copilot, Claude Code, Cursor (daily)",
+   "Agile/Scrum, Sprint Planning, Stakeholder Communication"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), SPAs, Micro Frontends (Electrode Native, module federation), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3/SCSS, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, technical leadership, GitHub Copilot, Claude Code, Cursor"
+ }
+}

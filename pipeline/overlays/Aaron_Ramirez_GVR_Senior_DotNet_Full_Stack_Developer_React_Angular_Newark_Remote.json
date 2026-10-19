@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_GVR_Senior_DotNet_Full_Stack_Developer_React_Angular_Newark_Remote",
+ "tagline": "Senior .NET Full Stack Developer · C# / .NET Core Web API, RESTful APIs, MS SQL Server · Angular & React Front Ends · On-Premise & AWS Deployments",
+ "location": "Remote (US) · open to Newark, NJ onsite · Contract (C2C or W2)",
+ "summary": "Senior .NET Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# / .NET / .NET Core Web API services exposing RESTful APIs over MS SQL Server (tables, indexes, stored procedures, views, and query optimization), behind Angular and React front ends in TypeScript, HTML5, and CSS3. Deploys to on-premise and AWS environments (ECS, Lambda, RDS) with Git-based CI/CD and Docker; applies OOP, SOLID, and design patterns; works independently across the full SDLC with strong written and verbal communication. GitHub Copilot and Anthropic Claude (Claude Code) in daily use for scaffolding, test generation, and refactoring.",
+ "core_skills": [
+  [
+   "C# / .NET, .NET Core Web API, RESTful APIs",
+   "MS SQL Server: Tables, Indexes, Stored Procedures, Views, Query Optimization"
+  ],
+  [
+   "Angular (TypeScript, RxJS) & React.js Front Ends",
+   "Entity Framework / EF Core, Dapper, Microservices"
+  ],
+  [
+   "On-Premise & AWS Deployments (ECS, Lambda, RDS, S3)",
+   "Git, CI/CD Pipelines, Docker, DevOps Practices"
+  ],
+  [
+   "GitHub Copilot & Anthropic Claude (Claude Code)",
+   "OOP, SOLID, Design Patterns, Code Review"
+  ],
+  [
+   "Independent Delivery, Agile/Scrum, Full SDLC",
+   "Node.js & Java / Spring Boot (secondary)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Framework, .NET Core & modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+ }
+}
