@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_SriTech_Senior_React_Developer_Weehawken",
+ "tagline": "Senior React Developer · React.js, TypeScript, Next.js · Redux / Redux Toolkit, Zustand, React Query · REST & GraphQL, HTML5 / CSS3 · Jest, React Testing Library, CI/CD",
+ "location": "San Francisco Bay Area · open to Weehawken, NJ onsite from day 1 (relocating is fine) · Contract (C2C or W2)",
+ "summary": "Senior React Developer with 10+ years designing, developing, and maintaining high-quality React.js applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds new features and enhances existing applications in React, TypeScript, and Next.js with Redux / Redux Toolkit, Zustand, Context API, and React Query, over REST and GraphQL APIs and real-time WebSockets; HTML5, CSS3, Tailwind, Styled Components, and accessible (WCAG) design systems. Leads code reviews, troubleshoots production issues with Dynatrace, and enforces code quality with Jest, React Testing Library, and Cypress inside GitHub Actions and Jenkins CI/CD. Works Agile/Scrum with Git-based workflows and mentors engineers. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert), Next.js, React Hooks",
+   "Redux / Redux Toolkit, Zustand, Context API, React Query"
+  ],
+  [
+   "HTML5, CSS3, Tailwind, Styled Components, Design Systems",
+   "REST APIs, GraphQL, WebSockets, Node.js/Express"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Storybook",
+   "CI/CD: GitHub Actions, Jenkins, Azure DevOps, Docker"
+  ],
+  [
+   "Code Review, Troubleshooting, Performance (Core Web Vitals)",
+   "Accessibility (WCAG), Responsive Design"
+  ],
+  [
+   "Agile/Scrum, Jira, Git/GitHub, Mentoring",
+   "GitHub Copilot, Claude Code (daily)"
+  ]
+ ]
+}

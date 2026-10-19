@@ -1,0 +1,19 @@
+To: mayankj@beaconfireinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Beaconfire_Software_Engineer_Node_React_Plano.pdf
+Subject: Software Engineer (Node.js / React.js) – Plano, TX – Aaron Ramirez (C2C)
+
+Hi Mayank,
+
+I saw your LinkedIn post for the Software Engineer (Node.js + React.js) requirement in Plano, TX and would like to be considered. My tailored resume is attached; I would appreciate the full JD as well.
+
+- 10+ years building Node.js/Express services (REST, GraphQL, WebSockets over PostgreSQL and MongoDB) and React / TypeScript front ends for Walmart Global Tech, IBM/AEP, and HCSC.
+- Docker on AWS ECS/Fargate and Lambda, GitHub Actions and Jenkins CI/CD with Jest, React Testing Library, and Supertest gates, Dynatrace production monitoring.
+
+Location: San Francisco Bay Area; relocating to Plano is fine with me, and I am available for the onsite interview.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

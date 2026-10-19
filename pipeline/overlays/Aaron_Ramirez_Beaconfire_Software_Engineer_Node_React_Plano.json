@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Beaconfire_Software_Engineer_Node_React_Plano",
+ "tagline": "Software Engineer · Node.js / Express, React.js, TypeScript · REST & GraphQL APIs, WebSockets, Microservices · AWS, Docker, CI/CD · Jest / Supertest",
+ "location": "San Francisco Bay Area · open to Plano, TX onsite (relocating is fine) · Contract (C2C or W2)",
+ "summary": "Software Engineer with 10+ years building Node.js and React applications for Walmart Global Tech, IBM/AEP, and HCSC. Develops Node.js/Express services exposing REST and GraphQL APIs with real-time WebSocket/Socket.IO events over PostgreSQL and MongoDB, paired with React / TypeScript front ends using Redux, Zustand, and React Query. Containerizes services with Docker on AWS ECS/Fargate and Lambda, ships through GitHub Actions and Jenkins CI/CD with Jest, React Testing Library, and Supertest gates, and monitors production in Dynatrace. Strong on performance, code review, and Agile/Scrum delivery. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Node.js / Express, REST & GraphQL APIs, WebSockets",
+   "React.js, TypeScript, Next.js, React Hooks"
+  ],
+  [
+   "Redux / Redux Toolkit, Zustand, React Query",
+   "PostgreSQL, MongoDB, Firebase"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS, S3), Docker",
+   "CI/CD: GitHub Actions, Jenkins, Azure DevOps"
+  ],
+  [
+   "Jest, React Testing Library, Supertest, Cypress",
+   "Microservices, Event-Driven Design"
+  ],
+  [
+   "Performance Optimization, Dynatrace, Code Review",
+   "Agile/Scrum, Jira, Git/GitHub, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, JWT/RBAC auth, Firebase, PostgreSQL, MongoDB"
+ }
+}

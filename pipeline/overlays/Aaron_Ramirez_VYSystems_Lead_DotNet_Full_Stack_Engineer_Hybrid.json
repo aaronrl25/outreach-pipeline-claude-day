@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_VYSystems_Lead_DotNet_Full_Stack_Engineer_Hybrid",
+ "tagline": "Lead Microsoft .NET Full Stack Engineer · C#, .NET 8, ASP.NET Core / MVC, REST APIs, Microservices · React & Angular · SQL Server, MongoDB · AWS / Azure, CI/CD, Docker",
+ "location": "San Francisco Bay Area · open to Seattle, WA / New York, NY / Boston, MA / Madison, NJ / Coppell, TX hybrid (relocating is fine) · Contract (C2C or W2)",
+ "summary": "Lead .NET Full Stack Engineer with 10+ years delivering and supporting enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# services on .NET 8, ASP.NET Core, and ASP.NET MVC (Web API, Entity Framework Core) exposing REST APIs and microservices over SQL Server and MongoDB, behind React and Angular front ends in TypeScript; deploys on AWS (ECS/Fargate, Lambda, RDS) and Microsoft Azure (App Service, Functions, Azure SQL) through GitHub Actions and Azure DevOps CI/CD with Docker. Technical leadership across architecture, code review standards, sprint planning, and mentoring; has led application modernization bringing React modules into legacy systems and owned production support with Dynatrace observability, incident response, and root-cause analysis (50% lower MTTR on critical incidents). Agile/Scrum, secure coding (JWT, RBAC, HIPAA), and AI-assisted engineering with GitHub Copilot and Claude Code daily.",
+ "core_skills": [
+  [
+   "C# / .NET 8, ASP.NET Core, ASP.NET MVC, Web API, EF Core",
+   "React.js & Angular, TypeScript, HTML5, CSS3"
+  ],
+  [
+   "REST APIs, Microservices, Event-Driven Design",
+   "SQL Server (T-SQL), MongoDB, PostgreSQL"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS, S3) & Microsoft Azure",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Docker"
+  ],
+  [
+   "Technical Leadership (3+ yrs): Architecture, Mentoring, Code Review",
+   "Application Modernization & Cloud Migration"
+  ],
+  [
+   "Production Support, Incident Response, RCA, Dynatrace Observability",
+   "Agile/Scrum, DevSecOps Practices, JWT / RBAC"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET 8, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, SQL Server (T-SQL), MongoDB, PostgreSQL, Node.js/Express",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS), TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Microsoft Azure (App Service, Functions, Azure SQL, AI Services), GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

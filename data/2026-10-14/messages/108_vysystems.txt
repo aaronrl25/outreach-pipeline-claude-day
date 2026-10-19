@@ -1,0 +1,20 @@
+To: sherlyn@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VYSystems_Lead_DotNet_Full_Stack_Engineer_Hybrid.pdf
+Subject: Lead Microsoft .NET Full Stack Engineer (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Sherlyn,
+
+I saw your LinkedIn post for the Lead / Sr. Lead Microsoft .NET Full Stack Engineer (hybrid; Madison NJ, Manhattan, Boston, Aventura, Seattle, Coppell) and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering and supporting enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: C# / .NET 8, ASP.NET Core and MVC Web APIs, microservices over SQL Server and MongoDB, with React and Angular front ends in TypeScript; AWS and Azure deployments through GitHub Actions and Azure DevOps CI/CD with Docker.
+- Technical leadership: architecture, code review standards, sprint planning, and mentoring; led application modernization bringing React modules into legacy systems; owned production support with Dynatrace observability, incident response, and root-cause analysis (50% lower MTTR on critical incidents).
+- AI-assisted engineering daily with GitHub Copilot and Claude Code.
+
+Location: San Francisco Bay Area; relocating to any of the listed hybrid locations is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
