@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Cloudious_DotNet_Full_Stack_Developer_React_Angular_Dallas",
+ "tagline": ".NET Full Stack Developer · C# / .NET 8, ASP.NET Core, Web API, Entity Framework · React & Angular, TypeScript · SQL Server, REST APIs · Azure DevOps, CI/CD, Docker",
+ "location": "San Francisco Bay Area · open to Dallas, TX day-1 onsite (relocating is fine) · Contract (C2C or W2)",
+ "summary": ".NET Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# services on ASP.NET Core and modern .NET (Web API, Entity Framework / EF Core) exposing RESTful APIs over SQL Server and PostgreSQL, behind React and Angular front ends in TypeScript, HTML5, and CSS3; React Native for mobile and WebSockets for real-time features. Ships through Azure DevOps and GitHub Actions CI/CD with Docker on Azure and AWS, tracks work in Jira in Agile/Scrum sprints, and has led application-modernization efforts bringing React modules into existing systems. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET 8, ASP.NET Core, Web API, Entity Framework",
+   "React.js & Angular, TypeScript, HTML5, CSS3"
+  ],
+  [
+   "REST APIs, Microservices, WebSockets",
+   "SQL Server (T-SQL), PostgreSQL, MongoDB"
+  ],
+  [
+   "Azure DevOps, GitHub Actions, CI/CD, Docker",
+   "Git, Jira, Agile/Scrum, Code Review"
+  ],
+  [
+   "React Native (Mobile), Application Modernization",
+   "Node.js / Express (secondary)"
+  ],
+  [
+   "Microsoft Azure & AWS Cloud Services",
+   "GitHub Copilot, Claude Code (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET 8, ASP.NET Core Web API, Entity Framework / EF Core, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, SQL Server (T-SQL), PostgreSQL, MongoDB, Node.js/Express",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS), TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (ECS/Fargate, Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

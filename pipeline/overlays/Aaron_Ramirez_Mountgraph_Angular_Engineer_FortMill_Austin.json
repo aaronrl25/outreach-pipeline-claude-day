@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Mountgraph_Angular_Engineer_FortMill_Austin",
+ "tagline": "Angular Engineer / Developer · Angular (modern versions), TypeScript, RxJS, NgRx · PostgreSQL, REST APIs, AWS · React as second framework",
+ "location": "San Francisco Bay Area · open to Fort Mill, SC or Austin, TX (relocating is fine) · Contract (W2 or C2C)",
+ "summary": "Angular Engineer / Developer with 10+ years building and modernizing enterprise business applications for Walmart Global Tech, IBM/AEP, and HCSC, including finance-adjacent and regulated (HIPAA) domains. Strong Angular and TypeScript: modern Angular (standalone components, signals), RxJS, NgRx, Angular Material, reactive forms, and lazy-loaded routing over REST APIs backed by PostgreSQL, with AWS-hosted services (ECS/Fargate, Lambda, RDS, S3). Keeps quality high with Jasmine/Karma, Jest, and Cypress, ships through GitHub Actions and Jenkins CI/CD, and monitors production in Dynatrace. React and Next.js expert as a second framework; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Angular (modern), TypeScript, RxJS, NgRx",
+   "PostgreSQL, REST APIs, JSON, GraphQL"
+  ],
+  [
+   "Angular Material, Reactive Forms, Lazy Routing",
+   "AWS (ECS/Fargate, Lambda, RDS, S3)"
+  ],
+  [
+   "Application Modernization, Enterprise Apps",
+   "Jasmine/Karma, Jest, Cypress"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins, Docker",
+   "Performance, Accessibility (WCAG)"
+  ],
+  [
+   "React & Next.js (Expert, secondary)",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, reactive forms, lazy-loaded routing; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

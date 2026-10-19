@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_TekStaffing_Senior_Full_Stack_Engineer_React_Native_Node_AWS_Remote",
+ "tagline": "Senior Full Stack Engineer · React.js, React Native, Redux, TypeScript · Node.js / Express, REST APIs · AWS Lambda, RDS, S3, ECS/Fargate · Jest, Cypress, GitHub Actions CI/CD",
+ "location": "San Francisco Bay Area · Remote (MST hours are fine) · Contract (C2C or W2)",
+ "summary": "Senior Full Stack Engineer with 10+ years building React, React Native, and Node.js applications for Walmart Global Tech, IBM/AEP, and HCSC. Hands-on across the stack: React.js and React Native front ends in TypeScript with Redux / Redux Toolkit and React Query, Node.js/Express services exposing REST APIs with third-party integrations and real-time WebSocket events, and AWS deployments on Lambda, ECS/Fargate, RDS, S3, and CloudFront with Docker. Designs event-driven, scalable services (10+ microservices at IBM/AEP), keeps quality high with Jest, React Testing Library, Cypress, and Detox, ships through GitHub Actions and Jenkins CI/CD, and owns production support with Dynatrace. Contributes to architecture and code reviews; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, React Native, Redux / Redux Toolkit",
+   "Node.js / Express, REST APIs, Integrations"
+  ],
+  [
+   "TypeScript & JavaScript (ES6+), Next.js",
+   "AWS Lambda, RDS, S3, CloudFront, ECS/Fargate"
+  ],
+  [
+   "Event-Driven & Microservices Architecture",
+   "Jest, React Testing Library, Cypress, Detox"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins, Docker",
+   "Performance Optimization & Debugging"
+  ],
+  [
+   "Production Support, Dynatrace, Code Review",
+   "PostgreSQL, MongoDB, Firebase"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, third-party integrations, microservices, event-driven design, JWT/RBAC auth, Firebase, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "AWS (Lambda, ECS/Fargate, RDS, S3, CloudFront), Azure (App Service, DevOps), Docker, GitHub Actions, Jenkins, Azure DevOps, Dynatrace"
+ }
+}

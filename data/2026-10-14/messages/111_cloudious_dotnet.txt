@@ -1,0 +1,19 @@
+To: sathiya@cloudious.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Cloudious_DotNet_Full_Stack_Developer_React_Angular_Dallas.pdf
+Subject: .NET Full Stack Developer – Dallas, TX (Day 1 onsite) – Aaron Ramirez (C2C)
+
+Hi Sathiya,
+
+I saw your LinkedIn post for the .NET Full Stack Developer C2C role in Dallas, TX (day 1 onsite) and would like to be considered. My tailored resume is attached; I would appreciate the full JD and client details.
+
+- 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: C# / ASP.NET Core and modern .NET Web APIs with Entity Framework over SQL Server and PostgreSQL, behind React and Angular front ends in TypeScript.
+- Azure DevOps and GitHub Actions CI/CD with Docker on Azure and AWS, Jira-tracked Agile/Scrum delivery, and application-modernization work bringing React modules into existing systems; React Native and WebSockets for mobile and real-time features.
+
+Location: San Francisco Bay Area; relocating to Dallas for day-1 onsite is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

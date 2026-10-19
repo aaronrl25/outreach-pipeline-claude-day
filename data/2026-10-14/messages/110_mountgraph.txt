@@ -1,0 +1,20 @@
+To: rojer@mountgraph.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Mountgraph_Angular_Engineer_FortMill_Austin.pdf
+Subject: Angular Engineer / Developer (BOPM) – Fort Mill, SC / Austin, TX – Aaron Ramirez (W2 / C2C)
+
+Hi Rojer,
+
+I saw your LinkedIn post for the Angular Engineer / Developer (BOPM) positions in Fort Mill, SC and Austin, TX and would like to be considered. My tailored resume is attached; I would also appreciate the full JD.
+
+- 10+ years building and modernizing enterprise business applications for Walmart Global Tech, IBM/AEP, and HCSC, including regulated (HIPAA) domains.
+- Modern Angular with TypeScript, RxJS, NgRx, Angular Material, reactive forms, and lazy-loaded routing over REST APIs backed by PostgreSQL, with AWS-hosted services (ECS/Fargate, Lambda, RDS, S3); Jasmine/Karma, Jest, and Cypress for testing; GitHub Actions and Jenkins CI/CD.
+- React and Next.js expert as a second framework.
+
+Location: San Francisco Bay Area; relocating to Fort Mill or Austin is fine with me. Either location works.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

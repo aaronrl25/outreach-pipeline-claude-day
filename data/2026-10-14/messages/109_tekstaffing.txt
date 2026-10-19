@@ -1,0 +1,20 @@
+To: raghvendra@tek-staffing.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TekStaffing_Senior_Full_Stack_Engineer_React_Native_Node_AWS_Remote.pdf
+Subject: Senior Full Stack Engineer (React / React Native / Node / AWS) – Remote – Aaron Ramirez (C2C)
+
+Hi Raghvendra,
+
+I saw your LinkedIn post for the remote Senior Full Stack Engineer requirement (logistics / supply chain, MST hours) and would like to be considered. My tailored resume is attached.
+
+- 10+ years building React.js, React Native, and Node.js/Express applications for Walmart Global Tech, IBM/AEP, and HCSC: TypeScript throughout, Redux / Redux Toolkit on the front end, REST APIs and third-party integrations on the back end, with real-time WebSocket events.
+- AWS deployments on Lambda, ECS/Fargate, RDS, S3, and CloudFront with Docker; event-driven microservices (10+ services at IBM/AEP); Jest, React Testing Library, and Cypress automated testing; GitHub Actions and Jenkins CI/CD; production support with Dynatrace.
+- Contributes to architecture, code reviews, and performance optimization; comfortable working independently on MST hours.
+
+Location: San Francisco Bay Area; fully remote works well for me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
