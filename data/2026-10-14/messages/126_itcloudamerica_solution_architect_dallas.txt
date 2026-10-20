@@ -1,0 +1,20 @@
+To: maggie@Itcloudamerica.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ITCloudAmerica_Web_Application_Solution_Architect_Dallas.pdf
+Subject: Modern Web Application Solution Architect – Dallas (Oncore, 3 days onsite) – Aaron Ramirez (C2C)
+
+Hi Maggie,
+
+I saw your LinkedIn post for the Modern Web Application Solution Architect role with Oncore in Dallas (3 days a week onsite) and would like to be considered. My tailored resume is attached.
+
+- 10+ years as a hands-on architect and lead designing, modernizing, and delivering secure, scalable enterprise web applications for Walmart Global Tech, IBM / American Electric Power (regulated utility), and HCSC (healthcare): React, Next.js, Angular, and TypeScript on the front end; Node.js / NestJS and Java / Spring Boot microservices with REST and GraphQL APIs, Kafka, API gateways, and caching on the back end.
+- Containerized architectures on Docker and Kubernetes across AWS and Azure; application security with OAuth2 / OIDC and JWT; CI/CD and DevSecOps pipelines on GitHub Actions, Azure DevOps, and Jenkins; observability with Dynatrace APM and distributed tracing that cut P1 resolution time by 50% at AEP.
+- Produces architecture diagrams, technical designs, and solution roadmaps; leads legacy-to-modern migrations and cloud modernization; builds proofs of concept and sets architecture standards for cross-functional squads of 6+ engineers.
+
+Location: three days a week onsite in Dallas works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

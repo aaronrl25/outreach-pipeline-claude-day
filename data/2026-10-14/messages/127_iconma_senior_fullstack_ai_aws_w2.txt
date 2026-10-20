@@ -1,0 +1,20 @@
+To: tony.p@iconma.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ICONMA_Senior_Full_Stack_Developer_Node_React_AWS_GenAI_Remote.pdf
+Subject: Senior Full Stack Developer (AI + AWS) – Remote / Plano / Chicago – Aaron Ramirez (W2)
+
+Hi Tony,
+
+I saw your LinkedIn post for the Senior Full Stack Developer (AI + AWS) opening and would like to be considered. My tailored resume is attached.
+
+- 10+ years building cloud-native web platforms for Walmart Global Tech, IBM/AEP, and HCSC: React and Angular front ends on Node.js / TypeScript and Java / Spring Boot microservices with REST and GraphQL APIs, PostgreSQL / Aurora and MongoDB, and Kafka messaging, deployed on AWS (Lambda, API Gateway, ECS/Fargate, S3, Cognito, RDS) with Docker and GitHub Actions / Jenkins CI/CD.
+- Generative AI in production features: Claude and OpenAI APIs, retrieval-augmented generation with embeddings and vector search, tool-calling agents, evaluation and guardrails using LangChain and Python / FastAPI services; Claude Code and GitHub Copilot daily.
+- DevOps and quality: microservices and observability (Dynatrace), performance optimization, and Jest / React Testing Library / Supertest / Cypress coverage above 80%; leads design and code reviews and mentors engineers in Agile/Scrum teams.
+
+Location: San Francisco Bay Area, remote preferred; Plano, Chicago, McLean, or Richmond also work for me.
+
+Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

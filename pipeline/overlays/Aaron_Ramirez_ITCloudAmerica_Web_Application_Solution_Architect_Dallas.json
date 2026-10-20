@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "tagline": "Modern Web Application Solution Architect  ·  React / Next.js, Angular, TypeScript  ·  Node.js / NestJS, Java / Spring Boot Microservices, REST & GraphQL  ·  Docker, Kubernetes, AWS / Azure  ·  Application Security & Reliability",
+ "location": "Dallas, TX  ·  Onsite 3 days/week works for me  ·  Contract (C2C)",
+ "summary": "Hands-on Solution / Application Architect with 10+ years designing, modernizing, and delivering secure, scalable, resilient enterprise web applications for Walmart Global Tech, IBM / American Electric Power (regulated utility), and HCSC (healthcare). Front end in React, Next.js (SSR), Angular, JavaScript, and TypeScript with component libraries and web performance optimization; back end in Node.js / NestJS and Java / Spring Boot: REST and GraphQL APIs, event-driven microservices on Kafka, API gateways, caching, and distributed-systems patterns for high availability. Containerized architectures on Docker and Kubernetes across AWS and Azure; application security with OAuth2 / OIDC, JWT, and secure SDLC practices; CI/CD and DevSecOps pipelines on GitHub Actions, Azure DevOps, and Jenkins; observability and reliability with Dynatrace APM, distributed tracing, and performance dashboards (50% faster P1 resolution at AEP). Produces architecture diagrams, technical designs, and solution roadmaps, leads legacy-to-modern migrations and cloud modernization, builds proofs of concept, and sets architecture standards for cross-functional squads of 6+ engineers.",
+ "core_skills": [
+  [
+   "React, Next.js (SSR), Angular, TypeScript, JavaScript",
+   "Node.js / NestJS, Java / Spring Boot Microservices"
+  ],
+  [
+   "REST APIs, GraphQL, API Gateway, Distributed Systems",
+   "Kafka, Event-Driven Design, Caching, Resilience Patterns"
+  ],
+  [
+   "Docker, Kubernetes, Containerized Architecture",
+   "AWS (ECS/Fargate, Lambda, RDS), Azure (App Service, AKS)"
+  ],
+  [
+   "Application Security: OAuth2 / OIDC, JWT, DevSecOps",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins"
+  ],
+  [
+   "Observability: Dynatrace APM, Distributed Tracing",
+   "Architecture Diagrams, Technical Designs, Solution Roadmaps"
+  ]
+ ],
+ "name": "Aaron_Ramirez_ITCloudAmerica_Web_Application_Solution_Architect_Dallas",
+ "tech_overrides": {
+  "Front End:": "React, Next.js (SSR/ISR), Angular (TypeScript, RxJS), JavaScript (ES6+), TypeScript, Redux / Redux Toolkit, React Query, component libraries, design systems, Storybook, accessibility (WCAG 2.1), Core Web Vitals, Lighthouse",
+  "APIs & Backend:": "Node.js / NestJS / Express (TypeScript), Java / Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST web services, GraphQL, WebSockets, Kafka, API Gateway, PostgreSQL, MongoDB, Redis, SAP integration",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, API Gateway, RDS, S3, CloudFront), Azure (App Service, AKS, DevOps), Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Azure DevOps, Terraform basics, Dynatrace APM, distributed tracing, OAuth2 / OIDC, DevSecOps"
+ }
+}

@@ -1,0 +1,19 @@
+To: ajay.p@sibitalent.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_SibiTalent_Java_Full_Stack_Developer_React_MountainView.pdf
+Subject: Java Full Stack Developer (React) – Mountain View, CA – Aaron Ramirez (C2C, local to California)
+
+Hi Ajay,
+
+I saw your LinkedIn post for the Java Full Stack (React) contract role in Mountain View, CA and would like to be considered. My tailored resume is attached, and my LinkedIn is linkedin.com/in/aaronsoftware.
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC: React / TypeScript front ends (Redux Toolkit, Hooks, component libraries, performance) integrated with Java / Spring Boot microservices and REST web services.
+- Hands-on across the service layer: API design, Spring MVC and Hibernate/JPA data access, OAuth2 / JWT auth, PostgreSQL and MongoDB, SAP and enterprise backend integration; JUnit, Jest, and React Testing Library coverage above 80%; AWS with Docker and GitHub Actions / Jenkins CI/CD.
+
+Location: local to California (San Francisco Bay Area, PST); Mountain View onsite or hybrid works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
