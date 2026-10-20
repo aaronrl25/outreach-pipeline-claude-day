@@ -1,0 +1,14 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_Envision_React_Native_Developer_Remote",
+ "tagline": "React Native Developer  ·  JavaScript (ES6+) & TypeScript, iOS & Android  ·  Redux Toolkit, React Navigation, REST APIs  ·  App Store & Google Play Releases",
+ "location": "Remote (United States)  ·  Contract (C2C)",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years building and publishing cross-platform iOS and Android apps for Walmart Global Tech, IBM/AEP, HCSC, and an early-stage studio I co-founded. Writes clean, maintainable JavaScript (ES6+) and TypeScript with functional, reusable UI components; manages state with Redux / Redux Toolkit and Zustand; routes with React Navigation; and integrates RESTful APIs (Axios / Fetch), third-party SDKs, and native modules in Swift and Kotlin. Hands-on daily with Android Studio and Xcode, Fastlane, Gradle, and CocoaPods; ships push notifications, deep linking, and responsive Flexbox layouts; and owns App Store and Google Play publishing, unit testing with Jest and Detox, and performance debugging for apps serving 500K+ daily users. Works end to end with product managers, designers, backend engineers, and QA in Agile teams.",
+ "core_skills": [
+  ["React Native (6+ yrs) · iOS & Android", "JavaScript (ES6+) & TypeScript, Functional Components"],
+  ["Redux / Redux Toolkit, Zustand, MobX", "React Navigation, Deep Linking, Push Notifications"],
+  ["REST APIs: Axios / Fetch, Third-Party SDKs", "Native Modules: Swift / Kotlin, Android Studio, Xcode"],
+  ["Fastlane, Gradle, CocoaPods, CI/CD (GitHub Actions)", "App Store & Google Play Publishing"],
+  ["Responsive UI, Flexbox, Performance Optimization", "Jest, React Testing Library, Detox, Debugging"]
+ ]
+}

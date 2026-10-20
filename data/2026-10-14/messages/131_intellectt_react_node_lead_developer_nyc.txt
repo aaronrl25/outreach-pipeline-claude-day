@@ -1,0 +1,20 @@
+To: ajith.albert@intellectt.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Intellectt_React_Node_Lead_Developer_NYC.pdf
+Subject: React.js / Node.js Lead Developer – New York, NY – Aaron Ramirez (W2 or Full-time)
+
+Hi Ajith,
+
+I saw your LinkedIn post for the React.js / Node.js Lead Developer openings in New York and would like to be considered. My tailored resume is attached.
+
+- 10+ years building and leading React.js, React Native, and Node.js products for Walmart Global Tech, IBM/AEP, and HCSC: TypeScript front ends with Redux / Redux Toolkit and Next.js, Node.js / Express services exposing REST and GraphQL APIs, PostgreSQL and MongoDB, deployed on AWS with Docker and GitHub Actions / Jenkins CI/CD.
+- Lead experience with teams of 4–8 engineers: architecture decisions, code reviews, sprint planning, and mentoring, with Jest / React Testing Library / Cypress coverage and production support on Dynatrace.
+- React Native apps shipped to the App Store and Google Play alongside the web platforms they share APIs with.
+
+Location: relocating to New York for this role works for me.
+
+Available on W2 or for a full-time position. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,5 +1,5 @@
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-const store=JSON.parse(sessionStorage.getItem('__posts5')||'{}');
+const store=JSON.parse(sessionStorage.getItem('__posts6')||'{}');
 function card(el){let n=el;for(let i=0;i<12&&n&&n.parentElement;i++){n=n.parentElement;if(n.parentElement&&n.parentElement.getAttribute&&n.parentElement.getAttribute('data-testid')==='lazy-column')return n;}return el.closest('li')||el.parentElement.parentElement.parentElement;}
 async function collect(){
  document.querySelectorAll('[data-testid=expandable-text-button]').forEach(b=>{if(/more/i.test(b.innerText))b.click();});
@@ -19,6 +19,6 @@ async function collect(){
 window.scrollTo(0,0);await sleep(800);
 for(let i=0;i<22;i++){await collect();window.scrollBy(0,600);await sleep(900);const h=document.body.scrollHeight;if(window.scrollY+window.innerHeight>=h-5){await sleep(1500);if(document.body.scrollHeight===h)break;}}
 await collect();
-sessionStorage.setItem('__posts5',JSON.stringify(store));
+sessionStorage.setItem('__posts6',JSON.stringify(store));
 const all=Object.values(store);
 JSON.stringify({total:all.length,withEmail:all.filter(p=>p.emails.length).length});

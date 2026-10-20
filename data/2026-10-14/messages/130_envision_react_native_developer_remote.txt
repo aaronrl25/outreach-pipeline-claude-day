@@ -1,0 +1,20 @@
+To: ritesh.kumar@envisiontechsol.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Envision_React_Native_Developer_Remote.pdf
+Subject: React Native Developer – Remote (US) – Aaron Ramirez (C2C)
+
+Hi Ritesh,
+
+I saw your LinkedIn post for the remote React Native Developer (C2C) role and would like to be considered. My tailored resume is attached.
+
+- 6+ years building and publishing cross-platform React Native apps for iOS and Android at Walmart Global Tech, IBM/AEP, and HCSC, on top of 10+ years in software engineering: clean JavaScript (ES6+) / TypeScript, functional UI components, and responsive Flexbox layouts.
+- Redux / Redux Toolkit and Zustand state management, React Navigation, RESTful API integration with Axios / Fetch, third-party SDKs, and native modules in Swift and Kotlin; daily work in Android Studio and Xcode with Fastlane, Gradle, and CocoaPods.
+- Push notifications, deep linking, App Store and Google Play publishing, Jest and Detox unit testing, and performance debugging for apps serving 500K+ daily users, working end to end with product, design, backend, and QA.
+
+Location: remote within the US works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
