@@ -1,0 +1,20 @@
+To: sharanjeet.singh@testingxperts.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TestingXperts_Front_End_Engineer_React_Redux_AWS_MountainView.pdf
+Subject: Re: Front end engineer :: MTV CA – 3 days a week hybrid
+
+Hi Sharanjeet,
+
+Thank you for reaching out. I am interested in the Front End Engineer role in Mountain View (3 days a week hybrid, 6+ months). My tailored resume is attached.
+
+- 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC: React 18, Redux / Redux Toolkit, Hooks, TypeScript, HTML5, and CSS3 with component libraries, accessibility, and Core Web Vitals performance work on applications serving hundreds of thousands of daily users.
+- Integrates front ends with REST and SOAP services across microservice architectures; comfortable with MySQL/PostgreSQL and MongoDB data models; ships on AWS (ECS/Fargate, Lambda, S3, CloudFront) with GitHub Actions and Jenkins CI/CD; Jest, React Testing Library, and Cypress coverage above 80%.
+- Designs team workflows and engineering processes (branching strategy, code review protocols, release checklists, onboarding) that helped squads scale from 3 to 6+ engineers in Agile/Scrum.
+
+Location: local to the San Francisco Bay Area; three days a week onsite in Mountain View works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

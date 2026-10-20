@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Front-End Engineer · React.js, Redux, HTML5, CSS3, TypeScript · REST / SOAP APIs & Microservices · MySQL, MongoDB · AWS · Agile & DevOps · Workflow / Process Design",
+ "location": "Local to the San Francisco Bay Area · Hybrid 3 days/week in Mountain View, CA · Contract (C2C), 6+ months",
+ "summary": "Front-End Engineer with 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC: React 18, Redux / Redux Toolkit, Hooks, TypeScript, HTML5, CSS3, and Next.js with component libraries, accessibility (WCAG), and Core Web Vitals performance work on applications serving hundreds of thousands of daily users. Integrates front ends with REST and SOAP services across microservice architectures (OAuth 2.0, JWT) and works comfortably with relational and document data models (MySQL/PostgreSQL, MongoDB). Ships on AWS (ECS/Fargate, Lambda, S3, CloudFront) with GitHub Actions and Jenkins CI/CD, Docker, and Dynatrace monitoring; Jest, React Testing Library, and Cypress coverage above 80%. Designs team workflows and engineering processes (branching strategy, code review protocols, release checklists, onboarding) that helped squads scale from 3 to 6+ engineers in Agile/Scrum; clear communicator and mentor. Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, Redux / Redux Toolkit, Hooks, TypeScript",
+   "HTML5, CSS3, Tailwind, Styled Components, Next.js"
+  ],
+  [
+   "REST & SOAP API Integration, Microservices",
+   "MySQL / PostgreSQL, MongoDB Data Modeling"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, S3, CloudFront)",
+   "DevOps: GitHub Actions, Jenkins, Docker, Dynatrace"
+  ],
+  [
+   "Workflow & Process Design, Scaling Teams",
+   "Agile/Scrum, Code Review, Mentoring"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Problem Solving, Communication, Leadership"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "REST APIs, SOAP/XML services, GraphQL, WebSockets, microservices, service integration, Node.js/Express, MySQL, PostgreSQL, MongoDB"
+ },
+ "name": "Aaron_Ramirez_TestingXperts_Front_End_Engineer_React_Redux_AWS_MountainView"
+}

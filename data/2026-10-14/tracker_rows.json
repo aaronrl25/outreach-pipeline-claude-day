@@ -6648,5 +6648,24 @@
   "msg": "—",
   "status": "NOT SENT – Python-first; H1B-only architect",
   "src": "LinkedIn C2C sweep 2026-10-20 morning (~10:15, Aaron: 'sweep agin'), past-24h, 8 queries, 60 posts / 49 with emails / 34 new; Groups (Python Charlotte, .NET Architect H1B-only) and inbox (American IT Systems Python/C++ Santa Clara) had nothing sendable"
+ },
+ {
+  "company": "TestingXperts (Sharanjeet Singh) – inbox",
+  "role": "Front End Engineer – React.js, Redux, HTML5/CSS3, REST/SOAP, microservices, MySQL/MongoDB, AWS, workflow/process design, Agile/DevOps",
+  "loc": "Mountain View, CA (hybrid 3 days/week)",
+  "arr": "Hybrid",
+  "type": "Contract (C2C)",
+  "pay": "",
+  "posted": "2026-10-20 inbox email",
+  "skills": "React.js, Redux, HTML5, CSS3, REST/SOAP APIs, microservices, MySQL, MongoDB, AWS, Agile, DevOps",
+  "visa": "",
+  "recruiter": "TestingXperts",
+  "contact": "sharanjeet.singh@testingxperts.com",
+  "link": "https://mail.google.com/mail/?authuser=rl.aaron4@gmail.com#all/thread-f:1879596045199542693",
+  "fit": "Strong – React/Redux front end, Bay Area local, C2C",
+  "resume": "Aaron_Ramirez_TestingXperts_Front_End_Engineer_React_Redux_AWS_MountainView.pdf",
+  "msg": "messages/124_testingxperts_frontend_react_mtv.txt",
+  "status": "SENT",
+  "src": "inbox"
  }
 ]
