@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "tagline": "Full Stack Developer · React.js / Angular, TypeScript · Java / Spring Boot & C# / .NET Core Backends · AWS Cloud · Python & AI Integration",
+ "location": "Chicago, IL / Houston, TX · Hybrid (2 days onsite) · Contract (C2C)",
+ "summary": "Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: React and Angular front ends in TypeScript integrated with Java / Spring Boot and C# / .NET Core microservices exposing REST APIs over PostgreSQL and SQL Server. Hands-on AWS cloud experience (ECS/Fargate, Lambda, RDS, S3, CloudFront) with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; secure authentication and authorization (OAuth 2.0, JWT, role-based access). Python and AI integration in production: a GenAI assistant streaming Claude API / LangChain responses through middleware for Walmart's marketplace and Azure AI Services for field-note classification at AEP. JUnit, Jest, and React Testing Library coverage above 80%; owns features end to end in Agile teams and uses Claude Code and GitHub Copilot daily.",
+ "core_skills": [
+  [
+   "React.js & Angular, TypeScript, Redux / RxJS",
+   "Java, Spring Boot, Hibernate/JPA, Microservices"
+  ],
+  [
+   "C# / ASP.NET Core, .NET Core Web API, EF Core",
+   "AWS: ECS/Fargate, Lambda, RDS, S3, CloudFront"
+  ],
+  [
+   "REST APIs, GraphQL, PostgreSQL, SQL Server",
+   "OAuth 2.0 / JWT, Role-Based Access"
+  ],
+  [
+   "Python & AI Integration: Claude API, LangChain, RAG",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Docker"
+  ],
+  [
+   "JUnit, Jest, React Testing Library, Cypress",
+   "Agile/Scrum, Code Review, Claude Code, GitHub Copilot"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, RxJS, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Java, Spring Boot, Hibernate/JPA, C# / ASP.NET Core, .NET Core Web API, Entity Framework Core, Node.js/Express, Python FastAPI, REST APIs, GraphQL, WebSockets, microservices, PostgreSQL, SQL Server, MongoDB",
+  "Testing & Quality:": "JUnit, xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "name": "Aaron_Ramirez_Anekats_Full_Stack_Developer_React_Java_DotNet_AWS_Chicago"
+}

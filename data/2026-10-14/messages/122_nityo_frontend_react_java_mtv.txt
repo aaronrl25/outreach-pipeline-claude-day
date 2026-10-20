@@ -1,0 +1,19 @@
+To: sonali.khedekar@nityo.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Nityo_Front_End_Engineer_React_Java_MountainView.pdf
+Subject: Front-End Engineer (React + Java) – Mountain View, CA – Aaron Ramirez (C2C)
+
+Hi Sonali,
+
+I saw your LinkedIn post for the Front-End Engineer role in Mountain View, CA (strong React, working knowledge of Java) and would like to be considered. My tailored resume is attached.
+
+- 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC: React 18, TypeScript, Hooks, Redux Toolkit, React Query, and Next.js with component libraries, accessibility, and Core Web Vitals performance work on applications serving hundreds of thousands of daily users.
+- Working knowledge of Java: integrates with and extends Java / Spring Boot REST services, debugs service-layer code, and collaborates with backend engineers on API contracts and authentication (OAuth 2.0, JWT); strong debugging across the stack with Chrome DevTools and Dynatrace; Jest, React Testing Library, and Cypress coverage above 80%.
+
+Location: local to the San Francisco Bay Area; onsite or hybrid in Mountain View works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

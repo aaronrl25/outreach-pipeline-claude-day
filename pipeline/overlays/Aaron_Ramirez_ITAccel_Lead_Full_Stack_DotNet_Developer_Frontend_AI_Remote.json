@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "tagline": "Lead Full Stack .NET Developer (Front-End Focus) · React / Angular, TypeScript · C# / .NET Core & Python APIs · Microservices, Cloud Deployments · AI-Forward Development (Claude, Cursor, GitHub Copilot)",
+ "location": "Remote (US, East Coast hours) · Contract (W2 or C2C)",
+ "summary": "Lead Full Stack .NET Developer with 10+ years building products end to end for Walmart Global Tech, IBM/AEP, and HCSC, with strong hands-on UI depth in React and Angular (TypeScript) and deep backend and API design in C# / ASP.NET Core and Python FastAPI. Greenfield and modernization delivery: designs microservices, REST APIs, and database schemas from scratch on SQL Server and PostgreSQL, deploys to Azure and AWS with Docker and Azure DevOps / GitHub Actions pipelines, and secures payments-grade workflows with OAuth 2.0, JWT, and role-based access. Consultative and proactive: works directly with non-technical business partners to turn ambiguous ideas into production software, owning architecture decisions and challenging requirements. AI as a baseline: Claude Code, Cursor, and GitHub Copilot in daily use, plus production LLM features (Claude API / LangChain assistant at Walmart, Azure AI Services at AEP).",
+ "core_skills": [
+  [
+   "React.js & Angular, TypeScript (Strong UI Focus)",
+   "C# / ASP.NET Core, .NET Core Web API, EF Core"
+  ],
+  [
+   "Python FastAPI & Node.js APIs, Microservices",
+   "Database Schema Design: SQL Server, PostgreSQL, MongoDB"
+  ],
+  [
+   "Cloud Deployments: Azure, AWS, Docker, CI/CD",
+   "OAuth 2.0 / JWT / RBAC, Payments-Grade Security"
+  ],
+  [
+   "Greenfield 0-to-1 Product Delivery, Architecture Ownership",
+   "Direct Stakeholder Partnership, Requirements Shaping"
+  ],
+  [
+   "AI-Forward Dev: Claude Code, Cursor, GitHub Copilot",
+   "LLM Features: Claude API, LangChain, Azure AI Services"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular, TypeScript, JavaScript (ES6+), Redux Toolkit, RxJS, React Query, HTML5, CSS3, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "C# / ASP.NET Core, .NET Core Web API, Entity Framework Core, Python FastAPI, Node.js/Express, REST APIs, GraphQL, WebSockets, microservices, Claude API, LangChain, SQL Server, PostgreSQL, MongoDB",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Git/GitHub, code review, mentoring; AI-assisted development with Claude Code, Cursor, GitHub Copilot",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "name": "Aaron_Ramirez_ITAccel_Lead_Full_Stack_DotNet_Developer_Frontend_AI_Remote"
+}

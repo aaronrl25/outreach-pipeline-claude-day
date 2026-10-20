@@ -1,0 +1,20 @@
+To: erin.white@motionrecruitment.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_MotionRecruitment_Senior_Full_Stack_Developer_DotNet_React_AWS_Remote.pdf
+Subject: Senior Full Stack Developer (C# / .NET Core, React, AWS) – Biotech, Remote EST – Aaron Ramirez
+
+Hi Erin,
+
+I saw your LinkedIn post listing the Senior Full Stack Developer role (C#/.NET Core, React, AWS) with the biotech client, Boston preference or remote EST, and would like to be considered as a direct candidate. My tailored resume is attached.
+
+- 10+ years delivering regulated, data-intensive applications for HCSC (HIPAA-compliant Blue Cross Blue Shield member platform serving 1M+ members), IBM/AEP, and Walmart Global Tech: React / TypeScript front ends on C#, ASP.NET Core, and .NET Core Web API microservices with Entity Framework Core over SQL Server and PostgreSQL.
+- AWS deployments (ECS/Fargate, Lambda, RDS, S3, CloudFront) with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; OAuth 2.0 / JWT / RBAC security; xUnit, Jest, React Testing Library, and Cypress test gates; Dynatrace observability that cut MTTR on critical incidents by 50%.
+- Set architecture standards and code review protocols for squads of 6+ engineers; Claude Code and GitHub Copilot in daily use.
+
+Location: remote on Eastern hours works for me, and I am open to Boston for the right role.
+
+Available for a full-time, direct-hire position. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

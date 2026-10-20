@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "tagline": "Senior Full Stack Developer · C# / .NET Core, ASP.NET Core Web API · React, TypeScript · AWS (ECS, Lambda, RDS, S3) · Regulated / Healthcare Platforms",
+ "location": "Remote (US, Eastern hours) · Open to Boston, MA · Full-Time",
+ "summary": "Senior Full Stack Developer with 10+ years delivering regulated, data-intensive applications for HCSC (HIPAA-compliant Blue Cross Blue Shield member platform serving 1M+ members), IBM/AEP, and Walmart Global Tech. Builds React / TypeScript front ends on C#, ASP.NET Core, and .NET Core Web API microservices with Entity Framework Core over SQL Server and PostgreSQL; deploys to AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront) and Azure with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD. Secure handling of protected data (OAuth 2.0, JWT, RBAC, encryption in transit and at rest), observability with Dynatrace, and automated test gates with xUnit, Jest, React Testing Library, and Cypress. Sets architecture standards and code review protocols for squads of 6+ engineers; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "C# / ASP.NET Core, .NET Core Web API, EF Core",
+   "React.js & TypeScript (Expert), Redux, React Query"
+  ],
+  [
+   "AWS: ECS/Fargate, Lambda, RDS, S3, CloudFront",
+   "Microservices, RESTful APIs, Event-Driven Design"
+  ],
+  [
+   "SQL Server, PostgreSQL, MongoDB",
+   "Regulated / HIPAA Platforms, PHI & Data Security"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Docker",
+   "xUnit, Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Architecture Standards, Code Review, Mentoring",
+   "Claude Code, GitHub Copilot (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / ASP.NET Core, .NET Core Web API, Entity Framework Core, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, SQL Server, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront, CloudWatch), Azure (App Service, DevOps, AI Services), Docker, GitHub Actions, Azure DevOps, Jenkins, Dynatrace",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "name": "Aaron_Ramirez_MotionRecruitment_Senior_Full_Stack_Developer_DotNet_React_AWS_Remote"
+}

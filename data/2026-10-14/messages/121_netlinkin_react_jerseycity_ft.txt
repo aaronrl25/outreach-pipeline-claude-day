@@ -1,0 +1,19 @@
+To: ronica@netlinkin.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Netlinkin_React_Developer_JerseyCity_FullTime.pdf
+Subject: React Developer (8+ yrs) – Jersey City, NJ Hybrid – Full-Time – Aaron Ramirez
+
+Hi Ronica,
+
+I saw your LinkedIn post for the full-time React Developer position in Jersey City, NJ (hybrid, 3 days onsite) and would like to be considered. My tailored resume is attached.
+
+- 10+ years designing, developing, and maintaining high-quality React applications for Walmart Global Tech, IBM/AEP, and HCSC, including finance-adjacent and regulated (HIPAA) platforms: React 18, TypeScript, Hooks, Redux Toolkit, React Query, Next.js, and Storybook component libraries integrated with REST and GraphQL APIs.
+- Raised Jest / React Testing Library coverage above 80% and cut production regressions by 35%; optimized load time by 40% through bundle splitting, virtualization, and request batching; sets architecture standards and code review protocols for squads of 6+ engineers.
+
+Location: relocating to the Jersey City area for the three-day hybrid schedule is fine with me.
+
+Available for a full-time position. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "tagline": "UI Angular Lead · Angular (modern versions, standalone components, signals), TypeScript, RxJS, NgRx · Custom Reusable Modules & Components · Jest / Vitest Testing · Jenkins & GitHub Actions CI/CD",
+ "location": "San Francisco Bay Area · open to Fort Mill, SC (relocating is fine) · Contract (C2C or W2)",
+ "summary": "UI Angular Lead with 10+ years building and modernizing enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC, including finance-adjacent and regulated (HIPAA) domains. Expert-level Angular and TypeScript: modern Angular (standalone components, signals, control flow), RxJS, NgRx, Angular Material, reactive forms, and lazy-loaded routing, with custom reusable modules, directives, and components that extend core Angular functionality across product teams. Strong command of JavaScript (ES6+), HTML5, CSS3/SCSS, and responsive design; unit, integration, and acceptance testing with Jest, Vitest, Jasmine/Karma, and Cypress inside Jenkins and GitHub Actions CI/CD. Troubleshoots issues across the full web stack (browser, API, data) with Dynatrace and structured logging; leads code review, architecture standards, and mentoring for squads of 6+ engineers. React and Next.js expert as a second framework; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Angular (modern), TypeScript, RxJS, NgRx",
+   "Custom Reusable Modules, Directives & Components"
+  ],
+  [
+   "Angular Material, Reactive Forms, Lazy Routing",
+   "JavaScript (ES6+), HTML5, CSS3/SCSS, Responsive Design"
+  ],
+  [
+   "Jest, Vitest, Jasmine/Karma, Cypress",
+   "CI/CD: Jenkins, GitHub Actions, Docker"
+  ],
+  [
+   "Full-Stack Troubleshooting, Dynatrace, Performance",
+   "Accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "UI Lead: Architecture Standards, Code Review, Mentoring",
+   "React & Next.js (Expert, secondary); Claude Code, Copilot"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular (standalone components, signals, control flow), TypeScript, RxJS, NgRx, Angular Material, reactive forms, lazy-loaded routing, custom modules and directives; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jest, Vitest, Jasmine, Karma, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "name": "Aaron_Ramirez_Mcubesoft_UI_Angular_Lead_FortMill"
+}

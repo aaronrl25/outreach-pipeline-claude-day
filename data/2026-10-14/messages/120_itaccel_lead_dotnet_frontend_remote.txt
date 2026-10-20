@@ -1,0 +1,20 @@
+To: ssingh@itaccel.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ITAccel_Lead_Full_Stack_DotNet_Developer_Frontend_AI_Remote.pdf
+Subject: Lead Full Stack .NET Developer (Front-End Focus, AI-Forward) – Morristown, NJ / Remote East Coast – Aaron Ramirez
+
+Hello,
+
+I saw your LinkedIn post for the Lead Full Stack .NET Developer role (front-end focus, AI-forward and greenfield; Morristown, NJ, remote East Coast) and would like to be considered. My tailored resume is attached.
+
+- 10+ years building products end to end for Walmart Global Tech, IBM/AEP, and HCSC with strong hands-on UI depth in React and Angular (TypeScript) and deep backend and API design in C# / ASP.NET Core and Python FastAPI: microservices, REST APIs, and database schemas designed from scratch on SQL Server and PostgreSQL, deployed to Azure and AWS with Docker and Azure DevOps / GitHub Actions pipelines.
+- Consultative delivery: partners directly with non-technical business stakeholders to turn ambiguous ideas into production software, owns architecture decisions, and has shipped payments-grade workflows secured with OAuth 2.0, JWT, and role-based access.
+- AI as a baseline: Claude Code, Cursor, and GitHub Copilot in daily use for design, coding, and testing, plus production LLM features (Claude API / LangChain assistant for Walmart's marketplace, Azure AI Services at AEP).
+
+Location: remote on East Coast hours works for me.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

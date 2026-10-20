@@ -1,0 +1,19 @@
+To: Akanksha@mcubesoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Mcubesoft_UI_Angular_Lead_FortMill.pdf
+Subject: UI Angular Lead – Fort Mill, SC – Aaron Ramirez (C2C / W2)
+
+Hi Akanksha,
+
+I saw your LinkedIn post for the UI Angular Lead role in Fort Mill, SC and would like to be considered. My tailored resume is attached.
+
+- 10+ years building and modernizing enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC with expert-level Angular and TypeScript: modern Angular (standalone components, signals), RxJS, NgRx, Angular Material, reactive forms, and lazy-loaded routing, plus custom reusable modules, directives, and components that extend core Angular functionality across product teams.
+- Strong command of JavaScript (ES6+), HTML5, CSS3/SCSS, and responsive design; unit, integration, and acceptance testing with Jest, Vitest, Jasmine/Karma, and Cypress inside Jenkins and GitHub Actions CI/CD; troubleshoots issues across the full web stack and leads code review, architecture standards, and mentoring for squads of 6+ engineers.
+
+Location: relocating to Fort Mill, SC is fine with me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

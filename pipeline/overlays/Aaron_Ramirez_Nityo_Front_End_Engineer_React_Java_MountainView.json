@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Front-End Engineer · React.js (Expert), TypeScript, Redux · Working Knowledge of Java / Spring Boot REST Services · Debugging & Performance",
+ "location": "Local to the San Francisco Bay Area · Onsite / Hybrid in Mountain View, CA · Contract (C2C)",
+ "summary": "Front-End Engineer with 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC: React 18, TypeScript, Hooks, Redux / Redux Toolkit, React Query, and Next.js with component libraries, accessibility (WCAG), and Core Web Vitals performance work on applications serving hundreds of thousands of daily users. Working knowledge of Java: integrates with and extends Java / Spring Boot REST services, reads and debugs service-layer code, and collaborates closely with backend engineers on API contracts, authentication (OAuth 2.0, JWT), and data models. Strong problem-solving and debugging across the stack with Chrome DevTools, Dynatrace, and structured logging; Jest, React Testing Library, and Cypress coverage above 80% in GitHub Actions and Jenkins CI/CD. Collaborative team member in Agile/Scrum squads; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js & TypeScript (Expert), Next.js",
+   "Redux / Redux Toolkit, React Query, Hooks"
+  ],
+  [
+   "Java / Spring Boot REST Integration (Working Knowledge)",
+   "REST APIs, GraphQL, OAuth 2.0 / JWT"
+  ],
+  [
+   "Debugging & Problem Solving: DevTools, Dynatrace",
+   "Performance: Core Web Vitals, Bundle Splitting"
+  ],
+  [
+   "Component Libraries, Storybook, Accessibility (WCAG)",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Agile/Scrum, Cross-Team Collaboration, Code Review",
+   "Claude Code, GitHub Copilot (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java / Spring Boot REST services (integration, debugging), Node.js/Express, REST APIs, GraphQL, WebSockets, microservices, PostgreSQL, MongoDB"
+ },
+ "name": "Aaron_Ramirez_Nityo_Front_End_Engineer_React_Java_MountainView"
+}
