@@ -1,0 +1,23 @@
+To: philip@storytimeapp.io
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Storytime_Founding_Software_Engineer_NYC.pdf
+Subject: Founding Software Engineer at Storytime – Aaron
+
+Hi Philip,
+
+Hope you are doing well! It has been a while since the New York days with Maxx. I saw that Storytime is hiring a Founding Software Engineer and wanted to reach out directly: building the product and the engineering function from the ground up with a small team, in person in SoHo, is exactly what I am looking for. My resume is attached.
+
+Quick summary of where I am today:
+
+- 10+ years shipping web and mobile products real people use (Walmart Global Tech, IBM/AEP, HCSC) plus an early-stage studio I co-founded, where I owned product decisions, architecture, and delivery end to end.
+- Generalist across the stack: TypeScript and React on the web, React Native with Swift/Kotlin native modules on iOS and Android, Node.js services with GraphQL and HTTP APIs, and PostgreSQL data models built to grow with the product.
+- Practical AI features with language-model APIs (OpenAI, Anthropic, Azure AI) from prototype to production, plus internal tools and automation; Claude Code and Cursor are part of my daily workflow.
+- I like turning an ambiguous problem into a simple first version, instrumenting it, and iterating on what the data says. Marketplaces, local businesses, and the creator economy are the problems I most enjoy.
+
+Things I have built: github.com/aaronrl25 and aron.software.
+
+I am happy to be in person in SoHo and available for a full-time position. Would love to catch up and hear more about what you are building. Let me know when works for a call.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

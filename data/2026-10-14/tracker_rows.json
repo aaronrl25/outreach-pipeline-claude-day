@@ -6895,5 +6895,24 @@
   "msg": "",
   "status": "NOT SENT – Visa-restricted .NET, RPA, SRE – out of scope",
   "src": "LinkedIn C2C sweep 2026-10-20 afternoon"
+ },
+ {
+  "company": "Storytime (Philip Davis, Founder/CEO) – friend",
+  "role": "Founding Software Engineer – full-stack generalist (TypeScript/React, Node, Bun, Go, Swift iOS, GraphQL, PostgreSQL), AI features, internal tools",
+  "loc": "SoHo, New York, NY (in person)",
+  "arr": "Onsite",
+  "type": "Full-time (equity + benefits)",
+  "pay": "",
+  "posted": "LinkedIn job 4476464215 (1 week ago)",
+  "skills": "TypeScript, React, Node.js, GraphQL, PostgreSQL, Swift iOS, LLM APIs, product ownership",
+  "visa": "",
+  "recruiter": "Philip Davis (Founder/CEO)",
+  "contact": "philip@storytimeapp.io",
+  "link": "https://www.linkedin.com/jobs/view/4476464215/",
+  "fit": "Strong – generalist founding role, friend of Aaron (NYC, Maxx)",
+  "resume": "Aaron_Ramirez_Storytime_Founding_Software_Engineer_NYC.pdf",
+  "msg": "messages/125_storytime_philip_founding_engineer.txt",
+  "status": "SENT",
+  "src": "direct"
  }
 ]

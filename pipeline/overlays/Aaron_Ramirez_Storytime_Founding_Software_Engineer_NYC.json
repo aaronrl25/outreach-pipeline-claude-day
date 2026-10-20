@@ -1,0 +1,33 @@
+{
+ "base": "mobile",
+ "tagline": "Founding / Senior Full-Stack Engineer · TypeScript, React, React Native (iOS & Android) · Node.js, GraphQL & REST APIs, PostgreSQL · AI-Powered Features · Startup Co-Founder",
+ "location": "New York, NY · In person, SoHo · Full-time",
+ "summary": "Full-stack generalist with 10+ years shipping software real people use: consumer and enterprise web and mobile products for Walmart Global Tech, IBM/AEP, and HCSC, and an early-stage studio I co-founded, where I owned product decisions, architecture, and delivery end to end. Comfortable anywhere in the stack: React and Next.js on the web, React Native and native modules (Swift / Kotlin) on iOS and Android, Node.js services with GraphQL and HTTP APIs, PostgreSQL data models designed to grow with the product, and AWS / Firebase infrastructure with CI/CD and observability. Builds practical AI-powered features with language-model APIs (OpenAI, Anthropic, Azure AI) from first prototype to reliable product, plus internal tools and workflow automation that remove manual work. Turns ambiguous problems into simple first versions, instruments what ships, and iterates on the data; sets code review, testing, and deployment standards and mentors engineers. Claude Code and Cursor in daily use. Excited about marketplaces, local businesses, and the creator economy.",
+ "core_skills": [
+  [
+   "TypeScript, React, Next.js, React Native (iOS & Android)",
+   "Node.js, GraphQL & HTTP APIs, PostgreSQL, MongoDB"
+  ],
+  [
+   "Product Ownership: Discovery → Design → Ship → Iterate",
+   "Architecture, Data Modeling, Performance, Reliability"
+  ],
+  [
+   "AI Features with LLM APIs (OpenAI, Anthropic, Azure AI)",
+   "Internal Tools, Dashboards, Workflow Automation"
+  ],
+  [
+   "AWS (Lambda, ECS, RDS, S3), Firebase, GitHub Actions CI/CD",
+   "Product Analytics, Instrumentation, Dynatrace Observability"
+  ],
+  [
+   "Startup Co-Founder, Small-Team Delivery, Mentoring",
+   "Testing & Code Review Standards, Claude Code / Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "Languages:": "TypeScript, JavaScript (ES6+), Node.js, Swift and Kotlin (native modules), Python, SQL, HTML5, CSS3",
+  "APIs & Backend:": "GraphQL, REST / HTTP APIs, WebSockets/Socket.IO, Node.js/Express, microservices, PostgreSQL (schema design, migrations), MongoDB, Firebase, LLM APIs (OpenAI, Anthropic, Azure AI)"
+ },
+ "name": "Aaron_Ramirez_Storytime_Founding_Software_Engineer_NYC"
+}
