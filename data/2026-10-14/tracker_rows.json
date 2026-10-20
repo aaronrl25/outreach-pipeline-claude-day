@@ -6914,5 +6914,24 @@
   "msg": "messages/128_storytime_philip_founding_engineer.txt",
   "status": "SENT",
   "src": "direct"
+ },
+ {
+  "company": "OP (op.tech) / iGaming startup – Muthu Krishnan – inbox",
+  "role": "Staff Frontend Engineer (React Native) – Mobile; React/Next.js web, design systems, Figma, animations, AI-assisted workflows (Claude, Cursor, MCP)",
+  "loc": "Remote (U.S.)",
+  "arr": "Remote",
+  "type": "Full-time (FTE)",
+  "pay": "",
+  "posted": "2026-10-20 inbox email",
+  "skills": "React Native 0-to-1, React, Next.js, design systems, Figma, Lottie/Rive (bonus), gaming background, Claude/Cursor/MCP",
+  "visa": "",
+  "recruiter": "OP – Muthu Krishnan (Technical Sourcer)",
+  "contact": "muthukrishnan.s@op.tech",
+  "link": "https://mail.google.com/mail/?authuser=rl.aaron4@gmail.com#all/thread-f:1879608101294079815",
+  "fit": "Strong – RN staff + gaming background (Lone Wolf Studio, IBM Unity VR)",
+  "resume": "Aaron_Ramirez_OP_Staff_Frontend_Engineer_React_Native_Gaming_Remote.pdf",
+  "msg": "messages/129_op_staff_frontend_react_native_gaming_fte_remote.txt",
+  "status": "SENT",
+  "src": "inbox"
  }
 ]

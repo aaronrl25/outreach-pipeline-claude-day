@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge an overlay (tagline, location, summary, core_skills, tech_overrides, role_tweaks) with a base and build.
+"""Merge an overlay (tagline, location, summary, core_skills, tech_overrides, role_tweaks, roles_append, edu, community) with a base and build.
 Usage: python3 make_spec.py overlay.json [dest_dir]"""
 import json, sys, os, subprocess, copy
 HERE=os.path.dirname(os.path.abspath(__file__))
@@ -15,5 +15,8 @@ for extra in ov.get('tech_extra',[]): spec['tech'].insert(0,extra)
 for i,tw in ov.get('role_tweaks',{}).items():
     r=spec['roles'][int(i)]
     for k,v in tw.items(): r[k]=v
+for extra_role in ov.get('roles_append',[]): spec['roles'].append(extra_role)
+for k in ('edu','community'):
+    if k in ov: spec[k]=ov[k]
 sp=os.path.join(HERE,'specs',ov['name']+'.json'); json.dump(spec,open(sp,'w'),ensure_ascii=False,indent=1)
 subprocess.run([sys.executable,os.path.join(HERE,'build_resume.py'),sp,dest],check=True)
