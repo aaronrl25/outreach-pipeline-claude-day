@@ -1,0 +1,29 @@
+{
+ "base": "web",
+ "tagline": "Forward Deployed Engineer  ·  Full Stack React / Angular, GraphQL, Backend APIs  ·  AI Agents, LLM APIs & Agentic Engineering Workflows  ·  Cloud & CI/CD, Legacy Modernization",
+ "location": "San Francisco Bay Area  ·  Remote or onsite as the engagement needs  ·  Contract (C2C)",
+ "summary": "Full stack engineer with 10+ years of experience building and delivering solutions across the stack, React and Angular front ends, Node.js BFF and GraphQL layers, backend APIs, cloud, and CI/CD, at Walmart Global Tech, IBM/AEP, and HCSC. Hands-on with AI-powered solutions: built a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware at Walmart, integrated Azure AI Services for field-note summarization at AEP, and uses agentic engineering workflows (Claude Code, Cursor) daily. Owns deliverables end to end, manages dependencies, and communicates clearly with customers and technical leads; experienced in legacy modernization and large-scale migrations.",
+ "core_skills": [
+  [
+   "Full Stack: React / Angular, Node.js, TypeScript",
+   "BFF Layers, GraphQL & REST APIs"
+  ],
+  [
+   "AI Agents, LLM APIs (Claude, Azure AI), LangChain",
+   "Agentic Engineering Workflows (Claude Code, Cursor)"
+  ],
+  [
+   "Cloud: AWS, Azure, Docker, CI/CD",
+   "System Design & Architecture Discussions"
+  ],
+  [
+   "Legacy Modernization & Large-Scale Migrations",
+   "Delivery Ownership & Dependency Management"
+  ],
+  [
+   "Customer-Facing Communication",
+   "Quality, Verification & Automated Testing"
+  ]
+ ],
+ "name": "Aaron_Ramirez_VYSystems_Forward_Deployed_Engineer_Full_Stack_AI_Agents"
+}

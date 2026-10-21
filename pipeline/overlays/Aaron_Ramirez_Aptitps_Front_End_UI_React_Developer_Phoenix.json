@@ -1,0 +1,37 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Aptitps_Front_End_UI_React_Developer_Phoenix",
+ "tagline": "Front End UI React Developer  ·  React.js, JavaScript (ES6+), TypeScript  ·  Redux, Context API  ·  Responsive & Cross-Browser UI  ·  Jest, React Testing Library",
+ "location": "Phoenix, AZ  ·  Onsite works for me  ·  Contract (C2C)",
+ "summary": "Front End UI React Developer with 10+ years of experience (7+ years hands-on React) building responsive, user-friendly web applications for Walmart Global Tech, IBM/AEP, and HCSC. React.js in JavaScript (ES6+) and TypeScript: React Hooks, reusable component libraries and design systems, Redux / Redux Toolkit and Context API state management, and REST API integration with backend teams. Works closely with UX designers, backend developers, and product teams; owns HTML5/CSS3 responsive and cross-browser layouts, Webpack/Vite build tooling, Git workflows, and web performance optimization; keeps quality high with Jest, React Testing Library, and Cypress. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, Hooks, Component Lifecycle, Reusable Components",
+   "JavaScript (ES6+) & TypeScript"
+  ],
+  [
+   "Redux / Redux Toolkit, Context API, RTK Query",
+   "REST APIs & Front-End / Back-End Integration"
+  ],
+  [
+   "HTML5, CSS3, Responsive & Cross-Browser Development",
+   "Web Performance Optimization & Browser Debugging"
+  ],
+  [
+   "Webpack, Vite, Babel, npm; Git Workflows",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Collaboration with UX, Backend & Product Teams",
+   "Design Systems, Storybook, CI/CD"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Front-End Tech Lead"
+  },
+  "1": {
+   "title": "Senior Software Engineer · UI Lead"
+  }
+ }
+}

@@ -1,0 +1,20 @@
+To: gayathri.b@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VYSystems_Forward_Deployed_Engineer_Full_Stack_AI_Agents.pdf
+Subject: Forward Deployed Engineer (Full Stack + AI Agents) – Aaron Ramirez (C2C)
+
+Hi Gayathri,
+
+I saw your LinkedIn post for the Forward Deployed Engineer (C2C) role and would like to be considered. My tailored resume is attached.
+
+- 10+ years of full-stack delivery for Walmart Global Tech, IBM/AEP, and HCSC: React and Angular front ends, Node.js BFF and GraphQL layers, backend REST APIs, and AWS / Azure cloud with Docker and CI/CD.
+- Hands-on AI agents and automations: built a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware at Walmart, integrated Azure AI Services for field-note summarization at AEP, and works in agentic engineering workflows (Claude Code, Cursor, MCP tooling) daily.
+- Legacy modernization and large-scale migrations, system design, and end-to-end delivery ownership with customer-facing communication.
+
+Location: San Francisco Bay Area; remote or onsite as the engagement needs.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
