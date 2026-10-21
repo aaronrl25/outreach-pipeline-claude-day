@@ -112,7 +112,7 @@
  ],
  "name": "Aaron_Ramirez_Intellectt_React_Node_Lead_Developer_NYC",
  "tagline": "React.js / Node.js Lead Developer  ·  React, TypeScript, Redux, Next.js  ·  Node.js / Express REST APIs  ·  AWS, CI/CD, Team Leadership",
- "location": "New York, NY  ·  Relocating to New York for this role works for me  ·  W2 Contract or Full-time",
+ "location": "",
  "summary": "React.js / Node.js Lead Developer with 10+ years building and leading web products for Walmart Global Tech, IBM/AEP, and HCSC. Leads teams of 4–8 engineers across React.js front ends in TypeScript (Redux / Redux Toolkit, React Query, Next.js) and Node.js / Express services exposing REST and GraphQL APIs backed by PostgreSQL and MongoDB, deployed on AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD. Owns architecture decisions, code reviews, sprint planning, and mentoring; keeps quality high with Jest, React Testing Library, and Cypress; and runs production support with Dynatrace. Delivered high-traffic React platforms serving millions of users with the Node.js APIs behind them. GitHub Copilot and Claude Code in daily use.",
  "core_skills": [
   [
