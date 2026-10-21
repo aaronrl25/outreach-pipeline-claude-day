@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_PCSTalent_DotNet_Full_Stack_Developer_React_Hamilton_NJ",
+ "tagline": ".NET Full Stack Developer  ·  React.js (Hooks, Reusable Components, State Management, Routing)  ·  C#, .NET Core, ASP.NET Core Web API, RESTful APIs  ·  SQL Server (Complex Queries, Stored Procedures)",
+ "location": "Hamilton, NJ  ·  Onsite 4 days/week works for me  ·  Contract (C2C), 12+ months",
+ "summary": ".NET Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Strong hands-on React.js: reusable component libraries, Hooks, Redux / Redux Toolkit state management, React Router, and REST API integration; solid C# / .NET Core / ASP.NET Core Web API services designing, developing, and integrating RESTful APIs over SQL Server (complex queries, stored procedures, indexing, database integration). Works independently across the full SDLC, troubleshoots production issues, and translates business and operations requirements into technical solutions with clear written and verbal communication. Deploys on Azure and AWS with Git-based CI/CD and Docker; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js: Hooks, Reusable Components, Redux Toolkit, Routing",
+   "C#, .NET Core, ASP.NET Core Web API, RESTful APIs"
+  ],
+  [
+   "SQL Server: Complex Queries, Stored Procedures, Integration",
+   "API Design, Integration & Troubleshooting"
+  ],
+  [
+   "TypeScript / JavaScript (ES6+), HTML5, CSS3",
+   "Entity Framework / EF Core, Dapper, Microservices"
+  ],
+  [
+   "Azure & AWS Deployments, Git CI/CD, Docker",
+   "Independent Delivery, Business & Operations Collaboration"
+  ],
+  [
+   "xUnit, Jest, React Testing Library, Cypress",
+   "OOP, SOLID, Design Patterns, Code Review"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Framework, .NET Core & modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+ }
+}
