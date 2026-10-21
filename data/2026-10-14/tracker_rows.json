@@ -7731,5 +7731,24 @@
   "msg": "",
   "status": "NOT SENT – GC or USC only, local to Houston",
   "src": "Sweep 2026-10-21 11:00"
+ },
+ {
+  "company": "Accion Labs (Abhishek V)",
+  "role": "Senior Java Full Stack Developer with ReactJS – Java 11/17+, Spring Boot, Kafka, React, SQL, OAuth2/OIDC/JWT, AI exposure; 6-mo contract, direct customer",
+  "loc": "Remote (Pittsburgh, PA based client)",
+  "arr": "Contract 6 mo",
+  "type": "W2 or C2C",
+  "pay": "$100–120K/yr (W2) or C2C rate",
+  "posted": "43m (LinkedIn job 4482124992)",
+  "skills": "Java 11/17+, Spring Boot, Kafka, React, TS, SQL Server/PostgreSQL, microservices, OAuth2/OIDC/JWT, CI/CD, Docker, Azure/AWS",
+  "visa": "",
+  "recruiter": "Abhishek V",
+  "contact": "abhishek.v@accionlabs.com",
+  "link": "https://www.linkedin.com/jobs/view/4482124992/",
+  "fit": "Strong (Aaron also Easy-Applied himself)",
+  "resume": "Aaron_Ramirez_AccionLabs_Senior_Java_Full_Stack_Developer_ReactJS_Remote.pdf",
+  "msg": "messages/144_accionlabs_abhishek_senior_java_fullstack_reactjs_remote.txt",
+  "status": "SENT + APPLIED (Easy Apply by Aaron)",
+  "src": "Aaron screenshot + email address"
  }
 ]

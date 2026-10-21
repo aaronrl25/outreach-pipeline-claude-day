@@ -1,0 +1,20 @@
+To: abhishek.v@accionlabs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AccionLabs_Senior_Java_Full_Stack_Developer_ReactJS_Remote.pdf
+Subject: Senior Java Full Stack Developer with ReactJS – 6-Month Remote Contract – Aaron Ramirez (W2 or C2C)
+
+Hi Abhishek,
+
+I saw Accion Labs' posting for the Senior Java Full Stack Developer with ReactJS Experience (6-month remote contract, direct customer) and would like to be considered. I also applied through LinkedIn; my tailored resume is attached here.
+
+- 10+ years of full stack delivery for Walmart Global Tech, IBM/AEP, and HCSC: Java 11/17+ with Spring Boot and Spring Framework backend services exposing RESTful APIs, Kafka event-driven integrations, and SQL Server / PostgreSQL data, behind React.js front ends in JavaScript/TypeScript with reusable component libraries.
+- Microservices architecture and API-based integrations with enterprise data services; security with OAuth 2.0, OpenID Connect, and JWT-based authorization; Git, GitHub Actions / Jenkins / Azure DevOps CI/CD, Docker, and automated unit and integration testing on Azure and AWS.
+- AI exposure through Claude and OpenAI API integrations in production features; leads code reviews, design discussions, and mentoring, and drives implementation independently with distributed business and engineering teams.
+
+Location: San Francisco Bay Area, remote.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
