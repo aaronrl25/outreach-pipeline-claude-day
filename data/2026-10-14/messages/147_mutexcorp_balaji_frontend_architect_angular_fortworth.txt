@@ -1,0 +1,20 @@
+To: balaji.sr@mutexcorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Mutexcorp_Front_End_Architect_Angular_Micro_Frontends_FortWorth.pdf
+Subject: Front End Architect (Angular / Micro Frontends) – Fort Worth, TX – Aaron Ramirez (C2C)
+
+Hi Balaji,
+
+I saw your LinkedIn post for the Front End Architect (Angular / Micro Frontends) role in Fort Worth and would like to be considered. My tailored resume is attached.
+
+- 10+ years designing and modernizing enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC: Angular 17+/18+ with standalone components and signals, TypeScript, RxJS, NgRx, and micro-frontend architecture (Module Federation) for incremental modernization of large applications.
+- Component libraries, design systems, and UI framework standards for squads of 4 to 6 engineers; Core Web Vitals and Lighthouse performance work, SEO-aware SSR, headless CMS and REST API integration.
+- Azure and AWS on the cloud side, with Java / Spring Boot microservices and Node.js on the back end.
+
+Location: San Francisco Bay Area, open to relocating to Fort Worth; an onsite final round works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

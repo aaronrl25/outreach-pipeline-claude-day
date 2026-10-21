@@ -1,0 +1,18 @@
+To: mani@vakconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VAK_Senior_Java_Developer_Spring_Boot_Microservices_Azure_Pleasanton.pdf
+Subject: Re: Java Developer  --Pleasanton, CA
+
+Hi Mani,
+
+Thank you for sending this over. I would like to be considered for the Senior Java Developer (Spring Boot Microservices & Azure Cloud) role in Pleasanton, CA. My tailored resume is attached.
+
+- 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC: Java 11/17+ with Spring Boot, RESTful APIs, microservices architecture, Kafka event-driven integrations, and SQL Server / PostgreSQL / Oracle data.
+- Microsoft Azure in production: App Service, Functions, Azure SQL, and Azure DevOps pipelines, with Docker, GitHub Actions / Jenkins CI/CD, and Dynatrace observability; API security with OAuth 2.0 / OIDC / JWT.
+- Located in the San Francisco Bay Area, so Pleasanton is local for me, onsite or hybrid.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
