@@ -1,0 +1,20 @@
+To: bishwa.m.25@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_7Eleven_Senior_NodeJS_React_Developer_AWS_Dallas.pdf
+Subject: Sr. NodeJS Developer (Cloud) – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Bishwa,
+
+Following up on my note last week about the Portsmouth TypeScript / Node.js role: I saw your new posting on the C2C/Hotlist Requirement Posting group for the Sr. NodeJS Developer (Cloud) in Dallas and would like to be considered. A resume tailored to it is attached.
+
+- 10+ years of development experience with 5+ years each in Node.js and React.js at Walmart Global Tech, IBM/AEP, and HCSC: RESTful and serverless middleware APIs in Node.js / TypeScript on the latest ECMAScript standards, with hands-on depth in the event loop, clustering, and memory management.
+- AWS platform work with Lambda, API Gateway, SNS, SQS, Kinesis, ECS, S3, CloudFront, and CloudFormation; owns DevOps build pipelines (GitHub Actions, Jenkins, Docker), writes unit tests during development (Jest, Supertest), and works with NoSQL (DynamoDB, MongoDB) and PostgreSQL.
+- Drives requirements through the full SDLC from design to delivery, leads architecture discussions, and mentors teammates in Agile/Scrum teams.
+
+Location: Dallas onsite five days a week works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

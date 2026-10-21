@@ -1,0 +1,19 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_VYSystems_Senior_Full_Stack_Developer_React_Vite_Node_Remote",
+ "tagline": "Senior Full Stack Developer  ·  React (Vite), TypeScript, Node.js  ·  PostgreSQL, Prisma ORM, SQL  ·  REST & GraphQL APIs, AWS, CI/CD",
+ "location": "San Francisco Bay Area  ·  Remote (US)  ·  Contract (C2C)",
+ "summary": "Senior Full Stack Developer with 10+ years building scalable web applications for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React with Vite and Next.js, TypeScript, Redux Toolkit and React Query; back end in Node.js / TypeScript (Express, NestJS) exposing REST and GraphQL APIs; data layer on PostgreSQL / Aurora with Prisma ORM, hand-tuned SQL, indexing and query optimization, plus MongoDB and Redis where they fit. Deploys on AWS (Lambda, ECS/Fargate, RDS, S3, CloudFront) with Docker and GitHub Actions / Jenkins CI/CD, keeps quality high with Jest, React Testing Library, Supertest and Cypress, and owns production support with Dynatrace. Designs for scale (10+ microservices at IBM/AEP, 500K+ daily users at Walmart), leads code reviews, and uses GitHub Copilot and Claude Code daily.",
+ "core_skills": [
+  ["React (Vite, Next.js), TypeScript, Redux Toolkit", "Node.js / TypeScript (Express, NestJS), REST & GraphQL"],
+  ["PostgreSQL / Aurora, Prisma ORM, SQL Optimization", "MongoDB, Redis, Data Modeling & Migrations"],
+  ["AWS Lambda, ECS/Fargate, RDS, S3, CloudFront", "Docker, GitHub Actions, Jenkins CI/CD"],
+  ["Scalable Architecture, Microservices, Caching", "Jest, React Testing Library, Supertest, Cypress"],
+  ["Performance Optimization, Core Web Vitals", "Code Review, Mentoring, Agile/Scrum"]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, React Query, React Hooks, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS, Fastify), REST APIs, GraphQL, WebSockets, microservices, event-driven design, JWT/RBAC auth, PostgreSQL / Aurora, Prisma ORM, SQL tuning, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, ECS/Fargate, S3, RDS/Aurora, CloudFront, CDK/CloudFormation), Azure (App Service, DevOps), Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

@@ -1,0 +1,19 @@
+To: sherlyn@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VYSystems_Senior_Full_Stack_Developer_React_Vite_Node_Remote.pdf
+Subject: Senior Full Stack Developer (React, Vite, Node.js, PostgreSQL) – Remote – Aaron Ramirez (C2C)
+
+Hi Sherlyn,
+
+Following up on my note yesterday about the Lead .NET Full Stack Engineer role: I saw your new post for the remote Senior Full Stack Developer (React, Vite, Node.js, TypeScript, PostgreSQL, Prisma) and this one is an even closer match to my core stack. A resume tailored to it is attached.
+
+- 10+ years building scalable applications for Walmart Global Tech, IBM/AEP, and HCSC: React with Vite and Next.js in TypeScript, Node.js / TypeScript services (Express, NestJS) exposing REST and GraphQL APIs, and PostgreSQL with Prisma ORM, hand-tuned SQL, and query optimization.
+- AWS deployments (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD; Jest, React Testing Library, Supertest, and Cypress coverage; production support with Dynatrace.
+
+Location: San Francisco Bay Area, remote.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

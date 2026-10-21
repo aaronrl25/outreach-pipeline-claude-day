@@ -1,0 +1,20 @@
+To: ashish@trianotechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Triano_Senior_GenAI_Full_Stack_Engineer_Remote_W2.pdf
+Subject: Senior GenAI Full Stack Engineer – Remote – Aaron Ramirez (W2)
+
+Hi Ashish,
+
+I saw your LinkedIn post for the remote Senior GenAI Full Stack Engineer (W2) role and would like to be considered. My tailored resume is attached.
+
+- 10+ years of software engineering at Walmart Global Tech, IBM/AEP, and HCSC, with production Generative AI features in the last few years: LLM assistants, retrieval-augmented generation, and tool-calling agents on Claude and OpenAI APIs with LangChain and Python / FastAPI services, including evaluation harnesses, guardrails, failure handling, and human-in-the-loop review and approval workflows.
+- Strong Python and React / TypeScript development, REST API and service design over PostgreSQL and vector search (pgvector, Pinecone).
+- AWS production deployment and operations (Lambda, API Gateway, ECS/Fargate, S3, RDS, CloudWatch) with GitHub Actions CI/CD pipelines, Terraform and CDK infrastructure as code, Docker, and Dynatrace observability; on-call and incident response for live systems.
+
+Location: San Francisco Bay Area, remote.
+
+Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

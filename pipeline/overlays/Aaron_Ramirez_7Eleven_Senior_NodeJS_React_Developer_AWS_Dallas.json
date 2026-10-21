@@ -1,0 +1,18 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_7Eleven_Senior_NodeJS_React_Developer_AWS_Dallas",
+ "tagline": "Senior Node.js Developer  ·  Node.js / TypeScript, RESTful & Serverless APIs  ·  AWS Lambda, API Gateway, SNS, SQS, Kinesis, CloudFormation  ·  React.js, Unit Testing, DevOps Pipelines",
+ "location": "Dallas, TX  ·  Onsite five days a week works for me  ·  Contract (C2C)",
+ "summary": "Senior Node.js Developer with 10+ years of development experience, including 5+ years each in Node.js and React.js, building scalable middleware and API platforms for Walmart Global Tech, IBM/AEP, and HCSC. Designs and delivers RESTful and serverless APIs in Node.js / TypeScript using the latest ECMAScript standards, with a solid grasp of the event loop, clustering, and memory management; builds on AWS with Lambda, API Gateway, SNS, SQS, Kinesis, ECS, S3, CloudFront, and CloudFormation, and owns the DevOps build pipelines (GitHub Actions, Jenkins, Docker). Drives requirements through the full SDLC from design to delivery, writes unit tests during development (Jest, Supertest, Mocha), works with NoSQL (DynamoDB, MongoDB) and PostgreSQL, and builds React front ends that consume those services. Leads design and architecture discussions, mentors teammates, and communicates clearly with product and infrastructure teams in Agile/Scrum.",
+ "core_skills": [
+  ["Node.js / TypeScript, Latest ECMAScript (ES2023+)", "RESTful & Serverless APIs, Middleware Platforms"],
+  ["AWS Lambda, API Gateway, SNS, SQS, SES, Kinesis", "ECS, S3, CloudFront, CloudFormation / CDK"],
+  ["React.js, Redux Toolkit, TypeScript, jQuery", "Unit Testing: Jest, Supertest, Mocha; Scripting"],
+  ["DevOps & Build Pipelines: GitHub Actions, Jenkins, Docker", "NoSQL (DynamoDB, MongoDB), PostgreSQL"],
+  ["Event Loop, Cluster & Memory Management", "Full SDLC Ownership, Architecture, Agile/Scrum, XP"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS, Fastify), serverless APIs, REST, GraphQL, WebSockets, middleware platforms, event-driven integration (SNS/SQS/Kinesis), JWT/RBAC auth, DynamoDB, MongoDB, PostgreSQL / Aurora, Redis",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, SNS, SQS, SES, Kinesis, ECS/Fargate, S3, CloudFront, CloudFormation, CDK), Docker, GitHub Actions, Jenkins, Azure DevOps, Dynatrace"
+ }
+}
