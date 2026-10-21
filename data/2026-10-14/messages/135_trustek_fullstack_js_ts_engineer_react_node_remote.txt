@@ -1,0 +1,19 @@
+To: ramki@trustek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Trustek_Full_Stack_JavaScript_TypeScript_Engineer_React_Node_Remote.pdf
+Subject: Full Stack JavaScript / TypeScript Engineer (React, Node.js) – 100% Remote – Aaron Ramirez (C2C)
+
+Hi Ramki,
+
+I saw your LinkedIn post listing the Full Stack JavaScript / TypeScript Engineer (UI & Node.js) opening and would like to be considered. My tailored resume is attached.
+
+- 10+ years building UI-heavy web applications and the Node.js services behind them for Walmart Global Tech, IBM/AEP, and HCSC: React.js with Redux / Redux Toolkit, HTML5, CSS3, Sass, and Tailwind CSS on the front end; Node.js / TypeScript with Express.js and NestJS microservices exposing REST and GraphQL APIs on the back end.
+- PostgreSQL and MongoDB data layers, AWS deployments (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD, and Jest, React Testing Library, Supertest, and Cypress coverage.
+
+Job title: Full Stack JavaScript / TypeScript Engineer – UI & Node.js. Location: San Francisco Bay Area, 100% remote.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,20 @@
+To: gaurav.sharma@zodiac-solutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ZodiacSolutions_Sr_Front_End_Engineer_React_Java_Spring_JerseyCity.pdf
+Subject: Sr. Front-End Engineer (React 60% / Java Spring 40%) – Jersey City, NJ – Aaron Ramirez (C2C)
+
+Hi Gaurav,
+
+I saw your LinkedIn post for the Sr. Front-End Engineer contract in Jersey City, NJ and would like to be considered. My tailored resume is attached.
+
+- 10+ years leading front-end architecture and delivery for Walmart Global Tech, IBM/AEP, and HCSC: expert-level React (hooks, composition, context, rendering patterns) and strong TypeScript, owning component architecture, state management, routing, testing practices, and standards for teams of 4–8 engineers.
+- Back-end depth in Java / Spring Boot microservices and GraphQL / REST API contracts with front-end-friendly patterns (pagination, filtering, error models); drives Core Web Vitals, bundle optimization, caching, and front-end observability with Dynatrace; secure client-side patterns (OIDC / OAuth2 flows, token handling, XSS / CSRF prevention).
+- Rich data visualization, real-time updates, and complex form / workflow experiences; AI-assisted engineering with Claude Code, Cursor, and GitHub Copilot in daily use.
+
+Location: being onsite 5 days a week in Jersey City works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

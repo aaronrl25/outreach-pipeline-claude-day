@@ -1,0 +1,19 @@
+To: prashant.kumar@gvrinfotek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_GVR_Lead_Software_Engineer_DotNet_React_Healthcare_Azure.pdf
+Subject: Lead Software Engineer (.NET + React, Healthcare) – Aaron Ramirez (C2C)
+
+Hi Prashant,
+
+Following up on my note from Monday about the Senior .NET Full Stack Developer role: I saw your new post for the Lead Software Engineer (.NET + React, healthcare) and would like to be considered for this one as well. A resume tailored to it is attached, and my LinkedIn profile is linkedin.com/in/aaronsoftware.
+
+- 10+ years delivering enterprise and healthcare applications for Walmart Global Tech, IBM/AEP, and HCSC (Blue Cross Blue Shield plans, 1M+ members) under HIPAA: C# / ASP.NET Core / .NET Core microservices exposing REST APIs over SQL Server and MongoDB behind React / TypeScript front ends.
+- Microsoft Azure (App Service, Functions, Azure SQL, Azure DevOps) and AWS deployments with Docker and CI/CD pipelines; leads teams of 4–8 engineers through architecture, code reviews, sprint planning, and mentoring.
+
+Location: remote, and open to Tennessee for this client.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,20 @@
+To: sandeep@talentemail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TalentSoftware_Cursor_AI_Engineer_Full_Stack_Remote.pdf
+Subject: Re: 100% Remote - Cursor AI Engineer
+
+Hi Sandeep,
+
+Thank you for reaching out about the remote Cursor Engineer role. I am interested and available. My tailored resume is attached, and the best number to reach me is (773) 708-2882.
+
+- 10+ years of production full-stack engineering for Walmart Global Tech, IBM/AEP, and HCSC in TypeScript / Node.js, React, and Python, with REST APIs, microservices, and cloud-native deployments on AWS and Azure (Docker, Git, GitHub Actions / Jenkins CI/CD).
+- Cursor, Claude Code, and GitHub Copilot in daily use: multi-file reasoning and refactoring, code generation, test case creation, and documentation generation, with strong prompt engineering for software tasks and a disciplined review / test / hardening pass on every piece of AI-generated code before it reaches production.
+- Hands-on with LLM APIs (Claude, OpenAI) in coding workflows and product features; mentors engineers on AI-first development practices, secure coding, and performance.
+
+Location: San Francisco Bay Area, 100% remote.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

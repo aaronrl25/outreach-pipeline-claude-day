@@ -1,0 +1,19 @@
+To: Priyanshu.Sharma@artech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Artech_NodeJS_Full_Stack_Developer_Angular_Dallas.pdf
+Subject: Node.js Full Stack Developer (Angular, Node.js) – Dallas, TX Onsite – Aaron Ramirez (C2C)
+
+Hi Priyanshu,
+
+I saw your LinkedIn post for the onsite Node.js Full Stack Developer role in Dallas, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years building interactive, responsive web applications and single-page application portals for Walmart Global Tech, IBM/AEP, and HCSC: Angular (TypeScript, RxJS, NgRx, Angular Material) and React front ends with HTML5 and CSS3/SCSS.
+- Node.js / Express back ends exposing REST and GraphQL APIs over PostgreSQL and MongoDB, deployed on AWS with Docker and GitHub Actions / Jenkins CI/CD; Jasmine/Karma, Jest, and Cypress coverage.
+
+Location: Dallas, TX, available onsite.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
