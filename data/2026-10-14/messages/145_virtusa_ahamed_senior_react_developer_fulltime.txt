@@ -1,0 +1,19 @@
+To: ahamedhanifa@virtusa.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Virtusa_Senior_React_Developer_FullTime_JerseyCity_Irving.pdf
+Subject: React Developer (7+ yrs) – Full-Time – Jersey City, NJ / Irving, TX – Aaron Ramirez
+
+Hi Ahamed,
+
+I saw your LinkedIn post about Virtusa's full-time React Developer openings in Jersey City, NJ and Irving, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years building React front ends for Walmart Global Tech, IBM/AEP, and HCSC: React.js with TypeScript, Redux / Redux Toolkit, React Query, and Next.js, reusable component libraries and design systems, and REST / GraphQL API integration with Node.js and Java services.
+- Enterprise delivery at scale (500K+ daily users at Walmart, 1M+ members at HCSC): performance optimization, accessibility (WCAG), Jest / React Testing Library / Cypress coverage, CI/CD, and production support with Dynatrace; leads code reviews and mentors engineers.
+
+Location: open to Jersey City, NJ or Irving, TX, whichever suits the team.
+
+Available for a full-time, direct-hire position. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

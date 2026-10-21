@@ -1,0 +1,30 @@
+{
+ "base": "web",
+ "tagline": "Senior React Developer  ·  React.js, TypeScript, Redux Toolkit, Next.js  ·  REST & GraphQL API Integration, Node.js  ·  Testing, Performance, Accessibility  ·  Enterprise Delivery",
+ "location": "Open to Jersey City, NJ or Irving, TX  ·  Full-time",
+ "summary": "Senior React Developer with 10+ years designing, developing, and maintaining high-quality React applications for Walmart Global Tech, IBM/AEP, and HCSC, including finance-adjacent and regulated (HIPAA) platforms. Deep command of the React ecosystem: TypeScript, Hooks, Redux and Redux Toolkit, React Router, React Query, Next.js, and modern tooling (Vite, Webpack, Storybook), integrated with REST and GraphQL APIs on Node.js, Java, and .NET backends. Raises code quality through structured code reviews and Jest / React Testing Library coverage above 80%, optimizes performance (bundle splitting, virtualization, Core Web Vitals), and builds accessible (WCAG) component libraries. Sets architecture standards for squads of 6+ engineers inside Agile/Scrum delivery; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js & Ecosystem (Expert), Next.js",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Redux / Redux Toolkit, React Query, Context API",
+   "Component Libraries, Storybook, Design Systems"
+  ],
+  [
+   "REST / GraphQL Integration, Node.js, Java, .NET APIs",
+   "Performance: Core Web Vitals, Bundle Splitting"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Accessibility (WCAG), Responsive UI"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "Claude Code, GitHub Copilot (daily)"
+  ]
+ ],
+ "tech_overrides": {},
+ "name": "Aaron_Ramirez_Virtusa_Senior_React_Developer_FullTime_JerseyCity_Irving"
+}
