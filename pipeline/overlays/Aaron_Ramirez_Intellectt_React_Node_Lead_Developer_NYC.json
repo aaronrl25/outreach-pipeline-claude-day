@@ -1,15 +1,30 @@
 {
  "base": "web",
  "name": "Aaron_Ramirez_Intellectt_React_Node_Lead_Developer_NYC",
- "tagline": "React.js / Node.js Lead Developer  ·  React, React Native, TypeScript, Redux  ·  Node.js / Express REST APIs  ·  AWS, CI/CD, Team Leadership",
+ "tagline": "React.js / Node.js Lead Developer  ·  React, TypeScript, Redux, Next.js  ·  Node.js / Express REST APIs  ·  AWS, CI/CD, Team Leadership",
  "location": "New York, NY  ·  Relocating to New York for this role works for me  ·  W2 Contract or Full-time",
- "summary": "React.js / Node.js Lead Developer with 10+ years building and leading web and mobile products for Walmart Global Tech, IBM/AEP, and HCSC. Leads teams of 4–8 engineers across React.js and React Native front ends in TypeScript (Redux / Redux Toolkit, React Query, Next.js) and Node.js / Express services exposing REST and GraphQL APIs backed by PostgreSQL and MongoDB, deployed on AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD. Owns architecture decisions, code reviews, sprint planning, and mentoring; keeps quality high with Jest, React Testing Library, Cypress, and Detox; and runs production support with Dynatrace. Shipped React Native apps to the App Store and Google Play alongside the web platforms they share APIs with. GitHub Copilot and Claude Code in daily use.",
+ "summary": "React.js / Node.js Lead Developer with 10+ years building and leading web products for Walmart Global Tech, IBM/AEP, and HCSC. Leads teams of 4–8 engineers across React.js front ends in TypeScript (Redux / Redux Toolkit, React Query, Next.js) and Node.js / Express services exposing REST and GraphQL APIs backed by PostgreSQL and MongoDB, deployed on AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD. Owns architecture decisions, code reviews, sprint planning, and mentoring; keeps quality high with Jest, React Testing Library, and Cypress; and runs production support with Dynatrace. Delivered high-traffic React platforms serving millions of users with the Node.js APIs behind them. GitHub Copilot and Claude Code in daily use.",
  "core_skills": [
-  ["React.js, React Native, Redux / Redux Toolkit", "Node.js / Express, REST & GraphQL APIs"],
-  ["TypeScript & JavaScript (ES6+), Next.js", "Technical Leadership, Code Review, Mentoring"],
-  ["AWS Lambda, ECS/Fargate, RDS, S3, CloudFront", "PostgreSQL, MongoDB, Firebase"],
-  ["Microservices & Event-Driven Architecture", "Jest, React Testing Library, Cypress, Detox"],
-  ["CI/CD: GitHub Actions, Jenkins, Docker", "Agile/Scrum, Sprint Planning, Production Support"]
+  [
+   "React.js, Redux / Redux Toolkit, React Query",
+   "Node.js / Express, REST & GraphQL APIs"
+  ],
+  [
+   "TypeScript & JavaScript (ES6+), Next.js",
+   "Technical Leadership, Code Review, Mentoring"
+  ],
+  [
+   "AWS Lambda, ECS/Fargate, RDS, S3, CloudFront",
+   "PostgreSQL, MongoDB, Firebase"
+  ],
+  [
+   "Microservices & Event-Driven Architecture",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins, Docker",
+   "Agile/Scrum, Sprint Planning, Production Support"
+  ]
  ],
  "tech_overrides": {
   "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, third-party integrations, microservices, event-driven design, JWT/RBAC auth, Firebase, PostgreSQL, MongoDB",
