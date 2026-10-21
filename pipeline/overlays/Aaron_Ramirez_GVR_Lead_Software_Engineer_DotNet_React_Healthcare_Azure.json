@@ -1,0 +1,43 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_GVR_Lead_Software_Engineer_DotNet_React_Healthcare_Azure",
+ "tagline": "Lead Software Engineer  ·  C#, ASP.NET Core, .NET Core, React  ·  Microservices, REST APIs, Azure  ·  Healthcare (HIPAA), SQL / NoSQL, CI/CD, Technical Leadership",
+ "location": "Remote (US)  ·  Open to Tennessee  ·  Contract (C2C or W2)",
+ "summary": "Lead Software Engineer with 10+ years delivering enterprise and healthcare applications for Walmart Global Tech, IBM/AEP, and HCSC (Blue Cross Blue Shield plans, 1M+ members). Builds C# / ASP.NET Core / .NET Core microservices exposing REST APIs over SQL Server and NoSQL (MongoDB) behind React / TypeScript front ends, deployed on Microsoft Azure (App Service, Functions, Azure SQL, Azure DevOps) and AWS with Docker and CI/CD pipelines. Healthcare delivery under HIPAA with PHI handling, audit logging, and role-based access; REST integrations with member, claims, provider, and pharmacy systems. Leads teams of 4–8 engineers: architecture, code reviews, sprint planning, and mentoring. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C#, ASP.NET Core, .NET Core Web API",
+   "React.js, TypeScript, Redux Toolkit"
+  ],
+  [
+   "Microservices, REST APIs, Event-Driven Design",
+   "Microsoft Azure: App Service, Functions, Azure SQL, DevOps"
+  ],
+  [
+   "SQL Server, PostgreSQL, MongoDB",
+   "CI/CD: Azure DevOps, GitHub Actions, Docker"
+  ],
+  [
+   "Healthcare: HIPAA, PHI Handling, Audit Logging",
+   "Technical Leadership, Mentoring, Code Review"
+  ],
+  [
+   "xUnit, Jest, React Testing Library, Cypress",
+   "Agile/Scrum, Production Support, Dynatrace"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / ASP.NET Core, .NET Core Web API, Entity Framework / EF Core, Dapper, REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, MongoDB, Node.js/Express, healthcare system integrations",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, Key Vault, Application Insights), Azure DevOps, AWS (Lambda, ECS, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Cypress; code review, performance profiling, Lighthouse"
+ },
+ "role_tweaks": {
+  "3": {
+   "bullets": [
+    "Led front-end and API delivery for HCSC's Mobile 2.0 member platform (Blue Cross Blue Shield plans, 1M+ members) under HIPAA: React / TypeScript experiences backed by .NET Core REST microservices with PHI-safe data handling, audit logging, and role-based access.",
+    "Integrated member, claims, provider, and pharmacy services over REST APIs; owned API contracts, error handling, and performance tuning on SQL Server and NoSQL stores.",
+    "Ran code reviews and mentoring for a cross-functional team; shipped on Azure DevOps CI/CD pipelines with automated xUnit and Jest coverage."
+   ]
+  }
+ }
+}

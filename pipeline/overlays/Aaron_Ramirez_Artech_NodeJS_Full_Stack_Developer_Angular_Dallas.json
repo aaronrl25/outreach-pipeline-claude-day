@@ -1,0 +1,19 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Artech_NodeJS_Full_Stack_Developer_Angular_Dallas",
+ "tagline": "Node.js Full Stack Developer  ·  Angular, TypeScript, JavaScript, Single-Page Application Portals  ·  Node.js / Express REST APIs  ·  Responsive UI, AWS, CI/CD",
+ "location": "Dallas, TX  ·  Onsite  ·  Contract (C2C)",
+ "summary": "Node.js Full Stack Developer with 10+ years building interactive, responsive web applications and single-page application portals for Walmart Global Tech, IBM/AEP, and HCSC. Front ends in Angular (TypeScript, RxJS, NgRx, Angular Material) and React with HTML5, CSS3/SCSS, and responsive design; back ends in Node.js / Express exposing REST and GraphQL APIs over PostgreSQL and MongoDB, deployed on AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD. Keeps quality high with Jasmine/Karma, Jest, Cypress, and Supertest, and owns production support with Dynatrace. Leads code reviews and mentors engineers; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  ["Angular (TypeScript, RxJS, NgRx, Angular Material)", "Node.js / Express, REST & GraphQL APIs"],
+  ["JavaScript (ES6+) & TypeScript", "Single-Page Application (SPA) Portals, Responsive UI"],
+  ["HTML5, CSS3/SCSS, Tailwind, Accessibility (WCAG)", "PostgreSQL, MongoDB, Redis"],
+  ["AWS Lambda, ECS/Fargate, RDS, S3", "Docker, GitHub Actions, Jenkins CI/CD"],
+  ["Jasmine/Karma, Jest, Cypress, Supertest", "React.js (Expert, secondary), Code Review, Agile/Scrum"]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, responsive design, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, JWT/RBAC auth, PostgreSQL, MongoDB, Redis, Firebase",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

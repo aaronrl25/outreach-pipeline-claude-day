@@ -65,12 +65,12 @@
    ]
   },
   {
-   "title": "Lead Engineer & Co-Founder",
+   "title": "Lead Engineer",
    "company": "Eurybia Studio",
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Co-founded the studio; shipped 0-to-1 React, Next.js, and React Native (Expo) products with Node.js and Firebase backends for clients in three countries.",
+    "Led engineering for the studio; shipped 0-to-1 React, Next.js, and React Native (Expo) products with Node.js and Firebase backends for clients in three countries.",
     "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
    ]
   },
