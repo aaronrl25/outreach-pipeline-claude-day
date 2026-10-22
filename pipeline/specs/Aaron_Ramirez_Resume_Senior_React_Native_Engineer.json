@@ -65,12 +65,12 @@
    ]
   },
   {
-   "title": "Lead Engineer & Co-Founder",
+   "title": "Lead Engineer",
    "company": "Eurybia Studio",
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Co-founded the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
+    "Led engineering for the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
     "Architected a gas delivery tracking app supporting 300+ daily deliveries with live driver location, push notifications, Facebook login, and SMS status updates on a Node.js/Express backend on AWS in Docker; built a wine e-commerce app with JWT-secured third-party API integration that drove 120% year-over-year sales growth."
    ]
   },
@@ -87,7 +87,7 @@
  "tech": [
   [
    "Mobile:",
-   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native module bridging (Swift/Kotlin), Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync, performance profiling"
+   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native module bridging (Swift/Kotlin), Salesforce Mobile SDK, Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync, performance profiling"
   ],
   [
    "Languages:",
@@ -95,11 +95,11 @@
   ],
   [
    "State & UI:",
-   "Redux, Redux Toolkit, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
   ],
   [
    "APIs & Backend:",
-   "REST APIs, WebSockets/Socket.IO, GraphQL, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+   "REST APIs, Salesforce (Apex, Salesforce REST APIs), WebSockets/Socket.IO, GraphQL, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
   ],
   [
    "Cloud & CI/CD:",
@@ -111,7 +111,7 @@
   ],
   [
    "Testing & Process:",
-   "Jest, React Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring, Claude Code, Cursor"
+   "Jest, React Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring, AI-assisted development: Claude Code, GitHub Copilot, Cursor, Windsurf, Devin"
   ]
  ],
  "name": "Aaron_Ramirez_Resume_Senior_React_Native_Engineer",

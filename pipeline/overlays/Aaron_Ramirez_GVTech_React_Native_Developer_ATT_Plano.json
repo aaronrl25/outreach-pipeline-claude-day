@@ -1,20 +1,20 @@
 {
  "base": "mobile",
  "name": "Aaron_Ramirez_GVTech_React_Native_Developer_ATT_Plano",
- "tagline": "React Native Developer  ·  React Native (iOS & Android), React.js, TypeScript, JavaScript (ES6+)  ·  Redux / Context API, Mobile Architecture & Lifecycle  ·  Native Swift / Kotlin Integration, REST APIs, App Store & Google Play Deployment, Mobile CI/CD",
+ "tagline": "React Native Developer  ·  React Native (iOS & Android), React.js, TypeScript  ·  Redux / RTK Query, Salesforce Mobile SDK & Apex, REST APIs  ·  Native Swift / Kotlin, App Store & Google Play, Mobile CI/CD, AI-Assisted Development",
  "location": "Dallas–Plano, TX (local)  ·  Hybrid  ·  Contract (C2C)",
- "summary": "React Native Developer with 10+ years in software engineering and 6+ years building cross-platform iOS and Android applications for Walmart Global Tech (store apps used by 500K+ daily associates), IBM/AEP (field operations app for thousands of utility technicians), and HCSC (1M+ members, HIPAA). Strong React.js, JavaScript (ES6+), and TypeScript; state management with Redux, Redux Toolkit, and Context API; mobile app architecture and lifecycle management; RESTful API integration with asynchronous data flows and offline sync. Native iOS (Swift) and Android (Kotlin) module integration, performance optimization (startup time, rendering, memory, 99.9% crash-free sessions), and App Store Connect / Google Play Console deployments with phased rollouts. Mobile CI/CD with GitHub Actions, Azure DevOps, and Expo EAS; automated testing with Jest, React Native Testing Library, and Detox; enterprise telecom-scale delivery with code reviews and cross-functional collaboration with product, design, and backend teams. Claude Code and GitHub Copilot in daily use.",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years building cross-platform iOS and Android applications for Walmart Global Tech (store apps used by 500K+ daily associates), IBM/AEP (field operations app for thousands of utility technicians), and HCSC (1M+ members, HIPAA). Strong React.js, JavaScript (ES6+), and TypeScript; state management with Redux, Redux Toolkit / RTK Query, and Context API; Salesforce Mobile SDK and Apex integrations; mobile app architecture and lifecycle management; RESTful API integration with asynchronous data flows and offline sync. Native iOS (Swift) and Android (Kotlin) module integration, performance optimization (startup time, rendering, memory, 99.9% crash-free sessions), and App Store Connect / Google Play Console deployments with phased rollouts. Mobile CI/CD with GitHub Actions, Azure DevOps, and Expo EAS; automated testing with Jest, React Native Testing Library, and Detox; enterprise telecom-scale delivery with code reviews and cross-functional collaboration with product, design, and backend teams. AI-assisted development daily with Claude Code, GitHub Copilot, Cursor, Windsurf, and Devin.",
  "core_skills": [
   [
    "React Native (6+ yrs), iOS & Android, TypeScript",
-   "React.js, JavaScript (ES6+), Redux / Context API"
+   "React.js, JavaScript (ES6+), Redux / RTK Query, Context API"
   ],
   [
-   "Mobile Architecture, Lifecycle & Performance Optimization",
+   "Salesforce Mobile SDK, Apex, REST API Integration",
    "Native Integration: Swift (iOS), Kotlin (Android)"
   ],
   [
-   "RESTful APIs, Async Programming, Offline Sync",
+   "Mobile Architecture, Lifecycle & Performance Optimization",
    "App Store Connect & Google Play Console Deployment"
   ],
   [
@@ -22,8 +22,8 @@
    "Testing: Jest, React Native Testing Library, Detox"
   ],
   [
-   "Enterprise Mobile Apps: Walmart, AEP, HCSC (HIPAA)",
-   "Code Review, Mentoring, Agile/Scrum Collaboration"
+   "AI-Assisted Dev: Claude Code, Copilot, Cursor, Windsurf, Devin",
+   "Enterprise Mobile Apps: Walmart, AEP, HCSC (HIPAA)"
   ]
  ]
 }

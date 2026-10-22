@@ -87,7 +87,7 @@
  "tech": [
   [
    "Mobile:",
-   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native module bridging (Swift/Kotlin), Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync, performance profiling"
+   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native module bridging (Swift/Kotlin), Salesforce Mobile SDK, Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync, performance profiling"
   ],
   [
    "Languages:",
@@ -95,11 +95,11 @@
   ],
   [
    "State & UI:",
-   "Redux, Redux Toolkit, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
   ],
   [
    "APIs & Backend:",
-   "REST APIs, WebSockets/Socket.IO, GraphQL, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+   "REST APIs, Salesforce (Apex, Salesforce REST APIs), WebSockets/Socket.IO, GraphQL, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
   ],
   [
    "Cloud & CI/CD:",
@@ -111,7 +111,7 @@
   ],
   [
    "Testing & Process:",
-   "Jest, React Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring, Claude Code, Cursor"
+   "Jest, React Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring, AI-assisted development: Claude Code, GitHub Copilot, Cursor, Windsurf, Devin"
   ]
  ]
 }
