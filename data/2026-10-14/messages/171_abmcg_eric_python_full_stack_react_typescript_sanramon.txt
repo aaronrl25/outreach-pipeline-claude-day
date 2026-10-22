@@ -1,0 +1,19 @@
+To: eric@abmcg.co
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React_TypeScript_SanRamon.pdf
+Subject: Python Full Stack Developer (Python + React/TypeScript) – San Ramon, CA – Aaron Ramirez (C2C)
+
+Hi Eric,
+
+I saw your LinkedIn post for the Python Full Stack Developer (Python + React/TypeScript) role in San Ramon, CA and would like to be considered. My resume is attached.
+
+- 10+ years building production web platforms for Walmart Global Tech (Seller Center marketplace), IBM/AEP, and HCSC: React.js and TypeScript front ends (ES6+, HTML5, CSS3, Next.js) with responsive, high-performance UI work.
+- Python (FastAPI) and Node.js backend services exposing RESTful APIs and microservices over PostgreSQL and MongoDB; CI/CD with GitHub Actions and Jenkins on AWS and Azure.
+- Code reviews, architecture discussions, and sprint planning in Agile teams; strong debugging and performance optimization.
+- Based in the San Francisco Bay Area, so regular onsite in San Ramon works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
