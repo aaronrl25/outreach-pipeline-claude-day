@@ -539,3 +539,6 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-22,skipped,Muralin@wscs.ai,WSCS (Murali),Senior .NET Developer,"Albany, NY, 14 months, no GC",C2C,,,.NET with no React named – backend rule
 2026-10-22,skipped,rajesh@delviom.com,Delviom (Rajesh),Senior Full-Stack Application Developer,"Washington, DC onsite, clearance",Full-time W2,,,security clearance required
 2026-10-22,skipped,Paritosh@crincit.com,Crincit (Paritosh),Lead UI Architect / Principal UI Engineer,Ohio onsite,C2C/W2,,,"same Crincit req (banking mandatory, 12–15+)"
+2026-10-22,skipped,jobsearch@aptoninc.com,Apton Inc,"Multi-role list (Full Stack .NET/Node DC, Java+React Columbus)",DC / Columbus / NJ,C2C/W2,,,USC/GC only on every role; Java/.NET-first
+2026-10-22,skipped,knr@otbtechllc.com,OTB Tech (KNR),Java + Angular/React roles,various,"C2C, no OPT",,,Java-first (backend rule)
+2026-10-22,skipped,bharadwaj@thesancloud.com,Sancloud (Bharadwaj),Python Developer,"Charlotte, NC hybrid, SE locals",C2C,,,Python-first
