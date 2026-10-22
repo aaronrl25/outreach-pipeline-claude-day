@@ -472,3 +472,9 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-21,skipped,kayalvizhi@sightspectrum.com,Sightspectrum (Kayalvizhi),Technical Specialist – Java & ReactJS,"Holmdel, NJ / Bethlehem, PA onsite, locals only",C2C/W2,,,Locals only; vendor already contacted (Vinodhini)
 2026-10-21,skipped,srinath@rarefiedit.com,Rarefied IT (Srinath),Senior Java Full Stack Developer,"Austin, TX locals only",C2C,,,"Java-first, 14+ yrs, locals only"
 2026-10-21,skipped,Monteee@techrooted.com,Techrooted (Montee),Sr Full Stack Java Developer (Angular),"Okemos, MI local only",C2C/C2H,,,USC/GC only
+2026-10-22,sent,akash.bhambota@testingxperts.com,TestingXperts (Akash Bhambota),Lead Java Backend Engineer (some frontend),"Mountain View, CA hybrid",contract (W2 or C2C),Aaron_Ramirez_TestingXperts_Lead_Java_Backend_Engineer_Spring_Boot_MountainView.docx,,#149; inbound inbox email asked for resume + LinkedIn + location; sent via Gmail connector with docx (Chrome extension down); 2nd TestingXperts recruiter (Sharanjeet #124 was a different role)
+2026-10-22,skipped,pavan.r@siatechsol.com,Sia Tech (Pavan),Senior Full Stack Java/J2EE Developer,"East Elmhurst, NY (local NJ/NY, in-person)",C2C,,,"Groups; Java-first, 14+ yrs, locals only"
+2026-10-22,skipped,shetti069@gmail.com,(Groups poster),Java Microservices Developer,"Miami, FL hybrid",C2C,,,Groups; Java-first backend req
+2026-10-22,skipped,steve@3bstaffing.com,3B Staffing (Steve),Lead Full Stack Java Developer (Angular),"Philadelphia, PA hybrid",C2C,,,"Groups; US Citizen only, local to PA"
+2026-10-22,skipped,shiftcodeaniket@gmail.com,Shiftcode (Aniket),Sr. Full-Stack .NET Engineer (13+ yrs),"New York, NY local with DL, F2F",C2C,,,"Groups; 13+ yrs, NY local with DL"
+2026-10-22,skipped,careers@codecargo.com,CodeCargo,Frontend Software Engineer (Next.js),Remote / Hybrid,Full-time,,,LinkedIn Jobs listing with careers@ email; held for Gmail web send with PDF once Chrome is back
