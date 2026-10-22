@@ -528,3 +528,8 @@ date,status,recruiter_email,company,role,location,type,resume,post_profile,notes
 2026-10-22,skipped,akanksha@kanandcorp.com,KAnand (Akanksha),Python Developer,San Diego local,C2C,,,"Python-first, life sciences"
 2026-10-22,skipped,john@cyberspaceinc.com,Cyberspace Inc (John),Lead UX Designer (ReactJS),"Columbus, OH day-1 onsite",C2C,,,"UX designer role, banking preferred"
 2026-10-22,skipped,archana@foxoneusa.com,FoxOne (Archana),Java Developer x5,"Mt. Laurel, NJ locals",C2C,,,"Java-first, locals"
+2026-10-22,sent,saiteja.r@synthetixai.com,Synthetix AI (Sai Teja),"Senior React Native Mobile Developer (TS, Salesforce Mobile SDK must-have)","Plano, TX onsite 5 days",W2 only,Aaron_Ramirez_Senior_React_Native_Mobile_Developer_Plano.pdf,,#165; Salesforce Mobile SDK / Apex not claimed; Plano RN PDF copied under generic name
+2026-10-22,skipped,lakshmi@realtekconsulting.net,Realtek Consulting (Lakshmi),Web Developer (no stack stated),"Alpharetta, GA 5 days onsite, locals preferred, in-person interview",C2C,,,"no stack, locals, in-person only"
+2026-10-22,skipped,Sophia@valuetechinc.com,ValueTech (Sophia),Lead Full Stack Developer 12+,"Charlotte, NC",C2C,,,"no stack stated, 12+"
+2026-10-22,skipped,prudhvi@otbtechllc.com,OTB Tech (Prudhvi),Sr Full Stack Java Developer with Angular,"Charlotte, NC locals",C2C,,,"Java-first, locals (backend rule)"
+2026-10-22,replied,vkunapareddi@techtrovesoft.com,Techtrovesoft (reply to #155),Lead React Developer HGS,Dallas,C2C/W2,,,"REPLY: candidate form asks DOB, US entry date, entry visa, Masters – left for Aaron"

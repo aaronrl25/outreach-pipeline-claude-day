@@ -1,0 +1,19 @@
+To: saiteja.r@synthetixai.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Mobile_Developer_Plano.pdf
+Subject: Senior React Native Mobile Developer – Plano, TX – Aaron Ramirez (W2)
+
+Hi Sai Teja,
+
+I saw your LinkedIn post for the Senior React Native Mobile Developer role in Plano, TX (W2) and would like to be considered. My resume is attached.
+
+- 10+ years in software development, 6+ years in React Native with TypeScript, delivering enterprise mobile applications for Walmart Global Tech (store apps used by 500K+ daily associates), IBM/AEP (field operations app for utility technicians), and HCSC (1M+ members).
+- REST API integration, mobile architecture, Redux / RTK Query, native iOS (Swift) modules, GitHub-based workflows, and DevOps / CI/CD with GitHub Actions, Azure DevOps, and Expo EAS; Agile/Scrum delivery with code reviews.
+- AI-assisted development daily with GitHub Copilot and Claude Code; experienced integrating enterprise platform SDKs and APIs into mobile apps.
+- Based in the Dallas area, so Plano onsite 5 days works for me.
+
+Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
