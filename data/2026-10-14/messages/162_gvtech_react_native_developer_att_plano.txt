@@ -1,0 +1,19 @@
+To: recruitment@gvtechsystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_GVTech_React_Native_Developer_ATT_Plano.pdf
+Subject: React Native Developer (AT&T) – Plano, TX – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the React Native Developer positions (AT&T, Plano, TX, hybrid) and would like to be considered. My tailored resume is attached; LinkedIn: linkedin.com/in/aaronsoftware.
+
+- 10+ years in software engineering, 6+ years building cross-platform iOS and Android apps in React Native with React.js, JavaScript (ES6+), and TypeScript for Walmart Global Tech (store apps used by 500K+ daily associates), IBM/AEP, and HCSC.
+- State management with Redux and Context API, mobile architecture and lifecycle management, RESTful API integration, native Swift / Kotlin module integration, performance optimization, and App Store / Google Play deployments with phased rollouts.
+- Mobile CI/CD (GitHub Actions, Azure DevOps, Expo EAS) and automated testing with Jest and Detox; enterprise-scale delivery with code reviews and cross-functional teams.
+- Based in the Dallas area, so the Plano hybrid schedule works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
