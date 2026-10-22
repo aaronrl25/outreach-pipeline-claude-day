@@ -1,0 +1,18 @@
+To: Mahesh.babu@akshaya-inc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Akshaya_Full_Stack_Engineer_React_TypeScript_NextJS_Python_SanRamon.pdf
+Subject: Full Stack Engineer – React, TypeScript, Next.js & Python – San Ramon, CA – Aaron Ramirez (C2C)
+
+Hi Mahesh,
+
+I saw your LinkedIn post for the Full Stack Engineer (React, TypeScript, Next.js and Python) role in San Ramon, CA and would like to be considered. My tailored resume is attached.
+
+- 10+ years building production web platforms for Walmart Global Tech (Seller Center marketplace), IBM/AEP, and HCSC: React.js, TypeScript, and Next.js (SSR / SSG / ISR) front ends with Core Web Vitals performance work.
+- Python (FastAPI) and Node.js backends exposing REST and GraphQL APIs over PostgreSQL and MongoDB; AWS and Azure deployments with Docker and GitHub Actions / Jenkins CI/CD.
+- Based in the San Francisco Bay Area, so San Ramon is local for me.
+
+Available on C2C, W2, or 1099. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

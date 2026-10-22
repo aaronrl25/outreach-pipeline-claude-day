@@ -1,0 +1,19 @@
+To: md.arfin@realtechservices.co
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Realtech_Java_Developer_Strong_React_Plano.pdf
+Subject: Java Developer with Strong React – Plano, TX – Aaron Ramirez (C2C/W2)
+
+Hi Arfin,
+
+I saw your LinkedIn post for the Java Developer with Strong React role in Plano, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC with React as the strongest skill: React.js, TypeScript, Redux, component libraries, and performance work on applications serving hundreds of thousands of daily users.
+- Java 11/17+ with Spring Boot: REST microservices, Kafka event-driven integrations, Hibernate/JPA, and SQL Server / PostgreSQL / Oracle data behind those React front ends.
+- AWS and Azure deployments with Docker and GitHub Actions / Jenkins CI/CD; Jest, React Testing Library, JUnit, and Cypress testing.
+- Based in the Dallas area, so Plano onsite is local for me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
