@@ -1,0 +1,33 @@
+{
+ "base": "mobile",
+ "tagline": "Senior AI Full Stack Engineer – AI & Mobile  ·  React Native, Node.js, Python  ·  LLMs, RAG, AI Agents & Workflow Automation  ·  Azure / AWS, CI/CD, Mobile Security, Enterprise Integrations",
+ "location": "Dallas, TX (local)  ·  Onsite  ·  Contract (C2C)",
+ "summary": "Senior AI Full Stack Engineer with 10+ years building AI-powered mobile and full-stack applications for Walmart Global Tech, IBM/AEP, and HCSC. React Native (6+ years, TypeScript) across iOS and Android with native modules, plus Node.js / Express and Python (FastAPI) services exposing REST and GraphQL APIs. Ships LLM features in production: a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace, RAG pipelines, tool-calling AI agents, and workflow automation that digitizes frontline workflows for utility field technicians (AEP) and store associates (Walmart, 500K+ daily users). Deploys on Microsoft Azure (App Service, Functions, Azure AI Services) and AWS (ECS/Fargate, Lambda) with GitHub Actions / Azure DevOps CI/CD; mobile security with OAuth 2.0 / JWT, secure token storage, and HIPAA-compliant data handling; enterprise integrations over REST, GraphQL, and event-driven messaging. Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript, iOS & Android",
+   "Node.js / Express & Python (FastAPI) REST / GraphQL APIs"
+  ],
+  [
+   "LLM Integration: Claude API, Azure OpenAI, LangChain, RAG",
+   "AI Agents, Tool Calling, Workflow Automation"
+  ],
+  [
+   "Azure (App Service, Functions, AI Services) & AWS (ECS, Lambda)",
+   "CI/CD: GitHub Actions, Azure DevOps, Expo EAS"
+  ],
+  [
+   "Mobile Security: OAuth 2.0 / JWT, Secure Storage, HIPAA",
+   "Enterprise Integrations: REST, GraphQL, Event-Driven"
+  ],
+  [
+   "Frontline Workflow Digitization: Field Ops & Store Apps",
+   "Technical Leadership, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, Python (FastAPI), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, event-driven integrations, Firebase, PostgreSQL, MongoDB; AI: Claude API, Azure OpenAI, LangChain, RAG pipelines, tool-calling agents, workflow automation",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor"
+ },
+ "name": "Aaron_Ramirez_Xaxis_Senior_AI_Full_Stack_Engineer_React_Native_Node_Python_Dallas"
+}

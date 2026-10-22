@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Triano_Technical_Lead_NodeJS_TypeScript_React_AWS_Malvern",
+ "tagline": "Technical Lead – Node.js / TypeScript  ·  Backend Architecture, Scalable Cloud-Native Services  ·  React, REST APIs  ·  AWS (Lambda, ECS, S3), DynamoDB, Microservices & Security",
+ "location": "Open to Malvern, PA hybrid (relocating for the hybrid schedule is fine)  ·  Contract (C2C)",
+ "summary": "Hands-on Technical Lead with 10+ years building and leading web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Expert-level TypeScript and Node.js: designs scalable backend services and cloud-native applications on AWS (Lambda, ECS/Fargate, S3, CloudFront) with DynamoDB, PostgreSQL, and MongoDB, exposing REST and GraphQL APIs behind React front ends (Redux Toolkit, Next.js). Owns technical architecture, microservices and event-driven design, secure system integrations (OAuth 2.0 / OIDC / JWT), and production support with Dynatrace. Leads teams of 4–8 engineers through architecture reviews, code reviews, sprint planning, and mentoring; keeps quality high with Jest, Supertest, React Testing Library, and Cypress in GitHub Actions / Jenkins CI/CD with Docker. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Node.js / TypeScript (Expert), Express, REST & GraphQL APIs",
+   "Backend Architecture, Microservices, Event-Driven Design"
+  ],
+  [
+   "AWS Lambda, ECS/Fargate, S3, CloudFront",
+   "DynamoDB, PostgreSQL, MongoDB, Redis"
+  ],
+  [
+   "React, Redux Toolkit, Next.js, TypeScript",
+   "Security: OAuth 2.0 / OIDC / JWT, System Integrations"
+  ],
+  [
+   "Technical Leadership, Architecture Reviews, Mentoring",
+   "CI/CD: GitHub Actions, Jenkins, Docker, Terraform"
+  ],
+  [
+   "Jest, Supertest, React Testing Library, Cypress",
+   "Agile/Scrum, Production Support, Dynatrace"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, third-party integrations, microservices, event-driven design, JWT/RBAC auth, Firebase, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "AWS (DynamoDB, Lambda, ECS/Fargate, RDS, S3, CloudFront), Azure (App Service, DevOps), Docker, GitHub Actions, Jenkins, Azure DevOps, Dynatrace"
+ }
+}

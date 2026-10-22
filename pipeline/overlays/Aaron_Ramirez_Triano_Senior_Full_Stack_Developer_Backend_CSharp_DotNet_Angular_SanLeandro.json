@@ -1,0 +1,44 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Triano_Senior_Full_Stack_Developer_Backend_CSharp_DotNet_Angular_SanLeandro",
+ "tagline": "Senior Full Stack Developer – Backend  ·  C#, .NET Core, ASP.NET Core Web API, REST APIs, SQL Server  ·  Angular 18+/19 (Standalone Components, Signals), TypeScript, RxJS  ·  Azure, CI/CD, DevOps, AI-Enabled Workflows",
+ "location": "San Francisco Bay Area (local to San Leandro, CA)  ·  Hybrid; open to Houston, TX  ·  Contract (C2C)",
+ "summary": "Senior Full Stack Developer (backend-leaning) with 10+ years delivering enterprise and field-operations software for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# / .NET Core / ASP.NET Core Web API services over SQL Server (T-SQL, stored procedures, schema design) and maintains and modernizes legacy C# code with enterprise integrations (REST, messaging, event-driven workflows). Angular 18+/19 front ends in TypeScript with standalone components, signals, and RxJS, alongside React. Deploys on Microsoft Azure (App Service, Functions, Azure SQL, Azure DevOps CI/CD) and AWS with Docker, and adds AI-enabled workflows and automation (LLM integration, tool-calling agents) to business applications. Domain experience in field service and dispatch workflows for AEP utility technicians and workforce and asset-tracking apps for Walmart store associates; communicates clearly with product, business, and engineering teams. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C#, .NET Core, ASP.NET Core Web API, Entity Framework",
+   "SQL Server, T-SQL, Stored Procedures, Schema Design"
+  ],
+  [
+   "Angular 18+/19: Standalone Components, Signals, RxJS",
+   "TypeScript, React (secondary)"
+  ],
+  [
+   "Microsoft Azure: App Service, Functions, Azure SQL, DevOps",
+   "CI/CD, Docker, DevOps Practices, AWS"
+  ],
+  [
+   "Legacy C# Modernization, Enterprise Integrations",
+   "Field Service, Dispatch & Workforce Workflows"
+  ],
+  [
+   "AI-Enabled Workflows & Automation (LLM, Agents)",
+   "xUnit, Jest, Cypress; Agile/Scrum, Communication"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / ASP.NET Core, .NET Core Web API, Entity Framework / EF Core, Dapper, REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, MongoDB, Node.js/Express, healthcare system integrations",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, Key Vault, Application Insights), Azure DevOps, AWS (Lambda, ECS, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Cypress; code review, performance profiling, Lighthouse",
+  "Front End:": "Angular 18+/19 (standalone components, signals, RxJS, NgRx, Angular Material, reactive forms), React 18, TypeScript, Redux Toolkit, HTML5, CSS3, responsive UI"
+ },
+ "role_tweaks": {
+  "3": {
+   "bullets": [
+    "Led front-end and API delivery for HCSC's Mobile 2.0 member platform (Blue Cross Blue Shield plans, 1M+ members) under HIPAA: React / TypeScript experiences backed by .NET Core REST microservices with PHI-safe data handling, audit logging, and role-based access.",
+    "Integrated member, claims, provider, and pharmacy services over REST APIs; owned API contracts, error handling, and performance tuning on SQL Server and NoSQL stores.",
+    "Ran code reviews and mentoring for a cross-functional team; shipped on Azure DevOps CI/CD pipelines with automated xUnit and Jest coverage."
+   ]
+  }
+ }
+}

@@ -1,33 +1,33 @@
 {
  "base": "web",
  "name": "Aaron_Ramirez_CSSIT_Front_End_Developer_React_Azure_AI_Dallas",
- "tagline": "Front End Developer · React.js, TypeScript, Redux · Microsoft Azure (App Service, DevOps, AI Services) · GenAI / LLM-Integrated UIs · REST & WebSockets",
- "location": "San Francisco Bay Area · open to Dallas, TX onsite 5 days (relocating is fine) · 12-Month Contract (C2C or W2)",
- "summary": "Front End Developer with 10+ years building React and TypeScript applications for Walmart Global Tech, IBM/AEP, and HCSC. Delivers responsive, accessible UIs with Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3, and Tailwind, integrated with REST microservices and real-time WebSockets. Hands-on with Microsoft Azure: App Service deployments, Azure DevOps CI/CD pipelines with Docker-based agents, and Azure AI Services integrated into production field-operations workflows; built a GenAI assistant front end streaming Claude API / LangChain responses through Node.js middleware. Uses GitHub Copilot, Claude Code, and Cursor daily; strong testing discipline with Jest, React Testing Library, and Cypress.",
+ "tagline": "Front End Developer – React, Azure & AI  ·  React 18, TypeScript, Redux Toolkit, Next.js  ·  Microsoft Azure (App Service, DevOps Pipelines, Azure AI Services)  ·  AI/LLM Integration (Azure OpenAI, Claude API, LangChain)",
+ "location": "Dallas, TX (local)  ·  Onsite 5 days  ·  Contract (C2C), 12 months",
+ "summary": "Front End Developer (React, Azure, AI) with 10+ years building production web platforms for Walmart Global Tech, IBM/AEP, and HCSC, with React and modern front-end development as the primary skill: React 18, TypeScript, Redux Toolkit, React Query, component libraries, accessibility, and Core Web Vitals performance work on applications serving hundreds of thousands of daily users. Azure cloud engineering and deployments: App Service and Container Apps, Azure DevOps YAML pipelines, Key Vault and managed identity, Application Insights, and Azure AI Services, alongside AWS ECS/Fargate and Lambda. Backend and API development with Node.js/Express and Python FastAPI over REST, GraphQL, and WebSockets with PostgreSQL. AI/LLM and automation solutions in production: shipped a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace, and integrated Azure AI Services to summarize and classify field notes at AEP. Sets architecture standards and code review protocols for squads of 6+ engineers; Claude Code, GitHub Copilot, and Cursor in daily use.",
  "core_skills": [
   [
-   "React.js & TypeScript (Expert), Next.js, React Hooks",
-   "Microsoft Azure (App Service, DevOps, AI Services)"
+   "React 18, TypeScript, Redux Toolkit, React Query, Next.js",
+   "Component Libraries, Accessibility (WCAG), Core Web Vitals"
   ],
   [
-   "Redux / Redux Toolkit, Zustand, Context API, React Query",
-   "GenAI / LLM UI Integration (Claude API, LangChain, Azure AI)"
+   "Azure: App Service, Container Apps, DevOps Pipelines, Key Vault",
+   "Azure AI Services, Application Insights, Azure Monitor"
   ],
   [
-   "HTML5, CSS3, Tailwind, Responsive & Accessible UI (WCAG)",
-   "REST APIs, GraphQL, WebSockets, Microservices"
+   "Node.js/Express & Python FastAPI REST, GraphQL, WebSockets",
+   "PostgreSQL, MongoDB, Redis, Docker"
   ],
   [
-   "Azure DevOps & GitHub Actions CI/CD, Docker",
-   "Jest, React Testing Library, Cypress, Storybook"
+   "AI/LLM Integration: Claude API, Azure OpenAI, LangChain, RAG",
+   "Automation: Tool-Calling Agents, Intent Routing, Workflows"
   ],
   [
-   "Performance Optimization, Core Web Vitals, Dynatrace",
-   "GitHub Copilot, Claude Code, Cursor (daily)"
+   "CI/CD: Azure DevOps, GitHub Actions, Jenkins",
+   "Jest, React Testing Library, Cypress; Dynatrace Observability"
   ]
  ],
  "tech_overrides": {
-  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure DevOps, AI Services), GitHub Actions, AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Jenkins, Docker, Dynatrace",
-  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, GitHub Copilot, Claude Code, Cursor, Claude API / LangChain"
+  "APIs & Backend:": "Node.js/Express, Python FastAPI, TypeScript, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "Azure (App Service, Container Apps, DevOps YAML pipelines, Key Vault, Managed Identity, Application Insights, Log Analytics, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Docker, GitHub Actions, Jenkins, Dynatrace"
  }
 }

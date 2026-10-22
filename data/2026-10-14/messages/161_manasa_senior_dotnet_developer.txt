@@ -1,0 +1,18 @@
+To: manasa4009@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Senior .NET Developer – Aaron Ramirez (C2C/W2)
+
+Hi Manasa,
+
+I saw your LinkedIn post for the Senior .NET Developer (10+ years) role and would like to be considered. My resume is attached.
+
+- 10+ years delivering enterprise applications in the USA for Walmart Global Tech, IBM/AEP, and HCSC: C#, .NET Core, ASP.NET Core MVC and Web API, Entity Framework Core, LINQ, dependency injection, and REST APIs / microservices over SQL Server (T-SQL, stored procedures, query optimization).
+- Microsoft Azure (App Service, Functions, Azure SQL, Azure DevOps CI/CD), Docker, Git/GitHub; OAuth 2.0 / JWT application security; xUnit and automated testing; React and Angular front ends in TypeScript.
+- Open to remote or onsite. Could you share the client, location, and rate range?
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

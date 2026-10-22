@@ -1,0 +1,19 @@
+To: hrf@besthtech.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Java_Agentic_AI_MountainView.pdf
+Subject: Senior Full Stack Engineer – Applied Agentic AI – Mountain View, CA – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the Senior Full Stack Engineer – Applied Agentic AI role in Mountain View and would like to be considered. My tailored resume is attached.
+
+- 10+ years delivering enterprise platforms for Walmart Global Tech, IBM/AEP, and HCSC: Java / Spring Boot REST microservices, distributed systems, Kafka event-driven integrations, and enterprise data integration over SQL Server, PostgreSQL, and Oracle.
+- Hands-on Agentic AI: LLM integration (Claude API, Azure OpenAI, LangChain), RAG pipelines, and tool-calling AI agents shipped in production, including a GenAI seller-support assistant for Walmart's marketplace.
+- React / TypeScript front ends, Docker and Kubernetes deployments on AWS and Azure, GitHub Actions / Jenkins CI/CD, and Dynatrace production engineering.
+- Based in the San Francisco Bay Area, so Mountain View onsite works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

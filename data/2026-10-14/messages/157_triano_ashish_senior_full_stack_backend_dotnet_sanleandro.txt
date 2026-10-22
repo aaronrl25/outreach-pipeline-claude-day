@@ -1,0 +1,19 @@
+To: ashish@trianotechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Triano_Senior_Full_Stack_Developer_Backend_CSharp_DotNet_Angular_SanLeandro.pdf
+Subject: Senior Full Stack Developer – Backend (C#/.NET) – San Leandro, CA / Houston, TX – Aaron Ramirez (C2C)
+
+Hi Ashish,
+
+Following up on my note from Tuesday about the Senior GenAI Full Stack Engineer role: I saw your new post for the Senior Full Stack Developer – Backend (C#/.NET) role in Houston, TX / San Leandro, CA and would like to be considered for it as well. A resume tailored to this role is attached.
+
+- 10+ years delivering enterprise and field-operations software for Walmart Global Tech, IBM/AEP, and HCSC: C# / .NET Core / ASP.NET Core Web API services over SQL Server, legacy C# modernization, and enterprise integrations.
+- Angular 18+/19 (standalone components, signals, RxJS) and TypeScript front ends; Microsoft Azure (App Service, Functions, Azure SQL, Azure DevOps CI/CD) and Docker; AI-enabled workflows and automation added to business applications.
+- Domain fit: dispatch and field-operations workflows for AEP utility technicians and workforce / asset-tracking apps for Walmart store associates.
+- Based in the San Francisco Bay Area, so San Leandro hybrid is local for me; Houston also works.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

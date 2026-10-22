@@ -1,0 +1,19 @@
+To: saikumar@xaxis.solutions
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Xaxis_Senior_AI_Full_Stack_Engineer_React_Native_Node_Python_Dallas.pdf
+Subject: Senior AI Full Stack Engineer – AI & Mobile – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Saikumar,
+
+I saw your LinkedIn post for the Senior AI Full Stack Engineer (AI & Mobile) role and would like to be considered for the Dallas, TX location. My tailored resume is attached.
+
+- 10+ years building mobile and full-stack applications for Walmart Global Tech, IBM/AEP, and HCSC: React Native (6+ years, TypeScript) across iOS and Android, with Node.js / Express and Python (FastAPI) services over REST and GraphQL APIs.
+- AI in production: a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace, RAG pipelines, tool-calling agents, and workflow automation that digitized frontline workflows for AEP field technicians and Walmart store associates (500K+ daily users).
+- Azure (App Service, Functions, Azure AI Services) and AWS deployments with GitHub Actions / Azure DevOps CI/CD; mobile security with OAuth 2.0 / JWT, secure token storage, and HIPAA-compliant data handling; enterprise integrations over REST, GraphQL, and event-driven messaging.
+- Based in Dallas, TX, so onsite works for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

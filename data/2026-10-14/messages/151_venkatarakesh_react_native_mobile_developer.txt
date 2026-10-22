@@ -1,0 +1,20 @@
+To: venkatarakesh1989@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Senior_React_Native_Engineer.pdf
+Subject: React Native Mobile Application Developer – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the React Native Mobile Application Developer (+ Kotlin) role and would like to be considered. My resume is attached.
+
+- 6+ years of React Native with TypeScript across Android and iOS for Walmart Global Tech (store apps used by 500K+ daily associates), IBM/AEP, and HCSC, with native modules in Kotlin and Swift.
+- REST API integration, authentication (OAuth 2.0 / JWT), push notifications, payments and analytics SDKs, Firebase, and App Store / Google Play publishing with phased rollouts.
+- Healthcare experience: HCSC Member Experience 2.0 for Blue Cross Blue Shield plans (1M+ members, HIPAA), plus performance profiling, crash monitoring, and Jest / Detox testing.
+
+Could you share the client, location, and work mode for this project?
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,19 @@
+To: vkunapareddi@techtrovesoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Techtrovesoft_Lead_React_Developer_Dallas.pdf
+Subject: React Developer (HGS - 31482) – Dallas, TX – Aaron Ramirez (C2C/W2)
+
+Hello,
+
+I saw your LinkedIn post for the React Developer role (HGS - 31482) in Dallas and would like to be considered. My tailored resume is attached; LinkedIn: linkedin.com/in/aaronsoftware.
+
+- 10+ years of front-end development, 6+ in React, for Walmart Global Tech, IBM/AEP, and HCSC: leading design, development, testing, and deployment of scalable React / TypeScript applications with Redux, and presenting low-level designs to engineering and product teams.
+- Performance and quality: lazy loading, code splitting, CDN and caching strategies, Jest and React Testing Library (80%+ coverage), Cypress, and GitHub Actions / Jenkins CI/CD; production monitoring with Dynatrace and Sentry.
+- REST API, third-party library, and headless CMS integrations; mentoring developers and setting front-end engineering standards.
+- Based in Dallas, TX, so 100% onsite works for me.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

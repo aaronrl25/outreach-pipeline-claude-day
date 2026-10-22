@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_NLB_DotNet_MERN_Full_Stack_Developer_Hartford",
+ "tagline": ".NET / MERN Full Stack Developer  ·  C# / .NET Core, ASP.NET Web API, Node.js  ·  MongoDB, Express.js, React, Node.js (MERN)  ·  Microservices, Cloud-Native, Secure REST APIs",
+ "location": "Open to Hartford, CT onsite (relocating is fine)  ·  Contract (C2C)",
+ "summary": "Full Stack Developer with 10+ years of professional software engineering for Walmart Global Tech, IBM/AEP, and HCSC across the MERN (MongoDB, Express.js, React, Node.js) and .NET stacks: Node.js and Express services, React and Angular front ends in TypeScript, and C# / .NET 6/8 Web APIs, plus Java / Spring Boot REST microservices. Builds cloud-native systems with Docker, serverless functions (AWS Lambda, Azure Functions), and event-driven architecture (queues, webhooks, streaming updates) on AWS and Microsoft Azure with CI/CD. Prompts and iterates with AI coding assistants (GitHub Copilot, Claude Code) daily to solve complex logic problems and accelerate delivery. Agile/Scrum with code review and mentoring.",
+ "core_skills": [
+  [
+   "C# / .NET 6/8, ASP.NET Core Web API, Entity Framework Core",
+   "Node.js, Express, REST APIs, Microservices"
+  ],
+  [
+   "React.js, Next.js, Redux Toolkit, TypeScript",
+   "Angular, RxJS, NgRx, Reactive Forms"
+  ],
+  [
+   "Cloud-Native: Docker, AWS Lambda, Azure Functions",
+   "Event-Driven Architecture: Queues, Webhooks, Streaming"
+  ],
+  [
+   "AWS & Microsoft Azure, CI/CD (GitHub Actions, Azure DevOps)",
+   "SQL Server, PostgreSQL, MongoDB"
+  ],
+  [
+   "AI-Assisted Engineering: GitHub Copilot, Claude Code",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET 6/8 (ASP.NET Core Web API, Entity Framework Core), Node.js/Express, Java / Spring Boot, REST APIs, microservices, event-driven messaging (queues, webhooks), SQL Server, PostgreSQL, MongoDB",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, RDS, S3), Microsoft Azure (App Service, Functions, Azure SQL), Docker, GitHub Actions, Azure DevOps, Jenkins, Dynatrace"
+ }
+}

@@ -1,0 +1,19 @@
+To: nick.walker@cssitconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_CSSIT_Front_End_Developer_React_Azure_AI_Dallas.pdf
+Subject: Front End Developer – React, Azure & AI – Dallas, TX (AT&T) – Aaron Ramirez (C2C)
+
+Hi Nick,
+
+I saw your LinkedIn post for the Front End Developer with React, Azure, and AI role for AT&T in Dallas and would like to be considered. My tailored resume is attached.
+
+- 10+ years building production web platforms for Walmart Global Tech, IBM/AEP, and HCSC with React as the primary skill: React 18, TypeScript, Redux Toolkit, React Query, component libraries, accessibility, and Core Web Vitals work on applications serving hundreds of thousands of daily users.
+- Azure cloud engineering: App Service and Container Apps, Azure DevOps YAML pipelines, Key Vault and managed identity, Application Insights, and Azure AI Services.
+- AI/LLM integration in production: Azure OpenAI and Claude API features with LangChain and RAG, including a GenAI seller-support assistant for Walmart's marketplace.
+- Based in Dallas, TX; onsite 5 days and the in-person interview in Richardson work for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,19 @@
+To: samuel.s@dvgts.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_DVGTS_Senior_Frontend_Developer_React_NextJS_Ecommerce_SanRamon.pdf
+Subject: Senior Frontend Developer – React.js & Next.js (Retail/E-commerce) – San Ramon, CA – Aaron Ramirez (C2C)
+
+Hi Samuel,
+
+I saw your LinkedIn post for the Senior Frontend Developer (React.js & Next.js) role in San Ramon and would like to be considered. My tailored resume is attached.
+
+- 10+ years as a hands-on developer, with retail and e-commerce at the core: React.js and Next.js for Walmart Global Tech's Seller Center marketplace platform (billions in annual GMV) and Walmart store apps, plus enterprise platforms for IBM/AEP and HCSC.
+- Next.js SSR / SSG / ISR, headless CMS and headless commerce architectures, GraphQL and REST integration, and Core Web Vitals performance work; strong JavaScript / TypeScript, HTML5, and CSS3.
+- Backend development in Node.js / Express and Python (FastAPI) with PostgreSQL and MongoDB.
+- Based in the San Francisco Bay Area, so San Ramon onsite works for me, and I am available for the 90-minute L1 technical and live-coding interview.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

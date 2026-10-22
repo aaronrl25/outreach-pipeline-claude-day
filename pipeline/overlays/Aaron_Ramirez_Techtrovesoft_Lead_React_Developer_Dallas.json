@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Techtrovesoft_Lead_React_Developer_Dallas",
+ "tagline": "Lead React Developer  ·  React.js, Redux, TypeScript, Jest & React Testing Library  ·  Frontend Architecture & Low-Level Design (LLD)  ·  Performance (Lazy Loading, CDN), REST APIs, Headless CMS, CI/CD, Monitoring",
+ "location": "Dallas, TX (local)  ·  Onsite  ·  Contract (C2C or W2), 6+ months",
+ "summary": "Lead React Developer with 10+ years of front-end development (6+ years in React) for Walmart Global Tech, IBM/AEP, and HCSC. Leads the design, development, testing, and deployment of scalable React applications: defines frontend architecture, presents low-level designs (LLDs), and builds responsive UIs and reusable component libraries in TypeScript. Optimizes performance with code splitting and lazy loading, CDN and caching strategies, list virtualization, and efficient rendering (Core Web Vitals). Integrates REST APIs, third-party libraries, and headless CMS content; keeps quality high with Jest and React Testing Library (80%+ coverage) and Cypress gates in GitHub Actions / Jenkins CI/CD; monitors production with Dynatrace and Sentry (session replay, crash analytics, performance dashboards). Mentors developers, sets coding standards, and drives front-end engineering best practices in Agile teams; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, Redux / Redux Toolkit, TypeScript, Next.js",
+   "Frontend Architecture, Low-Level Design (LLD)"
+  ],
+  [
+   "Performance: Lazy Loading, Code Splitting, CDN, Caching",
+   "Reusable Components, Design Systems, Accessibility"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "REST APIs, Third-Party Integrations, Headless CMS"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins; AWS / Azure",
+   "Monitoring: Dynatrace, Sentry, Session Replay"
+  ],
+  [
+   "Technical Leadership, Mentoring, Code Review",
+   "Node.js / Express (secondary), Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, design systems, design tokens, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Detox, Supertest; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor (design-to-code, test generation, component scaffolding)"
+ }
+}
