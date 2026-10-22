@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Nityo_Full_Stack_Developer_React_Angular_DotNet_Richardson",
+ "tagline": "Full Stack Developer  ·  React.js & Angular (TypeScript, Redux, RxJS)  ·  C# / .NET Core, ASP.NET Core Web API, SQL Server  ·  Azure / AWS, CI/CD, Data Integration",
+ "location": "Dallas, TX (local to Richardson)  ·  Hybrid 3 days  ·  Contract (C2C)",
+ "summary": "Full Stack Developer with 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React.js (hooks, Redux Toolkit, React Query) and Angular (TypeScript, RxJS, NgRx, Angular Material) with reusable component libraries, responsive design, and Core Web Vitals performance work. Back end in C# / .NET Core and ASP.NET Core Web API (Entity Framework Core, RESTful APIs, microservices) over SQL Server (T-SQL, stored procedures, schema design) and cloud data stores; integrates analytics and reporting data sources into application APIs. Deploys on Microsoft Azure and AWS with Git-based CI/CD (Azure DevOps, GitHub Actions, Jenkins) and Docker; Agile/Scrum with code reviews and mentoring. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, Redux Toolkit, React Query, TypeScript",
+   "Angular, RxJS, NgRx, Angular Material"
+  ],
+  [
+   "C# / .NET Core, ASP.NET Core Web API, EF Core",
+   "SQL Server (T-SQL, Stored Procedures), PostgreSQL"
+  ],
+  [
+   "RESTful APIs, Microservices, Data Integration",
+   "Azure & AWS, Docker, Azure DevOps / GitHub Actions CI/CD"
+  ],
+  [
+   "Responsive UI, Component Libraries, Core Web Vitals",
+   "Jest, React Testing Library, Cypress, xUnit"
+  ],
+  [
+   "Agile/Scrum, Code Review, Mentoring",
+   "AI-Assisted Development: Claude Code, GitHub Copilot"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Framework, .NET Core & modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL), Azure DevOps, AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse"
+ }
+}

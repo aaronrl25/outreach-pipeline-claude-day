@@ -1,0 +1,18 @@
+To: santhosh.n@nityo.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Nityo_Full_Stack_Developer_React_Angular_DotNet_Richardson.pdf
+Subject: Full Stack Developer (React + Angular + .NET) – Richardson, TX – Aaron Ramirez (C2C)
+
+Hi Santhosh,
+
+I saw your LinkedIn post with the open C2C requirements and would like to be considered for #12, Full Stack Developer (React + Angular + .NET + Snowflake) in Richardson, TX (hybrid, 3 days a week). My tailored resume is attached; could you send me the detailed job description?
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC: React.js (Redux Toolkit, TypeScript) and Angular (RxJS, NgRx) front ends with reusable component libraries and performance work.
+- C# / .NET Core and ASP.NET Core Web API services with Entity Framework Core over SQL Server, plus analytics and reporting data integration into application APIs; Azure and AWS deployments with CI/CD.
+- Based in Dallas, so the Richardson hybrid schedule is local for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
