@@ -1,3 +1,4 @@
 # Requirements Aaron already has an interview for. Skip every vendor posting of these.
 2026-10-15 | Menlo Park, CA hybrid | Python / PHP Full Stack Developer (React, Python, PHP, SQL, TypeScript) | vendors seen: Akhilesh Vasudeva, Applab Systems (Devendra Rai), Reveille (Prema) | reason: interview scheduled
 2026-10-16 | Bhuvi IT Solutions (any @bhuviits.com address, e.g. jusher@bhuviits.com) | all roles | reason: Aaron said 'dont answer bhuviits.com' after row 71 was sent; do not reply to their emails, do not contact for any posting
+2026-10-22 | RULE | Backend-only roles (.NET / Java / Node backend, "backend-leaning" full stack) | skip unless the post names React or React Native | reason: Aaron: "no more .net unless they said react or react native, we are not backend"
