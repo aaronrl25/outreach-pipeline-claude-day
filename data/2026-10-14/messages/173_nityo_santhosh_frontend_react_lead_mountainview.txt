@@ -1,0 +1,19 @@
+To: santhosh.n@nityo.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Nityo_Frontend_React_Lead_MountainView.pdf
+Subject: Frontend React Lead – Mountain View, CA (Hybrid) – Aaron Ramirez (C2C/W2)
+
+Hi Santhosh,
+
+Following up on my note a few minutes ago about the Richardson full stack role: I also saw your post for the Frontend React Lead in Mountain View, CA (hybrid, 3 days onsite, C2C/W2) and would like to be considered for it as well. A resume tailored to this role is attached.
+
+- 10+ years of front-end engineering, 7+ hands-on in React.js with JavaScript (ES6+) and TypeScript, leading frontend development for Walmart Global Tech, IBM/AEP, and HCSC.
+- Technical leadership of teams of 5–7 engineers: coding standards, reusable component libraries and custom hooks, Redux Toolkit / Context API state management, code reviews, mentoring, and Agile sprint planning.
+- Performance, accessibility, and cross-browser work (Core Web Vitals), REST API integration, Jest / React Testing Library / Cypress, and Git-based CI/CD with Vite and Webpack builds.
+- The Mountain View hybrid schedule works for me; relocating for it is fine.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
