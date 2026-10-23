@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Silicontek_Front_End_Engineer_React_TypeScript_SanRamon",
+ "tagline": "Front End Engineer  ·  React.js, TypeScript, JavaScript (ES6+)  ·  Reusable Component Libraries, Design Systems  ·  REST / GraphQL Integration  ·  Web Performance, Accessibility (WCAG), SEO  ·  Retail & E-Commerce (Walmart Marketplace)",
+ "location": "San Ramon, CA local (San Francisco Bay Area)  ·  Onsite  ·  Contract (C2C or W2)",
+ "summary": "Front End Engineer with 10+ years building responsive, user-friendly web applications in React.js, TypeScript, and modern JavaScript for Walmart Global Tech's Seller Center marketplace platform (billions in annual GMV) and store apps, plus enterprise platforms for IBM/AEP and HCSC. Builds reusable, accessible UI component libraries from Figma designs, integrates REST and GraphQL APIs and backend services, and owns page performance, accessibility (WCAG 2.1), SEO, and cross-browser compatibility work (Core Web Vitals, code splitting, caching, Next.js SSR/SSG). Strong HTML5 and CSS3 fundamentals; Jest, React Testing Library, and Cypress unit and integration tests; Git-based workflows with GitHub Actions / Jenkins CI/CD; code reviews and production troubleshooting. Collaborates daily with product managers, UX designers, QA, and backend engineers; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, TypeScript, JavaScript (ES6+), Hooks",
+   "Reusable UI Components, Design Systems, Storybook"
+  ],
+  [
+   "HTML5, CSS3, Responsive & Cross-Browser UI",
+   "Accessibility (WCAG 2.1, ARIA), SEO, Core Web Vitals"
+  ],
+  [
+   "REST & GraphQL API Integration, Web Architecture",
+   "Next.js (SSR / SSG), Redux Toolkit, React Query"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Git, GitHub Actions / Jenkins CI/CD, Code Review"
+  ],
+  [
+   "Retail / E-Commerce: Walmart Marketplace & Store Apps",
+   "Production Troubleshooting, Dynatrace, Lighthouse"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, design systems, design tokens, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Detox, Supertest; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor (design-to-code, test generation, component scaffolding)",
+  "APIs & Backend:": "Node.js/Express, Python FastAPI, TypeScript, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis"
+ }
+}
