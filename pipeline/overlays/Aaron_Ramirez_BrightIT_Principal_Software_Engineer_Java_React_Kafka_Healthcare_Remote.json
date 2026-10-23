@@ -1,0 +1,64 @@
+{
+ "base": "web",
+ "tagline": "Principal Software Engineer (Lead)  ·  Java 11+ / Spring Boot Microservices, Kafka Event-Driven Architecture  ·  React Front Ends, TypeScript  ·  MS SQL Server / T-SQL  ·  Claude AI in Daily Engineering  ·  Healthcare (HIPAA)",
+ "location": "San Francisco Bay Area  ·  Remote (US)  ·  Contract (C2C or W2)",
+ "summary": "Hands-on technical lead with 10+ years delivering scalable enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC (HIPAA-compliant healthcare platform serving 1M+ members). Backend in Java 11+ with Spring Boot microservices, Kafka event-driven pipelines, REST APIs, and MS SQL Server / T-SQL and PostgreSQL data; front ends in React with TypeScript. Leads architectural decisions and engineering practice for squads of 4–8: code quality standards, code review, mentoring, security, observability (Dynatrace), and GitHub Actions / Jenkins CI/CD with Docker on AWS and Azure. Hands-on with Claude AI daily: Claude Code and the Claude API for code generation, test generation, documentation, and a production GenAI assistant streaming Claude responses through Node.js middleware; mentors engineers on AI-assisted development.",
+ "core_skills": [
+  [
+   "Java 11/17+, Spring Boot, Microservices, REST APIs",
+   "React (Expert), TypeScript, Front-End Architecture"
+  ],
+  [
+   "Apache Kafka, Event-Driven & Distributed Systems",
+   "MS SQL Server & T-SQL, PostgreSQL, Hibernate/JPA"
+  ],
+  [
+   "Claude AI (Claude Code, Claude API), LLM Integration",
+   "Technical Leadership, Mentoring, Code Quality Standards"
+  ],
+  [
+   "Security (OAuth 2.0/OIDC/JWT), Observability (Dynatrace)",
+   "CI/CD: GitHub Actions, Jenkins, Docker; AWS & Azure"
+  ],
+  [
+   "Healthcare & Life Sciences: HCSC (HIPAA) Platform",
+   "JUnit, Jest, React Testing Library, Cypress"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java 11/17+, Spring Boot, Spring Framework/MVC, Hibernate/JPA, RESTful APIs, microservices, Kafka event streaming, JUnit; Node.js/Express, GraphQL, WebSockets; SQL Server, PostgreSQL, Oracle, MongoDB",
+  "Cloud & CI/CD:": "Azure (App Service, Functions, Azure SQL, Azure DevOps), AWS (ECS/Fargate, Lambda, RDS, S3, MSK/Kafka), Docker, Kubernetes basics, GitHub Actions, Jenkins, Dynatrace",
+  "Testing & Quality:": "JUnit, Mockito, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded full stack development for Walmart's Seller Center vendor portal (billions in annual GMV): Java / Spring Boot REST microservices with Kafka event-driven integrations and a React / TypeScript front end; designed service contracts, integrated with marketplace backend systems, and set architecture standards and code review protocols for a squad of 6+ engineers.",
+    "Built and maintained REST endpoints and shared service modules consumed across 3 product teams, with API documentation, integration tests, and performance profiling that reduced redundant implementation work and accelerated sprint delivery.",
+    "Drove AI-assisted development with Claude Code and GitHub Copilot: scaffolding, test generation, and refactoring across the React and Spring Boot codebases."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's full stack field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST, delivering data-entry and dispatch workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization (OAuth 2.0 / OpenID Connect / JWT) across the React front end and Spring Boot services; improved end-to-end response time by 40% through API payload optimization, caching, code splitting, and state architecture refactoring.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  },
+  "2": {
+   "bullets": [
+    "Delivered full stack features for Walmart's warehouse management system (500K+ daily active associates): Java / Spring Boot REST endpoints and React / React Native associate UI; drove architecture decisions across the service and UI codebase.",
+    "Designed Jest and React Testing Library unit testing infrastructure, increasing coverage to 80%+ and reducing production regression incidents by 35%.",
+    "Optimized load time by 40% via network request batching, API response caching, bundle optimization, and list virtualization."
+   ]
+  },
+  "5": {
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, on Java / Spring Boot services; led a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing native apps, reducing new-feature integration time by 60%.",
+    "Contributed reusable component libraries and performance-optimized React modules to the Spark Driver and Dispense platforms."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_BrightIT_Principal_Software_Engineer_Java_React_Kafka_Healthcare_Remote"
+}

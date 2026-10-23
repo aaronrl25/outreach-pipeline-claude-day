@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Bluelink_Lead_Frontend_Developer_Angular_React_Node_Plano",
+ "tagline": "Lead Frontend Developer  ·  Angular (TypeScript, RxJS, NgRx) & React.js (Redux)  ·  Node.js APIs  ·  Front-End Architecture, Component Libraries, Team Leadership  ·  AI-Assisted Development (Claude Code, Copilot, Cursor)",
+ "location": "Dallas, TX area (Plano onsite works for me)  ·  Long-term contract (C2C or W2)",
+ "summary": "Lead Frontend Developer with 10+ years building and leading front-end delivery for Walmart Global Tech, IBM/AEP, and HCSC. Strong Angular (TypeScript, RxJS, NgRx) and React.js (Redux / Redux Toolkit, React Query) over modern JavaScript, HTML5, and CSS3/SCSS, with Node.js / Express services and REST and GraphQL API integration behind them. Leads squads of 4–8 engineers: front-end architecture, reusable component libraries and design systems, state-management patterns, coding standards, code review, and mentoring. Ships through GitHub Actions, Azure DevOps, and Jenkins CI/CD with Docker on AWS and Azure; Jest, React Testing Library, Cypress, and Jasmine/Karma for quality. Claude Code, GitHub Copilot, and Cursor in daily use.",
+ "core_skills": [
+  [
+   "Angular (TypeScript, RxJS, NgRx, Signals)",
+   "React.js, Redux / Redux Toolkit, React Query, Hooks"
+  ],
+  [
+   "Node.js / Express APIs, REST & GraphQL Integration",
+   "JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS"
+  ],
+  [
+   "Front-End Architecture, Component Libraries, Design Systems",
+   "Technical Leadership, Mentoring, Code Review"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Docker",
+   "AWS & Azure, Performance (Core Web Vitals)"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Jasmine/Karma",
+   "AI-Assisted Dev: Claude Code, GitHub Copilot, Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, Angular (TypeScript, RxJS, NgRx, Angular Material), HTML5, CSS3/SCSS, Tailwind, Styled Components, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, DevOps, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure DevOps, GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Process & Tools:": "Agile/Scrum, Jira, Git/GitHub, code review, Figma, Storybook; AI-assisted development with Claude Code, GitHub Copilot, Cursor",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Jasmine, Karma, Detox, Supertest; performance profiling, Lighthouse"
+ }
+}

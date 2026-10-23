@@ -1,0 +1,18 @@
+To: raghavan.a@stellarwins.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Stellarwins_Front_End_Developer_React_NextJS_TypeScript_Tailwind_Plano.pdf
+Subject: Front End Developer (React 19 / Next.js 16 / TypeScript / Tailwind) – Plano, TX – Aaron Ramírez (C2C)
+
+Hi Raghavan,
+
+I saw your LinkedIn post for the Front End Developer role in Plano, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years of production React and Next.js work for Walmart Global Tech (Seller Center marketplace and store apps), IBM/AEP, and HCSC; very strong Next.js: App Router, server components, SSR / SSG / ISR, caching and revalidation, Core Web Vitals.
+- React 19 patterns in strict TypeScript with Tailwind CSS design systems; REST / GraphQL integration; Jest, React Testing Library, Cypress, Playwright.
+- Based in the Dallas area; Plano day-1 onsite / hybrid and the in-person coding and client rounds work for me.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

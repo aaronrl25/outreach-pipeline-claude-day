@@ -1,0 +1,19 @@
+To: Ranij@bluelinkitservices.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Bluelink_Lead_Frontend_Developer_Angular_React_Node_Plano.pdf
+Subject: Lead Frontend Developer (Angular / React / Node.js) – Plano, TX – Aaron Ramírez (C2C/W2)
+
+Hi Ranij,
+
+I saw your LinkedIn post for the Lead Frontend Developer role in Plano, TX and would like to be considered. My tailored resume is attached.
+
+- 10+ years of front-end delivery for Walmart Global Tech, IBM/AEP, and HCSC, with strong Angular (TypeScript, RxJS, NgRx) and React.js (Redux / Redux Toolkit), plus Node.js APIs behind them.
+- Leads squads of 4-8 engineers: front-end architecture, reusable component libraries and design systems, coding standards, code review, and mentoring.
+- CI/CD on GitHub Actions / Azure DevOps / Jenkins with Docker on AWS and Azure; Jest, React Testing Library, Cypress, Jasmine/Karma.
+- Based in the Dallas area, so Plano onsite is local for me.
+
+Available on C2C or W2 for a long-term engagement. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

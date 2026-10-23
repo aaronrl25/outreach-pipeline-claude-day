@@ -1,0 +1,20 @@
+To: jessica@brightitinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_BrightIT_Principal_Software_Engineer_Java_React_Kafka_Healthcare_Remote.pdf
+Subject: Principal Software Engineer (Lead) – Cotiviti – Remote – Aaron Ramírez (C2C)
+
+Hi Jessica,
+
+I saw your LinkedIn post for the Principal Software Engineer (Lead) role with Cotiviti and would like to be considered. My tailored resume is attached, and I can complete the technical assessment within the 24-hour window.
+
+- 10+ years delivering scalable enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC (HIPAA-compliant healthcare platform serving 1M+ members): Java 11+ / Spring Boot microservices, Kafka event-driven pipelines, MS SQL Server / T-SQL, with React front ends.
+- Hands-on with Claude AI daily: Claude Code and the Claude API for code generation, testing, and documentation, plus a production GenAI assistant streaming Claude responses through Node.js middleware.
+- Technical lead for squads of 4-8 engineers: architecture decisions, code quality standards, mentoring, security, observability (Dynatrace), and GitHub Actions / Jenkins CI/CD.
+
+Work status: TN visa (not OPT or H-1B), authorized to work in the US. Location: San Francisco Bay Area, fully remote.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
