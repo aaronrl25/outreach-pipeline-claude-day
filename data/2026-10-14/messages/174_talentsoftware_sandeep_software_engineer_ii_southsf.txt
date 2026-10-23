@@ -1,0 +1,8 @@
+Channel: LinkedIn message (profile overlay compose, then attachment from /messaging/thread/2-MTk3ODIxMWEtMjhiMi00ZDY5LTgyMTgtZGFkNzk4ZGYxZTFiXzEwMA==/)
+To: Sandeep Nalamada, Senior Recruitment Consultant, TALENT Software Services (1st-degree)
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_TalentSoftware_Software_Engineer_II_Python_React_AWS_SouthSF.pdf
+Also: LinkedIn Easy Apply submitted to job 4479458375 (US_Software Engineer II_CO, Jobdiva ATS) with the same PDF, 2026-10-22 21:08.
+
+Hi Sandeep, I just applied on LinkedIn to your Software Engineer II posting (gRED / ECDi, South San Francisco, Python + ReactJS + AWS). I am local to the Bay Area and the on-site setup works for me. Quick summary: 10+ years of production full-stack engineering for Walmart Global Tech, IBM/AEP, and HCSC in React / TypeScript and Python (FastAPI, Flask), with AWS, Docker, GitHub Actions CI/CD, and Jest / Playwright / PyTest test automation, plus HIPAA-compliant healthcare delivery at HCSC. TN visa (employer-supported, renewable, no lottery), open to W2 or C2C. Could you take a look at my application and let me know if you need anything else? Happy to jump on a call. Aaron, (773) 708-2882
+
+Attaching the resume I submitted with the application, tailored to the gRED / ECDi role. Thanks, Sandeep.

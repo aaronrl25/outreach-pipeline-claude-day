@@ -10638,5 +10638,24 @@
   "msg": "",
   "status": "NOT SENT – same list already sent to Santhosh (#172/#173) – one recruiter per firm per req",
   "src": "C2C sweep 2026-10-22 20:05 (LinkedIn 24h, 8 queries, top of page, 121 posts / 2 within 1h, 0 sent)"
+ },
+ {
+  "company": "TALENT Software Services (Sandeep Nalamada)",
+  "role": "Software Engineer II – Genentech gRED / ECDi (Python FastAPI/Flask + ReactJS, AWS, Docker/K8s/IaC, Playwright/PyTest/Jest, GitHub Actions)",
+  "loc": "South San Francisco, CA (on-site)",
+  "arr": "",
+  "type": "Contract (W2 or C2C), $60–80/hr posted",
+  "pay": "$60–80/hr",
+  "posted": "2026-10-21",
+  "skills": "Python, ReactJS, JS ES6+, AWS, Docker, Kubernetes, Terraform/CloudFormation, Playwright, PyTest, Jest, SQL, 21 CFR Part 11/HIPAA",
+  "visa": "",
+  "recruiter": "Sandeep Nalamada (1st-degree; Raj Kumar also 1st at TALENT)",
+  "contact": "LinkedIn message (thread 2-MTk3ODIxMWEtMjhiMi00ZDY5LTgyMTgtZGFkNzk4ZGYxZTFiXzEwMA==) + LinkedIn Easy Apply",
+  "link": "https://www.linkedin.com/jobs/view/4479458375/",
+  "fit": "strong (React + Python + AWS + testing; Bay Area local)",
+  "resume": "Aaron_Ramirez_TalentSoftware_Software_Engineer_II_Python_React_AWS_SouthSF.pdf",
+  "msg": "messages/174_talentsoftware_sandeep_software_engineer_ii_southsf.txt",
+  "status": "SENT – LinkedIn Easy Apply submitted 21:08 + LinkedIn message to Sandeep with PDF 21:09",
+  "src": "Aaron pasted job URL 2026-10-22 ~21:00 ('apply for this one and text one of our contacts')"
  }
 ]
