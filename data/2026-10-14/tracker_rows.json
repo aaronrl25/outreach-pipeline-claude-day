@@ -10676,5 +10676,24 @@
   "msg": "messages/175_silicontek_animesh_front_end_engineer_sanramon.txt",
   "status": "SENT – LinkedIn Easy Apply submitted 21:24 with PDF + email to Animesh 21:33 (no attachment: Gmail file_upload blocked by permission classifier; email says resume went in with the application)",
   "src": "Aaron pasted job URL 2026-10-22 ~21:15 (same 'apply + text a contact' instruction)"
+ },
+ {
+  "company": "Snorkel AI (Quan MacFarland, Senior Technical Recruiter)",
+  "role": "AI Developer – DaaS coding expert / Data Annotator-Software Engineer (coding challenges, authoring & reviewing domain-specific Q&A sets to train/evaluate AI models)",
+  "loc": "Fully remote (US)",
+  "arr": "",
+  "type": "Full-time W2 per recruiter (public Expert Community is 1099 via HireArt)",
+  "pay": "not stated",
+  "posted": "2026-10-22",
+  "skills": "Coding expertise, LLM evaluation, prompt/Q&A authoring",
+  "visa": "No H-1B sponsorship/transfer; TN stated",
+  "recruiter": "Quan MacFarland",
+  "contact": "LinkedIn InMail thread 2-Mzk2YWUzZDMtN2Y3ZC00YjcyLTgyYzctNjRjZTY1OGIwZmRlXzEwMA==",
+  "link": "https://snorkel.ai/expert-community (no public posting titled AI Developer; closest: Senior Manager, Coder Fellows https://job-boards.greenhouse.io/snorkelai/jobs/6201450004)",
+  "fit": "good (senior multi-language coder + daily AI tooling)",
+  "resume": "Aaron_Ramirez_SnorkelAI_AI_Developer_DaaS_Coding_Expert_Remote.pdf",
+  "msg": "messages/176_snorkelai_quan_ai_developer_daas_remote.txt",
+  "status": "SENT – Aaron replied 23:14 himself; Claude sent PDF + summary 23:18 via LinkedIn. Aaron still needs to book Quan's calendar link.",
+  "src": "Aaron pasted Quan's InMail 2026-10-22 ~23:15 ('search for this position and send resume')"
  }
 ]

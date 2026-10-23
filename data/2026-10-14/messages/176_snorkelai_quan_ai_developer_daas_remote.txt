@@ -1,0 +1,7 @@
+Channel: LinkedIn message, thread https://www.linkedin.com/messaging/thread/2-Mzk2YWUzZDMtN2Y3ZC00YjcyLTgyYzctNjRjZTY1OGIwZmRlXzEwMA==/
+To: Quan M. (Quan MacFarland), Senior Technical Recruiter, Snorkel AI
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_SnorkelAI_AI_Developer_DaaS_Coding_Expert_Remote.pdf
+Context: Quan's InMail 2026-10-22 22:27 'Full time position at Snorkel.ai - Data Annotation - Coding' (AI Developer, DaaS, fully remote, W2, no H-1B). Aaron replied 23:14: 'Hi Quan, thank you for reaching out. I would like to learn more about this opportunity.'
+
+Sent 23:18:
+Here is my resume. Quick summary: 10+ years of production software engineering (TypeScript/JavaScript, React, Node.js, Python, Java, C#) for Walmart Global Tech, IBM/AEP, and HCSC, plus daily hands-on work with Claude Code, Cursor, and Copilot, prompt engineering, and evaluating model output. Comfortable with coding challenges and writing/reviewing domain-specific Q&A sets. Work authorization: TN visa, authorized to work in the US (not H-1B). Fully remote W2 works well for me. I will book a time on your calendar as well. Thanks, Quan!

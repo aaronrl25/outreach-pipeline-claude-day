@@ -1,0 +1,27 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_SnorkelAI_AI_Developer_DaaS_Coding_Expert_Remote",
+ "tagline": "AI Developer / Coding Expert  ·  10+ Years Production Software Engineering (TypeScript, JavaScript, React, Node.js, Python, Java, C#)  ·  LLM Evaluation, Prompt Engineering, Coding Q&A Design  ·  Claude Code, Cursor, Copilot",
+ "location": "San Francisco, CA  ·  Remote (US)  ·  Full-time or Contract (W2)",
+ "summary": "Senior software engineer with 10+ years of production experience at Walmart Global Tech, IBM/AEP, HCSC, and startups, now focused on AI model training and evaluation work: writing and reviewing domain-specific coding problems, question-answer sets, and reference solutions that probe LLM reasoning, expose blind spots, and raise the bar for real-world software expertise. Deep, hands-on coding across TypeScript / JavaScript, React, Node.js, Python, Java, and C#, with the code-review discipline to grade correctness, edge cases, security, and maintainability of generated code. Daily user of Claude Code, Cursor, and GitHub Copilot, with practical prompt engineering, rubric-based evaluation of model outputs, and hardening of AI-generated code through tests and review. Comfortable with timed coding challenges, clear written explanations, and independent remote work.",
+ "core_skills": [
+  ["Coding Challenges & Algorithmic Problem Solving", "Domain-Specific Q&A / Prompt-Response Authoring"],
+  ["LLM Output Evaluation, Rubrics, Error Analysis", "Code Review: Correctness, Edge Cases, Security"],
+  ["TypeScript / JavaScript, React, Node.js", "Python, Java / Spring Boot, C# / .NET"],
+  ["Prompt Engineering; Claude Code, Cursor, Copilot", "Test Design: Jest, PyTest, Cypress, Playwright"],
+  ["REST / GraphQL APIs, SQL, AWS / Azure, Docker", "Clear Technical Writing & Documentation"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js / TypeScript (Express), Python (FastAPI, Flask), Java / Spring Boot, C# / .NET, REST APIs, GraphQL, WebSockets, microservices, PostgreSQL, MongoDB, Redis",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Playwright, PyTest, Supertest; rubric-based grading of generated code, negative-path and edge-case test design, code review, performance profiling",
+  "Process & Tools:": "Claude Code, Cursor, GitHub Copilot, ChatGPT; prompt engineering, model-output evaluation, technical writing; Agile/Scrum, Jira, Git/GitHub, mentoring"
+ },
+ "tech_extra": [["AI Training & Evaluation:", "LLM integration (Claude, OpenAI, Azure OpenAI APIs), RAG, tool calling; authoring coding prompts, reference solutions, and grading rubrics; evaluating model reasoning, correctness, and failure modes; guardrails for AI-generated code"]],
+ "role_tweaks": {
+  "0": {"bullets": [
+   "Spearheaded React / TypeScript front-end development and Node.js REST services for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards and code review protocols for a cross-functional squad of 6+ engineers.",
+   "Integrated a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware; designed evaluation prompts and rubrics to measure answer correctness and hallucination before rollout.",
+   "Ran an AI-first workflow with Claude Code, Cursor, and GitHub Copilot: generated tests and refactors were reviewed, negative-path tested, and gated in GitHub Actions CI before merge; raised coverage above 80%."
+  ]}
+ }
+}
