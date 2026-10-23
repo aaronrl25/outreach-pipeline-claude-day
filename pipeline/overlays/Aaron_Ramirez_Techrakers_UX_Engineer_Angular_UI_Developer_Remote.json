@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Techrakers_UX_Engineer_Angular_UI_Developer_Remote",
+ "tagline": "UX Engineer / Angular UI Developer  ·  Angular 17+, TypeScript, RxJS  ·  UX/UI Design, Design Systems, Prototyping (Figma), Accessibility  ·  AI-Driven Interfaces  ·  Clear Communication & Storytelling",
+ "location": "Remote (US)  ·  Contract (C2C, W2, or 1099)",
+ "summary": "UX Engineer with 10+ years building enterprise user interfaces for Walmart Global Tech, IBM/AEP, and HCSC, combining advanced Angular development with hands-on UX/UI design. Strong Angular and TypeScript: Angular 17+, RxJS, NgRx, Angular Material, reactive forms, lazy-loaded routing, and micro-frontends. Translates complex technical concepts into user-friendly interfaces: design systems, Figma prototypes, usability-driven iteration, accessibility (WCAG 2.1, ARIA), and responsive HTML5 / CSS3. Builds AI-driven application interfaces (a GenAI assistant streaming Claude API responses, Azure AI Services summarization) and uses Claude Code, Cursor, and Copilot daily. Presents and documents design decisions clearly for product, engineering, and business stakeholders; formal training in animation, interactive technology, and VFX (IBERO Puebla).",
+ "core_skills": [
+  [
+   "Angular 17+, TypeScript, RxJS, NgRx, Angular Material",
+   "UX/UI Design, Design Systems, Figma Prototyping"
+  ],
+  [
+   "HTML5, CSS3/SCSS, Responsive & Accessible UI (WCAG 2.1)",
+   "AI-Driven Interfaces: LLM APIs, Streaming UX"
+  ],
+  [
+   "Micro Frontends: Module Federation, Electrode Native",
+   "Storytelling, Presentations, Technical Communication"
+  ],
+  [
+   "REST / GraphQL Integration, AWS & Azure",
+   "Jasmine/Karma, Jest, Cypress"
+  ],
+  [
+   "AI-Assisted Development: Claude Code, Cursor, Copilot",
+   "Agile/Scrum, Cross-Functional Collaboration, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_AmericanUnit_Lead_Software_Engineer_React_Java_Omaha",
+ "tagline": "Lead Software Engineer  ·  React (Expert), TypeScript, Front-End Architecture  ·  Java 11/17+, Spring Boot, REST Microservices  ·  Technical Lead 3+ Years  ·  Azure / AWS, Azure DevOps CI/CD, IAM (OIDC / OAuth2 / RBAC)",
+ "location": "Open to Omaha, NE onsite (relocating is fine)  ·  W2 or C2C",
+ "summary": "Lead Software Engineer with 10+ years of development and 3+ years as technical lead / architect for Walmart Global Tech, IBM/AEP, and HCSC. Expert-level React (hooks, composition, concurrency patterns) and strong TypeScript; owns front-end architecture end to end and leads squads of 4–8 engineers on standards, code review, system design documentation, and mentoring. Back-end depth in Java / Spring Boot REST microservices and Node.js services; Azure (App Service, DevOps, AI Services) and AWS deployments with Docker and GitHub Actions / Azure DevOps / Jenkins CI/CD. Hands-on with identity and access management: JWT and role-based access, OIDC / OAuth 2.0 flows, and secure session handling on HIPAA-compliant platforms. Claude Code, Cursor, and Copilot in daily use.",
+ "core_skills": [
+  [
+   "React (Expert): Hooks, Composition, Concurrency Patterns",
+   "TypeScript (Generics, Strict Mode), JavaScript (ES6+)"
+  ],
+  [
+   "Front-End Architecture, State Management, Routing",
+   "Java / Spring Boot Microservices, GraphQL & REST APIs"
+  ],
+  [
+   "Core Web Vitals, Bundle Optimization, Caching",
+   "Web Security: OIDC/OAuth2, XSS/CSRF Prevention"
+  ],
+  [
+   "Data Visualization, Real-Time UI, Complex Forms",
+   "Front-End Observability, Dynatrace, Error Reporting"
+  ],
+  [
+   "AI-Assisted Engineering: Claude Code, Cursor, Copilot",
+   "Technical Leadership, Mentoring, Code Review"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Hibernate/JPA, microservices, GraphQL and REST API contracts, JUnit; Node.js/Express, WebSockets, PostgreSQL, MongoDB",
+  "Testing & Quality:": "JUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse, Core Web Vitals",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, AI-assisted engineering (Claude Code, Cursor, GitHub Copilot)"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Led front-end architecture and delivery for Walmart's Seller Center vendor portal (500K+ daily users, billions in annual GMV): React / TypeScript component architecture, Redux Toolkit state management, routing, and testing standards for a squad of 6+ engineers; defined GraphQL and REST API contracts with the Java / Spring Boot microservices behind the UI.",
+    "Drove performance and quality: Core Web Vitals, code splitting and bundle optimization, caching, and runtime observability with Dynatrace and client-side error reporting; raised Lighthouse scores and reduced P1 resolution time.",
+    "Built rich data visualization dashboards, real-time updates, and complex form and workflow experiences; established secure client-side patterns (OAuth2 / OIDC auth flows, token handling, XSS/CSRF prevention, dependency hygiene).",
+    "Adopted AI-assisted engineering (Claude Code, Cursor, GitHub Copilot) for scaffolding, test generation, and refactoring across the React and Spring Boot codebases, with human review gates."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST and GraphQL, serving thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization (OAuth2 / JWT) across the React front end and Spring Boot services; improved end-to-end response time by 40% through API payload optimization, caching, code splitting, and state architecture refactoring.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  }
+ }
+}

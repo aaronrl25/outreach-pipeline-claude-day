@@ -1,0 +1,19 @@
+To: yogesh@primedatasoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Primedatasoft_Web_Application_Solutions_Architect_Dallas_W2.pdf
+Subject: Modern Web Application Solutions Architect – Dallas, TX – Aaron Ramírez (W2)
+
+Hi Yogesh,
+
+I saw your LinkedIn post for the Modern Web Application Solutions Architect role in Dallas, TX and would like to be considered on W2. My tailored resume is attached.
+
+- 10+ years designing and leading large-scale enterprise web applications for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP, and HCSC: application components, API contracts, integrations, and deployment strategies.
+- Architecture patterns for SSR (Next.js) and client-side rendering (React), micro-frontends and modular applications, and Node.js / Java Spring Boot microservices on AWS and Azure, with DevSecOps and CI/CD on GitHub Actions, Azure DevOps, and Jenkins.
+- Modernization, scalability, resiliency, and security roadmaps; target-state architectures, ADRs, and standards; proofs of concept and code review with development, security, and infrastructure teams.
+- Based in the Dallas area; an onsite interview works for me.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery), authorized to work in the US on W2. Your post lists GC / USC / H4 EAD / H1B as preferred; please let me know if TN works for this client. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

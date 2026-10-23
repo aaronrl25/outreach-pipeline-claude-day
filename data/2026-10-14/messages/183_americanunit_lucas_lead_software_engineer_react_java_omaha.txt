@@ -1,0 +1,19 @@
+To: Lucas@americanunit.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AmericanUnit_Lead_Software_Engineer_React_Java_Omaha.pdf
+Subject: Lead Software Engineer (React / Java) – Omaha, NE – Aaron Ramírez (W2 / C2C)
+
+Hi Lucas,
+
+I saw your LinkedIn post for the Lead Software Engineer (React / Java) role in Omaha, NE and would like to be considered. My tailored resume is attached.
+
+- 10+ years of development and 3+ years as technical lead / architect for Walmart Global Tech, IBM/AEP, and HCSC, leading squads of 4-8 engineers on standards, code review, system design, and mentoring.
+- React is my strongest skill: React + TypeScript, front-end architecture, state management, component libraries, Core Web Vitals; Java / Spring Boot REST microservices behind those front ends.
+- Azure (App Service, Azure DevOps CI/CD, AI Services) and AWS deployments with Docker; identity and access management with OIDC / OAuth 2.0, JWT, and role-based access on HIPAA-compliant platforms.
+- Open to Omaha onsite 5 days a week; relocating is fine.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery). Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

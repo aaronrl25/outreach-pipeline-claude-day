@@ -1,0 +1,19 @@
+To: anil@askinvs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Askinvs_ReactJS_Developer_Lead_Java_Kubernetes_NYC.pdf
+Subject: ReactJS Developer (Mphasis) – New York, NY – Aaron Ramírez (C2C)
+
+Hi Anil,
+
+I saw your LinkedIn post for the ReactJS Developer role with Mphasis in New York, NY and would like to be considered. My tailored resume is attached.
+
+- 10+ years of front-end engineering (7+ years hands-on React) for Walmart Global Tech, IBM/AEP, and HCSC, leading front-end development on scalable, responsive React.js applications and mentoring junior developers.
+- RESTful API integration with Java / Spring Boot backend teams; containerized applications on Kubernetes and Docker (AWS EKS, ECS/Fargate); CI/CD and deployment automation with GitHub Actions, Jenkins, and Azure DevOps alongside DevOps teams.
+- Code review, coding standards, Jest / React Testing Library / Cypress, Core Web Vitals, and accessibility.
+- Open to New York onsite; relocating is fine.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery). Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

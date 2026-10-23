@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Modern Web Application Solutions Architect  ·  React / Next.js (SSR & CSR), TypeScript, Micro-Frontends, Modular Architecture  ·  Node.js & Java / Spring Boot Microservices, API Design  ·  AWS / Azure, DevSecOps, CI/CD  ·  Enterprise Modernization",
+ "location": "Dallas, TX area (local; onsite interview works for me)  ·  W2",
+ "summary": "Solutions Architect and hands-on senior technical leader with 10+ years designing large-scale enterprise web applications for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP, and HCSC. Defines application components, API contracts, integrations, and deployment strategies; establishes architecture patterns for server-side rendering (Next.js), client-side rendering (React), micro-frontends and modular applications, and microservices (Node.js, Java / Spring Boot) on AWS and Azure. Drives modernization, scalability, resiliency, and security initiatives with development, security, infrastructure, and DevSecOps teams; writes target-state architectures, technical roadmaps, architecture decision records, and standards, and leads proofs of concept and code review. CI/CD on GitHub Actions / Azure DevOps / Jenkins with Docker and Kubernetes; observability with Dynatrace; AI-assisted engineering with Claude Code, Cursor, and Copilot.",
+ "core_skills": [
+  [
+   "Enterprise Web Architecture: SSR (Next.js) & CSR (React)",
+   "Micro-Frontends, Modular Apps, Design Systems"
+  ],
+  [
+   "Microservices & API Design: Node.js, Java / Spring Boot, REST / GraphQL",
+   "Integration Patterns, Event-Driven Design, Caching"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS, CloudFront), Azure, Docker, Kubernetes",
+   "DevSecOps, CI/CD, Security (OIDC / OAuth2, RBAC)"
+  ],
+  [
+   "Modernization, Scalability, Resiliency Roadmaps",
+   "Target-State Architecture, ADRs, Standards, PoCs"
+  ],
+  [
+   "Technical Leadership, Code Review, Mentoring",
+   "Observability (Dynatrace), Performance (Core Web Vitals)"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Primedatasoft_Web_Application_Solutions_Architect_Dallas_W2",
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express (TypeScript), Java / Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST web services, GraphQL, WebSockets, Kafka, PostgreSQL, MongoDB, Redis, SAP integration"
+ }
+}
