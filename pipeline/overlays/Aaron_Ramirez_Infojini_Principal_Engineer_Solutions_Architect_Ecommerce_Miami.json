@@ -1,0 +1,45 @@
+{
+ "base": "web",
+ "tagline": "Principal Engineer / Senior Solutions Architect  ·  B2C / D2C E-Commerce & Digital (Walmart Marketplace)  ·  Web, Mobile (React Native), Front End & Backend (Node.js, REST, GraphQL)  ·  AI-Forward Architecture, Proofs of Concept, Stakeholder Leadership",
+ "location": "San Francisco, CA  ·  Remote now; relocating to Miami, FL is fine  ·  Contract to Hire",
+ "summary": "Principal Engineer and hands-on Solutions Architect with 10+ years leading architecture for B2C and D2C digital commerce at Walmart Global Tech (Seller Center marketplace, billions in annual GMV, and consumer-facing store apps), IBM/AEP, and HCSC. Provides strategic technical oversight across web, mobile, front-end, and backend programs: sets architecture and design standards, drives proofs of concept, reviews designs, and meets with product and business stakeholders to align technology with digital growth goals. Strong in modern front-end platforms (React, Next.js, TypeScript), mobile (React Native, iOS and Android), and backend services (Node.js, RESTful APIs, GraphQL, microservices, event-driven design) on AWS and Azure. AI-forward: shipped a production GenAI assistant (Claude API / LangChain) for Walmart's marketplace, evaluates and adopts AI tooling across the SDLC (Claude Code, Cursor, GitHub Copilot), and keeps teams current with industry trends. Leads and mentors squads of 6+ engineers.",
+ "core_skills": [
+  [
+   "Solutions Architecture: Web, Mobile, Front End & Backend",
+   "B2C / D2C E-Commerce & Digital Platforms (Walmart Marketplace)"
+  ],
+  [
+   "React, Next.js, TypeScript; React Native (iOS & Android)",
+   "Node.js, RESTful APIs, GraphQL, Microservices, Event-Driven Design"
+  ],
+  [
+   "AI-Forward: Claude / OpenAI APIs, LangChain, RAG, Agent Workflows",
+   "AI Tooling Across the SDLC: Claude Code, Cursor, GitHub Copilot"
+  ],
+  [
+   "Proofs of Concept, Architecture Reviews, Design Standards",
+   "Stakeholder Management, Technology Roadmaps, Vendor Evaluation"
+  ],
+  [
+   "AWS, Azure, Docker, CI/CD, Observability (Dynatrace)",
+   "Technology Leadership & Mentoring (squads of 6+)"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Owned architecture and technical direction for Walmart's Seller Center marketplace (500K+ daily users, billions in annual GMV): React / Next.js / TypeScript front end, Node.js REST and GraphQL microservices on AWS; set design standards and review protocols across web and mobile squads.",
+    "Drove proofs of concept that became production features, including a GenAI seller-support assistant (Claude API / LangChain, streaming UI, RAG, guardrails) and a catalog search re-architecture that cut page load by 45% and lifted onboarding conversion.",
+    "Met weekly with product, merchandising, and business stakeholders to translate digital commerce goals into roadmaps and technical plans; led and mentored a squad of 6+ engineers."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Led solution architecture for AEP's field operations platform spanning a React (TypeScript) web portal, React Native mobile apps for iOS and Android, and 10+ backend microservices, used by thousands of utility technicians nationwide.",
+    "Improved end-to-end response time by 40% through API design, caching, and state architecture decisions; integrated Azure AI Services to summarize and classify field notes.",
+    "Instrumented Dynatrace APM across web, mobile, and services, reducing mean time to resolution by 50% on P1 incidents; presented architecture decisions and risks to business stakeholders."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_Infojini_Principal_Engineer_Solutions_Architect_Ecommerce_Miami"
+}

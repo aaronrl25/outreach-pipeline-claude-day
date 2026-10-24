@@ -1,0 +1,25 @@
+To: Swapnil.Jain@tanishasystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Tanisha_MERN_Stack_Solution_Architect_Remote.pdf
+Subject: Re: Quick Interview || Mern Stack Solution Architect || Remote and Fulltime
+
+Hi Swapnil,
+
+Thanks for reaching out about the MERN Stack Solution Architect role (remote, full-time). I'm interested, and my updated resume is attached. The details you asked for:
+
+Full name (as per legal documents): Aaron David Ramírez Lezama
+Contact number: (773) 708-2882
+Work authorization / visa status: TN visa (employer-supported, renewable, no lottery)
+Current location: San Francisco, CA
+Expected salary: open; glad to discuss once we cover the role details
+Best time for calls: weekdays, 9 am to 6 pm PT
+Availability to start: within two weeks
+Willing to relocate / onsite at the client location: remote preferred; open to discussing onsite travel if the client needs it
+
+Quick fit summary:
+- 10+ years architecting and building MERN stack applications (MongoDB, Express.js, React, Node.js) for Walmart Global Tech (Seller Center marketplace, 500K+ daily users), IBM/AEP, and HCSC; hands-on in code, code reviews, and troubleshooting while owning HLD / LLD and technical designs.
+- Authentication, authorization, and identity integration with Auth0 and other OAuth 2.0 / OIDC providers (SSO, MFA, RBAC, JWT); works directly with customers and stakeholders to gather requirements and turn them into implementation plans; mentors squads of 6+ engineers.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

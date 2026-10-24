@@ -1,0 +1,17 @@
+To: robert@ampstek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Ampstek_Lead_Software_Engineer_AI_Agentic_SanLeandro.pdf
+Subject: AI Engineer / Lead Software Engineer – San Leandro, CA – Aaron Ramírez (C2C)
+
+Hi Robert,
+
+I saw your LinkedIn post for the AI Engineer (Lead Software Engineer) role and would like to be considered for the San Leandro, CA location. I'm local to the Bay Area and available for onsite work and an in-person interview. My tailored resume is attached.
+
+- 10+ years designing, developing, and deploying enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC: TypeScript / JavaScript, React, Next.js, Tailwind and Bootstrap on the front end, Python (FastAPI) and Java (Spring Boot) services behind REST / GraphQL APIs on AWS and Azure.
+- 2+ years hands-on Generative AI: shipped a GenAI seller-support assistant for Walmart's marketplace (LangChain tool-calling agents over the Claude API, RAG, streaming UI, evaluation and guardrails) and internal AI productivity tools; agent workflows with LangGraph, the OpenAI Agents SDK, Google ADK, and MCP tool integrations. Lead squads of 6+ engineers.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery). Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

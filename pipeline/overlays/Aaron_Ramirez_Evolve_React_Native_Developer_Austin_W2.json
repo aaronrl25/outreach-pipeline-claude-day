@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "React Native Developer  ·  Production iOS & Android Apps at Scale (500K+ DAU)  ·  TypeScript Across the Mobile Stack  ·  App Store / Play Store Release Engineering  ·  Reanimated, Offline-First, Push Notifications",
+ "location": "Open to Austin, TX (relocating is fine)  ·  W2",
+ "summary": "React Native Developer with 10+ years in software engineering and 6+ years owning production React Native apps on iOS and Android for Walmart Global Tech (store and seller apps, 500K+ daily active users, two-week release trains), IBM/AEP, and HCSC (member app, 1M+ members). Deep React Native production experience: the bridge and the new architecture (TurboModules, Fabric), navigation patterns, list and render performance, memory and startup tuning, and the platform-specific edge cases that separate a React Native bug from an iOS or Android one. TypeScript across the mobile stack: typed components, typed navigation params, and typed API clients. Mobile release engineering end to end: App Store Connect and Google Play submissions, code signing and provisioning, staged rollouts, crash monitoring and triage with Dynatrace and Crashlytics. Works in Expo and bare workflows with Reanimated and gesture handling, offline-first sync architectures, and push notification infrastructure (APNs / FCM). Native modules in Swift and Kotlin when needed.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android Production Apps at Scale",
+   "TypeScript: Typed Components, Navigation, API Integration"
+  ],
+  [
+   "Mobile Release Engineering: App Store / Play Store, Code Signing, Staged Rollouts",
+   "Crash Monitoring & Triage: Dynatrace, Crashlytics, Sentry"
+  ],
+  [
+   "Performance: Bridge / New Architecture, Lists, Startup, Memory",
+   "Platform-Specific Debugging (Xcode, Android Studio)"
+  ],
+  [
+   "Expo & Bare Workflow, Reanimated, Gesture Handler",
+   "Offline-First Architecture, Push Notifications (APNs / FCM)"
+  ],
+  [
+   "Redux Toolkit / RTK Query, Zustand, React Navigation",
+   "Jest, Detox, GitHub Actions, EAS, Fastlane"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Evolve_React_Native_Developer_Austin_W2"
+}

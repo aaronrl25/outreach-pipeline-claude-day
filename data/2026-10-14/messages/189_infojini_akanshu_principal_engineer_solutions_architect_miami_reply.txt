@@ -1,0 +1,19 @@
+To: Akanshu.tyagi@infojiniconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Infojini_Principal_Engineer_Solutions_Architect_Ecommerce_Miami.pdf
+Subject: Re: Urgent Requirement – Principal Engineer – Initial Remote – Contract to Hire
+
+Hi Akanshu,
+
+Thanks for reaching out (via Dice) about the Principal Engineer / Senior Solutions Architect role (initial remote, Miami after conversion, contract to hire). I'm interested, and my resume is attached.
+
+- 10+ years leading architecture for B2C / D2C digital commerce at Walmart Global Tech (Seller Center marketplace with billions in annual GMV, plus consumer-facing store apps), IBM/AEP, and HCSC: strategic oversight across web, React Native mobile, front end, and Node.js / RESTful API / GraphQL backends on AWS; proofs of concept, design standards, and stakeholder roadmaps.
+- AI-forward: shipped a production GenAI assistant (Claude API / LangChain, RAG, guardrails) for the marketplace and run AI tooling across the SDLC (Claude Code, Cursor, GitHub Copilot).
+
+Location: San Francisco, CA now; remote to start and relocating to Miami for the onsite phase is fine with me.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery; it does not involve H-1B sponsorship). Please let me know whether that works for the conversion. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

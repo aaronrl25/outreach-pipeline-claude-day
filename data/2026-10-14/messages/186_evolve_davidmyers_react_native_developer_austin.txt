@@ -1,0 +1,19 @@
+To: davidmyers@evolveesolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Evolve_React_Native_Developer_Austin_W2.pdf
+Subject: React Native Developer - Austin
+
+Hi David,
+
+Following up on the React Developer (Chicago) note I sent you last week: I saw your new LinkedIn post for the React Native Developer role in Austin, TX (W2) and would like to be considered. My React Native resume is attached.
+
+- 6+ years owning production React Native apps on iOS and Android at Walmart Global Tech (store and seller apps, 500K+ daily active users, two-week release trains), IBM/AEP, and HCSC (member app, 1M+ members): bridge / new architecture, navigation patterns, list and startup performance, and knowing when a bug is React Native versus iOS or Android.
+- TypeScript across the mobile stack (typed components, navigation, API clients); App Store / Play Store release engineering with code signing, staged rollouts, and crash monitoring (Dynatrace, Crashlytics); Expo and bare workflows, Reanimated and gesture handling, offline-first sync, APNs / FCM push.
+
+Experience: 10 years overall, 6+ in React Native. Relocating to Austin is fine with me.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery). W2 works for me. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
