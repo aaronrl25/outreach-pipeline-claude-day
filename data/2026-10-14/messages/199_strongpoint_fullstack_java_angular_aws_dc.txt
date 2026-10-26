@@ -1,0 +1,19 @@
+To: rohini@strongpoint.digital
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Strongpoint_Senior_Full_Stack_Developer_Java_Angular_AWS_DC.pdf
+Subject: Senior Full Stack Developer / Engineer (Java, Angular, AWS) – Aaron Ramirez (W2)
+
+Hi Rohini,
+
+I saw Strong Point's LinkedIn post for the Senior Full Stack Developer / Engineer role (Java, Angular, AWS; W2 / 1099) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development: Java / Spring Boot REST microservices with Angular (TypeScript, RxJS) front ends, plus Python services, for Walmart Global Tech, IBM / AEP and HCSC.
+- AWS and delivery: Lambda, ECS/Fargate, RDS, S3 and CloudFront with Docker-based CI/CD on Jenkins and GitHub Actions; event-driven, API-first integration across 10+ microservices on AEP's field-operations platform.
+- Production ownership: Dynatrace monitoring with session replay and error tracking, cutting P1 mean time to resolution by 50%; JWT / OAuth 2.0 and role-based access on a HIPAA platform serving 1M+ members.
+- Also hands-on with Ionic front ends and AI-assisted development (GitHub Copilot, Claude Code).
+
+Available on W2 and happy to do the final-round interview onsite. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

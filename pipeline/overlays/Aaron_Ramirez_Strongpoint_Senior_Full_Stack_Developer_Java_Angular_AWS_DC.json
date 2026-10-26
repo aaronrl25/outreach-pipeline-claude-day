@@ -1,0 +1,36 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Strongpoint_Senior_Full_Stack_Developer_Java_Angular_AWS_DC",
+ "tagline": "Senior Full Stack Developer  ·  Java / Spring Boot, Angular, TypeScript  ·  AWS Lambda / ECS, Event-Driven Microservices  ·  Jenkins & GitHub Actions CI/CD",
+ "location": "",
+ "summary": "Senior Full Stack Developer with 10+ years building cloud-native enterprise applications for Walmart Global Tech, IBM / AEP and HCSC: Angular (TypeScript, RxJS) and React front ends over Java / Spring Boot REST microservices, with Python services where needed. Designs and ships event-driven, API-first systems on AWS (Lambda, ECS/Fargate, RDS, S3, CloudFront) with Docker-based CI/CD on Jenkins and GitHub Actions, secures them with JWT / OAuth 2.0 and role-based access, and monitors them in Dynatrace (cut P1 mean time to resolution by 50%). Leads teams of 4 to 7 engineers, drives architecture and sprint planning, and keeps quality high with Jest, Cypress and Playwright suites plus structured code review. Experience with Ionic mobile front ends and AI-assisted development (GitHub Copilot, Claude Code, Cursor).",
+ "core_skills": [
+  [
+   "Java / Spring Boot, REST APIs & Microservices",
+   "Angular (TypeScript, RxJS) & Modern Front End"
+  ],
+  [
+   "AWS: Lambda, ECS/Fargate, RDS, S3, CloudFront",
+   "Event-Driven Architecture & Real-Time Integration"
+  ],
+  [
+   "Jenkins, GitHub Actions, Docker CI/CD & Git",
+   "Dynatrace Monitoring & Production Support"
+  ],
+  [
+   "Python Services & Scripting",
+   "Ionic / Mobile Front Ends"
+  ],
+  [
+   "JWT / OAuth 2.0 Security, Role-Based Access",
+   "Team Leadership, Mentoring & Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse",
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Hibernate/JPA, microservices, REST and SOAP web services, JUnit; Node.js/Express, GraphQL, PostgreSQL, MongoDB, SQL Server",
+  "Cloud & CI/CD:": "AWS (Lambda, ECS/Fargate, RDS, S3, CloudFront, CloudWatch), Azure (App Service, DevOps, AI Services), Docker; Jenkins, GitHub Actions, Azure DevOps; Dynatrace",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, code review; GitHub Copilot, Claude Code, Cursor"
+ }
+}

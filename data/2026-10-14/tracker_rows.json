@@ -11341,5 +11341,24 @@
   "msg": "198_vysystems_kayalvizhi_react_fullstack_charlotte.txt",
   "status": "SENT 2026-10-26",
   "src": "LinkedIn C2C sweep 2026-10-26 09:30 (locals-only rule)"
+ },
+ {
+  "company": "Strong Point",
+  "role": "Senior Full Stack Developer / Engineer",
+  "loc": "Washington, DC",
+  "arr": "Local candidates only; final round onsite",
+  "type": "W2 / 1099",
+  "pay": "Not stated",
+  "posted": "2026-10-26",
+  "skills": "Java, Python, Spring Boot, Angular, AWS Lambda/ECS/DynamoDB/EventBridge, API Gateway/SQS/SNS, Jenkins/GitHub Actions, event-driven, Dynatrace; AEM/Copilot/Ionic nice",
+  "visa": "Not stated",
+  "recruiter": "Rohini Somwanshi",
+  "contact": "rohini@strongpoint.digital",
+  "link": "https://www.linkedin.com/in/rohini-somwanshi-7726a4212/",
+  "fit": "Good on Java/Angular/AWS/Dynatrace/Ionic; DynamoDB/EventBridge not claimed",
+  "resume": "Aaron_Ramirez_Strongpoint_Senior_Full_Stack_Developer_Java_Angular_AWS_DC.pdf",
+  "msg": "199_strongpoint_fullstack_java_angular_aws_dc.txt",
+  "status": "SENT 2026-10-26",
+  "src": "LinkedIn C2C sweep 2026-10-26 08:15 (locals-only rule)"
  }
 ]
