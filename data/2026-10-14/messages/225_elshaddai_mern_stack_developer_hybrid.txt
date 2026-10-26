@@ -1,0 +1,18 @@
+To: hr@el-shaddaitechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.pdf
+Subject: Software Developer / MERN Stack Developer – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the Software Developer / MERN Stack Developer openings (hybrid, 2 days onsite) and would like to be considered. My resume is attached.
+
+- 10+ years building production MERN applications: React.js (Hooks, reusable components, Redux / Zustand, Next.js) with Node.js / Express REST APIs over MongoDB (schema design, indexing, query optimization), in JavaScript (ES6+) and TypeScript.
+- Secure, high-performance services: JWT and OAuth authentication, third-party API integration, performance tuning across front end, backend and database; Azure DevOps YAML pipelines plus GitHub Actions and Jenkins CI/CD, Docker, Azure and AWS.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace, billions in GMV), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members), in Agile teams with code review, pull-request branching strategies and technical documentation.
+
+Available on C2C and available to start on short notice. Glad to discuss rate and the details this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

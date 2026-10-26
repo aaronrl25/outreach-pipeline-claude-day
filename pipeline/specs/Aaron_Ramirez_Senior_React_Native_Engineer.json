@@ -1,0 +1,143 @@
+{
+ "roles": [
+  {
+   "title": "Staff Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform & Mobile Seller Experience",
+   "bullets": [
+    "Spearheaded React Native and React front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated mobile and web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, Supertest, and Detox test gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (iOS, Android & Web)",
+   "bullets": [
+    "Led a cross-functional team implementing the React Native front end for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync for technicians working in low-connectivity areas; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (crash analytics, session replay), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (iOS & Android)",
+   "bullets": [
+    "Delivered React Native (TypeScript) iOS and Android features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized app load time by 40% via bundle optimization, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior React Native Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Mobile 2.0 – Healthcare Member App (iOS & Android)",
+   "bullets": [
+    "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React Native, Redux Saga, and mobile best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD to app-store releases for 1M+ users."
+   ]
+  },
+  {
+   "title": "React Native Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (iOS & Android)",
+   "bullets": [
+    "Built React Native inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular component system shared across 3 warehouse apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions with Dynatrace crash analytics."
+   ]
+  },
+  {
+   "title": "React Native Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service (iOS & Android) · Spark Driver (Android)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React Native modules to embed into existing native iOS/Android apps, reducing new-feature integration time by 60%; optimized the Spark Driver app for low-end Android devices."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
+    "Architected a gas delivery tracking app supporting 300+ daily deliveries with live driver location, push notifications, Facebook login, and SMS status updates on a Node.js/Express backend on AWS in Docker; built a wine e-commerce app with JWT-secured third-party API integration that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (iOS & Android)",
+   "bullets": [
+    "Built the Mobile as Bee iOS/Android app with React Native and a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led an iOS refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Mobile:",
+   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native module bridging (Swift/Kotlin), Salesforce Mobile SDK, Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync, performance profiling"
+  ],
+  [
+   "Languages:",
+   "TypeScript, JavaScript (ES6+), Node.js, Python, SQL, HTML5, CSS3"
+  ],
+  [
+   "State & UI:",
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+  ],
+  [
+   "APIs & Backend:",
+   "REST APIs, Salesforce (Apex, Salesforce REST APIs), WebSockets/Socket.IO, GraphQL, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, Lambda, RDS, S3), Azure (App Service, DevOps, AI Services), Firebase / Google Cloud; GitHub Actions, Azure DevOps, Jenkins, Expo EAS build & submit, Docker, Dynatrace"
+  ],
+  [
+   "Security:",
+   "JWT and OAuth 2.0 authentication/authorization, role-based access, secure token storage, TLS/SSL, HIPAA-compliant data handling"
+  ],
+  [
+   "Testing & Process:",
+   "Jest, React Testing Library, Detox, Supertest; Agile/Scrum, Jira, Figma, code review, mentoring, AI-assisted development: Claude Code, GitHub Copilot, Cursor, Windsurf, Devin"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Senior_React_Native_Engineer",
+ "tagline": "Senior React Native Engineer  ·  TypeScript, Expo, iOS & Android  ·  10+ Years Software Engineering",
+ "location": "",
+ "summary": "Senior React Native Engineer with 10+ years in software engineering and 6+ years shipping production React Native and TypeScript apps to the App Store and Google Play at Walmart Global Tech, IBM/AEP, HCSC, and an early-stage studio I co-founded. Builds secure, high-performance consumer features end to end: clean TypeScript architecture, REST and GraphQL API integration with strict data-protection practices, authentication and secure storage, biometric login, push notifications, and offline-aware state management with Redux Toolkit and Zustand. Strong on performance work: profiling render bottlenecks, fixing memory leaks, and keeping cross-platform UI responsive for apps serving 500K+ daily users. Partners closely with UI/UX designers, backend, and QA; owns Jest and Detox tests, GitHub pull-request review, CI/CD, release, and production monitoring with Dynatrace.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) · iOS & Android",
+   "TypeScript & JavaScript (ES6+), Clean Architecture"
+  ],
+  [
+   "REST & GraphQL API Integration, Secure Data Flows",
+   "Auth, Biometrics, Secure Storage, Push Notifications"
+  ],
+  [
+   "Performance Profiling, Memory Leaks, UI Responsiveness",
+   "State Management: Redux Toolkit, Zustand, Caching"
+  ],
+  [
+   "Jest, React Testing Library & Detox Testing",
+   "GitHub PRs, Code Review, CI/CD (GitHub Actions)"
+  ],
+  [
+   "Native Modules (Swift / Kotlin), App Store & Google Play",
+   "AWS (Lambda, ECS, RDS, S3), Firebase, Dynatrace"
+  ]
+ ]
+}

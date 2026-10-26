@@ -1,0 +1,29 @@
+{
+ "base": "mobile",
+ "tagline": "Senior React Native Engineer  \u00b7  TypeScript, Expo, iOS & Android  \u00b7  10+ Years Software Engineering",
+ "location": "",
+ "summary": "Senior React Native Engineer with 10+ years in software engineering and 6+ years shipping production React Native and TypeScript apps to the App Store and Google Play at Walmart Global Tech, IBM/AEP, HCSC, and an early-stage studio I co-founded. Builds secure, high-performance consumer features end to end: clean TypeScript architecture, REST and GraphQL API integration with strict data-protection practices, authentication and secure storage, biometric login, push notifications, and offline-aware state management with Redux Toolkit and Zustand. Strong on performance work: profiling render bottlenecks, fixing memory leaks, and keeping cross-platform UI responsive for apps serving 500K+ daily users. Partners closely with UI/UX designers, backend, and QA; owns Jest and Detox tests, GitHub pull-request review, CI/CD, release, and production monitoring with Dynatrace.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs) \u00b7 iOS & Android",
+   "TypeScript & JavaScript (ES6+), Clean Architecture"
+  ],
+  [
+   "REST & GraphQL API Integration, Secure Data Flows",
+   "Auth, Biometrics, Secure Storage, Push Notifications"
+  ],
+  [
+   "Performance Profiling, Memory Leaks, UI Responsiveness",
+   "State Management: Redux Toolkit, Zustand, Caching"
+  ],
+  [
+   "Jest, React Testing Library & Detox Testing",
+   "GitHub PRs, Code Review, CI/CD (GitHub Actions)"
+  ],
+  [
+   "Native Modules (Swift / Kotlin), App Store & Google Play",
+   "AWS (Lambda, ECS, RDS, S3), Firebase, Dynatrace"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Senior_React_Native_Engineer"
+}

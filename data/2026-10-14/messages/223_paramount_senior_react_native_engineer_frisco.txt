@@ -1,0 +1,18 @@
+To: avinash@paramountsoft.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Engineer.pdf
+Subject: Senior React Native Engineer – Frisco, TX
+
+Hi Avinash,
+
+I saw your LinkedIn post for the Senior React Native Engineer role in Frisco (hybrid, telecom) and would like to be considered. My resume is attached.
+
+- 10+ years of software engineering with deep hands-on React Native and TypeScript: mobile architecture, navigation, state management (Redux Toolkit, React Query), performance tuning and release management on iOS and Android.
+- Worked alongside native iOS and Android teams, integrating native modules and moving native flows into shared React Native code: HCSC's HIPAA member app (1M+ members), IBM / AEP field apps, and Walmart Global Tech micro-frontend modules (Electrode Native).
+- AI developer tools in daily use: Claude Code, Cursor and GitHub Copilot for scaffolding, test generation and refactoring; Jest, React Native Testing Library and Detox with CI/CD on GitHub Actions, Azure DevOps and Jenkins.
+
+Available on C2C or W2 for a hybrid schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

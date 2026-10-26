@@ -1,0 +1,18 @@
+To: sudheshna@atxtechnologycorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf
+Subject: Frontend Developer – React.js / Angular, Micro-Frontends – Austin, TX – Aaron Ramirez
+
+Hi Sudheshna,
+
+I saw your LinkedIn post for the front-end development position in Austin (React.js and/or Angular with .NET) and would like to be considered for the backfill. My resume is attached.
+
+- 10+ years of front-end development with React.js and Angular in TypeScript: Redux state management, custom UI component libraries, design systems, style sheets and theming, WCAG accessibility, Webpack build tooling, Git / Bitbucket code review.
+- Micro-frontend architecture at enterprise scale: built and shipped micro-frontend modules (Electrode Native, a module-federation model) that plug independently deployed React features into shared host applications at Walmart Global Tech (Seller Center marketplace, billions in GMV); containerized front ends with Docker and Kubernetes in CI/CD pipelines.
+- Backend integration with .NET (C#, ASP.NET Core Web API), Java / Spring Boot and Node.js REST services for IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members); application security requirements, system documentation and Agile (Scrum, Kanban) delivery with mentoring.
+
+Available on W2 or C2C and ready for an immediate interview. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
