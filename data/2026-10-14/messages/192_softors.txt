@@ -1,0 +1,22 @@
+To: info@softors.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.pdf
+Subject: Freelance Full-Stack Developer – Aaron Ramirez
+
+Hello Softors team,
+
+I saw your LinkedIn post looking for a freelance Full-Stack Developer (React.js / Next.js, Node.js, REST APIs) and would like to work with you on project-based engagements. My CV is attached.
+
+Brief introduction: I am a US-based software engineer with 10+ years of experience building React, Next.js and Node.js products end to end. Recent work includes Walmart Seller Center (React / TypeScript, marketplace platform with billions in GMV, including a Claude API / LangChain assistant), AEP's field-operations platform (React front end, 10+ REST microservices, Azure AI Services) and HCSC's member platform (HIPAA-compliant React app for 1M+ members). Earlier I led engineering at Eurybia Studio, shipping 0-to-1 React / Next.js products with Node.js and Firebase backends for clients in Mexico, the US and France, which is the same kind of own-it-from-start-to-finish work you describe.
+
+Portfolio and code:
+- aron.software (live React portfolio)
+- github.com/aaronrl25
+
+Stack: React, Next.js, TypeScript, Node.js / Express, PostgreSQL, MongoDB, Firebase, REST / GraphQL / WebSockets, AWS and Azure, Docker, GitHub Actions, Jest / Playwright; plus LLM integrations (Claude API, LangChain).
+
+Available now for remote, project-based work on a contract basis. Glad to discuss scope and pricing for your next project.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

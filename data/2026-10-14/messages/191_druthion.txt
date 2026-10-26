@@ -1,0 +1,19 @@
+To: careers@druthion.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.pdf
+Subject: Full Stack Application Engineer (Finance, HR, Billing & AI) – Aaron Ramirez
+
+Hello,
+
+I saw Druthion's LinkedIn post for the Full Stack Application Engineer role (Finance, HR, Billing and AI; freelance or contractual) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development: React / TypeScript front ends with Node.js, Java / Spring Boot and C# / .NET services over PostgreSQL and SQL Server, REST APIs and microservices, for Walmart Global Tech, IBM / AEP and HCSC.
+- Business-workflow experience that maps to this role: order management, transaction and claims flows, role-based access and audit trails on Walmart Seller Center (marketplace, billions in GMV), HCSC Member Experience 2.0 (HIPAA, 1M+ members) and AEP's field-operations platform (approval and data-entry workflows for thousands of technicians).
+- AI-enabled workflows in production: Claude API / LangChain seller-support assistant at Walmart, Azure AI Services to summarize and classify field notes at AEP.
+- Delivery: GitHub Actions, Azure DevOps and Jenkins CI/CD, Docker on AWS and Azure, Dynatrace monitoring; Agile/Scrum with code review and mentoring.
+
+Available on a contract / C2C basis, remote. Could you share the location or time-zone expectations, duration and rate range? Glad to discuss and start quickly.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

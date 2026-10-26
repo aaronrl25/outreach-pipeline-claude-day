@@ -1,0 +1,19 @@
+To: demianovaviktoriia5@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.pdf
+Subject: Senior Full-Stack / AI Evaluation Engineer (contract) – Aaron Ramirez
+
+Hi Viktoriia,
+
+I saw your LinkedIn post for the Senior Full-Stack / AI Evaluation Engineer contract (SWE coding benchmarks and RL environments) and would like to be considered as an individual contractor. My resume is attached.
+
+- 10+ years building production software, the last 7 on full-stack TypeScript: React and Next.js front ends with Node.js / Express services, PostgreSQL and SQLite, REST, GraphQL and WebSockets, for Walmart Global Tech, IBM / AEP and HCSC.
+- Test-suite heavy: Jest, React Testing Library, Supertest, Playwright and Cypress gates in CI (GitHub Actions, Azure DevOps, Jenkins); raised coverage from 45% to 85% on a 1M-user healthcare app and built the unit-testing infrastructure for Walmart's warehouse management system.
+- Hands-on with LLM-backed features and AI-assisted development: shipped a GenAI seller-support assistant on the Claude API / LangChain at Walmart, and work daily with Claude Code and Cursor, so I am comfortable judging where AI-generated code is right, wrong or fragile.
+- Multi-language backend exposure: Java / Spring Boot and C# / .NET services alongside Node.
+
+Based in the US (Pacific time), available 10–20+ hours per week on a long-term independent-contractor basis. Glad to discuss rate and a sample task this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

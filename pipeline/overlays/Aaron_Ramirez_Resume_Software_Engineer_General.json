@@ -1,0 +1,105 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Resume_Software_Engineer_General",
+ "tagline": "Software Engineer  ·  React, TypeScript, Node.js  ·  Full Stack & Mobile  ·  10+ Years",
+ "summary": "Software Engineer with 10+ years building production web and mobile applications at enterprise scale for Walmart Global Tech, IBM / American Electric Power, and Health Care Service Corporation (HCSC), serving 500K+ daily active associates and 1M+ healthcare members. Full-stack across React, React Native, Next.js, TypeScript, and Node.js, with working experience in Angular, Java / Spring Boot, C# / .NET, and Python. Designs component architectures and micro-frontends, integrates REST, GraphQL, and WebSocket microservices, and ships through GitHub Actions, Azure DevOps, and Jenkins pipelines on AWS and Azure. Leads teams of 4 to 7 engineers, drives architecture and sprint planning, and raises quality through Jest, React Testing Library, Cypress, and structured code review. Recent work includes GenAI features built on the Claude API and LangChain.",
+ "core_skills": [
+  [
+   "React.js, Next.js & React Native",
+   "TypeScript & JavaScript (ES6+)"
+  ],
+  [
+   "Node.js, Java / Spring Boot, C# / .NET, Python",
+   "REST, GraphQL & WebSocket Microservices"
+  ],
+  [
+   "Frontend Architecture, Micro-Frontends, Design Systems",
+   "AWS & Azure Cloud, Docker"
+  ],
+  [
+   "GitHub Actions, Azure DevOps & Jenkins CI/CD",
+   "Jest, React Testing Library, Cypress, Playwright"
+  ],
+  [
+   "JWT / OAuth 2.0, HIPAA-Compliant Data Handling",
+   "Team Leadership, Mentoring & Agile/Scrum"
+  ]
+ ],
+ "tech_extra": [
+  [
+   "Mobile:",
+   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, Electrode Native, push notifications, offline sync"
+  ],
+  [
+   "Languages:",
+   "TypeScript, JavaScript (ES6+), Java, C#, Python, C, SQL, HTML5, CSS3; Unity (C#)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js (SSR/SSG), Angular (RxJS), Redux / Redux Toolkit, RTK Query, Zustand, React Query, Tailwind, Styled Components, design systems, micro-frontends, accessibility (WCAG), Core Web Vitals",
+  "State & Data:": "Redux / Redux Toolkit, RTK Query, Zustand, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation, responsive layouts, i18n",
+  "APIs & Backend:": "Node.js/Express, Spring Boot, ASP.NET Core Web API, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, PostgreSQL, MongoDB, Firebase",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure (App Service, DevOps, AI Services), Docker, GitHub Actions, Azure DevOps, Jenkins, Dynatrace, CloudWatch",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Playwright, Detox, Supertest, Lighthouse; JWT / OAuth 2.0, role-based access, HIPAA-compliant data handling",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, code review, mentoring; Claude API, LangChain, Azure AI Services, Claude Code, Cursor, Windsurf"
+ },
+ "role_tweaks": {
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (Web & Mobile)",
+   "bullets": [
+    "Led a cross-functional team implementing React and React Native (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "2": {
+   "bullets": [
+    "Delivered React and React Native (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  "3": {
+   "title": "Senior Software Engineer",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React and React Native (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  "4": {
+   "title": "Software Engineer",
+   "bullets": [
+    "Built React and React Native inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  "5": {
+   "title": "Software Engineer"
+  },
+  "6": {
+   "title": "Lead Engineer",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React, Next.js, and React Native products with Node.js, PHP/Laravel, and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  "7": {
+   "bullets": [
+    "Built React and React Native clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ },
+ "roles_append": [
+  {
+   "title": "Game Developer",
+   "company": "Lone Wolf Studio  (Independent Game Studio)",
+   "dates": "Aug 2015 – Jul 2017",
+   "sub": "Puebla, Mexico · Multi-Platform Game Prototypes",
+   "bullets": [
+    "Developed multi-platform game prototypes in Unity (C#) and C for an independent game studio, owning engineering and the art pipeline end to end; showcased the MVP at Tokyo Game Show 2016 and won 5 hackathons on rapid prototyping."
+   ]
+  }
+ ],
+ "edu": "B.S. Computer Systems Engineering  ·  Universidad España y México  ·  Animation, Interactive Technology & VFX  ·  IBERO Puebla"
+}
