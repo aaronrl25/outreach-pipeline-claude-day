@@ -1,0 +1,18 @@
+To: ravi@lorhancorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Front_End_UI_Developer_React.pdf
+Subject: React Web Developer – Amex OneApp – Phoenix – Aaron Ramirez
+
+Hi Ravi,
+
+I saw your LinkedIn post this morning for the React Web Developer openings on the American Express OneApp ecosystem (6 positions, Phoenix) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React.js: JavaScript (ES6+), TypeScript, Hooks, Redux / Redux Toolkit, reusable component libraries, REST API integration and state management, front-end performance tuning and browser debugging.
+- Modular front-end architecture at enterprise scale: built and shipped micro-frontend modules (Electrode Native) that plug React features into a shared host app at Walmart Global Tech, the same modular, module-based model OneApp and Holocron use; Walmart Seller Center (marketplace, billions in GMV), warehouse management system (500K+ daily users), HCSC's HIPAA member platform (1M+ members).
+- Quality and delivery: Jest and React Testing Library standards that raised coverage from 45% to 85%, Git and CI/CD on Jenkins, GitHub Actions and Azure DevOps, Agile/Scrum with code review and mentoring. Available for in-person interviews.
+
+Available on C2C or W2. Glad to discuss rate and start date today.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
