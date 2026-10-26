@@ -1,0 +1,37 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS",
+ "tagline": "Lead UI Front End Developer  ·  React.js, TypeScript, Redux Toolkit  ·  Reusable Component Design, Web Performance, Team Leadership",
+ "location": "",
+ "summary": "Lead UI Front End Developer with 10+ years of experience (7+ years hands-on React) leading front-end delivery for Walmart Global Tech, IBM/AEP, and HCSC. Leads teams of 5–7 engineers on React.js applications in JavaScript (ES6+) and TypeScript: React Hooks, component lifecycle, reusable component libraries and design systems, Redux / Redux Toolkit and Context API state management, REST API integration with backend teams. Owns HTML5/CSS3 responsive layouts, Webpack/Vite/Babel/npm build tooling, Git workflows, and web performance optimization and browser debugging; keeps quality high with Jest, React Testing Library, and Cypress plus structured code reviews.",
+ "core_skills": [
+  [
+   "React.js, Hooks, Component Lifecycle, Reusable Components",
+   "JavaScript (ES6+) & TypeScript"
+  ],
+  [
+   "Redux / Redux Toolkit, Context API, RTK Query",
+   "REST APIs & Front-End / Back-End Integration"
+  ],
+  [
+   "HTML5, CSS3, Responsive Design, Tailwind / CSS Frameworks",
+   "Web Performance Optimization & Browser Debugging"
+  ],
+  [
+   "Webpack, Vite, Babel, npm; Git Workflows",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Technical Leadership (teams of 5–7), Code Review, Mentoring",
+   "Design Systems, Micro Frontends, CI/CD"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Software Engineer · Front-End Tech Lead"
+  },
+  "1": {
+   "title": "Senior Software Engineer · UI Lead"
+  }
+ }
+}

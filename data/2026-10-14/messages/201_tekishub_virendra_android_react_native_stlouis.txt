@@ -1,0 +1,18 @@
+To: virendra.singh@tekishub.us
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Senior_React_Native_Engineer.pdf
+Subject: Senior Android Developer (React Native) – Aaron Ramirez (C2C)
+
+Hi Virendra,
+
+I saw your LinkedIn post for the Senior Android Developer opportunity (React Native, C2C) and would like to be considered. My resume is attached; I am available to start on two weeks' notice or sooner.
+
+- 6+ years of hands-on React Native shipping production Android and iOS apps at enterprise scale: 500K+ daily active associates on Walmart's warehouse and store apps, 1M+ members on HCSC's healthcare app, and AEP's field-operations app for utility technicians.
+- Android depth: app architecture and lifecycle, native modules in Kotlin, push notifications, barcode scanning, offline sync, and Play Store releases through Azure DevOps, GitHub Actions, Jenkins and Expo EAS pipelines.
+- Integration and quality: REST and WebSocket microservices, JWT / OAuth 2.0, Jest and Detox test suites, Dynatrace crash analytics with 99.9% crash-free sessions.
+
+Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

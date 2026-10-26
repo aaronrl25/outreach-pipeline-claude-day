@@ -1,0 +1,18 @@
+To: akanksha@inceptrasolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Full Stack Developer – Strong React.js – Aaron Ramirez (C2C)
+
+Hi Akanksha,
+
+I saw your LinkedIn post for the Full Stack Developer role with strong React.js (8+ years, onsite, contract) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React: Hooks, Context API, Redux / Redux Toolkit, TypeScript, Next.js and REST API integration, backed by Java / Spring Boot and Node.js services.
+- Enterprise React at scale for Walmart Global Tech (Seller Center marketplace, warehouse management system for 500K+ daily users), IBM / AEP (10+ microservices) and HCSC (HIPAA platform, 1M+ members).
+- Quality and delivery: Jest and React Testing Library standards that raised coverage from 45% to 85%, Git-based workflows with structured code review, CI/CD on Jenkins, GitHub Actions and Azure DevOps. Happy to interview in person.
+
+Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

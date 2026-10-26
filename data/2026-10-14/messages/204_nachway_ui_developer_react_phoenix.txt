@@ -1,0 +1,18 @@
+To: dasarath@nachway.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Front_End_UI_Developer_React.pdf
+Subject: UI Developer (React) – Multi-Year Contract – Aaron Ramirez (C2C)
+
+Hi Dasarath,
+
+I saw your LinkedIn post for the UI Developer role (React, hybrid, multi-year contract) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React.js: JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS, Redux / Redux Toolkit, Hooks, Context API, Material-UI and Styled Components, Webpack / Vite build tooling.
+- Enterprise UI at scale for Walmart Global Tech (Seller Center marketplace, warehouse management system for 500K+ daily users), IBM / AEP and HCSC (HIPAA member platform, 1M+ members), including performance work (40% faster load) and WCAG accessibility.
+- Quality: Jest and React Testing Library standards that raised coverage from 45% to 85%; REST API integration and troubleshooting with backend teams; Agile/Scrum with code review and mentoring.
+
+Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

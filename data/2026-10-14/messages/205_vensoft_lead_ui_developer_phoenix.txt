@@ -1,0 +1,18 @@
+To: Ryanc@vensoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Lead UI Developer (TypeScript, React, Node.js, Java, AWS) – Aaron Ramirez (W2)
+
+Hi Ryan,
+
+I saw your LinkedIn post for the Lead UI Developer role (TypeScript, React, Node.js, Java, DynamoDB, JWT, AWS; W2) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React and TypeScript, with Node.js and Java / Spring Boot services behind the UI; JWT / OAuth 2.0 authentication and role-based access on a HIPAA platform serving 1M+ members.
+- AWS: Lambda, ECS/Fargate, RDS, S3 and CloudFront with Docker-based CI/CD on GitHub Actions and Jenkins; Dynatrace monitoring.
+- Lead experience: set architecture standards, code review protocols and design documentation for a squad of 6+ engineers on Walmart Seller Center (marketplace, billions in GMV); mentored 4 engineers at HCSC and led a team of 5 on Walmart Store Assist. Happy to do the final round onsite.
+
+Available on W2. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: subash@northern-base.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Front_End_UI_Developer_React.pdf
+Subject: Front End UI Developer – Phoenix, AZ – Aaron Ramirez
+
+Hi Subash,
+
+I saw your LinkedIn post for the Front End UI Developer role (full-time, onsite) and would like to be considered for the Phoenix, AZ location. My resume is attached.
+
+- 10+ years of front-end development: HTML5, CSS3/SASS/LESS, modern JavaScript (ES6+) and TypeScript with React.js and Angular; REST API integration, responsive and accessible (WCAG) UI.
+- Enterprise UI at scale for Walmart Global Tech (Seller Center marketplace, warehouse management system for 500K+ daily users), IBM / AEP and HCSC (HIPAA member platform, 1M+ members), including a 40% load-time improvement through bundle splitting and list virtualization.
+- Tools and workflow: Git/GitHub, Webpack / Vite, Jest and React Testing Library, Cypress, Storybook, Figma; CI/CD on Jenkins, GitHub Actions and Azure DevOps; Agile/Scrum with code review and mentoring.
+
+Available for a full-time, direct-hire position. Glad to discuss compensation and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

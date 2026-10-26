@@ -1,0 +1,18 @@
+To: msr@1way-solutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Full Stack Developer – React.js + Java + Spring Boot – Aaron Ramirez
+
+Hello,
+
+I saw your LinkedIn post for the Full Stack Developer role (React.js + Java + Spring Boot, hybrid) and would like to be considered. I am applying directly, not through a vendor. My resume is attached.
+
+- 10+ years of full-stack development: React.js / TypeScript front ends with Java / Spring Boot REST APIs and SQL (PostgreSQL, SQL Server) for Walmart Global Tech, IBM / AEP and HCSC.
+- Enterprise scale: Walmart Seller Center (marketplace, billions in GMV) and warehouse management system (500K+ daily users), AEP's field-operations platform (10+ REST microservices), HCSC's HIPAA member platform (1M+ members).
+- Delivery: Jenkins, GitHub Actions and Azure DevOps CI/CD, Docker on AWS and Azure, Jest / React Testing Library / Cypress; Agile/Scrum with code review and mentoring.
+
+Available on contract. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: ramgopal.p@avanceservices.us
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: AWS Java Full Stack Engineer (Angular) – Tempe, AZ – Aaron Ramirez
+
+Hi Ram Gopal,
+
+I saw your LinkedIn post for the AWS Java Full Stack Engineer role (permanent, hybrid) and would like to be considered for the Tempe, AZ location. My resume is attached.
+
+- 10+ years of full-stack development: Java / Spring Boot microservices and REST APIs with Angular (TypeScript, RxJS) front ends, for Walmart Global Tech, IBM / AEP and HCSC.
+- AWS: Lambda, ECS/Fargate, RDS, S3 and CloudFront, with Docker-based CI/CD pipelines on Jenkins, GitHub Actions and Azure DevOps and automated test gates (Jest, Cypress, Playwright).
+- Production ownership: Dynatrace monitoring that cut P1 mean time to resolution by 50%; JWT / OAuth 2.0 and role-based access on a HIPAA platform serving 1M+ members; led teams of 4 to 7 engineers.
+
+Available for a full-time, direct-hire position. Glad to discuss compensation and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
