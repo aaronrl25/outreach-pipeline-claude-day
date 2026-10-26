@@ -1,0 +1,143 @@
+{
+ "roles": [
+  {
+   "title": "Staff Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
+   "bullets": [
+    "Led development of Walmart's Seller Center vendor portal (500K+ daily users, billions in annual GMV): React / TypeScript front end with Node.js REST microservices on AWS; set architecture, security, and code review standards for a squad of 6+ engineers.",
+    "Built and shipped a GenAI seller-support assistant: LangChain tool-calling agents over the Claude API with intent routing, retrieval (RAG) against policy and catalog data, streaming responses through Node.js middleware, and evaluation and guardrail layers; deflected a large share of tier-1 support contacts.",
+    "Prototyped and productionized internal AI productivity tools (automated code review, test generation, documentation agents) with LangGraph workflows and MCP tool integrations; mentored engineers on agent design and prompt engineering."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Web)",
+   "bullets": [
+    "Developed and maintained AEP's field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST, used by thousands of utility technicians nationwide.",
+    "Integrated Azure AI Services to summarize and classify technician field notes and route work orders automatically, reducing manual triage time; improved end-to-end response time by 40% through API payload optimization and caching.",
+    "Instrumented Dynatrace APM across the platform (session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Web)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior React Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "AI Engineering:",
+   "LLM integration (Claude, OpenAI, Azure OpenAI), LangChain, LangGraph, OpenAI Agents SDK, Google ADK, MCP servers and tool calling, RAG with vector search (pgvector, Azure AI Search), prompt engineering, agent evaluation and guardrails, AI-assisted code review and test generation"
+  ],
+  [
+   "Front End:",
+   "React, Next.js (App Router, SSR), TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Redux Toolkit, React Query, HTML5, CSS3, Storybook, accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "State & Data:",
+   "Redux / Redux Toolkit, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation, responsive layouts, i18n"
+  ],
+  [
+   "APIs & Backend:",
+   "Node.js/Express, Python (FastAPI, Flask), Java (Spring Boot), TypeScript, REST APIs, GraphQL, WebSockets/SSE, microservices, event-driven design, PostgreSQL, MongoDB, Redis"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure (App Service, DevOps, AI Services), Firebase; GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI",
+ "tagline": "Senior Full Stack Engineer – Agentic AI  ·  React / Angular, TypeScript, Node.js, Java / Spring Boot, Python  ·  LLM Integration (Claude API, Azure OpenAI), LangChain / LangGraph Agents, RAG, Tool Calling  ·  AWS / Azure, Docker, Kubernetes",
+ "location": "",
+ "summary": "Lead Software Engineer with 10+ years designing, developing, and deploying enterprise-grade web applications for Walmart Global Tech, IBM/AEP, and HCSC, and 2+ years hands-on building Generative AI applications in production. Shipped a GenAI seller-support assistant for Walmart's marketplace (500K+ daily users) that orchestrates Claude API / LangChain tool-calling agents through Node.js middleware with streaming UIs, intent routing, retrieval (RAG), evaluation, and guardrails; integrated Azure AI Services to summarize and classify field notes at AEP. Designs agent-based workflows and AI-powered productivity and automation tools with LangChain, LangGraph, the OpenAI Agents SDK, and Google ADK, plus MCP-based tool integration. Full stack in TypeScript / JavaScript with React, Next.js, Tailwind, and Bootstrap on the front end and Python (FastAPI) and Java (Spring Boot) services behind REST and GraphQL APIs; deploys on AWS and Azure with Docker and CI/CD. Drives technical excellence, security, scalability, and performance standards for squads of 6+ engineers and rapidly prototypes AI solutions that reach production. Claude Code, Cursor, and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "Generative AI Apps (2+ yrs): Claude, OpenAI, Azure OpenAI APIs",
+   "Multi-Agent Orchestration: LangChain, LangGraph, OpenAI Agents SDK, Google ADK"
+  ],
+  [
+   "Agent Workflows, Tool Calling, MCP, RAG, Evaluation & Guardrails",
+   "AI-Powered Productivity & Automation Tools, Rapid Prototyping"
+  ],
+  [
+   "TypeScript / JavaScript, React, Next.js, Tailwind, Bootstrap",
+   "Python (FastAPI), Java (Spring Boot), Node.js REST / GraphQL APIs"
+  ],
+  [
+   "Enterprise Application Architecture, Security, Scalability",
+   "AWS (ECS, Lambda, RDS, S3), Azure (App Service, AI Services), Docker"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins; Observability: Dynatrace",
+   "Technical Leadership, Code Review, Mentoring (squads of 6+)"
+  ]
+ ]
+}

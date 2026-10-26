@@ -1,0 +1,18 @@
+To: lakshmi.prasad@centraprise.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_DotNet_Mobile_Engineer_React_Native_GraphQL.pdf
+Subject: Lead .NET Mobile Engineer – React Native / .NET API – Remote – Aaron Ramirez
+
+Hi Lakshmi,
+
+I saw your LinkedIn post for the Lead .NET Mobile Engineer role (remote) and would like to be considered. My resume is attached.
+
+- 10+ years of software development with full-stack mobile delivery: React Native and ReactJS in TypeScript with Redux state management, GraphQL and REST API integration, and .NET backends (C#, ASP.NET Core Web API) alongside Node.js and Java services.
+- Led mobile teams of 5–7 engineers for HCSC's HIPAA member app (1M+ members), IBM / AEP field apps (500K+ daily users) and Walmart Global Tech: team deliverables, code reviews, mentoring and cross-functional collaboration with product, design and QA.
+- Scalable, high-performance apps with production troubleshooting and debugging, observability with Dynatrace, CI/CD on Azure DevOps, GitHub Actions and Jenkins, Jest / Detox testing and App Store / Play Store release management.
+
+Available on C2C or W2 for remote work. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

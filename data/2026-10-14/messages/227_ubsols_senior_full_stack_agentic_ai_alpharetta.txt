@@ -1,0 +1,18 @@
+To: vasanth.chary@ubsols.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Senior Full Stack Developer – Agentic AI – Alpharetta, GA – Aaron Ramirez
+
+Hi Vasanth,
+
+I saw your LinkedIn post for the Senior Full Stack Developers with Agentic AI openings in Alpharetta (onsite, W2/C2C/1099) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development for Walmart Global Tech, IBM / AEP and HCSC: React and Angular front ends in TypeScript with Node.js, Java / Spring Boot and Python services exposing REST APIs and microservices on AWS and Azure with Docker and Kubernetes.
+- Hands-on agentic AI in production during 2025–2026: a GenAI seller-support assistant for Walmart's marketplace built on the Claude API with LangChain tool-calling agents, Node.js middleware, retrieval (RAG), streaming UIs and guardrails; Azure OpenAI / Azure AI Services integration at AEP; agent workflows with LangChain and LangGraph.
+- CI/CD on Jenkins, GitHub Actions and Azure DevOps, production debugging and troubleshooting, Agile/Scrum with code review. Available for the in-person client round.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
