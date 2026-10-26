@@ -1,0 +1,18 @@
+To: saiteja@ss-tech.us
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_GenAI_Agentic.pdf
+Subject: Senior Full Stack Engineer – Agentic AI – Aaron Ramirez (C2C)
+
+Hi Sai Teja,
+
+I saw your LinkedIn post for the Senior Full Stack Engineer (Agentic AI, GCP) role and would like to be considered. My resume is attached.
+
+- 10+ years full stack: React and Angular front ends with Java / Spring Boot, Node.js and Python services, REST APIs and microservices, Docker and CI/CD (GitHub Actions, Azure DevOps, Jenkins) for Walmart Global Tech, IBM / AEP and HCSC.
+- GenAI in production: built a GenAI seller-support assistant on the Claude API with LangChain at Walmart (LLM responses streamed through Node.js middleware into the React client), and integrated Azure AI Services to summarize and classify field notes at AEP.
+- Cloud: AWS (ECS/Fargate, Lambda, RDS) and Azure, plus Google Cloud through Firebase on earlier products.
+
+Could you share which location (GA or WA) and whether it is onsite or hybrid? Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

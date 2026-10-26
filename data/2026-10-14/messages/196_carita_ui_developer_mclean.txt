@@ -1,0 +1,18 @@
+To: naren@caritatech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Angular_Java.pdf
+Subject: UI Developer (Angular) – McLean, VA – Aaron Ramirez (W2)
+
+Hi Naren,
+
+I saw your LinkedIn post for the UI Developer role in McLean, VA (12-month W2 contract, hybrid 3 days) and would like to be considered. My resume is attached.
+
+- 10+ years of software development with Angular (TypeScript, RxJS) and React front ends over Java / Spring Boot and Python services on AWS, for Walmart Global Tech, IBM / AEP and HCSC.
+- Testing and quality: Jest, Cypress and Playwright suites in CI; raised coverage from 45% to 85% on a 1M-user healthcare app.
+- AWS: ECS/Fargate, Lambda, RDS, S3 and CloudFront with Docker-based pipelines on GitHub Actions and Jenkins.
+
+Available on W2. Relocating to the McLean area for the hybrid schedule is fine with me. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: saikumarp@technocompinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_UI_Developer_Plano.pdf
+Subject: React JS UI Developer – Plano, TX (onsite) – Aaron Ramirez (C2C)
+
+Hi Sai Kumar,
+
+I saw your LinkedIn post for the React JS UI Developer role in Plano, TX (onsite, 6 months, $63/hr C2C) and would like to be considered. I am Dallas-based and available for onsite work in Plano. My resume is attached.
+
+- 10+ years of software development, 7+ years hands-on React: Hooks, Context API, Redux / Redux Toolkit, TypeScript, Next.js (SSR), Webpack / Babel build tooling, REST API integration.
+- Enterprise React at scale for Walmart Global Tech (Seller Center marketplace, warehouse management system for 500K+ daily users), IBM / AEP and HCSC (1M+ members), including performance optimization (40% faster load via bundle splitting and list virtualization) and accessibility (WCAG).
+- Quality: Jest and React Testing Library standards that raised coverage from 45% to 85%, Git-based workflows with structured code review; led teams of 4 to 6 engineers.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
