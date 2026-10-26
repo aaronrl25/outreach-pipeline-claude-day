@@ -1,0 +1,18 @@
+To: vikas.a@metrixit.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python & React Full Stack Developer – Plano, TX – Aaron Ramirez (C2C)
+
+Hi Vikas,
+
+I saw your LinkedIn post for the Python & React Full Stack Developer role in Plano (hybrid, C2C) and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications end to end: React.js front ends in JavaScript / TypeScript with Redux and REST API integration, and Python (FastAPI, Flask, Django) and Node.js backends exposing REST APIs and microservices over SQL (PostgreSQL) and NoSQL (MongoDB).
+- Cloud and delivery: AWS and Azure, Docker, CI/CD on GitHub Actions, Jenkins and Azure DevOps, Git, Agile/Scrum.
+- Enterprise scale for Walmart Global Tech (Seller Center marketplace, billions in GMV), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: hr@shennovators.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: Senior React Frontend Developer – Aaron Ramirez (W2)
+
+Hello,
+
+I saw your LinkedIn post for the Senior React Frontend Developer openings with your banking and financial services client (W2, hybrid) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React.js: Hooks, functional components, reusable component architecture, custom hooks, Redux / Redux Toolkit, TypeScript, HTML5 / CSS3 responsive UI, REST API integration and asynchronous data patterns.
+- Front-end design patterns, SOLID principles and clean code on enterprise applications for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Testing and delivery: Jest, React Testing Library and Cypress standards that raised coverage from 45% to 85%; Git with CI/CD on GitHub Actions, Jenkins and Azure DevOps; performance optimization and debugging.
+
+Available on W2 for a hybrid schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

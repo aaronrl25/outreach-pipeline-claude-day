@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Full_Stack_Developer_Python_React",
+ "tagline": "Full Stack Developer  \u00b7  Python (FastAPI / Flask / Django) & Node.js  \u00b7  React.js, TypeScript  \u00b7  REST APIs, Microservices, SQL / NoSQL, AWS / Azure, Docker, CI/CD",
+ "location": "",
+ "summary": "Full Stack Engineer with 10+ years building production web platforms for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP, and HCSC. Front end in React.js, TypeScript, and Next.js (SSR, SSG, ISR, App Router patterns) with headless CMS integrations and Core Web Vitals performance work; back end in Python (FastAPI, Flask, Django) and Node.js / Express microservices exposing REST and GraphQL APIs over PostgreSQL and MongoDB. Deploys on AWS and Azure with Docker and GitHub Actions / Jenkins CI/CD; keeps quality high with Jest, React Testing Library, Cypress, and API integration tests. Owns features end to end from architecture through production debugging; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, Next.js (SSR, SSG, ISR), TypeScript",
+   "Python (FastAPI, Flask, Django) & Node.js Backends"
+  ],
+  [
+   "REST APIs, Microservices, PostgreSQL, MongoDB",
+   "Core Web Vitals, Performance Optimization, CDN"
+  ],
+  [
+   "JavaScript (ES6+), HTML5, CSS3, Responsive UI",
+   "Headless CMS Integration, Design Systems"
+  ],
+  [
+   "AWS & Azure, Docker, GitHub Actions / Jenkins CI/CD",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "E-Commerce & Enterprise Platforms: Walmart, AEP, HCSC",
+   "Architecture Ownership, Code Review, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, design systems, design tokens, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Detox, Supertest; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor (design-to-code, test generation, component scaffolding)",
+  "APIs & Backend:": "Python (FastAPI, Flask, Django), Node.js/Express, TypeScript, REST APIs, GraphQL, microservices, WebSockets/Socket.IO, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis"
+ }
+}

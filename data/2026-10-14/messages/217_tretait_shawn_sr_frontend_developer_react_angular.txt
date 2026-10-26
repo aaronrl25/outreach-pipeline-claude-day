@@ -1,0 +1,18 @@
+To: shawn@tretait.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf
+Subject: Sr. Frontend Developer – React / Angular – Aaron Ramirez (C2C/W2)
+
+Hi Shawn,
+
+I saw your LinkedIn post for the Sr. Frontend Developer requirement (React.js and Angular, enterprise client) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development: React.js (Hooks, Redux / Redux Toolkit, Next.js) and Angular (TypeScript, RxJS, NgRx) in JavaScript / TypeScript over HTML5 and CSS3 responsive design, with REST API and microservices integration.
+- UI architecture, design systems and component libraries, accessibility (WCAG) and web performance (Core Web Vitals) for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Jest and React Testing Library standards that raised coverage from 45% to 85%; Git / GitHub with CI/CD on GitHub Actions, Jenkins and Azure DevOps; Agile/Scrum working daily with UX, product and backend teams.
+
+Available on C2C or W2 for remote, hybrid or onsite work and ready to start on short notice. Glad to discuss rate and the details this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

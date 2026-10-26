@@ -1,0 +1,18 @@
+To: prasanna@eversoftit.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Backend Developer – Strong React.js – Charlotte, NC – Aaron Ramirez (C2C)
+
+Hi Prasanna,
+
+I saw your LinkedIn post for the Backend Developer with strong React.js opening in Charlotte (hybrid, C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of software development building Java / Spring Boot microservices and REST APIs behind React.js front ends for Walmart Global Tech (Seller Center marketplace), IBM / AEP and HCSC's HIPAA member platform in the healthcare-benefits space.
+- React.js: reusable components, Hooks, Redux / Redux Toolkit state management, TypeScript, HTML5 / CSS3; SQL on PostgreSQL and MySQL; unit and integration testing with JUnit, Jest and React Testing Library.
+- Delivery: AWS and Azure, Docker, Kubernetes, CI/CD on Jenkins, GitHub Actions and Azure DevOps, Git, Agile/Scrum. Available for an in-person interview.
+
+Available on C2C and ready to start on short notice. Glad to discuss rate and the details this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: sandeep.bisht@snnsllc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.pdf
+Subject: Technical Lead – TypeScript / Node.js / React – Plano, TX – Aaron Ramirez
+
+Hi Sandeep,
+
+I saw your LinkedIn post for the Technical Lead role in Plano (hybrid, Node.js / TypeScript with React) and would like to be considered. My resume is attached.
+
+- 10+ years of software development with expert-level TypeScript across the stack: Node.js / Express APIs and services, and React front ends for enterprise applications at Walmart Global Tech, IBM / AEP and HCSC.
+- Backend architecture: designed REST and GraphQL services, authentication with JWT and OAuth, deployments on AWS (Lambda, ECS, S3) with Docker and CI/CD on GitHub Actions and Jenkins.
+- Technical discovery and solution design: led teams of 5–7 engineers from architecture through delivery, code review and coding standards, Agile/Scrum. Comfortable with a coding assessment as part of the process.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: nikhil@hexgs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Sr. Front-End Engineer (React + Java Spring) – Wilmington, DE – Aaron Ramirez
+
+Hi Nikhil,
+
+I saw your LinkedIn post for the Sr. Front-End Engineer (React + Java Spring) role in Wilmington and would like to be considered. My resume is attached.
+
+- 10+ years of software engineering with expert React, TypeScript and JavaScript: front-end architecture, component libraries, state management (Redux Toolkit, React Query), performance optimization and testing (Jest, React Testing Library, Cypress).
+- Java / Spring Boot services with REST and GraphQL contracts behind the front ends at Walmart Global Tech (Seller Center marketplace, billions in GMV), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Accessibility (WCAG), web security and observability (Dynatrace) in production; AI-assisted development with Claude Code and GitHub Copilot in daily use. LinkedIn profile: linkedin.com/in/aaronsoftware.
+
+Available on C2C or W2 for a 5-day onsite schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

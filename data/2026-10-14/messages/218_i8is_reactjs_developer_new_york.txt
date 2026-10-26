@@ -1,0 +1,18 @@
+To: itjobs@i8is.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: ReactJS Developer – New York (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Bijan,
+
+I saw your LinkedIn post for the ReactJS Developer role in New York (hybrid, C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development, 7+ hands-on React.js: Hooks, functional components, reusable UI component libraries, Redux Toolkit and Context API state management, REST and GraphQL API integration, performance optimization across browsers and devices.
+- JavaScript (ES6+), TypeScript, HTML5, CSS3 / SASS, Webpack and Vite build tooling, npm / Yarn, and test automation with Jest, React Testing Library and Cypress.
+- Single-page applications at enterprise scale for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members), collaborating daily with backend engineers, UX designers and product stakeholders.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

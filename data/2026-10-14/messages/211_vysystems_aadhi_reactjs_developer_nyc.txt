@@ -1,0 +1,18 @@
+To: aadhi@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: ReactJS Developer – New York – Aaron Ramirez (C2C)
+
+Hi Aadhi,
+
+I saw your LinkedIn post for the ReactJS Developer opening in New York (C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React.js: JavaScript (ES6+), TypeScript, Hooks, Redux / Redux Toolkit, reusable component libraries, REST API integration, unit testing with Jest and React Testing Library.
+- Java integration: built and consumed Java / Spring Boot REST services behind React front ends at Walmart Global Tech (Seller Center marketplace), IBM / AEP and HCSC; Docker and Kubernetes deployments with CI/CD on Jenkins, GitHub Actions and Azure DevOps.
+- Technical leadership: led front-end delivery for teams of 5–7 engineers, code review and coding standards, Agile/Scrum.
+
+Available on C2C and ready to start on short notice. Glad to discuss rate and the details this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

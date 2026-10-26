@@ -1,0 +1,18 @@
+To: john@succortechnologyservices.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: Sr React Frontend Developer – Alpharetta, GA – Aaron Ramirez
+
+Hi John,
+
+I saw your LinkedIn post for the Sr React Frontend Developer role in Alpharetta (C2C/W2) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development, 7+ hands-on React.js: JavaScript (ES6+), TypeScript, Hooks, Redux / Redux Toolkit, reusable component libraries and design systems, REST API integration, performance optimization.
+- Enterprise React at scale for Walmart Global Tech (Seller Center marketplace, billions in GMV), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Jest and React Testing Library standards that raised coverage from 45% to 85%; Git and CI/CD on GitHub Actions, Jenkins and Azure DevOps; Agile/Scrum with code review and mentoring.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: roshini.d@eraytec.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf
+Subject: Angular Developer – Buffalo, NY (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Roshini,
+
+I saw your LinkedIn post and would like to be considered for the Angular Developer opening (position 3, Buffalo NY, hybrid). My resume is attached.
+
+- 10+ years of front-end development with Angular (TypeScript, RxJS, NgRx, Angular Material) and React.js: reusable component libraries, state management, REST API integration, HTML5 / CSS3 / SCSS responsive UI, accessibility and performance.
+- Node.js / Express and Java / Spring Boot REST services behind the front ends for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Testing and delivery: Jest, React Testing Library and Cypress; Git with CI/CD on GitHub Actions, Jenkins and Azure DevOps; Agile/Scrum with code review.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

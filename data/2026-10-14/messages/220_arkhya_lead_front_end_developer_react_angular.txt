@@ -1,0 +1,18 @@
+To: himanshuk@arkhyatech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Lead Front End Developer (React / Angular) – Mountain View, CA – Aaron Ramirez (C2C)
+
+Hi Himanshu,
+
+I saw your LinkedIn post and would like to be considered for the Lead Front End Developer opening (position 2, React or Angular; Mountain View or Columbus, hybrid, C2C). My resume is attached, and my LinkedIn profile is linkedin.com/in/aaronsoftware.
+
+- 10+ years of front-end development, 7+ hands-on React.js, plus Angular (TypeScript, RxJS, NgRx): reusable component libraries and design systems, Redux / Redux Toolkit state management, REST API integration, HTML5 / CSS3 responsive UI, performance optimization.
+- Led front-end teams of 5–7 engineers for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members): architecture, code review, coding standards and mentoring.
+- Jest and React Testing Library standards that raised coverage from 45% to 85%; Webpack / Vite build tooling; Git with CI/CD on GitHub Actions, Jenkins and Azure DevOps; Agile/Scrum.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

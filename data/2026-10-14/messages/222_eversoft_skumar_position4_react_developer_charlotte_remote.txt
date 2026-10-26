@@ -1,0 +1,18 @@
+To: skumar.reddy@eversoftit.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Position 4: React Developer – Strong Backend Knowledge – Charlotte, NC (Remote) – Aaron Ramirez
+
+Hi,
+
+I saw your LinkedIn hiring alert and would like to be considered for Position 4, React Developer with strong backend knowledge (Charlotte, remote). My resume is attached.
+
+- 10+ years of software development, 7+ hands-on React.js: Hooks, TypeScript, Redux / Redux Toolkit, reusable component libraries, REST API integration, performance optimization, Jest and React Testing Library.
+- Backend depth: Java / Spring Boot microservices and Node.js services exposing REST and GraphQL APIs over PostgreSQL and MongoDB, with AWS and Azure deployments, Docker and CI/CD on Jenkins, GitHub Actions and Azure DevOps.
+- Enterprise scale for Walmart Global Tech (Seller Center marketplace, billions in GMV), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+
+Available on C2C or W2 for remote work. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
