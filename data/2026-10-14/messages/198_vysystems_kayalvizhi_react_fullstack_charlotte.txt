@@ -1,0 +1,18 @@
+To: kayalvizhi@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Resume_Software_Engineer_General.docx (sent via Gmail connector while Chrome was disconnected)
+Subject: Full-stack Developer with React JS – Charlotte, NC – Aaron Ramirez (C2C)
+
+Hi Kayalvizhi,
+
+I saw your LinkedIn post for the Full-stack Developer with React JS role in Charlotte, NC (C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development: React / TypeScript front ends with Node.js, Java / Spring Boot and C# / .NET services, REST APIs and microservices over PostgreSQL and SQL Server, for Walmart Global Tech, IBM / AEP and HCSC.
+- Enterprise React at scale: Walmart Seller Center (marketplace, billions in GMV) and warehouse management system (500K+ daily users), AEP's field-operations platform (10+ microservices), HCSC's HIPAA member platform (1M+ members).
+- Delivery: GitHub Actions, Azure DevOps and Jenkins CI/CD, Docker on AWS and Azure, Jest / React Testing Library / Cypress; Agile/Scrum with code review and mentoring.
+
+Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -11322,5 +11322,24 @@
   "msg": "",
   "status": "SKIPPED – duplicate req",
   "src": "LinkedIn C2C sweep 2026-10-26 09:30"
+ },
+ {
+  "company": "VY Systems (4th recruiter)",
+  "role": "Full-stack Developer with React JS",
+  "loc": "Charlotte, NC",
+  "arr": "Onsite, locals only",
+  "type": "C2C",
+  "pay": "Not stated",
+  "posted": "2026-10-26",
+  "skills": "React JS full stack (post has no JD)",
+  "visa": "Not stated",
+  "recruiter": "Kayalvizhi",
+  "contact": "kayalvizhi@vysystems.com",
+  "link": "",
+  "fit": "Fit; no location stated in email",
+  "resume": "Aaron_Ramirez_Resume_Software_Engineer_General.docx",
+  "msg": "198_vysystems_kayalvizhi_react_fullstack_charlotte.txt",
+  "status": "SENT 2026-10-26",
+  "src": "LinkedIn C2C sweep 2026-10-26 09:30 (locals-only rule)"
  }
 ]
