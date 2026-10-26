@@ -550,3 +550,8 @@
 {"ts": "2026-10-26T08:50:00-05:00", "src": "inbox", "email": "crynn@apexsystems.com", "company": "Apex Systems (Connor Rynn)", "role": "React Native Interview – Teams invite", "loc": "", "type": "", "action": "aaron_handles", "reason": "Aaron: dont answer connor"}
 {"ts": "2026-10-26T08:50:00-05:00", "src": "inbox", "email": "demianovaviktoriia5@gmail.com", "company": "Viktoriia Demianova", "role": "AI eval contractor – replied twice, role active", "loc": "Remote", "type": "Freelance", "action": "aaron_handles", "reason": "Aaron: dont answer vik"}
 {"ts": "2026-10-26T08:50:00-05:00", "src": "inbox", "email": "robert@ampstek.com", "company": "Ampstek (Robert)", "role": "AI Engineer San Leandro – asked visa/location", "loc": "San Leandro", "type": "C2C", "action": "aaron_replied", "reason": "Aaron answered: TN visa, San Francisco"}
+{"ts": "2026-10-26T09:00:00-05:00", "src": "gmail-connector", "email": "nsaha@trianotechnologies.com", "company": "", "role": "", "loc": "", "type": "", "action": "sent", "msg": "193"}
+{"ts": "2026-10-26T09:00:00-05:00", "src": "gmail-connector", "email": "saikumarp@technocompinc.com", "company": "", "role": "", "loc": "", "type": "", "action": "sent", "msg": "194"}
+{"ts": "2026-10-26T09:00:00-05:00", "src": "gmail-connector", "email": "saiteja@ss-tech.us", "company": "", "role": "", "loc": "", "type": "", "action": "sent", "msg": "195"}
+{"ts": "2026-10-26T09:00:00-05:00", "src": "gmail-connector", "email": "naren@caritatech.com", "company": "", "role": "", "loc": "", "type": "", "action": "sent", "msg": "196"}
+{"ts": "2026-10-26T09:00:00-05:00", "src": "gmail-connector", "email": "careers@druthion.com", "company": "", "role": "", "loc": "", "type": "", "action": "sent", "msg": "191"}
