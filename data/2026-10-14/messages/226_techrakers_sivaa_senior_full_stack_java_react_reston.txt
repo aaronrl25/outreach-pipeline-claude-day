@@ -1,0 +1,18 @@
+To: sivaa@techrakers.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+Subject: Senior Full-Stack Software Engineer – Java / React – Reston, VA – Aaron Ramirez (W2)
+
+Hi Siva,
+
+Following up on the UX Engineer / Angular note I sent last Thursday: I saw your new post for the Senior Full-Stack Software Engineer role in Reston (hybrid, W2) and would like to be considered. My Java / React resume is attached.
+
+- 10+ years of full-stack development with React.js (TypeScript, Redux Toolkit, React Query) and Java / Spring Boot REST APIs over PostgreSQL for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Cloud-native delivery: Docker and Kubernetes deployments on AWS and Azure, CI/CD on Jenkins, GitHub Actions and Azure DevOps, production support and troubleshooting with Dynatrace observability.
+- Available on W2 for the 6-month engagement with extension or conversion, and comfortable across full-stack development, Kubernetes deployments and production support.
+
+Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
