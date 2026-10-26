@@ -11284,5 +11284,43 @@
   "msg": "",
   "status": "INTERVIEW – Aaron handles",
   "src": "LinkedIn C2C sweep 2026-10-26 08:15"
+ },
+ {
+  "company": "Congensys (2nd role)",
+  "role": "Senior React Developer (3 openings)",
+  "loc": "Whippany, NJ",
+  "arr": "Not stated",
+  "type": "W2 only",
+  "pay": "Not stated",
+  "posted": "2026-10-26",
+  "skills": "React 8+, Hooks, TS, Next.js, CSS Modules/Tailwind, Webpack/Vite, CI/CD",
+  "visa": "No H1B/OPT",
+  "recruiter": "Venkat Kamisetti",
+  "contact": "venkat.k@congensys.com",
+  "link": "https://www.linkedin.com/in/venkat-kamisetti-28a93514a/",
+  "fit": "Strong; follow-up to #158",
+  "resume": "Aaron_Ramirez_Senior_React_Developer.pdf",
+  "msg": "197_congensys_senior_react_whippany.txt",
+  "status": "SENT 2026-10-26",
+  "src": "LinkedIn C2C sweep 2026-10-26 09:30"
+ },
+ {
+  "company": "Cloudeminent",
+  "role": "React JS Developer 10+",
+  "loc": "Whippany, NJ",
+  "arr": "",
+  "type": "C2C",
+  "pay": "$50/hr",
+  "posted": "2026-10-26",
+  "skills": "",
+  "visa": "",
+  "recruiter": "Hema",
+  "contact": "hema@cloudeminent.com",
+  "link": "",
+  "fit": "Same req as Congensys #197",
+  "resume": "",
+  "msg": "",
+  "status": "SKIPPED – duplicate req",
+  "src": "LinkedIn C2C sweep 2026-10-26 09:30"
  }
 ]

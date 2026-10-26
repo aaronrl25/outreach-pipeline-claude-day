@@ -1,0 +1,18 @@
+To: venkat.k@congensys.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: Senior React Developer – Whippany, NJ – Aaron Ramirez (W2)
+
+Hi Venkat,
+
+Following up on the Angular Front-End note I sent last week: I saw your new post for the Senior React Developer openings in Whippany, NJ (W2) and would like to be considered for one of the three positions. My React resume is attached.
+
+- 10+ years of front-end development, 7+ hands-on React: functional components, Hooks, lifecycle patterns, TypeScript, Next.js, and modern styling (CSS Modules, Styled Components, Tailwind, Sass).
+- Build and delivery tooling: Webpack, Vite, Babel, npm/Yarn, Git with GitHub/GitLab, and CI/CD on GitHub Actions, Azure DevOps and Jenkins.
+- Enterprise React at scale for Walmart Global Tech, IBM / AEP and HCSC: Seller Center marketplace, a warehouse system for 500K+ daily users, and a HIPAA member platform for 1M+ members; Jest and React Testing Library standards that raised coverage from 45% to 85%.
+
+Available on W2 and USA-based. Whippany, NJ onsite or hybrid works for me, relocating is fine. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
