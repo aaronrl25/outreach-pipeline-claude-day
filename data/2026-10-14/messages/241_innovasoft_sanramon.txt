@@ -1,0 +1,18 @@
+To: pooja@innovasoftservices.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Front_End_Engineer_React_NextJS_TypeScript_Ecommerce.pdf
+Subject: Retail Frontend Senior Developer – Next.js & React / Python – San Ramon, CA – Aaron Ramirez (C2C)
+
+Hi Pooja,
+
+I saw your LinkedIn post for the Retail Frontend Senior Developer (Next.js & React / Python) role in San Ramon and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development, with React.js and Next.js (SSR / SSG) in TypeScript for retail and e-commerce at scale: Walmart Global Tech's Seller Center marketplace, plus enterprise platforms for IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- GraphQL and REST API integration with Python (FastAPI, Flask, Django) and Node.js backends; design systems, reusable component libraries, Core Web Vitals and accessibility.
+- CI/CD on GitHub Actions and Jenkins, Jest and React Testing Library, Agile/Scrum with code review.
+
+Available on C2C and for onsite work in San Ramon. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
