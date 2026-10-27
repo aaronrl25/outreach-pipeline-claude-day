@@ -1,0 +1,18 @@
+To: kajal.y@worknovasllc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Software Developer III – Miramar / Melbourne, FL (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Kajal,
+
+I saw your LinkedIn post for the Software Developer III hybrid contract-to-hire in Miramar / Melbourne and would like to be considered. My resume is attached.
+
+- 10+ years of front-end-led full stack development: React.js in JavaScript / TypeScript with CSS / SASS and Bootstrap, Node.js services, and C# / .NET (ASP.NET Core, Web API) backends in Visual Studio with Azure DevOps CI/CD and SQL Server.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members), including maintenance and troubleshooting of existing systems.
+- AI-assisted development across the lifecycle (Claude Code, GitHub Copilot) for coding, refactoring, tests, documentation and code review, with independent validation of generated code for correctness, security, test coverage and maintainability.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
