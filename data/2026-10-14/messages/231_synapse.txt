@@ -1,0 +1,18 @@
+To: d.ranjan@synapsebsystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Lead / Sr. Java Angular Full Stack Engineer – Remote – Aaron Ramirez (W2)
+
+Hi Divyanshu,
+
+I saw your LinkedIn post for the Lead / Sr. Java Angular Full Stack Engineer (remote, W2) and would like to be considered. My resume is attached.
+
+- 10+ years owning web applications end to end: Angular (10+ through current versions, TypeScript, RxJS, NgRx) front ends on Java 8+ / Spring MVC and Spring REST backends, with both SOAP and RESTful web services and SQL / relational databases.
+- Backend microservices and APIs alongside modern UI work for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- Lead experience: architecture, code review and mentoring; AWS, Jenkins and GitHub Actions CI/CD, Agile/Scrum.
+
+Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: vinod.b@centraprise.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Full Stack Developer (Angular) – Westborough, MA – Aaron Ramirez (C2C)
+
+Hi Vinod,
+
+I saw your LinkedIn post for the Java Full Stack Developer (Angular) contract in Westborough and would like to be considered. My resume is attached, and my LinkedIn is linkedin.com/in/aaronsoftware.
+
+- 10+ years of full stack development: Java / Spring Boot REST services and microservices behind Angular (TypeScript, RxJS, NgRx) and React front ends.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+- AWS, Docker, Jenkins and GitHub Actions CI/CD, JUnit and Jest testing, Agile/Scrum with code review.
+
+Available on C2C and open to an in-person client interview. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

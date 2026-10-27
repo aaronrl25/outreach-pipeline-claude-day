@@ -1,0 +1,18 @@
+To: Satyam.g@valzosoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf
+Subject: AWS Full Stack Engineer (Angular, Node.js) – Malvern, PA / Charlotte, NC – Aaron Ramirez (C2C)
+
+Hi Satyam,
+
+I saw your LinkedIn post for the AWS Full Stack Engineer (Angular, Node.js, AWS) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Angular 2+ (TypeScript, RxJS, NgRx) front ends and Node.js / Express REST APIs, built as cloud-native applications on AWS.
+- AWS: Lambda, API Gateway, S3, ECS and DynamoDB / PostgreSQL; Docker, CI/CD on GitHub Actions and Jenkins, Agile/Scrum.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

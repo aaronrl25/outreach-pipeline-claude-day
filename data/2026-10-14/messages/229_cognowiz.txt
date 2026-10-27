@@ -1,0 +1,18 @@
+To: aafrin.dilkash@cognowiz.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior Full Stack Software Engineer (Python, React, AWS) – Houston, TX – Aaron Ramirez (C2C)
+
+Hi Aafrin,
+
+I saw your LinkedIn post for the Senior Full Stack Software Engineer (Python, React, AWS) contract in Houston and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications end to end: React.js front ends in JavaScript / TypeScript, and Python (FastAPI, Flask, Django) and Node.js backends exposing REST APIs and microservices over PostgreSQL and MongoDB.
+- Utilities domain: at IBM I built the warehouse management platform for AEP (American Electric Power), a high-volume system with 500K+ daily users, including application integration and production support.
+- Cloud and delivery: AWS, Docker and Kubernetes, CI/CD on GitHub Actions and Jenkins, Agile/Scrum. Also Walmart Global Tech (Seller Center marketplace) and HCSC (HIPAA member platform, 1M+ members).
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
