@@ -1,0 +1,18 @@
+To: rohit.kumar@diverselynx.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: React Developer – Healthcare – Remote – Aaron Ramirez (C2C)
+
+Hi Rohit,
+
+I saw your LinkedIn post for the remote React Developer role (healthcare domain) and would like to be considered for Position 1. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in React.js, JavaScript (ES6+), TypeScript, HTML5 / CSS3, Redux and Hooks, with RESTful API integration.
+- Healthcare experience at HCSC (1M+ members): member and claims-facing React applications with role-based access for PHI/PII, HIPAA-aware UI patterns and WCAG 2.1 AA accessibility.
+- Enterprise delivery for Walmart Global Tech and IBM / AEP (500K+ daily users): reusable component libraries, front-end performance optimization, Jest / React Testing Library and CI/CD on GitHub Actions and Jenkins.
+
+Available on C2C and for fully remote work. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

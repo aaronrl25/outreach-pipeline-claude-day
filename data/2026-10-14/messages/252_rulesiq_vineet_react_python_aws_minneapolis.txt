@@ -1,0 +1,18 @@
+To: Vineet.Kumar@rulesiq.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior Full Stack Developer – React / Python / AWS – Digital Banking – Minneapolis, MN – Aaron Ramirez (C2C)
+
+Hi Vineet,
+
+I saw your LinkedIn post for the Senior Full Stack Developer (Digital Banking) role in St. Louis Park, Minneapolis and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development with 8+ hands-on in React.js (responsive UI, TypeScript, Redux, Hooks) and Python backend services with FastAPI / Flask and REST API design.
+- AWS: Lambda and serverless services, S3, EC2, RDS and CloudFront, with CI/CD on GitHub Actions and Jenkins and source control on GitHub.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): greenfield builds, reusable component libraries, coding standards and code review in Agile teams with Jira and Confluence.
+
+Comfortable being the first developer on a new team and owning end-to-end delivery. Available on C2C and for the hybrid schedule (onsite 3 days per week). Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
