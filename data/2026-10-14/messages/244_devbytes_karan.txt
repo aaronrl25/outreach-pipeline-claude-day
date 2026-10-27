@@ -1,0 +1,18 @@
+To: Karan@Devbytes.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Senior .NET Front-End / Accessibility Developer (WCAG 2.1 AA) – Remote – Aaron Ramirez (C2C)
+
+Hi Karan,
+
+I saw your LinkedIn post for the .NET front-end developer role with WCAG 2.1 AA and Section 508 requirements and would like to be considered. My resume is attached, and my code samples and portfolio are at github.com/aaronrl25 and aron.software.
+
+- 10+ years building enterprise web applications: C# / .NET (ASP.NET Core and MVC, Web API) with SQL Server, REST APIs and middleware integrations, and front ends in HTML5, CSS / Sass, JavaScript / TypeScript, Angular and React.
+- UX/UI and accessibility: responsive design, enterprise design systems and reusable component libraries, WCAG 2.1 AA and Section 508 conformance with axe and screen-reader testing on HCSC's HIPAA-governed member portal (Blue Cross Blue Shield, 1M+ members) and Walmart's Seller Center.
+- Azure DevOps CI/CD pipelines, GitHub, AWS, Docker; production application support and application modernization for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC, including sensitive-data handling in healthcare.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
