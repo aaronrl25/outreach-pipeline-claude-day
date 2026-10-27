@@ -1,0 +1,18 @@
+To: sachin.tyagi@synkriom.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: ReactJS UI Developer – New York, NY – Aaron Ramirez (C2C) – TN visa
+
+Hi Sachin,
+
+I saw your LinkedIn post for the ReactJS UI Developer role in New York, NY and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in ReactJS: JavaScript (ES6+) and TypeScript, Hooks, Redux / Redux Toolkit, reusable component libraries and REST API integration with authenticated sessions and robust error and loading states.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): responsive, accessible UI, performance optimization (Core Web Vitals) and Jest / React Testing Library / Cypress coverage.
+- CI/CD on GitHub Actions and Jenkins, Agile/Scrum with code review and mentoring.
+
+Visa: TN (employer-supported, renewable, no lottery). Available on C2C and open to the New York location. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
