@@ -13692,7 +13692,7 @@
   "recruiter": "Roshan Kumar",
   "contact": "roshan@vyzeinc.com",
   "link": "https://www.linkedin.com/in/roshan-kumar-219890187/",
-  "fit": "Angular + Node + AWS; W2 fine; KMS/Step Functions/NX not claimed; location not mentioned; offered CodeByte within 24h",
+  "fit": "Angular + Node + AWS; W2 fine; KMS/Step Functions/NX not claimed; location not mentioned; offered CodeByte within 24h | 10-27 13:30: phone call done, Roshan asked to confirm $65/hr W2 all-inclusive (Fidelity via prime vendor) + visa/DL/DOB/SSN4/refs – Aaron; JD-tailored resume built: Aaron_Ramirez_Vyze_Fidelity_Full_Stack_Developer_Angular_Node_AWS_Westlake.pdf",
   "resume": "Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf",
   "msg": "248_vyze_angular_aws.txt",
   "status": "SENT 2026-10-27",
@@ -14153,5 +14153,24 @@
   "msg": "",
   "status": "NOT SENT – bench/junior/non-fit/Canada",
   "src": "LinkedIn sweep 2026-10-27 13:30"
+ },
+ {
+  "company": "Mountgraph (Rojer) – 2nd role",
+  "role": "UI Developer / React JS Developer – React JS (Redux), TypeScript, Material UI, REST API; health domain; 8+ yrs; in-person interview, 2 rounds; apply by 10/28",
+  "loc": "Richardson, TX (hybrid 3 days; TX locals only)",
+  "type": "W2 / C2C",
+  "pay": "\"Good\"",
+  "skills": "React JS, Redux, TypeScript, Material UI, REST API",
+  "visa": "Not stated",
+  "recruiter": "Rojer",
+  "contact": "rojer@mountgraph.com",
+  "link": "",
+  "fit": "Screenshot from Aaron; short follow-up to #110 (10-19 Angular note said Bay Area, so no location stated); new overlay Mountgraph_React_JS_UI_Developer_Healthcare_Richardson (location-free, MUI + HCSC healthcare)",
+  "resume": "Aaron_Ramirez_Mountgraph_React_JS_UI_Developer_Healthcare_Richardson.pdf",
+  "msg": "258_mountgraph_rojer_react_ui_developer_richardson.txt",
+  "arr": "",
+  "posted": "2026-10-27",
+  "status": "SENT 2026-10-27",
+  "src": "Aaron screenshot 2026-10-27 13:40"
  }
 ]

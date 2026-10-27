@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Mountgraph_React_JS_UI_Developer_Healthcare_Richardson",
+ "tagline": "UI Developer / React JS Developer  ·  React.js, Redux, TypeScript, Material UI  ·  REST API Integration  ·  Enterprise Healthcare & Marketplace Applications  ·  8+ Years Front End",
+ "location": "",
+ "summary": "UI Developer with 10+ years of front-end engineering (8+ years in React.js) building enterprise-level applications for Walmart Global Tech, IBM/AEP, and HCSC, including a HIPAA-compliant healthcare member platform serving 1M+ Blue Cross Blue Shield members. Builds responsive, accessible UIs in React with Redux / Redux Toolkit, TypeScript, and Material UI (MUI) component libraries and design systems, consuming RESTful APIs with authenticated, encrypted sessions and robust error and loading states. Owns the full front-end lifecycle: component architecture, reusable libraries, performance optimization (code splitting, lazy loading, list virtualization, Core Web Vitals), Jest / React Testing Library / Cypress coverage, and GitHub Actions / Jenkins CI/CD in two-week Agile/Scrum sprints. Partners with UX designers in Figma, leads code review and mentoring, and monitors production with Dynatrace. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js (8+ yrs), Redux / Redux Toolkit, React Hooks",
+   "TypeScript & JavaScript (ES6+), HTML5, CSS3/SCSS"
+  ],
+  [
+   "Material UI (MUI), Design Systems, Reusable Component Libraries",
+   "RESTful API Integration, Authentication, Error & Loading States"
+  ],
+  [
+   "Enterprise Healthcare (HIPAA) & Marketplace Applications",
+   "Responsive, Accessible UI (WCAG 2.1, ARIA), Figma Handoff"
+  ],
+  [
+   "Performance: Code Splitting, Lazy Loading, Core Web Vitals",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "GitHub Actions / Jenkins CI/CD, AWS / Azure",
+   "Code Review, Mentoring, Agile/Scrum, Jira"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Redux / Redux Toolkit, TypeScript, JavaScript (ES6+), React Hooks, Context API, React Query, Material UI (MUI), Styled Components, Tailwind, HTML5, CSS3/SCSS, Storybook, design systems, accessibility (WCAG 2.1, ARIA), Core Web Vitals",
+  "State & Data:": "Redux / Redux Toolkit, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation (React Hook Form, Formik), responsive layouts, i18n",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Supertest; accessibility audits (axe), code review, performance profiling, Lighthouse"
+ }
+}

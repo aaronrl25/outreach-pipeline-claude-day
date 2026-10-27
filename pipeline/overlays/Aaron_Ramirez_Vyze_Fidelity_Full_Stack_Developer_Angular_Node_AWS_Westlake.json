@@ -1,0 +1,37 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Vyze_Fidelity_Full_Stack_Developer_Angular_Node_AWS_Westlake",
+ "tagline": "Full Stack Developer  ·  Angular 18+, TypeScript, Core JavaScript, HTML5 / CSS  ·  Node.js / NestJS REST & GraphQL APIs  ·  AWS Serverless (Lambda, S3), EKS / Kubernetes  ·  Automated Testing, CI/CD, Two-Week Release Cadence",
+ "location": "Dallas–Fort Worth, TX  ·  Westlake hybrid (onsite every other week)  ·  W2",
+ "summary": "Full Stack Developer with 10+ years delivering production UIs and the services behind them for Walmart Global Tech, IBM/AEP, and HCSC, roughly 60–70% front end and the rest backend and operations. Front ends in Angular 18+ (standalone components, signals, TypeScript, RxJS, NgRx, Angular Material) and React with core JavaScript (ES6+), HTML5, and CSS/SCSS; backends in Node.js / TypeScript (Express, NestJS) designing and consuming RESTful APIs with versioning, pagination, error-contract and OpenAPI conventions, plus GraphQL, over PostgreSQL and MongoDB. Builds, deploys, and runs applications on AWS (Lambda and serverless, S3, ECS/Fargate and EKS/Kubernetes, RDS, CloudFront) with Docker and GitHub Actions / Jenkins / Azure DevOps pipelines gated by Jest, Jasmine/Karma, Cypress, and Supertest, shipping to end users every two weeks and as often as daily. Owns production support with Dynatrace (cut P1 mean time to resolution by 50%), micro-frontend architecture (Module Federation, Electrode Native), and code review and mentoring in Agile/Scrum teams. Experience in regulated, high-compliance domains (HIPAA healthcare, marketplace transactions). GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Angular 18+ (Standalone Components, Signals, TypeScript, RxJS, NgRx)",
+   "Core JavaScript (ES6+), HTML5, CSS3/SCSS, Responsive UI"
+  ],
+  [
+   "Node.js / TypeScript (Express, NestJS), npm Package Management",
+   "RESTful API Design & Consumption, GraphQL, OpenAPI"
+  ],
+  [
+   "AWS: Lambda / Serverless, S3, EKS & Kubernetes, ECS/Fargate, RDS",
+   "Docker, GitHub Actions, Jenkins, Azure DevOps CI/CD"
+  ],
+  [
+   "Automated Testing: Jest, Jasmine/Karma, Cypress, Supertest",
+   "Two-Week to Daily Release Cadence, Production Support (Dynatrace)"
+  ],
+  [
+   "Micro-Frontends (Module Federation, Electrode Native), Design Systems",
+   "Code Review, Mentoring, Agile/Scrum, Jira"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, core JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, responsive design, accessibility (WCAG), Core Web Vitals",
+  "State & Data:": "RxJS / NgRx, Redux Toolkit, React Query, forms & validation, responsive layouts, i18n, OpenAPI / Swagger API contracts",
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS), RESTful API design (versioning, pagination, idempotency, error contracts), GraphQL, WebSockets/Socket.IO, microservices, JWT/RBAC auth, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (Lambda, S3, EKS/Kubernetes, ECS/Fargate, RDS, CloudFront, CloudWatch), Azure (App Service, DevOps, AI Services); Docker, GitHub Actions, Jenkins, Azure DevOps; Dynatrace monitoring and incident response",
+  "Testing & Quality:": "Jest, Jasmine, Karma, Cypress, Supertest, React Testing Library; automated CI test gates, code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum with two-week releases, Jira, Figma, Storybook, Git/GitHub, mentoring; GitHub Copilot, Claude Code, Cursor"
+ }
+}

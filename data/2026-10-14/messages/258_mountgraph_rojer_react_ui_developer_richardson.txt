@@ -1,0 +1,18 @@
+To: rojer@mountgraph.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Mountgraph_React_JS_UI_Developer_Healthcare_Richardson.pdf
+Subject: UI Developer / React JS Developer – Richardson, TX (Hybrid) – Health – Aaron Ramirez (W2 / C2C)
+
+Hi Rojer,
+
+Following up on my note of October 19 about the Angular Engineer positions: I saw your post today for the UI Developer / React JS Developer role in Richardson, TX (hybrid, health domain) and would like to be considered for it as well. A resume tailored to this role is attached.
+
+- 10+ years of front-end engineering with 8+ hands-on in React JS: Redux / Redux Toolkit, TypeScript, Material UI component libraries and design systems, and REST API integration.
+- Enterprise healthcare experience: led HCSC's HIPAA-compliant React member platform (1M+ Blue Cross Blue Shield members: digital ID cards, claims, provider search, secure messaging), plus Walmart Global Tech and IBM / AEP platforms at 500K+ daily users.
+- Jest / React Testing Library / Cypress coverage, GitHub Actions and Jenkins CI/CD, and in-person-ready for the two interview rounds.
+
+Available on W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
