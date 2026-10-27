@@ -1,0 +1,139 @@
+{
+ "roles": [
+  {
+   "title": "Staff Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Spearheaded React / TypeScript development for Seller Center, Walmart's marketplace platform (billions in annual GMV), including seller KPI, order-status, and exception dashboards with drill-down views on Recharts and D3; set architecture standards, code review protocols, and design documentation for a squad of 6+ engineers.",
+    "Built Python (FastAPI) services for reporting, reconciliation, and agent orchestration alongside Node.js middleware, including a GenAI seller-support assistant on the Claude API with LangChain tool-calling agents whose recommendations and evidence were reviewed and approved in the UI.",
+    "Shipped through GitHub Actions CI/CD with Jest, React Testing Library, Supertest, and PyTest gates; containerized React, Node.js, and Python services with Docker on AWS ECS/Fargate with RDS PostgreSQL; logging and telemetry in Dynatrace."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends and operational dashboards (work-order status, exceptions, crew KPIs with drill-down) for AEP's field operations platform, integrating 10+ microservice REST APIs used by thousands of utility technicians.",
+    "Developed Python (Flask / FastAPI) integration services and Pandas-based reconciliation jobs feeding the dashboards; implemented JWT / role-based authorization and offline-tolerant sync; integrated Azure AI Services / Azure OpenAI to summarize and classify field notes with human-in-the-loop review.",
+    "Automated Azure DevOps pipelines with Docker agents and Jest / PyTest gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking, telemetry), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
+   "bullets": [
+    "Delivered React (TypeScript) features and inventory KPI / exception dashboards for Walmart's warehouse management system (500K+ daily active associates), consuming Node.js and Python (FastAPI) REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest / React Testing Library test infrastructure, raising coverage to 80%+ and cutting regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior React Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application for 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims and encounter views, provider search, push notifications, and secure messaging over REST APIs with encrypted sessions and role-based access to PHI/PII.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% with continuous delivery through Jenkins CI/CD; met WCAG 2.1 AA accessibility and security review requirements."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "State & Data:",
+   "Redux / Redux Toolkit, Zustand, React Context, TanStack Query (React Query), Redux Saga, RxJS; dashboards and data visualization with Recharts, D3.js, Plotly, Chart.js; drill-down tables, virtualization"
+  ],
+  [
+   "APIs & Backend:",
+   "Python (FastAPI, Flask, Django, Pydantic, SQLAlchemy, Pandas), Node.js/Express, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, PostgreSQL, SQL Server, MongoDB; LLM / agent services (Claude API, Azure OpenAI, LangChain, LangGraph, RAG, tool calling)"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "Azure (App Service, Functions, Azure AI Services / Azure OpenAI, Microsoft Entra ID auth), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Azure DevOps, Jenkins, Dynatrace (logging, telemetry, APM)"
+  ],
+  [
+   "Testing & Quality:",
+   "Jest, React Testing Library, Cypress, Playwright, Supertest, PyTest; unit, system integration, and end-to-end testing; accessibility testing (axe, screen readers), Lighthouse / Core Web Vitals"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Dashboard_Front_End_Engineer_React_TypeScript_Python_Agentic_AI_Healthcare",
+ "tagline": "Dashboard / Front-End Engineer · React, TypeScript, Redux / Zustand / TanStack Query · Python (FastAPI, Flask) · Data Visualization (Recharts, D3.js, Plotly) · Agentic AI, Human-in-the-Loop Workflows · HIPAA, PHI/PII, RBAC",
+ "location": "",
+ "summary": "Dashboard and front-end engineer with 10+ years building secure, data-dense React / TypeScript applications and Python services for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive controller-style dashboards with KPI, reconciliation, exception, and status views and drill-down traceability; integrates them with REST APIs, Python (FastAPI / Flask) data and agent services, and agentic AI workflows (Claude API, Azure OpenAI, LangChain / LangGraph) that present agent recommendations and evidence for review, approve/reject, assignment, and escalation. Implements RBAC (OAuth 2.0, JWT) and secure PHI/PII handling on a HIPAA-compliant member platform (1M+ members); ships reusable, accessible (WCAG 2.1 AA), well-tested components with CI/CD, logging, telemetry, and production troubleshooting.",
+ "core_skills": [
+  [
+   "React, TypeScript, JavaScript (ES6+), HTML5, CSS3",
+   "Python (FastAPI, Flask, Django), REST API Integration, Async Data"
+  ],
+  [
+   "Dashboards & Data Visualization: Recharts, D3.js, Plotly, Chart.js",
+   "State: Redux Toolkit, Zustand, React Context, TanStack Query"
+  ],
+  [
+   "Agentic AI & Human-in-the-Loop UI: Claude API, Azure OpenAI, LangChain / LangGraph",
+   "RBAC, OAuth 2.0 / JWT, Secure PHI/PII Handling, HIPAA"
+  ],
+  [
+   "Reusable Component Design, Design Systems, RWD, Accessibility (WCAG 2.1 AA)",
+   "Unit / Integration / E2E Testing: Jest, RTL, Cypress, Playwright, PyTest"
+  ],
+  [
+   "Git, CI/CD (GitHub Actions, Azure DevOps, Jenkins), Logging & Telemetry (Dynatrace)",
+   "SQL (PostgreSQL, SQL Server), Azure & AWS, Docker"
+  ]
+ ]
+}
