@@ -1,0 +1,18 @@
+To: sathyendra@infopeoplecorp.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Senior .NET Full-Stack Developer (.NET, Angular, SQL, Azure) – Role #1 – Aaron Ramirez (C2C/W2)
+
+Hi Sathyendra,
+
+I saw your LinkedIn post for the .NET contract openings and would like to be considered for Role #1, Senior .NET Full-Stack Developer (.NET, Angular, SQL, Azure). My resume is attached.
+
+- 10+ years delivering enterprise applications: C# services on .NET Framework, .NET Core and modern .NET (ASP.NET Core MVC, Web API, Entity Framework / EF Core) exposing RESTful APIs and microservices.
+- SQL Server (T-SQL, stored procedures, schema design) behind Angular and React front ends in TypeScript, HTML5 and CSS3.
+- Microsoft Azure (App Service, Functions, Azure SQL) and Azure DevOps CI/CD; Agile/Scrum across the full SDLC for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+
+Open to the face-to-face interview. Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: yash@t3pillars.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Technology Consultant – Full Stack Developer (Python | Java | Angular | AWS) – Richardson, TX – Aaron Ramirez (C2C)
+
+Hi Yash,
+
+I saw your LinkedIn post for the Technology Consultant – Full Stack Developer (Python | Java | Angular | AWS) role and would like to be considered. My resume is attached.
+
+- 10+ years building cloud-native enterprise applications: Angular (TypeScript, RxJS, NgRx) front ends on Java / Spring Boot REST microservices, with Python (FastAPI / Flask) services where needed.
+- AWS development and deployment: Lambda and serverless, ECS/Fargate, RDS (PostgreSQL), S3 and CloudWatch, with Docker, Git/GitLab, Jenkins and GitHub Actions CI/CD and production support (Dynatrace, cut P1 MTTR by 50%).
+- Automated testing (JUnit, Jest, Cypress) and application security (JWT / OAuth 2.0, RBAC) for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members). GitHub Copilot and Claude Code in daily use.
+
+I am Dallas-based, so Richardson, TX is my preferred location; Tempe and Raleigh are also possible. Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

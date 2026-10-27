@@ -1,0 +1,20 @@
+To: hrmaceaura@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Engineer.pdf
+Subject: Senior Mobile Developer – Remote (USA) – 10+ Years – Aaron Ramirez
+
+Hello,
+
+I saw your LinkedIn post for the Senior Mobile Developer (remote, W2) role and would like to be considered. The details you asked for:
+
+- Work authorization: TN status (W2 eligible; employer-supported, renewable, no lottery). Based in the United States.
+- Current location: Dallas, TX
+- Total experience: 10+ years in software engineering, 6+ years shipping production mobile apps
+- Relevant experience: cross-platform iOS and Android apps in React Native and TypeScript for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC, with native modules in Swift and Kotlin, REST API integration, OAuth 2.0 authentication, secure storage and biometric login, push notifications, and accessibility work (WCAG 2.1 AA).
+- Primary stack: React Native, TypeScript, Redux Toolkit / Zustand, Jest and Detox testing, GitHub Actions and Azure DevOps CI/CD, App Store and Google Play releases.
+
+Comfortable with the national criminal background check. My resume is attached. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

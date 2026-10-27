@@ -1,0 +1,18 @@
+To: Yesdan@techinfo.co
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Developer (Java + Angular) – Charlotte, NC – Aaron Ramirez (C2C)
+
+Hi Yesdan,
+
+I saw your LinkedIn post for the Java Developer (Java + Angular) role in Charlotte, NC and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications end to end: Angular (TypeScript, RxJS, NgRx, HTML5, CSS3) front ends on Java 8+ / Spring Boot and Spring MVC microservices with RESTful APIs and Hibernate/JPA.
+- SQL on Oracle, PostgreSQL and SQL Server; Git-based workflows, JUnit and Agile/Scrum delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Senior-level ownership: architecture, code review and mentoring, with AWS, Jenkins and GitHub Actions CI/CD.
+
+Charlotte works for me and I am available for the in-person interview. Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: bobby@aarktek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Full Stack Developer with Angular – TN Visa – Aaron Ramirez
+
+Hi Bobby,
+
+I saw your LinkedIn post for the Java Full Stack Developer with Angular role at Aark Technologies and would like to be considered. I hold TN status (employer-supported, renewable, no lottery), which your post says you welcome. My resume is attached.
+
+- 10+ years of professional software development building scalable enterprise applications: Java 11+ / Spring Boot REST APIs and backend services with Angular (TypeScript, RxJS, NgRx) front ends.
+- Strong OOP, design patterns and application architecture; relational databases, debugging, testing (JUnit, Jasmine, Cypress) and performance optimization.
+- Agile/Scrum delivery with code review, CI/CD (Jenkins, GitHub Actions, Docker) and AWS for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+
+Open to full-time or contract. Glad to discuss compensation and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
