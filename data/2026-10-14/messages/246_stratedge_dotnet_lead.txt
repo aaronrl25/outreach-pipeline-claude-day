@@ -1,0 +1,18 @@
+To: sohail.sk@stratedgeitconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: .NET Core Technical Lead – Alpharetta, GA (Sogeti) – Aaron Ramirez (C2C)
+
+Hi Sohail,
+
+I saw your LinkedIn post for the .NET Core Technical Lead role with Sogeti in Alpharetta and would like to be considered. My resume is attached.
+
+- 10+ years of enterprise software delivery, including 6+ years leading teams of 5–7 engineers hands-on: architecture and design, coding standards and design patterns, code review and mentoring.
+- C# / .NET Core (.NET 6+), ASP.NET Core Web API, RESTful APIs and microservices over MS SQL Server and MongoDB, with React and Angular front ends; Azure (App Service, Azure DevOps CI/CD), GitHub Actions, Jenkins and Docker.
+- AI-assisted SDLC in daily practice (GitHub Copilot, Claude Code) with spec-driven design; high-volume platforms for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (HIPAA member platform, 1M+ members).
+
+Available on C2C and for onsite work in Alpharetta. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
