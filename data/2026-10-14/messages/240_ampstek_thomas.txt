@@ -1,0 +1,18 @@
+To: thomas@ampstek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: AI Integration Engineer – Mphasis (Charlotte / San Leandro / Phoenix) – Aaron Ramirez (C2C)
+
+Hi Thomas,
+
+I saw your LinkedIn post for the AI Integration Engineer / Lead Software Engineer role with Mphasis and would like to be considered. I sent my resume to your colleague Robert for this requirement on October 24 and answered his follow-up questions, but I have not heard back since, so I am attaching it again here in case you are running a separate pipeline.
+
+- 10+ years of full stack development for Walmart Global Tech, IBM / AEP and HCSC: React and Next.js front ends in TypeScript with Node.js, Java / Spring Boot and Python services on AWS and Azure.
+- Hands-on Generative AI in production during 2025–2026: a GenAI seller-support assistant for Walmart's marketplace on the Claude API with LangChain tool-calling agents, multi-agent workflows with LangGraph, RAG and guardrails; Azure OpenAI integration at AEP.
+- Available for an in-person interview at the client location.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
