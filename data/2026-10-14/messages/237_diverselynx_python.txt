@@ -1,0 +1,18 @@
+To: priyanshu.gangwar@diverselynx.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior Python FSD (AWS + Terraform) – Wilmington, DE / Jersey City, NJ – Aaron Ramirez (C2C)
+
+Hi Priyanshu,
+
+I saw your LinkedIn post for the Senior Python Full Stack Developer (AWS + Terraform) contract in Wilmington / Jersey City and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Python backends on Flask, Django and FastAPI exposing REST APIs and microservices, with modern React.js front ends in TypeScript and API integration.
+- AWS: Lambda, API Gateway, ECS/EKS, S3, EC2 and RDS with MongoDB; Docker, Kubernetes and CI/CD on Jenkins and GitHub Actions; unit and integration testing in Python and Jest.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members); LLM integration (Claude API, Azure OpenAI) and GitHub Copilot in daily use.
+
+Available on C2C and for an in-person interview. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

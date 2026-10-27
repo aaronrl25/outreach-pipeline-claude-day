@@ -1,0 +1,18 @@
+To: shashank.reddy@stiorg.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+Subject: Technical Architect – Web Full Stack – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Shashank,
+
+I saw your LinkedIn post for the Technical Architect – Web Full Stack contract in Austin and would like to be considered. My resume is attached.
+
+- 10+ years designing and delivering large-scale consumer web platforms: React and Next.js in TypeScript (SSR, micro-frontends, design systems) over Node.js microservices exposing GraphQL and REST APIs, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS cloud-native architecture and modernization: Kubernetes (EKS), ECS/Fargate, Lambda, S3, RDS and CloudFront, Docker, CI/CD on GitHub Actions and Jenkins; scalability, security (OAuth 2.0, RBAC), reliability and observability with Dynatrace.
+- Technical leadership: architecture standards and design documentation, code review, leading multiple cross-functional teams and working directly with product and business stakeholders.
+
+Available on C2C and onsite in Austin as the role requires. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

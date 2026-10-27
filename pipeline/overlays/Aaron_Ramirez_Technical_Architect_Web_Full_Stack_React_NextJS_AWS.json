@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS",
+ "tagline": "Technical Architect – Web Full Stack · React, Next.js, TypeScript · GraphQL & REST Microservices (Node.js) · AWS Cloud-Native Architecture, Kubernetes (EKS), Docker · Application Modernization, Observability, Technical Leadership",
+ "location": "",
+ "summary": "Technical Architect and hands-on Staff-level engineer with 10+ years designing and delivering large-scale consumer and enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Sets enterprise solution and full-stack architecture for React / Next.js / TypeScript front ends (SSR, micro-frontends, design systems) and Node.js microservices exposing GraphQL and REST APIs; leads application modernization and cloud migration onto AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront) with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; and builds in security (JWT, OAuth 2.0, RBAC), scalability, reliability, and observability with Dynatrace, cutting MTTR on critical incidents by 50%. Leads multiple cross-functional engineering teams, owns technology strategy and design documentation, and partners with product and business stakeholders on platforms serving 500K+ daily users. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React, Next.js (SSR/SSG), TypeScript, Redux",
+   "Node.js / Express, GraphQL & REST Microservices"
+  ],
+  [
+   "AWS Cloud-Native: EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront",
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins; Docker"
+  ],
+  [
+   "Enterprise Solution & Full-Stack Architecture, System Design",
+   "Application Modernization & Cloud Migration"
+  ],
+  [
+   "Scalability, Security (JWT, OAuth 2.0, RBAC), Reliability",
+   "Observability & Monitoring (Dynatrace APM), Performance"
+  ],
+  [
+   "Technical Leadership of Multiple Teams, Stakeholder Management",
+   "Micro-Frontends, Design Systems, Web Performance (Core Web Vitals)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, GraphQL (Apollo, schema design), REST APIs, WebSockets/Socket.IO, microservices, event-driven integrations, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront), Azure (App Service, DevOps, AI Services); GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace (monitoring, logging, observability)"
+ }
+}
