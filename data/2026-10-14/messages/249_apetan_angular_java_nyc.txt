@@ -1,0 +1,18 @@
+To: kush@apetan.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Senior Full Stack Developer (Angular & Java) – NYC – Aaron Ramirez (C2C)
+
+Hi Kush,
+
+I saw your LinkedIn post for the Senior Full Stack Developer (Angular & Java) role in NYC and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Angular (TypeScript, RxJS, NgRx, HTML / CSS) front ends on Java / Spring Boot REST APIs and microservices, with MySQL, MongoDB and Hibernate.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members); Python services, Docker, Kubernetes and CI/CD on Jenkins and GitHub Actions.
+- Agile/Scrum with TDD, JUnit and Jest unit testing, and structured code review.
+
+Available on C2C and for an in-person interview in NYC. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

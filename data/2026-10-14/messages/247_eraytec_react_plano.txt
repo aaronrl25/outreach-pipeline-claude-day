@@ -1,0 +1,18 @@
+To: vijayalaxmi.a@eraytec.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: React JS UI Developer – Plano, TX – Aaron Ramirez (C2C)
+
+Hi Vijayalaxmi,
+
+I saw your LinkedIn post for the React JS UI Developer role in Plano (onsite 4 days) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in React.js: Hooks, Context API, Redux and Redux Toolkit, TypeScript, Next.js, HTML5 / CSS3 and JavaScript (ES6+), with RESTful API integration.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): reusable component libraries, design systems and front-end performance optimization (bundle splitting, virtualization, Core Web Vitals).
+- Jest and React Testing Library, Git with Webpack and Babel builds, CI/CD on GitHub Actions and Jenkins, Agile/Scrum with code review.
+
+Available on C2C and for onsite work in Plano. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: ajay.tiwari@1pointsys.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet.pdf
+Subject: Solution Architect – Cloud, .NET & AI – Tampa, FL / Nashville, TN – Aaron Ramirez (C2C)
+
+Hi Ajay,
+
+I saw your LinkedIn post for the Solution Architect – Cloud, .NET & AI role (Tampa or Nashville, hybrid) and would like to be considered. My resume is attached.
+
+- 10+ years of enterprise application development and architecture, including 6+ years leading teams of 5–7 engineers hands-on: C# / .NET, ASP.NET Core Web API, REST APIs, SQL Server and NoSQL, microservices, OOP, SOLID and design patterns.
+- Microsoft Azure cloud-native development and migration (App Service, Functions, Azure DevOps, Azure AI Services / Azure OpenAI) plus AWS; Docker and CI/CD.
+- Generative AI in production during 2025–2026: LLM-based applications, AI agents and orchestration with LangChain / LangGraph, RAG and tool calling on the Claude API and Azure OpenAI, for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members); full stack with Angular, React, Node.js and Python.
+
+Available on C2C for the hybrid schedule and approximately 10% travel. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
