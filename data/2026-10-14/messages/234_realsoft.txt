@@ -1,0 +1,18 @@
+To: kamalesh@realsoftinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Senior .NET Developer – Front-End / UI/UX (Remote) – Aaron Ramirez (C2C)
+
+Hi Kamalesh,
+
+I saw your LinkedIn post for the Senior .NET Developer – Front-End / UI/UX remote contract and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications: C# / .NET (ASP.NET Core and MVC, Web API) backends with REST APIs, middleware integrations and SQL Server, and front ends in HTML5, CSS / SCSS, JavaScript / TypeScript, React and Angular.
+- UI/UX and accessibility: responsive design, enterprise design systems and reusable component libraries, WCAG 2.1 AA conformance with axe and screen-reader testing on member-facing healthcare portals (HCSC, 1M+ members) and Walmart's Seller Center.
+- Azure DevOps CI/CD, Git, secure coding and production troubleshooting; experience with sensitive data in healthcare and enterprise environments.
+
+Portfolio and code samples: github.com/aaronrl25 and aron.software. Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

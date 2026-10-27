@@ -1,0 +1,18 @@
+To: Mahesh@ecomputertech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: .NET Full Stack Developer – Florida (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Mahesh,
+
+I saw your LinkedIn post for the .NET Full Stack Developer hybrid contract in Florida and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: React.js front ends in JavaScript / TypeScript with CSS / SASS and Bootstrap, and C# / .NET (ASP.NET Core, Web API) and Node.js backends over SQL Server, built in Visual Studio with Azure DevOps CI/CD.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members), in Agile and Waterfall environments.
+- Daily use of AI-assisted development (Claude Code, Copilot) with review of generated code for correctness, security, tests and maintainability.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

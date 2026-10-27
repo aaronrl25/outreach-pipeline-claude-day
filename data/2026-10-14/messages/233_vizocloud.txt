@@ -1,0 +1,18 @@
+To: Jessi.p@vizocloud.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python Full Stack Developer – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Jessie,
+
+I saw your LinkedIn post for the Python Full Stack Developer contract in Austin and would like to be considered. My resume is attached, and my LinkedIn is linkedin.com/in/aaronsoftware.
+
+- 12+ years of software development, with Python backends on FastAPI, Django and Flask: REST and GraphQL API design, async services, performance tuning, PostgreSQL and MongoDB.
+- Front end in React.js and TypeScript with Redux and Zustand state management, Tailwind CSS and styled-components, responsive design and accessibility.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (warehouse system, 500K+ daily users) and HCSC (HIPAA member platform, 1M+ members); AWS, Docker, CI/CD on GitHub Actions and Jenkins, Agile/Scrum.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
