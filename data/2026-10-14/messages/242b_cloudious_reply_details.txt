@@ -1,0 +1,35 @@
+To: sathiya@cloudious.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Dashboard_Front_End_Engineer_React_TypeScript_Python_Agentic_AI_Healthcare.pdf
+Subject: Re: Senior React Frontend Developer – Dublin, OH (Healthcare) – Aaron Ramirez (C2C)
+
+Hi Sathiya,
+
+Thanks for the details. Attached is my updated resume for the Front-End / Dashboard Engineer role, and here is the skills matrix and my submission details.
+
+Skills matrix (years of experience / level):
+- React.js front-end development: 8 years / Expert
+- TypeScript & JavaScript: 10 years / Expert
+- Python (FastAPI, Flask, Django, Pandas): 8 years / Advanced
+- Agentic AI / AI agents (Claude API, Azure OpenAI, LangChain, LangGraph, RAG, tool calling): 2 years / Advanced, in production 2025–2026
+- HTML5 & CSS3: 10 years / Expert
+- REST APIs & state management (Redux, Zustand, React Context, TanStack Query): 8 years / Expert
+- Dashboard development & data visualization (Recharts, D3.js, Plotly, Chart.js): 6 years / Advanced
+- Healthcare: HCSC Member Experience 2.0, a HIPAA-compliant Blue Cross Blue Shield member platform (1M+ members) with claims, encounter and provider views and PHI/PII handling / Advanced. No direct Medicaid program experience.
+
+Submission details:
+- Full name: Aaron David Ramírez Lezama
+- Phone: (773) 708-2882
+- Email: rl.aaron4@gmail.com
+- LinkedIn: linkedin.com/in/aaronsoftware
+- Work authorization: TN visa
+- Availability: immediate; Day-1 onsite in Dublin, OH is fine
+- Education: B.S. Computer Systems Engineering, Universidad España y México
+- Employer (C2C): Strategyz Solutions LLC, Patrick, 302-481-1137, pat@strgyz.com
+- Rate: open to discussion; Patrick at Strategyz will confirm the rate with you.
+
+I did not receive the voicemail, so please feel free to call again at (773) 708-2882 or email me a time that works.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
