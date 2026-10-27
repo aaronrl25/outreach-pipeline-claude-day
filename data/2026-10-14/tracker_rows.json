@@ -13526,5 +13526,24 @@
   "msg": "",
   "status": "NOT SENT – thin list / duplicate req / Java-first / visa-excluded",
   "src": "LinkedIn C2C sweep 2026-10-27 10:50"
+ },
+ {
+  "company": "GVR Infotek (Ritika Arora) – 8th GVR recruiter",
+  "role": "Lead Software Engineer – Angular & AI (must), .NET, PostgreSQL, on-prem Windows apps, Docker; C++ plus; medical/regulated preferred; 3-month contract, extension/conversion possible; CA DL, pre-2020 LinkedIn, 2 references",
+  "loc": "Irvine, CA (hybrid 3 days)",
+  "arr": "3-month contract",
+  "type": "C2C/C2H",
+  "pay": "Not stated",
+  "posted": "2026-10-27",
+  "skills": "Angular, AI-driven development, .NET, PostgreSQL, Docker, Windows on-prem",
+  "visa": "Not stated",
+  "recruiter": "Ritika Arora",
+  "contact": "ritika.arora@gvrinfotek.com",
+  "link": "https://www.linkedin.com/in/ritika-arora-26646a216/",
+  "fit": "Aaron: 'try ritika' after I skipped it (15-yr senior ask, CA DL, references). New location-free overlay Lead_Software_Engineer_Angular_AI_DotNet (clone of HiresDev lead); email offers references on request, no location/DL mentioned; C++ not claimed",
+  "resume": "Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet.pdf",
+  "msg": "243_gvr_ritika_angular_ai.txt",
+  "status": "SENT 2026-10-27",
+  "src": "Aaron override 2026-10-27 11:05 ('try ritika')"
  }
 ]

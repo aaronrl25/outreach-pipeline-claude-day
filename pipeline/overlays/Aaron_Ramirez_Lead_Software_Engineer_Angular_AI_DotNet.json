@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet",
+ "tagline": "Lead Software Engineer · Angular (TypeScript, RxJS, NgRx) · AI-Driven Development (LLM Integration, Claude API, Azure OpenAI, Copilot) · C# / .NET, PostgreSQL · Docker, Windows & On-Premise Applications · Team Leadership",
+ "location": "",
+ "summary": "Hands-on Lead Software Engineer with 10+ years delivering enterprise software for Walmart Global Tech, IBM/AEP, and HCSC, including 6+ years leading teams of 5–7 engineers while still writing production code. Angular (TypeScript, RxJS, NgRx, Angular Material) front ends on C# / .NET (ASP.NET Core, Web API) services with PostgreSQL and SQL Server; AI-driven development in production during 2025–2026, integrating LLMs (Claude API, Azure OpenAI) with LangChain / LangGraph agents, RAG, and tool calling into enterprise applications, with GitHub Copilot, Claude Code, and Cursor in daily use. Builds, containerizes, and ships both cloud and on-premise Windows applications with Docker, Azure DevOps and Jenkins CI/CD; experience in regulated, HIPAA-governed healthcare systems (HCSC member platform, 1M+ members). Runs Agile/Scrum sprints end to end with code reviews, testing standards, production releases, and root-cause analysis.",
+ "core_skills": [
+  [
+   "Angular (TypeScript, RxJS, NgRx, Angular Material)",
+   "AI-Driven Development: LLM Integration, Claude API, Azure OpenAI"
+  ],
+  [
+   "C# / .NET (ASP.NET Core, Web API, Entity Framework)",
+   "PostgreSQL, SQL Server, REST APIs, Microservices"
+  ],
+  [
+   "Docker & Containerization; On-Premise Windows Applications",
+   "Azure DevOps & Jenkins CI/CD, Microsoft Azure"
+  ],
+  [
+   "Technical Leadership (teams of 5–7), Mentoring, Code Review",
+   "Regulated / Healthcare Systems (HIPAA), Secure Coding"
+  ],
+  [
+   "LangChain / LangGraph Agents, RAG, Tool Calling",
+   "GitHub Copilot, Claude Code, Cursor (daily); React.js"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET (ASP.NET Core, Web API, Entity Framework), REST APIs, microservices, PostgreSQL, SQL Server, MongoDB, Node.js/Express, Java / Spring Boot",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material, Signals), React.js, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Docker, on-premise Windows Server deployments, Microsoft Azure (App Service, Functions, Azure SQL, AI Services / Azure OpenAI), Azure DevOps (pipelines, releases, boards), AWS (Lambda, RDS, S3), GitHub Actions, Jenkins, Dynatrace",
+  "AI & LLM:": "Claude API, Azure OpenAI, LangChain, LangGraph, RAG, tool calling, prompt design, evaluation and guardrails; GitHub Copilot, Claude Code, Cursor"
+ }
+}

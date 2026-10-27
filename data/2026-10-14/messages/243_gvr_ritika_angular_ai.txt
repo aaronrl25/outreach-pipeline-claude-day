@@ -1,0 +1,19 @@
+To: ritika.arora@gvrinfotek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet.pdf
+Subject: Lead Software Engineer – Angular & AI – Irvine, CA (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Ritika,
+
+I saw your LinkedIn post for the Lead Software Engineer – Angular & AI contract in Irvine and would like to be considered. My resume is attached, and my LinkedIn is linkedin.com/in/aaronsoftware.
+
+- 10+ years of enterprise software development, including 6+ years leading teams of 5–7 engineers hands-on, for Walmart Global Tech, IBM / AEP and HCSC.
+- Angular (TypeScript, RxJS, NgRx) front ends on C# / .NET (ASP.NET Core, Web API) services with PostgreSQL and SQL Server; Docker and containerized deployments for both cloud and on-premise Windows applications.
+- AI-driven development in production during 2025–2026: LLM integration (Claude API, Azure OpenAI) with LangChain / LangGraph agents, RAG and tool calling, plus GitHub Copilot, Claude Code and Cursor in daily use.
+- Regulated healthcare: HCSC's HIPAA-governed member platform (Blue Cross Blue Shield, 1M+ members).
+
+Available immediately on C2C for the hybrid schedule in Irvine, and two professional references are available on request. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
