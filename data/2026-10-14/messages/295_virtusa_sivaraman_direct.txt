@@ -1,0 +1,18 @@
+To: sivaramann@virtusa.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Full Stack Engineer (Python must) – AI-Powered Enterprise Applications – Virtusa – Aaron Ramirez
+
+Hi Sivaraman,
+
+I would like to be considered for the Full Stack Engineer (Python must) opening at Virtusa, building AI-powered enterprise applications. My resume is attached.
+
+- 10+ years of full stack engineering: Python (FastAPI, Flask) services first, alongside Node.js, Java / Spring Boot and C# / .NET microservices, exposing REST and GraphQL APIs over SQL Server, PostgreSQL, MongoDB and vector databases, behind React, Angular and TypeScript front ends with responsive HTML5 / CSS, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AI / GenAI in production: LLM integration with the Claude API, OpenAI / Azure OpenAI and LangChain / LangGraph; retrieval-augmented generation with embeddings, semantic search and vector stores; agentic AI workflows with tool calling, orchestration and human-in-the-loop review, delivered with Responsible AI, privacy and governance practices.
+- Cloud-native delivery on Azure and AWS (serverless, storage, messaging and AI services) with Docker, GitHub Actions CI/CD, automated testing (PyTest, Jest, Cypress) and observability (Dynatrace); security and compliance in a HIPAA environment; collaboration with product, architecture, data science and security teams.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); remote from San Francisco, CA and open to onsite or hybrid; available on contract (C2C or W2) or full-time; available to start on short notice and for an interview this week. Glad to discuss.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
