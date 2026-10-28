@@ -82,6 +82,15 @@
    "bullets": [
     "Built the Mobile as Bee iOS/Android app with React Native and a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led an iOS refactor that cut crash rates by 60%."
    ]
+  },
+  {
+   "title": "Game Developer",
+   "company": "Lone Wolf Studio  (Independent Game Studio)",
+   "dates": "Aug 2015 – Jul 2017",
+   "sub": "Puebla, Mexico · Multi-Platform Game Prototypes (C# / Unity)",
+   "bullets": [
+    "Developed multi-platform game prototypes in C# (Unity) and C, owning gameplay systems, tooling, and the art pipeline end to end; showcased the MVP at Tokyo Game Show 2016 and won 5 hackathons on rapid prototyping."
+   ]
   }
  ],
  "tech": [
@@ -91,7 +100,7 @@
   ],
   [
    "Languages:",
-   "TypeScript, JavaScript (ES6+), C#, Node.js, SQL, HTML5, CSS3"
+   "C#, TypeScript, JavaScript (ES6+), Node.js, C, SQL, HTML5, CSS3"
   ],
   [
    "State & UI:",
@@ -117,7 +126,7 @@
  "name": "Aaron_Ramirez_Senior_Software_Engineer_React_Native_DotNet_Azure_API",
  "tagline": "Senior Software Engineer – Mobile  ·  React Native & React (TypeScript / JavaScript)  ·  .NET (C#, ASP.NET Core Web API) Microservices  ·  Azure API Development (API Management, App Service, Functions)  ·  Cloud DevOps, CI/CD, Team Enablement",
  "location": "",
- "summary": "Senior full stack software engineer with 10+ years turning business needs into shipped mobile and web products for Walmart Global Tech, IBM/AEP, and HCSC: React Native and React front ends in TypeScript on .NET (C#, ASP.NET Core Web API) and Node.js microservices, with RESTful APIs built, secured, and deployed inside Azure (API Management, App Service, Functions, Entra ID / OAuth 2.0). Owns system and software design and documentation; builds the cloud DevOps foundation (Azure DevOps and GitHub Actions CI/CD, Docker, release pipelines) that enables the team; mentors engineers and collaborates with product, QA, and other business units. Customer-first and takes the initiative to own and resolve production issues. GitHub Copilot and Claude Code in daily use.",
+ "summary": "Senior full stack software engineer with 10+ years turning business needs into shipped mobile and web products for Walmart Global Tech, IBM/AEP, and HCSC: React Native and React front ends in TypeScript on .NET (C#, ASP.NET Core Web API) and Node.js microservices, with RESTful APIs built, secured, and deployed inside Azure (API Management, App Service, Functions, Entra ID / OAuth 2.0). Owns system and software design and documentation; builds the cloud DevOps foundation (Azure DevOps and GitHub Actions CI/CD, Docker, release pipelines) that enables the team; mentors engineers and collaborates with product, QA, and other business units. Customer-first and takes the initiative to own and resolve production issues. C# since 2015 (Unity game development, then .NET services). GitHub Copilot and Claude Code in daily use.",
  "core_skills": [
   [
    "React Native & React (TypeScript / JavaScript), Redux, Expo",
