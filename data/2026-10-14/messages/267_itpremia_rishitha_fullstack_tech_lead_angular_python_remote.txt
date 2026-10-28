@@ -1,0 +1,18 @@
+To: Rishitha@itpremia.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Technical_Lead_Angular_Python_AWS.pdf
+Subject: Full Stack Technical Lead (Angular & Python) – Remote – Aaron Ramirez (C2C)
+
+Hi Rishitha,
+
+I saw your LinkedIn post for the Full Stack Technical Lead (Angular & Python) remote contract and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: modern Angular (17+, TypeScript, RxJS, Signals, Reactive Forms, state management) front ends with Python (FastAPI, Pydantic, async services and background jobs) and Node.js backends over PostgreSQL, including WebSocket real-time features.
+- AWS with Kubernetes (EKS), ECS/Fargate, Lambda, RDS and S3, Docker and CI/CD on Jenkins / GitHub Actions; production troubleshooting with Dynatrace (cut P1 MTTR by 50%).
+- Technical leadership and client-facing delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members), including a HIPAA-compliant healthcare member platform: design discussions, architecture reviews, code review and mentoring teams of 4 to 7 engineers. Comfortable working PST hours.
+
+Work authorization: TN status (employer-supported, renewable, no lottery), which is not on the list in your post; please let me know if it works for this client. Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

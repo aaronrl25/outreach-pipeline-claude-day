@@ -1,0 +1,18 @@
+To: staffingalljobs@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Senior Software Engineer – Full Stack (Public Sector) – Aaron Ramirez – TN work authorization
+
+Hi Nigamkumar,
+
+I saw your LinkedIn post for the Senior Software Engineer – Full Stack (public sector / government technology) role and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering modernizing enterprise applications: Node.js, TypeScript, Angular and React front ends and services replacing legacy Java / Spring and .NET / ASP.NET systems for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- RESTful API design and backend services on AWS (Lambda, ECS, RDS, S3, API Gateway) with Docker and GitHub Actions / Jenkins CI/CD; PostgreSQL, Oracle and SQL Server integration; secure development practices (JWT / OAuth 2.0, RBAC).
+- Legacy analysis and re-platforming, architecture decisions, code review, documentation and mentoring in Agile teams.
+
+Work authorization: TN status (employer-supported, renewable, no lottery). Available for the face-to-face interview; please share the location and whether the role is W2 or C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

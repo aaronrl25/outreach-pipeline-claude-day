@@ -1,0 +1,18 @@
+To: Rashmi.nishad@apptadinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Senior React Frontend Developer Lead – Alpharetta, GA (Hybrid) – Aaron Ramirez (C2C / W2)
+
+Hi Rashmi,
+
+I saw your LinkedIn post for the Senior React Frontend Developer Lead role in Alpharetta, GA (hybrid, 11 months) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end engineering with 8+ hands-on in React.js, JavaScript, TypeScript, HTML5 and CSS3, plus Angular and Node.js; Redux / Redux Toolkit state management and responsive web design.
+- Leading frontend initiatives for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): architecture standards, reusable component libraries, REST / JSON / AJAX integration with Java / Spring services and Oracle / PostgreSQL databases, Webpack builds and Git / Bitbucket CI/CD.
+- Mentoring teams of 5–7 engineers, code review and sprint planning; performance work (Core Web Vitals) and Jest / React Testing Library / Cypress coverage.
+
+Available on C2C or W2 and comfortable with the 3-days-onsite hybrid schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

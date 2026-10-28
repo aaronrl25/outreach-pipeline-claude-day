@@ -1,0 +1,18 @@
+To: sowmya@techerasolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Full Stack Developer – Michigan
+
+Hi Sowmya,
+
+I saw your LinkedIn post for the Full Stack Developer role with Delta Dental in Michigan (onsite, W2) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: React and Angular front ends (JavaScript, TypeScript, HTML5, CSS3) with Node.js, Java / Spring Boot and .NET backends, REST API development and integration, and SQL / PostgreSQL database work.
+- Healthcare and insurance domain experience: led HCSC's HIPAA-compliant React member platform for 1M+ Blue Cross Blue Shield members (claims, digital ID cards, provider search, secure messaging), plus Walmart Global Tech and IBM / AEP enterprise applications.
+- Git, debugging, Jest / Cypress testing and performance optimization in Agile/Scrum teams with CI/CD on GitHub Actions and Jenkins.
+
+Willing to work onsite in Michigan and available for the face-to-face interview. Available on W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

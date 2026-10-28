@@ -1,0 +1,18 @@
+To: pmaraty@vsoftconsulting.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf
+Subject: Senior Angular Developer – Denver, CO (Hybrid) – Aaron Ramirez (C2C / W2)
+
+Hi Preethi,
+
+I saw your LinkedIn post for the Senior Angular Developer role in Denver, CO (hybrid) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end engineering with strong, recent hands-on Angular (current versions: standalone components, Signals, TypeScript, RxJS, Reactive Forms, routing, guards and lazy loading, NgRx) building scalable enterprise applications, reusable components, dashboards and responsive UI for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- REST API integration with HTTP interceptors and token-based authentication (JWT / OAuth 2.0), centralized error handling, performance optimization, Jasmine / Karma and Jest unit tests, Git and CI/CD on GitHub Actions and Jenkins.
+- AI-powered development end to end: GitHub Copilot, Claude Code and Cursor in daily use for feature scaffolding, test generation and code review; Angular upgrades and micro-frontend (Module Federation) experience.
+
+Available on C2C or W2. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: tania.c@smarttechlink.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Full Stack Engineer (Python) with AI – Remote – Aaron Ramirez (C2C)
+
+Hi Tania,
+
+I saw your LinkedIn post for the Full Stack Engineer (Python) with AI remote contract and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: React, Angular and TypeScript front ends with Python (FastAPI, Flask), Node.js and Java / Spring Boot microservices exposing REST and GraphQL APIs over SQL Server, PostgreSQL and MongoDB.
+- AI / GenAI in production: LLM integration with the Claude API, Azure OpenAI and LangChain / LangGraph, retrieval-augmented generation with embeddings and vector search, and agentic workflows with tool use, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Cloud-native delivery on Azure and AWS (serverless, storage, messaging and AI services) with Docker, Kubernetes, GitHub Actions CI/CD, automated testing and observability; responsible-AI, security and compliance practices in a HIPAA environment.
+
+Available on C2C for the remote schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

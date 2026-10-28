@@ -1,0 +1,18 @@
+To: mahesh.kumar@blueversesystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Full Stack Developer – Node.js / React.js / Micro Frontends – Tampa, FL – Aaron Ramirez (C2C)
+
+Hi Mahesh,
+
+I saw your LinkedIn post for the Full Stack Developer (Node.js, Express.js, React.js, micro frontend architecture) role in Tampa, FL and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: React.js and TypeScript front ends on Node.js / Express REST and GraphQL APIs for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Micro-frontend architecture in production: Electrode Native modules embedded into existing Walmart applications (cut new-feature integration time by 60%) and shared component systems across multiple apps.
+- AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD, Jest / Cypress coverage, and code review and mentoring in Agile teams.
+
+Open to onsite work in Tampa. Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

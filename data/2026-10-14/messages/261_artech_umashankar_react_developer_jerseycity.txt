@@ -1,0 +1,18 @@
+To: umashankar.joshi@artech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: React Developer – Jersey City, NJ (Onsite) – Aaron Ramirez (C2C)
+
+Hi Umashankar,
+
+I saw your LinkedIn post for the React Developer role in Jersey City, NJ (onsite) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in React.js: Hooks, functional components, Redux / Redux Toolkit and Context API state management, JavaScript (ES6+), TypeScript, HTML5 and CSS3.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): reusable component libraries, REST API integration, performance optimization (Core Web Vitals) and Jest / React Testing Library / Cypress coverage.
+- CI/CD on GitHub Actions and Jenkins, Agile/Scrum with code review and mentoring.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

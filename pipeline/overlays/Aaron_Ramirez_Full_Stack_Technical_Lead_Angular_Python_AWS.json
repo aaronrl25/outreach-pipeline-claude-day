@@ -1,0 +1,36 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Full_Stack_Technical_Lead_Angular_Python_AWS",
+ "tagline": "Full Stack Technical Lead  ·  Angular 17+ (TypeScript, RxJS, Signals, Reactive Forms)  ·  Python (FastAPI, Pydantic) & Node.js REST APIs, WebSockets  ·  AWS (EKS/Kubernetes, Lambda, RDS PostgreSQL), CI/CD  ·  Technical Leadership",
+ "location": "",
+ "summary": "Full Stack Technical Lead with 10+ years building cloud-native enterprise applications for Walmart Global Tech, IBM / AEP and HCSC (HIPAA healthcare member platform, 1M+ members). Front ends in modern Angular (17+, TypeScript, RxJS, Signals, Reactive Forms, NgRx) and React; back ends in Python (FastAPI, Pydantic, async services and background job processing) and Node.js exposing REST APIs and WebSocket real-time features over PostgreSQL, with Java / Spring Boot microservices where needed. Deploys on AWS (EKS/Kubernetes, ECS/Fargate, Lambda, RDS, S3, CloudFront) with Docker and Jenkins / GitHub Actions CI/CD, secures systems with JWT / OAuth 2.0 and role-based access, and monitors them in Dynatrace (cut P1 mean time to resolution by 50%). Leads technical design discussions and architecture reviews, drives code review and performance optimization, mentors teams of 4 to 7 engineers, and works directly with product managers and client stakeholders in Agile/Scrum. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Angular 17+ (TypeScript, RxJS, Signals, Reactive Forms, NgRx)",
+   "Python (FastAPI, Pydantic, async), Node.js REST APIs"
+  ],
+  [
+   "WebSockets & Event-Driven Real-Time Features",
+   "PostgreSQL / SQL, MongoDB, Redis"
+  ],
+  [
+   "AWS: EKS/Kubernetes, ECS/Fargate, Lambda, RDS, S3",
+   "Docker, Jenkins & GitHub Actions CI/CD"
+  ],
+  [
+   "Technical Leadership, Architecture Reviews, Mentoring",
+   "Code Review, Performance Optimization, Production Support"
+  ],
+  [
+   "JWT / OAuth 2.0 Security, Role-Based Access",
+   "Client-Facing Delivery, Agile/Scrum, Healthcare (HIPAA)"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse",
+  "APIs & Backend:": "Python (FastAPI, Pydantic, Flask, async / background jobs), Node.js/Express, Java / Spring Boot, REST APIs, WebSockets/Socket.IO, GraphQL, microservices, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (EKS/Kubernetes, ECS/Fargate, Lambda, RDS, S3, CloudFront, CloudWatch), Azure (App Service, DevOps, AI Services), Docker; Jenkins, GitHub Actions, Azure DevOps; Dynatrace",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, code review; GitHub Copilot, Claude Code, Cursor"
+ }
+}

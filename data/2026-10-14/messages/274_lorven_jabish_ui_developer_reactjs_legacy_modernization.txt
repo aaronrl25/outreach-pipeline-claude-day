@@ -1,0 +1,18 @@
+To: jabish.e@lorventech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: UI Developer – ReactJS (Legacy Modernization) – Aaron Ramirez (C2C)
+
+Hi Jabish,
+
+I saw your LinkedIn post listing the UI Developer – ReactJS (Legacy Modernization) contract and would like to be considered for it. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in ReactJS: responsive UI, reusable component libraries, TypeScript and Redux, integrated with Java / Spring Boot REST services.
+- Modernization experience for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): migrating legacy screens into React single-page applications, REST API integration and performance optimization (Core Web Vitals).
+- Jest / React Testing Library / Cypress coverage and CI/CD on GitHub Actions and Jenkins in Agile/Scrum teams.
+
+Details you asked for: work authorization TN status (employer-supported, renewable, no lottery); available to start on short notice; rate open to discussion. Could you share the location and client for this role? Available on C2C. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

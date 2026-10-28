@@ -1,0 +1,18 @@
+To: Kumar.Shubham@net2source.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Full Stack Developer – .NET / Angular / AWS – Remote (Arlington, VA) – Aaron Ramirez (C2C / W2)
+
+Hi Shubham,
+
+I saw your LinkedIn post for the Full Stack Developer (.NET / Angular / AWS, remote, Arlington VA/DC) role and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development in Scrum/Agile teams: C# / .NET Core and modern .NET (ASP.NET Core Web API, Entity Framework) RESTful APIs and microservices with Angular (TypeScript, RxJS, NgRx) and JavaScript front ends over SQL Server, PostgreSQL and MongoDB.
+- AWS implementation including serverless (Lambda), RDS and S3 with Docker and GitHub Actions / Jenkins / Azure DevOps CI/CD; QA and production deployments, monitoring and production support with Dynatrace (cut P1 MTTR by 50%).
+- Technical leadership and hands-on delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): architecture and design documentation (security, performance, maintainability trade-offs), Jira-driven sprints, code review and mentoring / knowledge transfer.
+
+Available on C2C or W2 for the remote schedule. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

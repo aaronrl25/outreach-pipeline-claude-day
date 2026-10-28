@@ -1,0 +1,18 @@
+To: namrata@triunitysoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+Subject: Technical Architect – Web Full Stack – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Namrata,
+
+I saw your LinkedIn post for the Technical Architect – Web Full Stack role in Austin, TX and would like to be considered. My resume is attached.
+
+- 10+ years designing and delivering large-scale consumer web platforms for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): enterprise solution and full-stack architecture for React / Next.js / TypeScript front ends and Node.js services exposing GraphQL (Apollo) and REST APIs.
+- AWS cloud-native architecture and migration: EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS and CloudFront with Docker and GitHub Actions / Jenkins / Azure DevOps CI/CD; security (JWT, OAuth 2.0, RBAC), scalability and observability with Dynatrace (cut P1 MTTR by 50%).
+- Engineering leadership across multiple cross-functional teams: architecture standards, modernization roadmaps and technology strategy with business and engineering stakeholders.
+
+Details you asked for: visa status TN (employer-supported, renewable, no lottery); LinkedIn linkedin.com/in/aaronsoftware; available to start on short notice and comfortable with the Austin onsite schedule. Available on C2C; glad to discuss rate this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: V.kumar@atsitinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Senior React Fullstack AI Engineer – San Francisco, CA – Aaron Ramirez (C2C)
+
+Hi Vipul,
+
+I saw your LinkedIn post listing the Senior React Fullstack AI Engineer contract in San Francisco (2–3 days onsite) and would like to be considered for it. My resume is attached.
+
+- 10+ years of full stack engineering with 8+ hands-on in React and TypeScript, plus Node.js, Java / Spring Boot and Python services exposing REST and GraphQL APIs.
+- AI integration in production: LLM features with the Claude API, Azure OpenAI and LangChain, including a GenAI seller-support assistant streaming responses through Node.js middleware at Walmart Global Tech, and agentic workflows with tool use and retrieval.
+- Enterprise delivery for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members) on AWS and Azure with Docker and GitHub Actions / Jenkins CI/CD.
+
+Available on C2C. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

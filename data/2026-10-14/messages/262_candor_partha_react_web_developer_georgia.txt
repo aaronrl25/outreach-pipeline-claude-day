@@ -1,0 +1,18 @@
+To: partha@candorsoftwaresolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: Job Code 31252 – React Web Developer – Georgia – Aaron Ramirez (C2C)
+
+Hi Partha,
+
+I saw your LinkedIn post for Job Code 31252, React Web Developer (Georgia), and would like to be considered. My resume is attached.
+
+- 10+ years of software development with 8+ hands-on in React and object-oriented JavaScript (ES6+) / TypeScript: single-page and rich internet applications, Hooks, Redux and state management, AJAX / REST and JSON integration, HTML5 and CSS3.
+- Expert in design patterns, code structure and continuous integration and deployment: Webpack builds, Jest / React Testing Library / Cypress unit, integration and performance testing, cross-browser debugging and browser optimization, with CI/CD on GitHub Actions and Jenkins.
+- Design documents, interface specifications and architecture reviews for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members); Scrum delivery with product management and distributed teams. BS in Computer Science.
+
+Work authorization: TN status (employer-supported, renewable, no lottery), which is not on the list in your post; please let me know if it works for this client. Available on C2C and for the face-to-face final interview. Glad to discuss rate and start date this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
