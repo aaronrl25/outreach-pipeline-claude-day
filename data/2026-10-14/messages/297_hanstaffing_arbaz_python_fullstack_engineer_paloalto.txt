@@ -1,0 +1,18 @@
+To: arbazqureshi@hanstaffing.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python Full Stack Engineer – Palo Alto, CA (Hybrid, CA local) – Aaron Ramirez (C2C)
+
+Hi Arbaz,
+
+I saw your LinkedIn post for the Python Full Stack Engineer role in Palo Alto, CA and would like to be considered. I am local to the San Francisco Bay Area and available for the face-to-face interview and the hybrid schedule. My resume is attached.
+
+- Backend: production Python REST APIs with FastAPI and Flask (async endpoints, dependency injection, middleware), ORM-based data access and query optimization on PostgreSQL, MySQL and SQL Server, for Walmart Global Tech and IBM / AEP.
+- Frontend: 8+ years in React with modern JavaScript (ES6+, async/await, closures) and TypeScript: hooks, state management (Redux Toolkit, Context API, Zustand) and component architecture for Walmart Seller Center, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS / Azure deployments with Docker and GitHub Actions CI/CD, Jest / Cypress automated testing.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

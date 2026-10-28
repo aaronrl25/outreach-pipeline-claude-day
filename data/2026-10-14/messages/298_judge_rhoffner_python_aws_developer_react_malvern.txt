@@ -1,0 +1,19 @@
+To: Rhoffner@judge.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python AWS Developer with React – Malvern, PA (Hybrid) – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the Python AWS Developer with React role in Malvern, PA (hybrid) and would like to be considered. My resume is attached.
+
+- Work authorization: TN status (employer-supported, renewable, no lottery). Available on C2C.
+- Python: FastAPI, Flask and Django REST APIs and microservices for Walmart Global Tech and IBM / AEP, with ORM-based data access on PostgreSQL and SQL Server.
+- React: 8+ years with TypeScript, hooks, Redux Toolkit and component libraries for Walmart Seller Center, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS: Lambda, ECS / Fargate, RDS, S3 and CloudWatch with Docker and GitHub Actions / Jenkins CI/CD; Jest / Cypress automated testing; production support with Dynatrace.
+
+Open to the hybrid schedule in Malvern; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: matt@intellisofttech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Forward Deployed Engineer (Senior Full Stack – React / Python / PostgreSQL / AWS) – Houston, TX – Aaron Ramirez (C2C)
+
+Hi Matt,
+
+I saw your LinkedIn post for the Forward Deployed Engineer (Senior Full Stack Engineer) role in Houston, TX and would like to be considered. My resume is attached.
+
+- Priority 1, React: 8+ years hands-on with TypeScript, hooks, Redux Toolkit and reusable component libraries for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Priority 2, backend: production Python (FastAPI, Flask, Django) services, with C# / .NET and Node.js as secondary stacks; REST and GraphQL APIs.
+- Priority 3 and 4: PostgreSQL and SQL Server data access and query optimization; 4+ years of hands-on AWS with S3, ECS / Fargate, Lambda, RDS and VPC / subnet networking, deployed with Docker and GitHub Actions CI/CD. Customer-facing delivery with product, operations and data teams.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available for the hybrid 3-days-onsite schedule in Houston; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

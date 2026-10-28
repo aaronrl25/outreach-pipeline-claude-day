@@ -1,0 +1,18 @@
+To: aashish@apetan.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Full Stack Developer (Angular / Spring Boot / Microservices) – Denver, CO – Aaron Ramirez (C2C)
+
+Hi Aashish,
+
+I saw your LinkedIn post for the Java Full Stack Developer contract in Denver, CO and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Java / Spring Boot REST microservices behind Angular (TypeScript, RxJS, NgRx, standalone components, signals) front ends for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS delivery (Lambda, ECS / Fargate, RDS, S3) with Docker and Jenkins / GitHub Actions CI/CD; JUnit / Jasmine / Jest / Cypress test gates; OAuth 2.0 / JWT security.
+- Production support with Dynatrace (cut P1 MTTR by 50%), Agile/Scrum, GitHub Copilot and Claude Code in daily use.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; open to Denver onsite or hybrid; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

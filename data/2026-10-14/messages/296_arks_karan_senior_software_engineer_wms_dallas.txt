@@ -1,0 +1,18 @@
+To: karan@arksintellitech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_TypeScript_Node_React_Native_Agentic_AI_WMS_Dallas.pdf
+Subject: Senior Software Engineer – Warehouse Management System (TypeScript / Node / React Native / Claude Code) – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Karan,
+
+I saw your LinkedIn post for the Senior Software Engineer – Warehouse Management System role in Dallas and would like to be considered. My resume is attached.
+
+- 10+ years in TypeScript / Node.js and React, with React Native (Expo) Android apps: I built handheld and web features for Walmart's warehouse management system (500K+ daily associates: inventory, receiving, picking and cycle-count workflows with barcode scanning), on Node.js REST APIs over PostgreSQL with transactions, audit trails and ERP-facing data sync, taking features from prototype to production.
+- Claude Code and agentic development are my daily workflow: CLAUDE.md context files, sub-agent orchestration, AI-generated code review and automated test-and-fix loops; LLM features on the Claude API and Azure OpenAI at Walmart Seller Center and IBM / AEP.
+- Azure DevOps CI/CD with automated test gates, Microsoft Entra ID / OAuth 2.0 and role-based access, offline-tolerant mobile sync, Dynatrace observability. Databricks Lakebase and Infor ION / LX are not on my resume; happy to discuss.
+
+Details: Dallas-based and available for the in-person client interview and the hybrid schedule; work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. Could you share the rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

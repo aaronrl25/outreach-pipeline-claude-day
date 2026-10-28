@@ -1,0 +1,18 @@
+To: mrahul@smartfolksinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_vSpectrum_Front_End_Developer_Angular_Remote.pdf
+Subject: UI Developer with Angular – RTP, NC (Onsite) – Aaron Ramirez (C2C)
+
+Hi Rahul,
+
+I saw your LinkedIn post for the UI Developer with Angular role in RTP, NC and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development with Angular (TypeScript, RxJS, NgRx, standalone components, signals) and React, building enterprise SPAs, reusable component libraries and design systems for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Accessibility (WCAG 2.1 AA), responsive UI, Core Web Vitals performance (40% faster loads), Jasmine / Karma / Jest / Cypress testing, GitHub Actions and Azure DevOps CI/CD.
+- REST API integration with JWT / OAuth 2.0, Agile/Scrum delivery with code review and mentoring.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; open to onsite in RTP, NC; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
