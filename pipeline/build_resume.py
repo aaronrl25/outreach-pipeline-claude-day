@@ -36,7 +36,7 @@ def job(title,company,dates):
     pp,rt,rs,rc,rd=T['job']; return P(pp,run(rt,title),run(rs,'  ·  '),run(rc,company),tab(),run(rd,dates))
 def tech(label,val): pp,rl,rv=T['tech']; return P(pp,run(rl,label),tab(),run(rv,val))
 out=[simple('name','AARON DAVID RAMÍREZ LEZAMA'), simple('tag',spec['tagline']),
-     simple('contact','rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25  ·  aron.software')]
+     simple('contact',spec.get('contact','rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25  ·  aron.software'))]
 if spec.get('location'): out.append(simple('loc',spec['location']))
 out+= [simple('head','PROFESSIONAL SUMMARY'), simple('sum',spec['summary']), simple('head','CORE SKILLS')]
 out+= [skill(l,r) for l,r in spec['core_skills']]

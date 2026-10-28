@@ -16,7 +16,7 @@ for i,tw in ov.get('role_tweaks',{}).items():
     r=spec['roles'][int(i)]
     for k,v in tw.items(): r[k]=v
 for extra_role in ov.get('roles_append',[]): spec['roles'].append(extra_role)
-for k in ('edu','community'):
+for k in ('edu','community','contact'):
     if k in ov: spec[k]=ov[k]
 sp=os.path.join(HERE,'specs',ov['name']+'.json'); json.dump(spec,open(sp,'w'),ensure_ascii=False,indent=1)
 subprocess.run([sys.executable,os.path.join(HERE,'build_resume.py'),sp,dest],check=True)
