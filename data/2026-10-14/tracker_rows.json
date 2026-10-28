@@ -15407,5 +15407,43 @@
   "msg": "",
   "status": "NOT SENT – hotlist or candidate post",
   "src": "LinkedIn sweep 2026-10-28 12:15"
+ },
+ {
+  "company": "Crea Services (S. Naim)",
+  "role": "Full Stack Architect – React/Next.js SSR, Node/Java Spring microservices, Spark jobs, edge caching, Core Web Vitals (same JD family as Excelon)",
+  "loc": "Plano, TX (work from office)",
+  "arr": "Onsite",
+  "type": "C2C (hashtags)",
+  "pay": "Not stated",
+  "posted": "2026-10-28",
+  "skills": "React/Next.js SSR, Node, Java/Spring, Spark, CDN/edge, Core Web Vitals",
+  "visa": "Not stated; TN stated",
+  "recruiter": "Crea Services (S. Naim)",
+  "contact": "snaim@creaservices.net",
+  "link": "",
+  "fit": "Excelon Plano architect PDF reused; open to onsite in Plano stated",
+  "resume": "Aaron_Ramirez_Excelon_Full_Stack_Architect_Retail_Plano.pdf",
+  "msg": "messages/303_crea_snaim_fullstack_architect_plano.txt",
+  "status": "SENT 2026-10-28",
+  "src": "LinkedIn sweep 2026-10-28 12:45"
+ },
+ {
+  "company": "Intellisoft x3 / Agilees / Sparkitt / Global IT Family / SVX",
+  "role": "FDE Houston dup; Python FS Menlo Park 12+; hotlists; Lead Java 12–14",
+  "loc": "various",
+  "arr": "",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-10-28",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "Aaron@intellisofttech.com; mike@intellisofttech.com; andy@intellisofttech.com; adarsh.agilees@gmail.com; satish@sparkitt.com; bkamalaveni@globalitfamily.com; Greg@Svxsystems.com",
+  "link": "",
+  "fit": "duplicate req, 12+ yrs, or hotlist",
+  "resume": "",
+  "msg": "",
+  "status": "NOT SENT – duplicate req, 12+ yrs, or hotlist",
+  "src": "LinkedIn sweep 2026-10-28 12:45"
  }
 ]

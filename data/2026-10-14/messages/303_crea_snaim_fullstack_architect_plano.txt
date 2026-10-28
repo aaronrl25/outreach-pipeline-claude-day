@@ -1,0 +1,18 @@
+To: snaim@creaservices.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Excelon_Full_Stack_Architect_Retail_Plano.pdf
+Subject: Full Stack Architect (React / Next.js, Node.js, Java / Spring Boot) – Plano, TX – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the Full Stack Architect role in Plano, TX (work from office) and would like to be considered. My resume is attached.
+
+- 10+ years of hands-on full stack engineering and architecture: React / Next.js with server-side rendering, TypeScript, state management, component libraries and Core Web Vitals performance work, on Node.js / TypeScript and Java / Spring Boot microservices, for Walmart Global Tech (Seller Center marketplace, store apps), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- End-to-end system design across client apps, CDN / edge caching, middleware and transactional back ends; API latency, database indexing and fault-tolerant failover work; complex debugging in legacy and modern codebases (concurrency, caching, data integrity, rendering).
+- Proof-of-concept prototyping of new architecture and third-party integrations, then delegating execution to the team through code review, standards and mentoring (led squads of 5–7 engineers).
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; open to onsite in Plano; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
