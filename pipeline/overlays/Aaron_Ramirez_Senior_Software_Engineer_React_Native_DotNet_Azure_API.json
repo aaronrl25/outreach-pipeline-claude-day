@@ -3,7 +3,7 @@
  "name": "Aaron_Ramirez_Senior_Software_Engineer_React_Native_DotNet_Azure_API",
  "tagline": "Senior Software Engineer – Mobile  ·  React Native & React (TypeScript / JavaScript)  ·  .NET (C#, ASP.NET Core Web API) Microservices  ·  Azure API Development (API Management, App Service, Functions)  ·  Cloud DevOps, CI/CD, Team Enablement",
  "location": "",
- "summary": "Senior full stack software engineer with 10+ years turning business needs into shipped mobile and web products for Walmart Global Tech, IBM/AEP, and HCSC: React Native and React front ends in TypeScript on .NET (C#, ASP.NET Core Web API) and Node.js microservices, with RESTful APIs built, secured, and deployed inside Azure (API Management, App Service, Functions, Entra ID / OAuth 2.0). Owns system and software design and documentation; builds the cloud DevOps foundation (Azure DevOps and GitHub Actions CI/CD, Docker, release pipelines) that enables the team; mentors engineers and collaborates with product, QA, and other business units. Customer-first and takes the initiative to own and resolve production issues. C# since 2015 (Unity game development, then .NET services). GitHub Copilot and Claude Code in daily use.",
+ "summary": "Senior full stack software engineer with 10+ years turning business needs into shipped mobile and web products for Walmart Global Tech, IBM/AEP, and HCSC: React Native and React (TypeScript) on .NET (C#, ASP.NET Core Web API) and Node.js microservices, with RESTful APIs built, secured, and deployed in Azure (API Management, App Service, Functions, Entra ID). Owns system design and documentation, builds the cloud DevOps foundation (Azure DevOps, GitHub Actions, Docker) that enables the team, mentors engineers, and partners with product, QA, and other business units. C# since 2015 (Unity, then .NET). Customer-first; owns production issues end to end.",
  "core_skills": [
   [
    "React Native & React (TypeScript / JavaScript), Redux, Expo",
@@ -28,9 +28,12 @@
  ],
  "tech_overrides": {
   "Languages:": "C#, TypeScript, JavaScript (ES6+), Node.js, C, SQL, HTML5, CSS3",
-  "APIs & Backend:": ".NET (C#, ASP.NET Core Web API, Entity Framework Core), Node.js/Express, RESTful API design (OpenAPI/Swagger, versioning, pagination, idempotency), microservices, WebSockets/Socket.IO, GraphQL, Salesforce REST APIs, SQL Server, PostgreSQL, MongoDB, Firebase",
-  "Cloud & CI/CD:": "Azure (API Management, App Service, Azure Functions, Azure DevOps Pipelines, Entra ID, Key Vault, Application Insights, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Expo EAS build & submit, Dynatrace",
-  "Testing & Process:": "Jest, React Testing Library, Detox, xUnit, Supertest; Agile/Scrum, Jira, Figma, design docs and ADRs, code review, mentoring, AI-assisted development: Claude Code, GitHub Copilot, Cursor"
+  "APIs & Backend:": ".NET (C#, ASP.NET Core Web API, EF Core), Node.js/Express, RESTful API design (OpenAPI, versioning), microservices, WebSockets, GraphQL, SQL Server, PostgreSQL, MongoDB, Firebase",
+  "Cloud & CI/CD:": "Azure (API Management, App Service, Functions, DevOps Pipelines, Entra ID, Key Vault, Application Insights, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Expo EAS, Dynatrace",
+  "Testing & Process:": "Jest, React Testing Library, Detox, xUnit, Supertest; Agile/Scrum, Jira, Figma, design docs, code review, mentoring; Claude Code, GitHub Copilot, Cursor",
+  "Mobile:": "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native modules (Swift/Kotlin), Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync",
+  "State & UI:": "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js",
+  "Security:": "OAuth 2.0 / JWT, role-based access, secure token storage, TLS, HIPAA data handling"
  },
  "role_tweaks": {
   "0": {
@@ -44,7 +47,7 @@
   "1": {
    "sub": "Remote · Enterprise Field Operations Platform (iOS, Android & Web · React Native / .NET / Azure)",
    "bullets": [
-    "Led a cross-functional team implementing the React Native front end for AEP's field operations platform, integrating 10+ microservice REST APIs used by thousands of utility technicians; mentored engineers and partnered with product, QA, and other business units on technology decisions.",
+    "Led a cross-functional team implementing the React Native front end for AEP's field operations platform (10+ microservice REST APIs, thousands of utility technicians); mentored engineers and partnered with product, QA, and other business units.",
     "Configured and built APIs inside Azure: C# / ASP.NET Core Web API services on Azure App Service and Functions behind Azure API Management with Entra ID / JWT role-based authorization and Key Vault secrets; offline-tolerant sync for low-connectivity areas; Azure AI Services to classify field notes.",
     "Automated Azure DevOps build and release pipelines with Docker agents, environment promotion, and test gates in two-week Scrum sprints; Dynatrace APM and Application Insights cut P1 mean time to resolution by 50%."
    ]
@@ -53,13 +56,13 @@
    "sub": "Remote · Warehouse Management System (iOS & Android · React Native / .NET / Node.js)",
    "bullets": [
     "Delivered React Native (TypeScript) iOS and Android features for Walmart's warehouse management system (500K+ daily associates), consuming .NET (ASP.NET Core Web API) and Node.js microservice REST APIs and real-time inventory events over WebSockets.",
-    "Designed and documented RESTful API contracts with the backend team (OpenAPI, versioning, error handling); built Jest / React Testing Library / xUnit test infrastructure, raising coverage to 80%+ and cutting regression incidents by 35%; Azure DevOps, Jenkins, and GitHub pipelines with Docker agents.",
+    "Designed and documented RESTful API contracts (OpenAPI, versioning, error handling); built Jest / React Testing Library / xUnit test infrastructure, raising coverage to 80%+ and cutting regression incidents by 35%; Azure DevOps and Jenkins pipelines.",
     "Optimized app load time by 40% via bundle optimization, image caching, list virtualization, and request batching; Dynatrace across 3 apps cut MTTR by 50%."
    ]
   },
   "3": {
    "bullets": [
-    "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app for 1M+ Blue Cross Blue Shield members: digital ID cards, claims, provider search, push notifications, and secure messaging over .NET (ASP.NET Core Web API) REST services with encrypted sessions and Azure-hosted integrations.",
+    "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app for 1M+ Blue Cross Blue Shield members: digital ID cards, claims, provider search, push notifications, and secure messaging over .NET (ASP.NET Core Web API) REST services with Azure-hosted integrations.",
     "Drove architecture, design documentation, sprint planning, and delivery across distributed teams; mentored 4 engineers in React Native, Redux Saga, and API integration; structured PR review improved velocity by 25%.",
     "Established Jest unit testing standards (coverage 45% to 85%) with continuous delivery through Jenkins and Azure DevOps CI/CD to app-store releases."
    ]
