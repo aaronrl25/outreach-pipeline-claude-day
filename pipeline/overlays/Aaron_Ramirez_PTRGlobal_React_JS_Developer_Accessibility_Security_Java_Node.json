@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "tagline": "React.JS Developer  ·  React Hooks, TypeScript, Responsive Design, Sass/SCSS, Semantic HTML  ·  Accessibility (WCAG 2.1 AA, Keyboard & VoiceOver)  ·  Web Application Security (OWASP, OAuth 2.0 / JWT)  ·  Node.js & Java / Spring Boot Full Stack  ·  Unit Testing, GitHub",
+ "location": "",
+ "summary": "React.JS Developer with 10+ years building responsive, accessible, and secure web applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds component libraries with React Hooks and TypeScript, semantic HTML5 and Sass/SCSS layouts that work across breakpoints and browsers, and accessibility to WCAG 2.1 AA verified with keyboard-only navigation, VoiceOver, and axe. Applies web application security practices (OWASP Top 10 mitigations, CSP, XSS/CSRF protection, OAuth 2.0 / JWT session handling, secure PHI/PII handling on a HIPAA platform). Full stack delivery on Node.js / Express and Java / Spring Boot REST services, with unit and integration testing in Jest, React Testing Library, and Cypress, Git/GitHub workflows, and CI/CD on GitHub Actions and Jenkins. HTML5 media playback and streaming UI integration; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, React Hooks, TypeScript, JavaScript (ES6+)",
+   "Responsive Design, Sass/SCSS, Semantic HTML5, CSS3"
+  ],
+  [
+   "Accessibility: WCAG 2.1 AA, Keyboard Navigation, VoiceOver / Screen Readers, axe",
+   "Web Application Security: OWASP Top 10, CSP, XSS/CSRF, OAuth 2.0 / JWT"
+  ],
+  [
+   "Node.js / Express REST APIs",
+   "Java / Spring Boot Full Stack (Preferred Secondary)"
+  ],
+  [
+   "Unit Testing: Jest, React Testing Library, Cypress",
+   "Git / GitHub, Code Review, GitHub Actions & Jenkins CI/CD"
+  ],
+  [
+   "HTML5 Media Playback & Streaming UI",
+   "Performance, Core Web Vitals, Cross-Browser Compatibility"
+  ]
+ ],
+ "name": "Aaron_Ramirez_PTRGlobal_React_JS_Developer_Accessibility_Security_Java_Node",
+ "tech_overrides": {
+  "Front End:": "React.js, React Hooks, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, React Query, Next.js, semantic HTML5, CSS3, Sass/SCSS, Styled Components, responsive design, design systems, accessibility (WCAG 2.1 AA, keyboard navigation, VoiceOver / NVDA, axe), HTML5 media playback, Core Web Vitals",
+  "APIs & Backend:": "Node.js / Express REST APIs, Java / Spring Boot REST microservices, GraphQL, WebSockets/Socket.IO, PostgreSQL, MongoDB; web application security: OWASP Top 10, Content Security Policy, XSS/CSRF protection, OAuth 2.0 / JWT, RBAC",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Supertest, JUnit; accessibility testing (axe, screen readers), code review, performance profiling, Lighthouse"
+ }
+}

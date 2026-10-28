@@ -1,0 +1,18 @@
+To: patha.kumar@ptrglobal.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_PTRGlobal_React_JS_Developer_Accessibility_Security_Java_Node.pdf
+Subject: React.JS Developer (Responsive / Sass / Accessibility / Java Full Stack) – Aaron Ramirez (C2C)
+
+Hi Anand,
+
+I saw your LinkedIn post listing the high-priority React.JS Developer opening and would like to be considered for an immediate interview. My resume is attached.
+
+- 10+ years of front-end development with 8+ hands-on in React.js: React Hooks, TypeScript, responsive design with semantic HTML5 and Sass/SCSS, reusable component libraries, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Accessibility and security: WCAG 2.1 AA with keyboard-only navigation and VoiceOver / screen-reader verification, plus web application security practices (OWASP Top 10, CSP, XSS/CSRF protection, OAuth 2.0 / JWT) on a HIPAA member platform.
+- Full stack: Node.js / Express and Java / Spring Boot REST services behind the React front ends; unit testing with Jest, React Testing Library and Cypress; Git/GitHub with GitHub Actions and Jenkins CI/CD. HTML5 media playback experience; hls.js specifically is not on my resume, happy to discuss.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; available to start on short notice and for an immediate interview. Could you share the client, location and rate? Glad to discuss today.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
