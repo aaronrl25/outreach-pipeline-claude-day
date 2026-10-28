@@ -1,0 +1,18 @@
+To: ravindra.Ch@itacttech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_ITACT_Senior_Full_Stack_Engineer_TypeScript_Node_React_Native_Agentic_AI_WMS_Dallas.pdf
+Subject: Senior Full Stack Engineer – Agentic AI / WMS – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Ravindra,
+
+I saw your LinkedIn post for the Senior Full Stack Engineer (Agentic AI | WMS | Data Warehouse) role with Trinity Industries and would like to be considered. My resume is attached.
+
+- 10+ years in TypeScript / Node.js and React, with React Native (Expo) Android apps: I built handheld and web features for Walmart's warehouse management system (500K+ daily associates: inventory, receiving, picking and cycle-count workflows with barcode scanning), on Node.js REST APIs over PostgreSQL with transactions, audit trails and ERP-facing data sync.
+- Agentic AI coding is my daily workflow: Claude Code with CLAUDE.md context files, sub-agent orchestration, AI-generated code review and automated test-and-fix loops, plus LLM features on the Claude API and Azure OpenAI (Walmart Seller Center, IBM / AEP).
+- Azure delivery end to end: Azure DevOps CI/CD with automated test gates, Microsoft Entra ID / OAuth 2.0 authentication and role-based access, offline-tolerant mobile sync, Dynatrace monitoring.
+
+Details you asked for: Dallas-based, so I can attend the onsite technical working session and work onsite 3–4 days per week; work authorization TN status (employer-supported, renewable, no lottery); available to start on short notice. The $60/hr C2C rate works for me. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: Madhuri.Moodedla@asciigroup.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer – GenAI (React, AWS, Python) – Aaron Ramirez (C2C / W2)
+
+Hi Madhuri,
+
+I saw your LinkedIn post for the Java Full Stack Developer – GenAI role (Fort Worth / Phoenix / Charlotte / Detroit) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Java / Spring Boot microservices with Spring MVC, Hibernate / JPA and REST APIs, behind React / TypeScript front ends (HTML5, CSS3), for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- GenAI in production: a seller-support assistant on the Claude API with LangChain agents (prompt engineering, embeddings, RAG) at Walmart, and Azure OpenAI classification features at IBM / AEP; Python (FastAPI / Flask) for automation on other engagements.
+- AWS (ECS / Fargate, Lambda, RDS, S3), Docker, SQL / NoSQL, JUnit / Jest / Cypress with GitHub Actions CI/CD. Finance-domain exposure through HCSC (health insurance, 1M+ members); no airline experience to claim.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; Fort Worth, TX is my preferred location and I can interview in person; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

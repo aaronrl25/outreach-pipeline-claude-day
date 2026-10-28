@@ -1,0 +1,18 @@
+To: basha@saanvi.us
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Full Stack Developer (Angular 16+) – Remote – Aaron Ramirez (C2C / W2)
+
+Hi Basha,
+
+I saw your LinkedIn post for the remote Java Full Stack Developer (Angular 16+) role for the Michigan client and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Core Java / J2EE and Spring (Boot, MVC, REST services) with SQL on PostgreSQL and SQL Server, behind Angular 16+ (standalone components, signals, TypeScript, RxJS, NgRx) and Node.js front ends, for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Docker deployments on AWS (Lambda, ECS / Fargate, RDS) with Jenkins / GitHub Actions CI/CD, OAuth 2.0 / JWT security; GitHub Copilot and Claude Code in daily use (Oracle / PL-SQL and Kubernetes are not my primary stack, happy to discuss).
+- JUnit / Jest / Cypress automated testing and production support with Dynatrace (cut P1 MTTR by 50%).
+
+Details: work authorization TN status (employer-supported, renewable, no lottery; not a US citizen, so please let me know if that is workable for this client); available on C2C or W2; remote from San Francisco, CA; available to start on short notice. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

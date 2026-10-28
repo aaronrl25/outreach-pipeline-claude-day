@@ -1,0 +1,18 @@
+To: jones@cogentcube.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python Full Stack Developer (Flask / FastAPI + React / TypeScript) – Aaron Ramirez (C2C)
+
+Hi Jones,
+
+I saw your LinkedIn post for the Python Full Stack Developer (Flask / FastAPI, React + TypeScript) role and would like to be considered. My resume is attached.
+
+- Backend: Python REST APIs with Flask (blueprints, middleware) and FastAPI (async endpoints, dependency injection), ORM-based data access and query optimization on PostgreSQL, for Walmart Global Tech and IBM / AEP.
+- Frontend: 8+ years in React with TypeScript, hooks and state management (Redux Toolkit, Context API, Zustand), responsive and accessible UIs with design-system component libraries, Jest / React Testing Library / Cypress.
+- REST and JSON-RPC API design, AWS / Azure deployments with Docker and GitHub Actions CI/CD.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. Could you share the location and client? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

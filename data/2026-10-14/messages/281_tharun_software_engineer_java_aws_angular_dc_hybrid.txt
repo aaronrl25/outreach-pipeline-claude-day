@@ -1,0 +1,18 @@
+To: tharunchukka87@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Software Engineer (Java / AWS / Angular) – Washington, DC / McLean, VA – Aaron Ramirez (C2C)
+
+Hi Tharun,
+
+I saw your LinkedIn post for the Software Engineer (Java / AWS / Angular) hybrid role in the Washington, DC area and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development: Java / Spring Boot REST microservices behind Angular (TypeScript, RxJS, NgRx) front ends for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS cloud-native delivery: ECS / Fargate, Lambda, RDS (PostgreSQL) and S3, with Docker and Jenkins / GitHub Actions CI/CD; JUnit / Jest / Cypress test gates.
+- Production support with Dynatrace (cut P1 MTTR by 50%), OAuth 2.0 / JWT security, Agile/Scrum teams.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C (or W2); open to the hybrid schedule in DC / Rockville / McLean; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

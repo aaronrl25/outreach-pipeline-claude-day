@@ -1,0 +1,18 @@
+To: anushka@redhottechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: FSD Lead Developer (Java / Microservices / React.js) – Aaron Ramirez (C2C)
+
+Hi Anushka,
+
+I saw your LinkedIn post for the FSD Lead Developer (Java, Microservices, React.js) role (Jersey City / Miami / Charlotte / Atlanta) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack development and 5 years leading teams: Java / Spring Boot REST microservices behind React / Redux (TypeScript) front ends for Walmart Global Tech (Seller Center marketplace, led a squad of 6+ engineers), IBM / AEP (500K+ daily users) and HCSC (1M+ members, mentored 4 engineers).
+- GenAI / RAG in production: a seller-support assistant on the Claude API with LangChain agents at Walmart and Azure OpenAI features at IBM / AEP.
+- AWS and Azure with Docker, GitHub Actions / Azure DevOps CI/CD, JUnit / Jest / Cypress test gates, Agile/Scrum with offshore coordination.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; open to onsite, Miami or Charlotte preferred; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

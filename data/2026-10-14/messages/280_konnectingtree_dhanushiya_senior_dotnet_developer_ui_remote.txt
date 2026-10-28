@@ -1,0 +1,18 @@
+To: dhanushiya.karuppiah@konnectingtree.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_YSAT_Senior_DotNet_Developer_React_Angular_Remote.pdf
+Subject: Senior .NET Developer – Front-End / UI-UX / Accessibility – Remote – Aaron Ramirez (C2C)
+
+Hi Dhanushiya,
+
+I saw your LinkedIn post for the Senior .NET Developer (Front-End, UI/UX, WCAG 2.1 AA) remote role and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications: C# / .NET Core, ASP.NET MVC and Web API services with SQL Server and REST middleware, behind HTML5, CSS / SCSS and JavaScript / TypeScript front ends (React and Angular) inside enterprise design systems.
+- Accessibility and UX: WCAG 2.1 AA compliance with screen-reader testing, responsive design and turning Figma designs into working interfaces, for Walmart Global Tech, IBM / AEP and HCSC (HIPAA member application, 1M+ members, sensitive data in production).
+- Azure DevOps CI/CD pipelines, Jest / Cypress automated testing, Agile/Scrum.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; remote from San Francisco, CA; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

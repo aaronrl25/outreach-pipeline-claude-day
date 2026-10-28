@@ -1,0 +1,18 @@
+To: charan@rits-it.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_vSpectrum_Front_End_Developer_Angular_Remote.pdf
+Subject: UI Developer (Angular / TypeScript) – Remote – Aaron Ramirez (W2)
+
+Hi Charan,
+
+I saw your LinkedIn post for the remote UI Developer (Angular, TypeScript) role and would like to be considered. My resume is attached.
+
+- 10+ years of front-end development with Angular (TypeScript, RxJS, NgRx) and React, building enterprise-grade SPAs for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- UI architecture and design systems: reusable component libraries, micro frontends, accessibility (WCAG 2.1 AA) and front-end performance (Core Web Vitals, 40% faster loads); technical-debt reduction through refactoring and modernization of legacy screens.
+- Unit testing and automation with Jasmine / Karma, Jest and Cypress (raised coverage to 80%+), integrated into GitHub Actions and Azure DevOps CI/CD.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on W2 as you require; remote from San Francisco, CA; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

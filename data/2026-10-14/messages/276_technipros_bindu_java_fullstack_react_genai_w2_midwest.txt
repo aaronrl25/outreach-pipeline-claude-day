@@ -1,0 +1,18 @@
+To: bindu@technipros.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer (Spring Boot / React / GenAI) – Chicago, IL – Aaron Ramirez (W2)
+
+Hi Bindu,
+
+I saw your LinkedIn post for the Java Full Stack Developer (Spring Boot, React, Generative AI) contract and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise applications: Java / Spring Boot REST and GraphQL microservices with event-driven integration, behind React (TypeScript) front ends, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- GenAI integration in production: a seller-support assistant on the Claude API with LangChain agents at Walmart, and Azure OpenAI classification / summarization features at IBM / AEP; OAuth2 / JWT security throughout.
+- Docker deployments on AWS (ECS / Fargate, RDS) and Azure with GitHub Actions and Azure DevOps CI/CD, JUnit / Jest / Cypress test gates.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on W2 as you require; Chicago, IL is my preferred location (I was based there for my Walmart and HCSC engagements), and the other cities are possible too. Available to start on short notice. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
