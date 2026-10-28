@@ -8,7 +8,7 @@
    "bullets": [
     "Spearheaded React Native and React (TypeScript) development for Seller Center, Walmart's marketplace platform (billions in annual GMV); owned system design, architecture standards, code review, and design documentation for a squad of 6+ engineers.",
     "Designed and built RESTful APIs in C# / ASP.NET Core Web API and Node.js within a 6+ service microservice architecture, published through Azure API Management with OAuth 2.0 / Entra ID security, OpenAPI contracts, and versioning; integrated a GenAI seller-support assistant on the Claude API.",
-    "Set up the team's cloud DevOps foundation: Azure DevOps and GitHub Actions CI/CD with Jest, Detox, and xUnit gates, Docker images on Azure App Service and AWS ECS/Fargate; monitored health in Dynatrace and Application Insights and owned P1 incident resolution."
+    "Set up the team's cloud DevOps foundation: Azure DevOps and GitHub Actions CI/CD with Jest, Detox, and xUnit gates, Docker on Azure App Service and AWS ECS/Fargate; Dynatrace and Application Insights monitoring, owned P1 incident resolution."
    ]
   },
   {
@@ -41,7 +41,7 @@
    "bullets": [
     "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app for 1M+ Blue Cross Blue Shield members: digital ID cards, claims, provider search, push notifications, and secure messaging over .NET (ASP.NET Core Web API) REST services with encrypted sessions and Azure-hosted integrations.",
     "Drove architecture, design documentation, sprint planning, and delivery across distributed teams; mentored 4 engineers in React Native, Redux Saga, and API integration; structured PR review improved velocity by 25%.",
-    "Established Jest unit testing standards, raising coverage from 45% to 85%, with continuous delivery through Jenkins and Azure DevOps CI/CD to app-store releases."
+    "Established Jest unit testing standards (coverage 45% to 85%) with continuous delivery through Jenkins and Azure DevOps CI/CD to app-store releases."
    ]
   },
   {
@@ -50,8 +50,8 @@
    "dates": "Nov 2022 – Jan 2024",
    "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (iOS & Android)",
    "bullets": [
-    "Built React Native inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
-    "Designed a modular component system shared across 3 warehouse apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions with Dynatrace crash analytics."
+    "Built React Native inventory apps used by 1,000+ associates daily across hundreds of stores; barcode scanning improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular component system shared across 3 warehouse apps (40% less duplicate code) with real-time WebSocket sync to Walmart's SAP backend; 99.9% crash-free sessions."
    ]
   },
   {
@@ -60,8 +60,8 @@
    "dates": "Nov 2021 – Oct 2022",
    "sub": "Remote · Store Assist – Fulfillment as a Service (iOS & Android) · Spark Driver (Android)",
    "bullets": [
-    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
-    "Implemented Electrode Native micro-frontend architecture enabling React Native modules to embed into existing native iOS/Android apps, reducing new-feature integration time by 60%; optimized the Spark Driver app for low-end Android devices."
+    "Delivered curbside pickup, order management, and associate workflows for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in Agile/Scrum.",
+    "Implemented Electrode Native micro-frontends so React Native modules embed in existing native iOS/Android apps, cutting feature integration time by 60%."
    ]
   },
   {
@@ -70,8 +70,8 @@
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Led engineering for the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
-    "Architected a gas delivery tracking app supporting 300+ daily deliveries with live driver location, push notifications, Facebook login, and SMS status updates on a Node.js/Express backend on AWS in Docker; built a wine e-commerce app with JWT-secured third-party API integration that drove 120% year-over-year sales growth."
+    "Led engineering for the studio; shipped 0-to-1 React Native iOS/Android apps on Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
+    "Architected a gas delivery tracking app (300+ daily deliveries, live driver location, push and SMS updates) on Node.js/Express and AWS; built a wine e-commerce app whose JWT-secured integrations drove 120% YoY sales growth."
    ]
   },
   {
@@ -80,7 +80,7 @@
    "dates": "Jun 2017 – Oct 2018",
    "sub": "Remote · Real-Time IoT Asset Tracking (iOS & Android)",
    "bullets": [
-    "Built the Mobile as Bee iOS/Android app with React Native and a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led an iOS refactor that cut crash rates by 60%."
+    "Built the Mobile as Bee iOS/Android app in React Native with a Node.js REST backend streaming real-time IoT asset location over WebSockets; led an iOS refactor that cut crash rates by 60%."
    ]
   },
   {
