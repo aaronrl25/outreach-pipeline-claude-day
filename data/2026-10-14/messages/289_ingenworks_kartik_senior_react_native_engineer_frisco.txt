@@ -1,0 +1,18 @@
+To: kartik@ingenworks.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Mobile_Developer_Plano.pdf
+Subject: Senior React Native Engineer – Frisco, TX (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Kartik,
+
+I saw your LinkedIn post and would like to be considered for the Senior React Native Engineer role in Frisco, TX (hybrid). My resume is attached.
+
+- 10+ years in software engineering with 6+ shipping production React Native (TypeScript) apps for iOS and Android: Walmart Global Tech (warehouse and store associate apps, 500K+ daily users), IBM / AEP (field operations platform) and HCSC (HIPAA member app, 1M+ members).
+- Native modules in Swift and Kotlin, Expo / EAS, offline-first sync, OAuth 2.0 / biometric auth, push notifications, Detox and Jest testing, GitHub Actions / Azure DevOps CI/CD, App Store and Google Play releases.
+- Domain note: my background is retail, utilities and healthcare rather than telecom; I have integrated carrier-grade messaging, push and real-time services, and am glad to walk through how that maps to your client's needs.
+
+Details: Dallas-based, so the Frisco hybrid schedule works; work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. If the Omaha Solutions Architect (React / Java) role is a better match, I can send a tailored resume for it as well. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

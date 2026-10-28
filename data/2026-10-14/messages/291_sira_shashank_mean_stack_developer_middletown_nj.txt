@@ -1,0 +1,18 @@
+To: shashank@siraconsultinginc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf
+Subject: MEAN Stack Developer – Middletown, NJ – Aaron Ramirez (C2C)
+
+Hi Shashank,
+
+I saw your LinkedIn post for the MEAN Stack Developer contract in Middletown, NJ and would like to be considered. My resume is attached.
+
+- 10+ years of full stack JavaScript: Angular (TypeScript, RxJS, NgRx) and React / Redux front ends on Node.js / Express.js REST and GraphQL services over MongoDB and PostgreSQL, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Microservices, Docker, CI/CD on Azure DevOps, GitHub Actions and Jenkins, JWT / OAuth 2.0 security, and automated testing with Jest, Jasmine / Karma and Cypress.
+- Azure deployments (App Service, Functions, DevOps); workflow engines such as Camunda and Ansible are not on my resume, happy to discuss.
+
+Details: available onsite in Middletown, NJ; work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. Rate open to discussion. Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
