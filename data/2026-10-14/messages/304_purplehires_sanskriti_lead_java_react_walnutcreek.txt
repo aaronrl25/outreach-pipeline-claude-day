@@ -1,0 +1,27 @@
+To: sanskriti@purplehires.com   CC: pat@strgyz.com
+Attach: Aaron_Ramirez_Lead_Java_Developer_React_AWS.docx (Word, per recruiter request)
+Subject: RE: Job Lead Java Developer with React experience is shared with you
+Status: GMAIL DRAFT (reply in thread 1a1848708287273c) – Aaron to review and send; rate left for Patrick.
+
+Hi Sanskriti,
+
+Thank you for reaching out. I am interested in the Lead Java Developer with React role in Walnut Creek and I am local to the Bay Area, so the hybrid schedule and in-person client interview work for me. My resume is attached in Word format.
+
+Quick fit summary: 10+ years of professional software engineering with 4+ years in lead / tech-lead roles (Walmart Global Tech, IBM/AEP, HCSC); 8+ years hands-on React; Java / Spring (MVC, Security, Batch, REST/SOAP) with Hibernate/JPA and MySQL on Maven multi-module builds deployed to Tomcat; AWS ECS/Fargate, ECR, ALB, Secrets Manager / SSM, S3, CloudWatch with CDK / CloudFormation; and AI agent work (tool-calling agents, MCP servers, workflow automation, RAG) applied to enterprise systems.
+
+Full Name: Aaron David Ramirez Lezama
+Current Location: San Francisco Bay Area, CA (local to Walnut Creek)
+Hourly rate on C2C/W2: C2C through my employer, Strategyz Solutions LLC; open to the market rate for this role. Please confirm the rate with my employer contact, Peter Wright (pat@strgyz.com), copied here.
+Work Authorization: TN visa (Canada/Mexico professional status), employed by Strategyz Solutions LLC
+Earliest Available date to start: Two weeks from offer
+Date and times available to interview: Any weekday, 9:00 AM to 5:00 PM Pacific, with one business day notice
+Two Professional References (supervisory):
+1. Bonnie Jaiswal, Manager, Walmart Global Tech, bonnie.jaiswal@walmart.com, linkedin.com/in/bonniejaiswal
+2. Rae Metcalfe, Manager, IBM, rae.metcalfe@us.ibm.com, +1 (678) 642-0206, linkedin.com/in/rae-metcalfe-0a30585
+
+Looking forward to next steps.
+
+Best regards,
+Aaron Ramirez
+(773) 708-2882
+linkedin.com/in/aaronsoftware

@@ -1,0 +1,135 @@
+{
+ "roles": [
+  {
+   "title": "Staff Software Engineer (Tech Lead)",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (Java / Spring · React / TypeScript · AWS)",
+   "bullets": [
+    "Led end-to-end delivery for Walmart's Seller Center vendor portal (billions in annual GMV): a Maven multi-module Java / Spring application (Spring MVC, Spring Security, Spring Batch, Hibernate/JPA on MySQL) with a modern React / TypeScript UI; owned technical direction, coding standards, and design reviews for a squad of 6+ engineers.",
+    "Modernized legacy server-rendered (JSP) seller workflows into React modules behind REST APIs while keeping batch settlement and partner-integration jobs running safely; tuned MySQL schemas and queries for transactional integrity on high-volume order and payout tables.",
+    "Owned AWS reliability for containerized Tomcat services on ECS/Fargate with ECR, ALB, Secrets Manager / SSM, S3, and CloudWatch via AWS CDK pipelines; Datadog APM, structured logging, and on-call runbooks cut P1 mean time to resolution by 50%.",
+    "Built a GenAI seller-support agent: tool-calling LLM agents (Claude API / LangChain) with MCP servers exposing order, catalog, and policy tools, RAG over seller documentation, and human-in-the-loop approvals that automated support workflows and data handling."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer (Tech Lead)",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Java / Spring · React · AWS)",
+   "bullets": [
+    "Led a cross-functional team delivering AEP's field operations platform: React (TypeScript) portal integrated with 10+ Java / Spring MVC and Spring Boot services (REST and SOAP partner integrations, Hibernate/JPA, Spring Batch dispatch jobs) used by thousands of utility technicians nationwide.",
+    "Implemented Spring Security authentication and authorization (OAuth 2.0 / JWT, role-based access); integrated Azure OpenAI agents to summarize and classify field notes; improved end-to-end response time by 40% through API payload optimization and caching.",
+    "Containerized Tomcat services with Docker on AWS ECS using CloudFormation / Terraform, Jenkins CI/CD, and Dynatrace APM; diagnosed production issues across application, database, and infrastructure layers and strengthened monitoring and runbooks."
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Java / Spring · React)",
+   "bullets": [
+    "Delivered full stack features for Walmart's warehouse management system (500K+ daily active associates): Java / Spring Boot REST endpoints with Hibernate/JPA on PostgreSQL and a React / TypeScript associate UI; drove architecture decisions across service and UI code.",
+    "Designed JUnit, Jest, and React Testing Library testing infrastructure, raising coverage to 80%+ and cutting production regressions by 35%; Jenkins CI/CD with Docker build agents and Nexus artifact publishing; load time optimized by 40%."
+   ]
+  },
+  {
+   "title": "Senior React Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member platform serving 1M+ Blue Cross Blue Shield of Illinois members, integrated with Java / Spring REST services for claims, provider search, and secure messaging.",
+    "Drove architecture, sprint planning, and design reviews across distributed teams; mentored 4 engineers and introduced structured PR review that improved velocity by 25%; JUnit and Jest standards raised coverage from 45% to 85%."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of stores, with barcode scanning that improved inventory accuracy by 25%; real-time sync with Walmart's SAP backend through Java integration services."
+   ]
+  },
+  {
+   "title": "React Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup and order management features for Store Assist, Walmart's FaaS platform, on Java / Spring Boot services and React modules; led a team of 5 engineers in Agile/Scrum and introduced micro-frontend architecture that cut feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio: shipped 0-to-1 React and Next.js products with Java / Spring and Node.js backends on AWS in Docker for clients in three countries, including a gas delivery tracking platform (300+ daily deliveries) and a wine e-commerce storefront (120% YoY sales growth)."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built React clients and Java / Node.js RESTful services streaming real-time IoT asset location over WebSockets on AWS; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "React.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, React Hooks, React Query, Next.js, HTML5, CSS3, Tailwind, accessibility (WCAG), legacy JSP / server-rendered UI modernization"
+  ],
+  [
+   "State & Data:",
+   "Hibernate/JPA entity modeling, relational schema design, MySQL / PostgreSQL / SQL Server query tuning and transactional integrity, Spring Batch jobs, Redux / React Query"
+  ],
+  [
+   "APIs & Backend:",
+   "Java 8/11/17, Spring Boot, Spring MVC, Spring Security, Spring Batch, REST and SOAP web services, Hibernate/JPA, Maven multi-module builds, Tomcat, microservices, partner integrations; Node.js/Express, GraphQL, WebSockets; MySQL, PostgreSQL, MongoDB"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, ECR, ALB, Secrets Manager, SSM, S3, CloudWatch, Lambda, RDS), AWS CDK, CloudFormation, Terraform, Docker, Jenkins, CodePipeline / CodeBuild, CodeArtifact / Nexus, GitHub Actions; Datadog, Dynatrace APM, structured logging, on-call runbooks"
+  ],
+  [
+   "Testing & Quality:",
+   "JUnit, Mockito, Jest, React Testing Library, Cypress; code review, design reviews, performance profiling, production debugging across app / database / infrastructure layers"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Git/GitHub, mentoring, coding standards; AI agents (LLM tool calling, MCP, LangChain, Claude API, Azure OpenAI), Claude Code, GitHub Copilot"
+  ]
+ ],
+ "name": "Aaron_Ramirez_PurpleHires_Lead_Java_Developer_React_AWS_AI_Agents_WalnutCreek",
+ "tagline": "Lead Software Engineer – Java & React  ·  Java 8/11/17, Spring (MVC, Security, Batch, REST/SOAP), Hibernate/JPA, Maven Multi-Module, Tomcat  ·  React.js / TypeScript  ·  AWS ECS/Fargate, CDK, CloudWatch  ·  AI Agents (Tool Calling, MCP, Workflow Automation)",
+ "location": "San Francisco Bay Area (local to Walnut Creek, CA)  ·  Hybrid  ·  Contract (C2C)",
+ "summary": "Lead Software Engineer with 10+ years of professional software engineering experience and 4+ years in lead / tech-lead roles for Walmart Global Tech, IBM/AEP, and HCSC. Owns end-to-end delivery across backend services, APIs, UI, and partner integrations on large Maven multi-module Java enterprise platforms: Java 8+, Spring MVC, Spring Security, Spring Batch, Hibernate/JPA, MySQL, Tomcat, paired with modern React / TypeScript front ends (8+ years hands-on React). Modernizes legacy server-rendered (JSP) systems incrementally and safely; runs containerized Tomcat services on AWS ECS/Fargate (ECR, ALB, Secrets Manager / SSM, S3, CloudWatch) with CDK / CloudFormation IaC, Datadog and Dynatrace observability, and on-call runbooks. Builds AI agents and LLM-powered workflows for enterprise systems (tool-calling agents, MCP, workflow automation, RAG). Mentors engineers, sets coding standards, drives design reviews, and improves CI/CD and release quality; strong design, debugging, and communication skills.",
+ "core_skills": [
+  [
+   "Java 8/11/17, Spring MVC, Spring Security, Spring Batch",
+   "React.js, TypeScript, Redux (8+ yrs hands-on React)"
+  ],
+  [
+   "Hibernate/JPA, Data Modeling, SQL / MySQL Query Tuning",
+   "Maven Multi-Module Builds, Tomcat, REST & SOAP Services"
+  ],
+  [
+   "AWS ECS/Fargate, ECR, ALB, Secrets Manager/SSM, S3, CloudWatch",
+   "IaC: AWS CDK, CloudFormation, Terraform; Docker"
+  ],
+  [
+   "AI Agents: Tool-Calling, MCP, Workflow Automation, RAG",
+   "Legacy Modernization (JSP → React), Batch Jobs, Partner Integrations"
+  ],
+  [
+   "Jenkins, CodePipeline/CodeBuild, CodeArtifact/Nexus CI/CD",
+   "Tech Lead: Design Reviews, Coding Standards, Mentoring, On-Call & Runbooks"
+  ]
+ ]
+}
