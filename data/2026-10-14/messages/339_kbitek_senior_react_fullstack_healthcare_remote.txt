@@ -1,0 +1,18 @@
+To: Aaron.harrison@kbitek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior React Full Stack Engineer (Healthcare) – Remote – Aaron Ramirez (C2C, TN)
+
+Hi Aaron,
+
+I saw your LinkedIn post for the Senior React Full Stack Engineer (Healthcare, remote) role and would like to be considered. My resume is attached. As requested: work authorization is TN (Mexican national), authorized to work in the U.S. now, and my LinkedIn is linkedin.com/in/aaronsoftware.
+
+- Healthcare: HIPAA-compliant member platform for HCSC (Blue Cross Blue Shield, 1M+ members), plus Walmart Global Tech (Seller Center marketplace) and IBM / AEP (500K+ daily users).
+- 10+ years of full stack engineering: React.js and TypeScript front ends; Python back ends (Django / Django REST Framework, FastAPI, Flask) with PostgreSQL; REST APIs; Docker and GitHub Actions / Jenkins CI/CD on AWS and Azure. Your post asks for 13+ years, so I want to be upfront about that, and my FHIR / HL7 integration exposure is lighter than my core React / Python work.
+- Available immediately, remote, on C2C.
+
+Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

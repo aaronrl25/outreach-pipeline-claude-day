@@ -1,0 +1,18 @@
+To: ashika.n@e-solutionsinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Forward Deployed Engineer – Pleasanton, CA (Hybrid) – Aaron Ramirez (C2C, Bay Area local)
+
+Hi Ashika,
+
+I saw your LinkedIn post for the Forward Deployed Engineer role (Pleasanton, CA / NYC, hybrid 3 days) and would like to be considered for the Pleasanton seat. I am local to the San Francisco Bay Area. My resume is attached.
+
+- 10+ years of full stack engineering: React and Angular with TypeScript on the front end, Node.js, Java / Spring Boot and Python services exposing REST and GraphQL APIs on the back end, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Hands-on AI agent engineering in production: LLM API integrations (Claude API, Azure OpenAI), LangChain / LangGraph agent workflows with tool use and retrieval, and automation of support and operations workflows; Claude Code and Cursor in daily use.
+- Cloud microservices on AWS and Azure with Docker and GitHub Actions / Jenkins CI/CD; architecture and design through end-to-end delivery, including legacy modernization work.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C. Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

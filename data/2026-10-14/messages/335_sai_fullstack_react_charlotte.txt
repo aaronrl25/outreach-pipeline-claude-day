@@ -1,0 +1,18 @@
+To: sunil@sai.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer.pdf
+Subject: Full-stack Developer React JS – Charlotte, NC – Aaron Ramirez (C2C)
+
+Hi Sunil,
+
+I saw your LinkedIn post for the Full-stack Developer (React JS) role in Charlotte, NC and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering with 8+ hands-on in React.js and TypeScript, building responsive web applications for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Back-end APIs in Node.js and Java / Spring Boot (REST and GraphQL) feeding the React front end; Redux Toolkit state management; Jest / React Testing Library / Cypress; Git and Jenkins / GitHub Actions CI/CD on AWS and Azure.
+- Code reviews, coding standards and Agile ceremonies (sprint planning, stand-ups, retros) in cross-functional teams with UX/UI designers.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C. Glad to discuss the rate and start date, and the onsite expectations in Charlotte.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
