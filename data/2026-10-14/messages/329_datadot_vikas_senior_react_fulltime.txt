@@ -1,0 +1,18 @@
+To: vikas@datadotlabs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Datadot_Senior_React_Frontend_Developer.pdf
+Subject: Senior React Frontend Developer (Full-time, W2) – Aaron Ramirez
+
+Hi Vikas,
+
+I saw your LinkedIn post for the full-time Senior React Frontend Developer role (banking / financial services) and would like to apply. My resume is attached. I also spoke with Vishal on your team earlier this month about a Senior React Frontend opening, so you may already have my profile on file.
+
+- 10+ years of software development with 8+ hands-on in React.js and TypeScript for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Reusable component libraries, custom hooks and functional components; Redux / Redux Toolkit state management; REST API integration with backend and microservices teams; SOLID and front-end design patterns.
+- Jest / React Testing Library / Cypress, performance and responsiveness optimization, code reviews, Agile delivery with architects, QA and UX.
+
+Work authorization: TN (Mexican national), authorized to work in the U.S. now; it is employer-supported and renewable with no lottery. Could you let me know the work location for this role? Glad to discuss compensation and start date once we talk.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

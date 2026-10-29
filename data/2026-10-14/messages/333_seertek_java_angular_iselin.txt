@@ -1,0 +1,18 @@
+To: Adnan@seerteksystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Full Stack Java Developer (Strong Angular) – iCreditWorks, Iselin, NJ – Aaron Ramirez (C2C)
+
+Hi Adnan,
+
+I saw your LinkedIn post for the Full Stack Java Developer role with iCreditWorks in Iselin, NJ (in-person interview) and would like to be considered. My resume is attached.
+
+- Strong Angular: 8+ years building Angular, JavaScript and TypeScript front ends (NgRx, reactive forms, component libraries) for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members), including fintech / lending-style account and payment workflows.
+- Java / Spring Boot microservices and REST APIs with PostgreSQL / SQL Server, JUnit, Git and Jenkins / GitHub Actions CI/CD; AWS and Azure with Docker; agentic AI integrations (Claude API, LangChain) in production.
+- 10+ years of hands-on software development in Agile / Scrum teams. Your post asks for 14+, so I want to be upfront about that.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C; the posted $65/hr C2C rate works for me, and I can attend the in-person interview in Iselin. Glad to discuss start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

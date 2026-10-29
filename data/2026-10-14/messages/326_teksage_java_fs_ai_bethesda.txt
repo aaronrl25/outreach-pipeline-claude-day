@@ -1,0 +1,18 @@
+To: shyam@teksage.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer with AI – Marriott, Bethesda, MD (Hybrid) – Aaron Ramirez (TN, C2C)
+
+Hi Shyam,
+
+I saw your LinkedIn post for the Java Full Stack Developer with AI role on the Marriott hospitality platforms in Bethesda, MD (hybrid, 1 year+) and would like to be considered. I am on a TN visa, which your post lists as accepted. My resume is attached.
+
+- 10+ years of full stack engineering: Java / Spring Boot and Spring MVC microservices with REST APIs on the back end, React with TypeScript on the front end, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AI-assisted development is part of my daily workflow: Cursor and Claude Code for code generation, refactoring and unit-test scaffolding, with human review of every AI-generated change for security and performance; plus GenAI features in production (Claude API, Azure OpenAI, LangChain).
+- Clean, tested code (SOLID, design patterns, JUnit / Jest / Cypress), Docker, Jenkins / GitHub Actions CI/CD on AWS and Azure, Agile delivery.
+
+Available on C2C. Glad to discuss rate and start date, and to confirm the hybrid schedule in Bethesda.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

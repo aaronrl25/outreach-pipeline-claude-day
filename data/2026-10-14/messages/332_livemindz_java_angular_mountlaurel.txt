@@ -1,0 +1,18 @@
+To: munisowmya@livemindz.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_AWS.pdf
+Subject: Java Full Stack Developer (Angular 13+) – Mount Laurel, NJ – Aaron Ramirez (C2C)
+
+Hi Muni Sowmya,
+
+I saw your LinkedIn post for the Java Full Stack Developer contract in Mount Laurel, NJ and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: Java / Spring Boot microservices and REST APIs on the back end, Angular 13+ with TypeScript and JavaScript on the front end, plus Node.js / TypeScript services, for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- REST API and OAuth2 / JWT-secured enterprise integrations, event-driven services, SQL Server / PostgreSQL relational data modeling, Docker-based deployments on AWS (Lambda, ECS) and Azure, Jenkins / GitHub Actions / Azure DevOps CI/CD. My Kafka and Kubernetes exposure is lighter, so I want to be upfront about that.
+- Distributed-systems performance and scalability work in Agile teams.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

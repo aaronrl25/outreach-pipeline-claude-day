@@ -1,0 +1,18 @@
+To: ben@stagitysolutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer (Java + React) – Atlanta, GA – Aaron Ramirez (C2C)
+
+Hi Ben,
+
+I saw your LinkedIn post for the Java Full Stack Developer role in Atlanta, GA (in-person interview) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: Java / Spring Boot microservices and REST APIs on the back end, React and TypeScript on the front end, for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- React component libraries, Redux Toolkit, REST / GraphQL integration, Jest / RTL / Cypress; Spring Boot services with SQL databases, JUnit, Docker and Jenkins / GitHub Actions CI/CD on AWS and Azure.
+- GenAI integration in production (Claude API, Azure OpenAI, LangChain) for a seller-support assistant.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C and able to attend the in-person interview in Atlanta. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

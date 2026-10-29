@@ -1,0 +1,18 @@
+To: Pavan@svktechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Angular_Developer.pdf
+Subject: Senior Ionic / Angular Mobile Application Developer – Remote – Aaron Ramirez (C2C)
+
+Hi Pavan,
+
+I saw your LinkedIn post for the Senior Ionic / Angular Mobile Application Developer role (remote) and would like to be considered. My resume is attached.
+
+- 8+ years of Angular (13+) with TypeScript: component architecture, RxJS, NgRx state, reactive forms and shared component libraries for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- 5+ years shipping production Android and iOS apps, including push notifications, offline sync and crash / performance troubleshooting; those apps were built with React Native, so my hands-on time in the Ionic framework itself is lighter and I want to be upfront about that.
+- REST API integration and troubleshooting against AWS-hosted back ends (Lambda, API Gateway, S3) and Firebase services, Jest / Cypress testing, CI/CD.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C. Glad to discuss rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: nandhini.k@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior Python AWS Full Stack Developer – Wilmington, DE – Aaron Ramirez (C2C)
+
+Hi Nandhini,
+
+I saw your LinkedIn post for the Senior Python AWS Full Stack Developer role in Wilmington, DE and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: Python back ends (FastAPI, Flask, Django) exposing REST APIs and event-driven / async services secured with JWT, React.js and TypeScript on the front end, for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- AWS in production: Lambda, S3 and ECS with Docker-based deployments and GitHub Actions / Jenkins CI/CD; unit and integration testing and API documentation. My Kubernetes and API Gateway / DynamoDB exposure is lighter, so I want to be upfront about that.
+- Enterprise and third-party system integrations, performance tuning and high-availability designs.
+
+Visa: TN, authorized to work in the U.S. now. Available on C2C. Glad to discuss rate and start date, and how the onsite schedule in Wilmington would work.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
