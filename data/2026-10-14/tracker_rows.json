@@ -16240,5 +16240,25 @@
   "msg": "",
   "status": "NOT SENT – duplicate req / visa-excluded / off-fit",
   "src": "LinkedIn sweep 2026-10-29 11:57 CST"
+ },
+ {
+  "company": "People Tech Group (Sriram Koripalli) – Amazon",
+  "role": "Software Development Engineer (Full-Stack) – Amazon via People Tech Group payroll (FTE); JS/TS, React, AWS Lambda serverless, OpenSearch/Elasticsearch, REST/GraphQL, Jest, CI/CD; 5 days onsite",
+  "loc": "Seattle, WA (100% onsite)",
+  "arr": "",
+  "type": "Full-time (vendor payroll)",
+  "pay": "not stated",
+  "posted": "2026-10-29",
+  "skills": "JavaScript/TypeScript, React, AWS Lambda, OpenSearch, REST/GraphQL, Jest",
+  "visa": "not stated (TN disclosed)",
+  "recruiter": "Sriram Koripalli",
+  "contact": "LinkedIn message – Sriram Koripalli (People Tech Group)",
+  "link": "https://www.linkedin.com/messaging/thread/2-YTY4OGYxNTQtZTU3Yy00MmFjLWIzZTUtZTc2YTc0NDgzYTdmXzEwMA==/",
+  "fit": "strong JS/TS + serverless fit; OpenSearch gap; relocation to Seattle",
+  "resume": "Aaron_Ramirez_PeopleTech_Amazon_Software_Development_Engineer_Full_Stack_Serverless_Seattle.pdf",
+  "msg": "LinkedIn message 13:00",
+  "status": "SENT #340 – 2026-10-29 13:00 CST via LinkedIn messaging (screenshot from Aaron)",
+  "src": "LinkedIn InMail from recruiter (Aaron screenshot)",
+  "notes": "#340 2026-10-29 13:00 LinkedIn thread 2-YTY4OGYxNTQtZTU3Yy00MmFjLWIzZTUtZTc2YTc0NDgzYTdmXzEwMA==; Aaron answered \"Yes\" to onsite himself; sent new PDF Aaron_Ramirez_PeopleTech_Amazon_Software_Development_Engineer_Full_Stack_Serverless_Seattle (location line \"Relocating to Seattle, WA · Onsite · Full-Time\"; no DynamoDB/API Gateway/OpenSearch claimed); TN + employer support stated; OpenSearch gap disclosed"
  }
 ]

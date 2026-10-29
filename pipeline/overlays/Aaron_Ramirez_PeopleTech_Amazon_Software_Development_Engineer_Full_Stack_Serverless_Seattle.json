@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_PeopleTech_Amazon_Software_Development_Engineer_Full_Stack_Serverless_Seattle",
+ "tagline": "Software Development Engineer (Full-Stack)  ·  JavaScript (ES6+) & TypeScript  ·  React.js, Node.js  ·  AWS Lambda & Serverless  ·  REST & GraphQL APIs  ·  Jest",
+ "location": "Relocating to Seattle, WA  ·  Onsite  ·  Full-Time",
+ "summary": "Full-stack Software Development Engineer with 10+ years building modern web applications and the serverless and containerized backends behind them for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React.js with TypeScript, Redux / Redux Toolkit, React Query, and Next.js over HTML5 and CSS3; back end in Node.js / TypeScript services on AWS Lambda and ECS/Fargate exposing REST and GraphQL APIs over PostgreSQL and MongoDB, with search and reporting features built on indexed query services. Ships through GitHub Actions / Jenkins CI/CD with Docker and Git-based workflows, keeps quality high with Jest, React Testing Library, Supertest, and Cypress, and owns production support with Dynatrace. Leads code reviews and mentors engineers; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "JavaScript (ES6+) & TypeScript",
+   "AWS Lambda & serverless Node.js services"
+  ],
+  [
+   "React.js, Redux / Redux Toolkit, React Query, Next.js",
+   "Node.js, Express.js, NestJS, Microservices"
+  ],
+  [
+   "REST APIs & GraphQL (Apollo), HTML5, CSS3",
+   "AWS ECS/Fargate, S3, RDS, CloudFront"
+  ],
+  [
+   "Jest, React Testing Library, Supertest, Cypress",
+   "GitHub Actions, Jenkins CI/CD, Git workflows"
+  ],
+  [
+   "PostgreSQL, MongoDB, Redis, search & indexing",
+   "Code Review, Mentoring, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, React Hooks, HTML5, CSS3, Sass/SCSS, Tailwind CSS, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express.js, NestJS, Fastify), AWS Lambda serverless functions, REST APIs, GraphQL (Apollo), WebSockets/Socket.IO, microservices, event-driven design, JWT/RBAC auth, PostgreSQL, MongoDB, Redis"
+ }
+}
