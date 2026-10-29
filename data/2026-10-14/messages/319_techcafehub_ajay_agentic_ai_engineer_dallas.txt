@@ -1,0 +1,18 @@
+To: ajay.kumar@techcafehub.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Agentic AI Engineer – Generative AI & Agentic Systems – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Ajay,
+
+I saw your LinkedIn post for the Agentic AI Engineer (Generative AI & Agentic Systems) role in Dallas, TX and would like to be considered. My resume is attached.
+
+- 10+ years of software engineering (Walmart Global Tech, IBM / AEP, HCSC) with the last several focused on production GenAI: LLM tool-calling agents, multi-agent orchestration with LangChain / LangGraph, RAG pipelines with vector databases and embeddings, and Model Context Protocol (MCP) servers.
+- AWS Bedrock (Claude models, Knowledge Bases, Guardrails) alongside OpenAI and Azure OpenAI; Python / FastAPI services and REST APIs with React front ends; Terraform and GitLab / GitHub CI/CD on AWS.
+- Responsible-AI practices: guardrails, evaluation harnesses, observability and cost controls for agent workloads; Claude Code and GitHub Copilot daily.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; open to onsite in Dallas and in-person interviews; available to start on short notice. Could you share the client? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
