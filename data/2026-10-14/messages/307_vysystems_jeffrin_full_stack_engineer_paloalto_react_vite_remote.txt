@@ -1,0 +1,18 @@
+To: jeffrin@vysystems.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_VYSystems_Senior_Full_Stack_Developer_React_Vite_Node_Remote.pdf
+Subject: Full Stack Engineer – Palo Alto, CA (Hybrid) / Full Stack Developer – React, Vite, Node.js, TypeScript – Aaron Ramirez (C2C)
+
+Hi Jeffrin,
+
+I saw your LinkedIn post with the open requirements and would like to be considered for two of them: the Full Stack Engineer in Palo Alto, CA (hybrid) and the remote Full Stack Developer (React, Vite, Node.js, TypeScript, PostgreSQL, Prisma ORM, SQL). My resume is attached.
+
+- Local to the San Francisco Bay Area and available onsite in Palo Alto for the hybrid role.
+- 10+ years of full stack engineering: React (Vite / Next.js) and TypeScript front ends with Node.js / Express and TypeScript services, PostgreSQL with Prisma ORM, REST and GraphQL APIs, for Walmart Global Tech (Seller Center marketplace, warehouse systems), IBM / AEP and HCSC.
+- Quality and delivery: Jest / React Testing Library / Supertest, GitHub Actions CI/CD, Docker on AWS; led squads of 5-7 engineers.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. Could you share the clients and rates? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

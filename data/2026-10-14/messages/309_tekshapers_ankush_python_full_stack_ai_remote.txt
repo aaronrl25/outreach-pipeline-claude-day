@@ -1,0 +1,18 @@
+To: ankush@tekshapers.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python Full Stack Developer with AI – Remote – Aaron Ramirez (C2C, $52/hr noted)
+
+Hi Ankush,
+
+I saw your LinkedIn post for the remote Python Full Stack Developer with AI role ($52/hr C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: React / TypeScript and Angular front ends with Python (FastAPI / Flask) microservices, REST and GraphQL APIs and enterprise integrations, for Walmart Global Tech (Seller Center marketplace), IBM / AEP and HCSC.
+- AI-powered enterprise apps: LLM tool-calling agents, RAG over internal documentation, human-in-the-loop workflows (Claude API, LangChain, Azure OpenAI) behind React UIs and Python services.
+- Delivery: Docker, GitHub Actions CI/CD, Jest / PyTest; Claude Code and GitHub Copilot daily.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; remote; the $52/hr rate works for the right project; available to start on short notice. Could you share the client and interview process? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

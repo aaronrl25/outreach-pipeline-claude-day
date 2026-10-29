@@ -1,0 +1,18 @@
+To: komal.parajapati@zodiac-solutions.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer (Azure) – Buffalo, NY – Aaron Ramirez (C2C)
+
+Hi Komal,
+
+I saw your LinkedIn post for the Java Full Stack Developer (Azure) role in Buffalo, NY and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: Java / Spring Boot and Spring Framework REST microservices with React / TypeScript front ends, for Walmart Global Tech (Seller Center marketplace), IBM / AEP and HCSC.
+- Azure in production: App Service, Functions, Azure DevOps pipelines, Azure OpenAI / AI Services integrations, plus Docker and Dynatrace observability; cloud migration and modernization of enterprise applications.
+- Secure APIs (OAuth 2.0 / JWT), SQL and NoSQL data modeling, JUnit / Jest test coverage above 80%; Claude Code and GitHub Copilot daily.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; open to the Buffalo location; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: kumar@vividsoftglobal.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: Senior Full Stack AI Engineer (Agentic AI) – React / TypeScript / Python / Azure – Remote – Aaron Ramirez (C2C)
+
+Hello Kumar,
+
+I saw your LinkedIn post listing the Senior Full Stack AI Engineer (Agentic AI) remote contract and would like to be considered for role #1. My resume is attached.
+
+- 10+ years of full stack engineering: React / TypeScript front ends with Python (FastAPI) and Node.js services, for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM / AEP and HCSC.
+- Agentic AI in production: LLM tool / function-calling agents, MCP servers exposing enterprise tools, RAG over internal documentation, human-in-the-loop approvals and evaluation, on Azure (Azure OpenAI, App Service, Functions) with LangChain and the Claude API. I have not used PydanticAI or FastMCP by name, but the same patterns (typed tool schemas, MCP servers) are what I build with.
+- Delivery: GitHub Actions CI/CD, Docker, Jest / PyTest gates; Claude Code and GitHub Copilot daily.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; remote; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

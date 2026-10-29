@@ -1,0 +1,18 @@
+To: himankj@aptask.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java React Developer – Wilmington, DE – Aaron Ramirez (C2C)
+
+Hi Himank,
+
+I saw your LinkedIn post for the Java React Developer role in Wilmington, DE and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering: React / TypeScript front ends (expert) with Java / Spring Boot REST microservices, for Walmart Global Tech (Seller Center marketplace, warehouse systems), IBM / AEP and HCSC.
+- Secure APIs (OAuth 2.0 / JWT), PostgreSQL / SQL data modeling, JUnit / Jest coverage above 80%, Docker and GitHub Actions / Jenkins CI/CD on AWS and Azure.
+- GenAI features in production (LLM tool-calling agents, RAG) behind React UIs and Spring Boot services; Claude Code and GitHub Copilot daily.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; open to the Wilmington location; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
