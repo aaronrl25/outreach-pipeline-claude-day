@@ -1,0 +1,18 @@
+To: mani.g@siriinfoinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Full Stack Developer (Healthcare) – Jacksonville, FL – Aaron Ramirez (C2C, TN)
+
+Hi Mani,
+
+I saw your LinkedIn post for the Senior Java Full Stack Developer (Healthcare Payer, Jacksonville FL onsite, 6+ months) and would like to be considered. My resume is attached.
+
+- Healthcare: HIPAA-compliant member platform for HCSC (Blue Cross Blue Shield, 1M+ members), plus Walmart Global Tech (Seller Center marketplace) and IBM / AEP (500K+ daily users).
+- 10+ years of full stack engineering: React.js, Redux, TypeScript, HTML5 / CSS3 front ends on Java / Spring Boot, Spring MVC and Hibernate microservices; RESTful web services; OAuth2 / JWT secured APIs with role-based access; PostgreSQL and MongoDB; AWS (EC2, Lambda, RDS, S3), Docker and CI/CD.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and open to relocating to Jacksonville for the onsite role.
+
+Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

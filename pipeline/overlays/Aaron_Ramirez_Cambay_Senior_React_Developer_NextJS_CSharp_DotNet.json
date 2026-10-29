@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Cambay_Senior_React_Developer_NextJS_CSharp_DotNet",
+ "tagline": "Senior React Developer  ·  React 16+ / 18, Next.js, TypeScript, JavaScript, HTML5, CSS3  ·  C# / .NET Core, ASP.NET Web API  ·  REST, GraphQL & WebSockets  ·  Git, CI/CD",
+ "location": "",
+ "summary": "Senior React Developer with 10+ years building enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC. Expert in React (v16+ through 18) and Next.js with TypeScript, JavaScript, HTML5, and CSS3: component architecture, server-side rendering, state management, performance, and accessibility. Full stack on the Microsoft side with C#, .NET Core / .NET 8, and ASP.NET Web API services exposing RESTful and GraphQL APIs plus WebSocket real-time features, backed by SQL Server and PostgreSQL. Works in Git-based CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins) with Docker; applies OOP, SOLID, and design patterns and collaborates with product, QA, and DevOps in Agile/Scrum. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React 16+ / 18, Next.js, TypeScript (Expert)",
+   "JavaScript (ES6+), HTML5, CSS3 / SCSS, Tailwind"
+  ],
+  [
+   "C# / .NET Core & .NET 8, ASP.NET Web API",
+   "REST APIs, GraphQL, WebSockets, Microservices"
+  ],
+  [
+   "SQL Server / Azure SQL, PostgreSQL, Entity Framework Core",
+   "Redux Toolkit, React Query, React Hooks, React Router"
+  ],
+  [
+   "Git, GitHub Actions, Azure DevOps, Jenkins, Docker, CI/CD",
+   "Azure (App Service, Functions) & AWS (ECS, Lambda, S3)"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, xUnit",
+   "OOP, SOLID, Design Patterns, Code Review, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js 16+ / 18, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Redux Toolkit, React Query, React Hooks, React Router, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "C# / .NET Core & .NET 8 (ASP.NET Core Web API, Entity Framework Core, Dapper), REST APIs, GraphQL, WebSockets, microservices, SQL Server / Azure SQL (T-SQL, stored procedures), PostgreSQL, Node.js/Express",
+  "Cloud & CI/CD:": "Git, GitHub Actions, Azure DevOps, Jenkins, Docker, Microsoft Azure (App Service, Functions, Azure SQL), AWS (ECS/Fargate, Lambda, RDS, S3), Dynatrace",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, xUnit; code review, performance profiling, Lighthouse"
+ }
+}

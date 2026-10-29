@@ -1,0 +1,18 @@
+To: ken@cymansys.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: AI Forward Deployed Engineer – Remote – Aaron Ramirez (C2C / W2, TN)
+
+Hi Rajesh,
+
+I saw your LinkedIn post for the AI Forward Deployed Engineer (remote) role and would like to be considered. My resume is attached.
+
+- 2+ years building production GenAI: a seller-support assistant for Walmart's marketplace (500K+ daily users) that runs Claude API / LangChain tool-calling agents through Node.js middleware with streaming UIs, RAG, evaluation and guardrails, plus Azure AI Services at AEP. Agent workflows with LangChain, LangGraph, the OpenAI Agents SDK and Google ADK, and MCP-based tool integration.
+- 10+ years of full stack engineering: React.js and TypeScript front ends; Node.js, Python (FastAPI) and Java (Spring Boot) services; AWS and Azure with Docker and CI/CD; enterprise integrations for Walmart Global Tech, IBM / AEP and HCSC. Your post asks for 14+ years, so I want to be upfront that my experience is 10+, with the AI delivery work done directly with business stakeholders.
+- Work authorization: TN (Mexican national); C2C through my employer or W2. Remote, available immediately.
+
+Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
