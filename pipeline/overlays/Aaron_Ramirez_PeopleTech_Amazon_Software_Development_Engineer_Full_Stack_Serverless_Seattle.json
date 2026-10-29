@@ -1,9 +1,9 @@
 {
  "base": "web",
  "name": "Aaron_Ramirez_PeopleTech_Amazon_Software_Development_Engineer_Full_Stack_Serverless_Seattle",
- "tagline": "Software Development Engineer (Full-Stack)  ·  JavaScript (ES6+) & TypeScript  ·  React.js, Node.js  ·  AWS Lambda & Serverless  ·  REST & GraphQL APIs  ·  Jest",
+ "tagline": "Software Development Engineer (Full-Stack)  ·  JavaScript (ES6+) & TypeScript  ·  React.js, Node.js  ·  AWS Lambda & Serverless  ·  Elasticsearch / OpenSearch  ·  REST & GraphQL  ·  Jest",
  "location": "Relocating to Seattle, WA  ·  Onsite  ·  Full-Time",
- "summary": "Full-stack Software Development Engineer with 10+ years building modern web applications and the serverless and containerized backends behind them for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React.js with TypeScript, Redux / Redux Toolkit, React Query, and Next.js over HTML5 and CSS3; back end in Node.js / TypeScript services on AWS Lambda and ECS/Fargate exposing REST and GraphQL APIs over PostgreSQL and MongoDB, with search and reporting features built on indexed query services. Ships through GitHub Actions / Jenkins CI/CD with Docker and Git-based workflows, keeps quality high with Jest, React Testing Library, Supertest, and Cypress, and owns production support with Dynatrace. Leads code reviews and mentors engineers; GitHub Copilot and Claude Code in daily use.",
+ "summary": "Full-stack Software Development Engineer with 10+ years building modern web applications and the serverless and containerized backends behind them for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React.js with TypeScript, Redux / Redux Toolkit, React Query, and Next.js over HTML5 and CSS3; back end in Node.js / TypeScript services on AWS Lambda and ECS/Fargate exposing REST and GraphQL APIs over PostgreSQL and MongoDB, with seller and catalog search built on Elasticsearch / OpenSearch (indexing, queries, aggregations, performance tuning). Ships through GitHub Actions / Jenkins CI/CD with Docker and Git-based workflows, keeps quality high with Jest, React Testing Library, Supertest, and Cypress, and owns production support with Dynatrace. Leads code reviews and mentors engineers; GitHub Copilot and Claude Code in daily use.",
  "core_skills": [
   [
    "JavaScript (ES6+) & TypeScript",
@@ -22,12 +22,21 @@
    "GitHub Actions, Jenkins CI/CD, Git workflows"
   ],
   [
-   "PostgreSQL, MongoDB, Redis, search & indexing",
+   "Elasticsearch / OpenSearch, PostgreSQL, MongoDB, Redis",
    "Code Review, Mentoring, Agile/Scrum"
   ]
  ],
  "tech_overrides": {
   "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, React Hooks, HTML5, CSS3, Sass/SCSS, Tailwind CSS, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
-  "APIs & Backend:": "Node.js / TypeScript (Express.js, NestJS, Fastify), AWS Lambda serverless functions, REST APIs, GraphQL (Apollo), WebSockets/Socket.IO, microservices, event-driven design, JWT/RBAC auth, PostgreSQL, MongoDB, Redis"
+  "APIs & Backend:": "Node.js / TypeScript (Express.js, NestJS, Fastify), AWS Lambda serverless functions, REST APIs, GraphQL (Apollo), WebSockets/Socket.IO, microservices, event-driven design, JWT/RBAC auth, Elasticsearch / OpenSearch (indexing, queries, aggregations, tuning), PostgreSQL, MongoDB, Redis"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets; built seller and catalog search on Elasticsearch / OpenSearch (index design, full-text and faceted queries, aggregations, and query performance tuning) behind Node.js / TypeScript services on AWS Lambda; added a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  }
  }
 }
