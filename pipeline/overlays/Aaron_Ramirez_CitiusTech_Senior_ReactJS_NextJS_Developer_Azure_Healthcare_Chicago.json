@@ -1,0 +1,46 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_CitiusTech_Senior_ReactJS_NextJS_Developer_Azure_Healthcare_Chicago",
+ "tagline": "Senior ReactJS Developer  ·  React.js, Next.js (SSR / SSG / ISR), TypeScript  ·  Microsoft Azure, Microservices & Event-Driven Architecture  ·  Healthcare (HIPAA, 1M+ member platform)",
+ "location": "Previously based in Chicago, IL  ·  open to the Chicago hybrid schedule (relocating is fine)  ·  Contract (C2C or W2)",
+ "summary": "Senior ReactJS Developer with 10+ years of front-end engineering (8+ years hands-on React.js) building modern, scalable web applications for HCSC (HIPAA-compliant Blue Cross Blue Shield member platform, 1M+ members), Walmart Global Tech (Seller Center marketplace) and IBM/AEP. Designs React.js and Next.js applications (SSR, SSG, ISR, App Router) in TypeScript around reusable, responsive, accessible UI components; manages state with Redux / Redux Toolkit, Context API and Zustand; integrates REST and GraphQL APIs with backend microservices and event-driven systems (Azure Service Bus, Event Grid, Kafka). Deploys on Microsoft Azure (App Service, Static Web Apps, Functions, Azure DevOps pipelines) and AWS with Docker and CI/CD. Jest, React Testing Library and Cypress; Core Web Vitals performance optimization (40% faster page loads); code reviews and coding standards; close collaboration with product owners, UX designers and backend engineers in Agile teams. Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, Next.js (SSR / SSG / ISR), TypeScript",
+   "Microsoft Azure: App Service, Functions, Azure DevOps"
+  ],
+  [
+   "Microservices & Event-Driven Architecture (Service Bus, Kafka)",
+   "REST & GraphQL API Integration"
+  ],
+  [
+   "Redux / Redux Toolkit, Context API, Zustand",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Healthcare: HIPAA-Compliant Member Platforms (HCSC / BCBS)",
+   "Responsive, Accessible UI (WCAG 2.1), HTML5, CSS3"
+  ],
+  [
+   "Performance Optimization, Core Web Vitals",
+   "CI/CD (Azure DevOps, GitHub Actions), Git, Agile / Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js (App Router, SSR / SSG / ISR), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, Material UI, Storybook, design systems, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "APIs & Backend:": "REST APIs, GraphQL (Apollo), Node.js / Express, Java / Spring Boot and .NET Core microservices, event-driven architecture (Azure Service Bus, Event Grid, Kafka), WebSockets, PostgreSQL, SQL Server, MongoDB, Redis",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Static Web Apps, Functions, Service Bus, Azure DevOps, Azure OpenAI), AWS (ECS / Fargate, Lambda, S3, CloudFront), Docker, GitHub Actions, Jenkins",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Playwright; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse"
+ },
+ "role_tweaks": {
+  "3": {
+   "title": "Senior React Engineer (Healthcare)",
+   "bullets": [
+    "Built the HIPAA-compliant member portal for HCSC (Blue Cross Blue Shield, 1M+ members) in React.js, Next.js and TypeScript: claims, benefits, ID cards and provider search, integrated with REST / GraphQL microservices on Azure.",
+    "Designed reusable, accessible (WCAG 2.1 AA) component library with Redux Toolkit state management and Material UI; cut page load time 40% through code splitting, caching and Core Web Vitals work.",
+    "Integrated event-driven workflows (Azure Service Bus, Event Grid) for real-time claim status and notifications; Jest / React Testing Library / Cypress coverage above 85%; Azure DevOps CI/CD.",
+    "Collaborated with product owners, UX designers and backend engineers; led code reviews and front-end coding standards for a team of 6."
+   ]
+  }
+ }
+}

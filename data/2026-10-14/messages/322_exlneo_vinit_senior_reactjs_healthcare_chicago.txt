@@ -1,0 +1,18 @@
+To: vinit.roy@exlneo.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_CitiusTech_Senior_ReactJS_NextJS_Developer_Azure_Healthcare_Chicago.pdf
+Subject: Senior ReactJS Developer – Healthcare – Chicago, IL (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Vinit,
+
+I saw your LinkedIn post for the Senior ReactJS Developer (healthcare domain) role in Chicago, IL (hybrid Tue–Thu) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end engineering with 8+ in React.js and TypeScript, including Next.js (SSR / SSG / ISR). Healthcare domain: built the HIPAA-compliant member portal for HCSC (Blue Cross Blue Shield, 1M+ members) covering claims, benefits, ID cards and provider search.
+- Microsoft Azure in production (App Service, Functions, Azure DevOps CI/CD) with microservices and event-driven integrations (Azure Service Bus, Event Grid, Kafka); REST and GraphQL API integration.
+- Reusable, responsive, accessible (WCAG 2.1 AA) component libraries; Jest, React Testing Library and Cypress; performance optimization (40% faster loads); code reviews with product owners, UX designers and backend engineers.
+
+Details: previously based in Chicago, IL and available for the hybrid schedule in Chicago (relocating is fine, no assistance needed); work authorization TN status (employer-supported, renewable, no lottery); available on C2C; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
