@@ -1,0 +1,18 @@
+To: ravikumar@elementtechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Tech Lead / Senior Developer – AWS Java Full Stack – Malvern, PA – Aaron Ramirez (C2C)
+
+Hi Ravi,
+
+I saw your LinkedIn post for the Tech Lead / Senior Developer (AWS Java Full Stack) role in Malvern, PA and would like to be considered. My resume is attached.
+
+- 10+ years of full stack engineering and 4+ years as tech lead: Java / Spring Boot REST microservices with React and Angular front ends, for Walmart Global Tech (Seller Center marketplace, warehouse systems), IBM / AEP and HCSC.
+- AWS in production (ECS / Fargate, Lambda, API Gateway, S3, RDS, CloudWatch), backend performance and scalability work (caching, query tuning, 40% faster API responses), third-party API and data-source integrations.
+- Secure coding (OAuth 2.0 / JWT), JUnit / Jest automated tests, code and design reviews, multi-environment deployments with Jenkins / GitHub Actions, production support and mentoring of junior engineers.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C; open to the Malvern location; available to start on short notice. Could you share the client and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

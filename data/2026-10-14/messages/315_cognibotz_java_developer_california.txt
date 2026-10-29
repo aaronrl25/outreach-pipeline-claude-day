@@ -1,0 +1,18 @@
+To: hr1@cognibotz.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Java Developer – California (Onsite) – Aaron Ramirez (C2C)
+
+Hi,
+
+I saw your LinkedIn post for the Java Developer role in California (5 days onsite) and would like to be considered. I am based in the San Francisco Bay Area. My resume is attached.
+
+- 10+ years of full stack engineering: Java 11 / 17 / 21 with Spring Boot, Spring MVC and Spring Security, REST microservices, JPA / Hibernate, plus React.js / TypeScript front ends, for Walmart Global Tech, IBM / AEP and HCSC.
+- AI-assisted development daily (Claude Code, GitHub Copilot, Cursor), spec-driven development with design docs and OpenAPI / Swagger contracts, JUnit / Mockito TDD, Postman.
+- PostgreSQL, Oracle and MongoDB; Git, Maven / Gradle, Jenkins and GitHub Actions CI/CD, Docker and Kubernetes / OpenShift deployments on AWS and Azure.
+
+Details: work authorization TN status (employer-supported, renewable, no lottery); available on C2C or W2; available to start on short notice. Could you share the client, city and rate? Glad to discuss this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
