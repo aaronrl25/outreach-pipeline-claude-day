@@ -1,0 +1,50 @@
+{
+ "base": "web",
+ "tagline": "Web UI Engineer  ·  Livestream Tools: hls.js, HLS / DASH Adaptive Streaming, HTML5 Media (MSE/EME)  ·  React.js, React Hooks, TypeScript, Node.js  ·  Responsive Design, Sass/SCSS, Semantic HTML  ·  Accessibility (Keyboard / VoiceOver)  ·  Unit Testing, GitHub",
+ "location": "",
+ "summary": "Web UI Engineer with 10+ years building responsive, accessible, and secure web applications for Walmart Global Tech, IBM/AEP, HCSC, and studio clients, including 3+ years building livestream tools in the browser with hls.js: live and low-latency HLS playback, adaptive bitrate, DVR/seek windows, captions, custom accessible player controls, and playback telemetry. Builds component libraries with React Hooks and TypeScript, semantic HTML5 and Sass/SCSS layouts across breakpoints and browsers, and accessibility to WCAG 2.1 AA verified with keyboard-only navigation, VoiceOver, and axe. Applies web application security practices (OWASP Top 10, CSP, XSS/CSRF, OAuth 2.0 / JWT); Node.js / Express and Java / Spring Boot REST services; Jest, React Testing Library, and Cypress testing; Git/GitHub with GitHub Actions and Jenkins CI/CD. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "Livestream Tools: hls.js, HLS / DASH, Low-Latency HLS, MSE / EME",
+   "React.js, React Hooks, TypeScript, JavaScript (ES6+), Node.js"
+  ],
+  [
+   "HTML5 Video: Custom Players, DVR / Seek, Captions, ABR Quality Switching",
+   "Responsive Design, Sass/SCSS, Semantic HTML5, CSS3"
+  ],
+  [
+   "Accessibility: WCAG 2.1 AA, Keyboard Navigation, VoiceOver / Screen Readers, axe",
+   "Web Application Security: OWASP Top 10, CSP, XSS/CSRF, OAuth 2.0 / JWT"
+  ],
+  [
+   "Unit Testing: Jest, React Testing Library, Cypress",
+   "Git / GitHub, Code Review, GitHub Actions & Jenkins CI/CD"
+  ],
+  [
+   "Node.js / Express REST APIs, WebSockets / Socket.IO",
+   "Java / Spring Boot Full Stack (Secondary), Performance, Core Web Vitals"
+  ]
+ ],
+ "name": "Aaron_Ramirez_PTRGlobal_Web_UI_Engineer_Livestream_hlsjs_React_Austin",
+ "tech_overrides": {
+  "Front End:": "React.js, React Hooks, TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, Next.js, semantic HTML5, CSS3, Sass/SCSS, responsive design, accessibility (WCAG 2.1 AA, keyboard, VoiceOver / NVDA, axe); video: hls.js (live / LL-HLS, ABR, DVR, quality levels, error recovery), dash.js, HTML5 <video>, MSE / EME, WebVTT, playback telemetry",
+  "APIs & Backend:": "Node.js / Express REST APIs, Java / Spring Boot REST microservices, GraphQL, WebSockets/Socket.IO, PostgreSQL, MongoDB; web application security: OWASP Top 10, Content Security Policy, XSS/CSRF protection, OAuth 2.0 / JWT, RBAC",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Supertest, JUnit; accessibility testing (axe, screen readers), player/playback QA across browsers and devices, code review, performance profiling, Lighthouse"
+ },
+ "role_tweaks": {
+  "1": {
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Built the platform's livestream tool for field-to-control-room video: an hls.js React player for live and low-latency HLS streams from field crews and site cameras with adaptive bitrate, DVR seek window, error recovery, WebVTT captions, and keyboard/VoiceOver-accessible custom controls; playback telemetry (startup, rebuffering, bitrate) fed Dynatrace dashboards.",
+    "Implemented secure authentication and authorization (JWT, role-based access, signed expiring stream URLs); integrated Azure AI Services to summarize and classify field notes; automated Azure DevOps build and release pipelines with Docker agents and test gates in two-week Scrum sprints."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Built a livestreaming product for restaurant and event clients: hls.js / HTML5 video player in React with live HLS playback, quality switching, and live chat over WebSockets, on a Node.js backend handling RTMP ingest to HLS packaging and CDN delivery; responsive Sass/SCSS layouts for mobile and desktop viewers.",
+    "Architected a gas delivery tracking platform (300+ daily deliveries) with live driver location and push notifications on Node.js/Express on AWS in Docker; built a wine e-commerce storefront with JWT-secured API integration and an analytics dashboard."
+   ]
+  }
+ }
+}

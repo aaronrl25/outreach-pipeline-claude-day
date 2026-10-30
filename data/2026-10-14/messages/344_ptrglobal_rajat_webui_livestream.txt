@@ -1,0 +1,18 @@
+To: rajat.jain@ptrglobal.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_PTRGlobal_Web_UI_Engineer_Livestream_hlsjs_React_Austin.pdf
+Subject: Web UI Engineer – Livestream / hls.js (React, TypeScript, Node.js) – Aaron Ramirez (C2C, TN)
+
+Hi Rajat,
+
+I saw your post for the Web UI Engineer role (livestream tool, hls.js) and would like to be considered. We spoke last week about the Amex front-end role; my updated resume for this one is attached.
+
+- Livestream tools with hls.js: at IBM / AEP I built the field-to-control-room livestream player in React (live and low-latency HLS, adaptive bitrate, DVR seek window, error recovery, WebVTT captions, keyboard/VoiceOver-accessible controls, playback telemetry), and at Eurybia Studio a livestreaming product for restaurant and event clients (hls.js / HTML5 video player, quality switching, live chat over WebSockets, Node.js RTMP-to-HLS packaging and CDN delivery).
+- 10+ years of React.js with React Hooks, TypeScript, HTML/CSS/JavaScript, responsive design and Sass/SCSS, semantic HTML, accessibility (keyboard and VoiceOver, WCAG 2.1 AA), unit testing with Jest and React Testing Library, Node.js, and GitHub-based workflows; web application security (OWASP, CSP, OAuth 2.0 / JWT) and Java / Spring Boot as the secondary stack.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available for the virtual interview round at short notice.
+
+Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
