@@ -1,0 +1,21 @@
+To: praveen@axxeltechnologies.com
+Subject: Technical Architect – Agentic AI / GenAI (Forward Deployed Engineer) – Remote – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+
+Hi Praveen,
+
+I saw your post for the Technical Architect – Agentic AI / GenAI (FDE) role and would like to be considered. My resume is attached.
+
+A note upfront: I have 10+ years of hands-on software engineering experience rather than the 13+ listed, with the last several years focused on production GenAI and agentic systems, so I am sharing my profile in case the client values depth in that area.
+
+- Agentic AI / GenAI in production: LLM integration (Claude API, Azure OpenAI), LangChain / LangGraph multi-agent workflows, RAG pipelines with vector search, MCP servers and tool calling, evaluation and guardrails, deployed on AWS and Azure.
+- Full-stack and enterprise architecture: Python (FastAPI), Java / Spring Boot and Node.js services; React.js and TypeScript front ends; REST / GraphQL APIs, microservices, Docker / Kubernetes and CI/CD.
+- Customer-facing delivery: forward-deployed work with enterprise clients (Walmart, AEP via IBM, HCSC), translating business requirements into solution designs and owning delivery through production.
+- Work authorization: TN (Mexican national), on C2C through my employer. Remote; available to start within two weeks.
+
+Details: current location SF Bay Area, availability two weeks, rate open to your client's range.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

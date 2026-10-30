@@ -1,0 +1,19 @@
+To: kishore.saravanamani@vysystems.com
+Subject: React Full Stack Developer – Dallas, TX – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Senior_React_Full_Stack_Developer_NextJS_DotNet.pdf
+
+Hi Kishore,
+
+I saw your post for the React Full Stack Developer role in Dallas and would like to be considered. My resume is attached.
+
+- 10+ years of front-end and full-stack development with React as the core stack: React 16–18 with Hooks, TypeScript, JavaScript (ES6+), HTML5/CSS3, responsive UI, Redux and Context API, and Next.js; I have also maintained existing Angular modules alongside React.
+- Backend integration: consuming and debugging .NET / ASP.NET Web API REST services, asynchronous data flows, SQL for data validation, and REST / Web Services integration.
+- Testing and delivery: Jest, React Testing Library and Cypress; Git, CI/CD pipelines, AWS and Azure; WCAG accessibility, cross-browser compatibility and performance optimization.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and open to relocating to Dallas; available to start within two weeks.
+
+Happy to discuss the rate and the client's interview process.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
