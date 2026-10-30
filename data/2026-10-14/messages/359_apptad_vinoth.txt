@@ -1,0 +1,19 @@
+To: vinoth.t@apptadinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: React Developer – Princeton, NJ (Remote) – Aaron Ramirez (C2C)
+Status: SENT 2026-10-30 ~13:45 CST via Gmail web (Mensaje enviado)
+
+Hi Vinoth,
+
+I saw your LinkedIn post for the React Developer role (Princeton, NJ, remote with an in-person client interview) and would like to be considered. My resume is attached.
+
+- 10+ years of front-end engineering with 8+ years hands-on React.js and TypeScript for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members): component architecture and design systems, Redux / Context state management, REST and GraphQL integration, performance (Core Web Vitals) and accessibility (WCAG 2.1 AA).
+- AWS in production (Lambda, ECS, S3) with Docker and CI/CD (GitHub Actions); Jest, React Testing Library and Cypress; code reviews and coding standards as a hands-on lead.
+- Work authorization: TN (Mexican national), authorized to work in the U.S. now; employer-supported and renewable with no lottery. Available on C2C through my employer, able to start within two weeks and available for the in-person client interview in Princeton; rate open to your client's range.
+
+Happy to share more detail on a call.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

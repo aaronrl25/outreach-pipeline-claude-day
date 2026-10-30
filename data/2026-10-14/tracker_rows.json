@@ -16623,5 +16623,25 @@
   "status": "sent 2026-10-30 13:21 CST (#358)",
   "src": "LinkedIn sweep 2026-10-30 13:08",
   "notes": "Same remote Mobile Architect req as Amaze #72"
+ },
+ {
+  "company": "Apptad Inc",
+  "role": "React Developer",
+  "loc": "Princeton, NJ (remote)",
+  "arr": "Remote, in-person client interview",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-10-30",
+  "skills": "React, AWS",
+  "visa": "not stated",
+  "recruiter": "Vinoth (Apptad)",
+  "contact": "vinoth.t@apptadinc.com",
+  "link": "",
+  "fit": "ok (thin JD, locals asked)",
+  "resume": "Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf",
+  "msg": "messages/359_apptad_vinoth.txt",
+  "status": "sent 2026-10-30 13:45 CST (#359)",
+  "src": "LinkedIn sweep 2026-10-30 13:30",
+  "notes": "No location stated; 2nd Apptad recruiter"
  }
 ]
