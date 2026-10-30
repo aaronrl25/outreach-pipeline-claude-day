@@ -16703,5 +16703,43 @@
   "status": "sent 2026-10-30 15:26 CST (#362)",
   "src": "LinkedIn sweep 2026-10-30 15:10",
   "notes": "No current location stated; previously Chicago"
+ },
+ {
+  "company": "VY Systems",
+  "role": "Senior Full Stack Developer – React",
+  "loc": "Dallas, TX",
+  "arr": "",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-10-30 16:16",
+  "skills": "React.js, TypeScript, ES6+, HTML5/CSS3/SCSS, Angular (working), .NET REST APIs, Redux/Context, SQL, Snowflake, Jest/RTL; Next.js/Cypress/Playwright plus",
+  "visa": "not stated",
+  "recruiter": "Aadhithyan Elangovan",
+  "contact": "aadhi@vysystems.com",
+  "link": "https://www.linkedin.com/in/aadhithyan-elangovan",
+  "fit": "high",
+  "resume": "Aaron_Ramirez_Senior_React_Full_Stack_Developer_NextJS_DotNet.pdf",
+  "msg": "messages/363_vysystems_aadhi_react_dallas.txt",
+  "status": "sent 2026-10-30 17:3x (#363) – from Aaron screenshot",
+  "src": "LinkedIn feed (screenshot)"
+ },
+ {
+  "company": "EP Soft",
+  "role": ".Net Front-End Developer (React.js + Angular)",
+  "loc": "Texas",
+  "arr": "",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-10-30 ~16:20",
+  "skills": "React.js, Angular, TypeScript, ES6+, HTML5, CSS3 responsive, RxJS, Redux/NgRx",
+  "visa": "not stated",
+  "recruiter": "Sandeep Deshpag",
+  "contact": "sandeep.deshpag@epsoftinc.com",
+  "link": "https://www.linkedin.com/in/sandeep-deshpag-959530167/",
+  "fit": "high",
+  "resume": "Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf",
+  "msg": "messages/364_epsoft_sandeep_react_angular_texas.txt",
+  "status": "sent 2026-10-30 17:3x (#364)",
+  "src": "LinkedIn ReactJS C2C 17:20"
  }
 ]
