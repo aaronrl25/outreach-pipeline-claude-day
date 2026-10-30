@@ -36,7 +36,7 @@
  },
  "role_tweaks": {
   "0": {
-   "title": "Staff Software Engineer (Tech Lead)",
+   "title": "Frontend Software Engineer (Tech Lead)",
    "sub": "Remote · Seller Center – Marketplace Platform (Java / Spring · React / TypeScript · AWS)",
    "bullets": [
     "Led end-to-end delivery for Walmart's Seller Center vendor portal (billions in annual GMV): a Maven multi-module Java / Spring application (Spring MVC, Spring Security, Spring Batch, Hibernate/JPA on MySQL) with a modern React / TypeScript UI; owned technical direction, coding standards, and design reviews for a squad of 6+ engineers.",

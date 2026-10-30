@@ -1,7 +1,7 @@
 {
  "roles": [
   {
-   "title": "Staff Software Engineer",
+   "title": "Frontend Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Jan 2026 – Jun 2026",
    "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
@@ -23,7 +23,7 @@
    ]
   },
   {
-   "title": "Software Engineer II",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Aug 2024 – Feb 2025",
    "sub": "Remote · Warehouse Management System (Web)",
@@ -34,7 +34,7 @@
    ]
   },
   {
-   "title": "Senior React Engineer",
+   "title": "Senior Software Engineer",
    "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
    "dates": "Feb 2024 – Jun 2024",
    "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
@@ -45,7 +45,7 @@
    ]
   },
   {
-   "title": "React Engineer",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2022 – Jan 2024",
    "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
@@ -55,7 +55,7 @@
    ]
   },
   {
-   "title": "React Engineer",
+   "title": "Full Stack Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2021 – Oct 2022",
    "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
@@ -76,7 +76,7 @@
    ]
   },
   {
-   "title": "Software Engineer",
+   "title": "Mobile Software Engineer",
    "company": "Roambee  (IoT Startup, Santa Clara, CA)",
    "dates": "Jun 2017 – Oct 2018",
    "sub": "Remote · Real-Time IoT Asset Tracking (Web)",

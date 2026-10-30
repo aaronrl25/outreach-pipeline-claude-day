@@ -1,7 +1,7 @@
 {
  "roles": [
   {
-   "title": "Staff Software Engineer · Mobile Architect",
+   "title": "Frontend Software Engineer · Mobile Architect",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Jan 2026 – Jun 2026",
    "sub": "Remote · Seller Center – Marketplace Platform & Mobile Seller Experience",
@@ -23,7 +23,7 @@
    ]
   },
   {
-   "title": "Software Engineer II",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Aug 2024 – Feb 2025",
    "sub": "Remote · Warehouse Management System (iOS & Android)",
@@ -34,7 +34,7 @@
    ]
   },
   {
-   "title": "Senior React Native Engineer · Team Lead",
+   "title": "Senior Software Engineer · Team Lead",
    "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
    "dates": "Feb 2024 – Jun 2024",
    "sub": "Chicago, IL (Hybrid) · HCSC Mobile 2.0 – Healthcare Member App (iOS & Android)",
@@ -45,7 +45,7 @@
    ]
   },
   {
-   "title": "React Native Engineer",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2022 – Jan 2024",
    "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (iOS & Android)",
@@ -55,7 +55,7 @@
    ]
   },
   {
-   "title": "React Native Engineer · Team Lead",
+   "title": "Full Stack Engineer · Team Lead",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2021 – Oct 2022",
    "sub": "Remote · Store Assist – Fulfillment as a Service (iOS & Android) · Spark Driver (Android)",
@@ -65,17 +65,17 @@
    ]
   },
   {
-   "title": "Lead Engineer & Co-Founder",
+   "title": "Lead Engineer",
    "company": "Eurybia Studio",
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Co-founded the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
+    "Led engineering for the studio; shipped 0-to-1 React Native (Expo and bare workflow) iOS/Android apps with Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
     "Architected a gas delivery tracking app supporting 300+ daily deliveries with live driver location, push notifications, Facebook login, and SMS status updates on a Node.js/Express backend on AWS in Docker; built a wine e-commerce app with JWT-secured third-party API integration that drove 120% year-over-year sales growth."
    ]
   },
   {
-   "title": "Software Engineer",
+   "title": "Mobile Software Engineer",
    "company": "Roambee  (IoT Startup, Santa Clara, CA)",
    "dates": "Jun 2017 – Oct 2018",
    "sub": "Remote · Real-Time IoT Asset Tracking (iOS & Android)",
@@ -95,7 +95,7 @@
   ],
   [
    "State & UI:",
-   "Redux, Redux Toolkit, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
   ],
   [
    "APIs & Backend:",

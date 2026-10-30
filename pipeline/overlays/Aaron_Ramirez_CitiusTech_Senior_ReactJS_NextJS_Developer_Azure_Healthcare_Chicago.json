@@ -34,7 +34,7 @@
  },
  "role_tweaks": {
   "3": {
-   "title": "Senior React Engineer (Healthcare)",
+   "title": "Senior Software Engineer (Healthcare)",
    "bullets": [
     "Built the HIPAA-compliant member portal for HCSC (Blue Cross Blue Shield, 1M+ members) in React.js, Next.js and TypeScript: claims, benefits, ID cards and provider search, integrated with REST / GraphQL microservices on Azure.",
     "Designed reusable, accessible (WCAG 2.1 AA) component library with Redux Toolkit state management and Material UI; cut page load time 40% through code splitting, caching and Core Web Vitals work.",
