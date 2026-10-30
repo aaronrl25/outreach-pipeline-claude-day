@@ -1,0 +1,21 @@
+To: sureshk@rapinnotech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Mobile_Architect_React_Native_iOS_Android_AI.pdf
+Subject: Mobile Architect (Remote) – React Native / iOS / Android – Aaron Ramirez (C2C, TN)
+Status: SENT 2026-10-30 ~15:25 CST via Gmail web (Mensaje enviado)
+
+Hi Suresh,
+
+I saw your LinkedIn post for the remote Mobile Architect role and would like to be considered. My resume is attached.
+
+A note upfront: I have 10+ years in software engineering with 6+ years architecting mobile applications, rather than the 12+ listed, so I am sharing my profile in case the client values hands-on architecture depth.
+
+- Architected high-volume e-commerce and enterprise mobile apps across iOS and Android at Walmart Global Tech (Seller Center and store apps, 500K+ daily users), HCSC (1M+ members) and IBM/AEP: MVVM and Clean Architecture, modular design, React Native with native Swift and Kotlin modules, offline sync, App Store Connect and Google Play publishing with phased rollouts and feature flags.
+- Release engineering and quality: mobile CI/CD, Jest / Detox / Appium testing, observability with Dynatrace and Crashlytics (99.9% crash-free sessions), performance optimization.
+- AI-assisted development across the SDLC: GitHub Copilot, Claude Code and Cursor standards, automation, review guardrails and AI-generated test coverage; distributed systems behind the apps (REST / GraphQL APIs, event-driven integrations); staff-level technical leadership, architecture reviews and mentoring across product, backend, QA, DevOps and security teams.
+
+Work authorization: I noted the visa list in your post; I am on TN status (Mexican national), authorized to work in the U.S. now, employer-supported and renewable with no lottery. Available on C2C through my employer, remote from the San Francisco Bay Area, able to start immediately; rate open to your client's range.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
