@@ -1,0 +1,19 @@
+To: Sanjay.Chaudhary@rulesiq.com
+Subject: Senior Full Stack Developer – AI-Enabled Enterprise Applications (Harrisburg, PA) – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+
+Hi Sanjay,
+
+I saw your post for the Senior Full Stack Developer – AI-Enabled Enterprise Applications role (State of PA, Harrisburg) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development: React, Angular and TypeScript front ends; Node.js and Java / Spring Boot back ends; REST APIs, microservices and event-driven integrations; OOP, SOLID and clean architecture.
+- AI-powered engineering in production: LLM integration (Claude API, Azure OpenAI), RAG, AI agents with tool calling, prompt engineering and vector databases; daily use of GitHub Copilot, Claude and Cursor for AI-assisted development.
+- Cloud and DevOps: Azure and AWS, Azure DevOps and GitHub Actions CI/CD, Docker / Kubernetes; REST / JSON enterprise integrations.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and willing to relocate to Harrisburg for the 100% onsite role; available for the in-person interview and to start within two weeks.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

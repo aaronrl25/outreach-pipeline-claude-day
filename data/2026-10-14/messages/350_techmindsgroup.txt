@@ -1,0 +1,19 @@
+To: resumes@techmindsgroup.com
+Subject: Senior Web Developer – React / Accessibility (Trenton, NJ hybrid) – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+
+Hi Techminds team,
+
+I saw your post for the Senior Web Developer role in Trenton, NJ and would like to be considered. My resume is attached.
+
+- 10+ years of React in production (Walmart Global Tech, IBM/AEP, HCSC) with TypeScript, JavaScript, HTML5 and CSS/Sass; responsive, component-driven UIs.
+- Accessibility: WCAG 2.1 AA conformance work, keyboard and screen-reader (VoiceOver) testing, semantic HTML and ARIA patterns on customer-facing applications.
+- Authentication and security: integrated federated / SSO authentication with OAuth 2.0, OpenID Connect and JWT; OWASP-aligned secure coding.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and open to relocating for the hybrid schedule in Trenton; available to start within two weeks.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

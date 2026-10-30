@@ -1,0 +1,19 @@
+To: jobs@litmus7.com,hires@litmus7.com
+Subject: Senior Frontend Developer (React / Next.js) – San Ramon, CA – Aaron Ramirez
+Attachment: Aaron_Ramirez_Senior_Frontend_Developer_React_NextJS_Ecommerce_SanRamon.pdf
+
+Hello Litmus7 team,
+
+I would like to apply for the Front End Developer position in San Ramon, CA. My resume is attached.
+
+- 10+ years of front-end development with 8+ in React, including Next.js (SSR / SSG / ISR), TypeScript and Redux, with Node.js and Python back ends and GraphQL / REST integration.
+- Retail and e-commerce depth: Walmart Global Tech's Seller Center marketplace platform (billions in annual GMV) and store applications, plus enterprise platforms for IBM / AEP and HCSC; headless commerce and headless CMS storefront architectures.
+- Performance and quality: Core Web Vitals optimization (40% faster loads), design systems and component libraries, Jest / React Testing Library / Cypress, GitHub Actions CI/CD.
+- Local to the San Francisco Bay Area and available onsite in San Ramon. Work authorization: TN status (employer-supported, renewable, no lottery); available on C2C through my employer and able to start on short notice.
+
+Happy to walk through my e-commerce work in a call this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

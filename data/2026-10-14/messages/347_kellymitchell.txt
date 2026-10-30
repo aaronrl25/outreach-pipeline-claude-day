@@ -1,0 +1,18 @@
+To: andy.gallegos@kellymitchell.com
+Subject: Senior Full Stack Engineer – React / TypeScript / Python – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+
+Hi Andy,
+
+I saw your post for the Senior Full Stack Engineers on the Data Science & Analytics team at the entertainment and streaming client, and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack engineering with React and TypeScript on the front end and Python (FastAPI / Flask / Django) back ends, REST API design, SQL, and AWS deployments with CI/CD.
+- Data-driven applications: built dashboards and internal tools for Walmart Global Tech and IBM/AEP that turn analytics and model outputs into interfaces business teams use daily, working closely with data and analytics teams on the API and data contracts.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available for the hybrid schedule (4 days onsite) and to start within two weeks.
+
+Happy to discuss the role and the client's process.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,20 @@
+To: Ayush.Chauhan@pacerstaffing.com
+Subject: Senior React Developer (Plano, TX) – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+
+Hi Ayush,
+
+I saw your post for the Senior React Developer / React architecture role in Plano, TX and would like to be considered. My resume is attached.
+
+A note upfront: I have 10+ years of hands-on React and front-end experience rather than the 12+ listed, so I am sharing my profile in case the client values depth in the React architecture itself.
+
+- React.js, JavaScript and TypeScript at enterprise scale for Walmart Global Tech, IBM/AEP and HCSC: UI composition and design-system components, state management (Redux, Context, hooks), API integration patterns, and security (OWASP, OAuth 2.0 / JWT).
+- Architecture work: defined front-end target architecture and coding standards, migration of legacy storefront / portal UIs to React, performance optimization, accessibility (WCAG 2.1 AA) and CI/CD deployment patterns; guided teams through the migration as the hands-on lead.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available to start within two weeks; rate open to your client's range.
+
+Happy to discuss the role and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -1,0 +1,18 @@
+To: naresh.o@oriontekinc.com
+Subject: Full Stack Developer – Spring Boot / React (Boston, onsite) – Aaron Ramirez (C2C, TN)
+Attachment: Aaron_Ramirez_Full_Stack_Developer_React_Java_SpringBoot.pdf
+
+Hi Naresh,
+
+I saw your post for the Full Stack Developer (Spring Boot, React, Kubernetes, DevOps) role in Boston and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development: React front ends with JavaScript / TypeScript, and Java / Spring Boot microservices with REST APIs, SQL and messaging; refactoring and modernizing legacy applications while adding new features.
+- Delivery practices: containerized deployments, CI/CD pipelines, code reviews and coding standards, and close work with QA on automation coverage.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and willing to relocate to Boston for the onsite role; available for the onsite interview and to start within two weeks.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
