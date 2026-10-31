@@ -1,0 +1,18 @@
+To: hr.us@purplenow.io
+Subject: Lead Application Developer (React JS & .NET) – Remote (US) – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_React_Full_Stack_Developer_NextJS_DotNet.pdf
+
+Hi Purplenow team,
+
+I saw your LinkedIn post for the Lead Application Developer (React JS & .NET) remote C2C role with Alchemy Techsol and would like to be considered. My resume is attached.
+
+- 10+ years building enterprise web applications for Walmart Global Tech, IBM / AEP (500K+ daily users) and HCSC (1M+ members): expert React JS with TypeScript / JavaScript ES6+, HTML5 and CSS3 / SCSS plus Node.js, and C# / .NET Core with ASP.NET Web API services and Entity Framework Core over SQL Server and PostgreSQL in a microservices architecture.
+- Lead experience: technical leadership and mentoring of distributed teams of 4–8 engineers, estimations and documentation, code review and coding standards, JWT-based authentication and authorization, OOP and design patterns, Agile/Scrum delivery with direct client communication; CI/CD with GitHub Actions, Azure DevOps and Docker on Azure and AWS, ready to ramp quickly on GCP.
+- Work authorization: TN (Mexican national), authorized to work in the U.S. now; employer-supported and renewable with no lottery. Available on C2C through my employer, able to start immediately and set up for remote work on U.S. hours; rate open to your client's range.
+
+Happy to discuss the role this week.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
