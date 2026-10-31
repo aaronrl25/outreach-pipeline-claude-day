@@ -16741,5 +16741,24 @@
   "msg": "messages/364_epsoft_sandeep_react_angular_texas.txt",
   "status": "sent 2026-10-30 17:3x (#364) | REPLIED 10-30 17:34: apply via trustume portal + details form – pending Aaron",
   "src": "LinkedIn ReactJS C2C 17:20"
+ },
+ {
+  "company": "Tekstar USA",
+  "role": "Full Stack Developer (React / Java) – UI Focused",
+  "loc": "Malvern, PA (hybrid; relocation open)",
+  "arr": "",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-10-30 ~17:50",
+  "skills": "React, TypeScript, RxJS, Reactive Forms, NgRx, MFE (plus), Jest/Jasmine, REST, GraphQL; Java 17/21, Spring Boot, Apollo Federation (plus), AWS ECS/Lambda/S3/CloudWatch, Kafka, SQL/NoSQL",
+  "visa": "not stated",
+  "recruiter": "Javed",
+  "contact": "javed@tekstarusa.com",
+  "link": "https://www.linkedin.com/company/tek-star-corporation/",
+  "fit": "high",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_React_Java_SpringBoot_AWS.pdf",
+  "msg": "messages/365_tekstar_javed_react_java_malvern.txt",
+  "status": "sent 2026-10-30 20:58 (#365)",
+  "src": "LinkedIn React C2C 20:50"
  }
 ]

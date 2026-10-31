@@ -742,3 +742,4 @@
 {"ts": "2026-10-30T17:50:00-05:00", "event": "REPLY \u2013 PORTAL APPLICATION REQUESTED", "company": "EP Soft", "recruiter": "Sandeep Deshpag", "ref": "#364", "notes": "trustume.com portal + details form; rate confirmation after; not actioned \u2013 Aaron to decide"}
 {"ts": "2026-10-30T17:50:00-05:00", "event": "REPLY \u2013 ANSWERED BY AARON", "company": "Techminds Group", "recruiter": "Satish Kumar", "ref": "#350", "notes": "asked current location; Aaron replied Chicago IL"}
 {"ts": "2026-10-30T17:50:00-05:00", "event": "FEED SCAN (search paused)", "posts": 8, "withEmail": 3, "sent": 0}
+{"ts": "2026-10-30T20:58:00-05:00", "event": "SENT", "n": 365, "company": "Tekstar USA", "recruiter": "Javed", "to": "javed@tekstarusa.com", "role": "Full Stack Developer React/Java UI-focused, Malvern PA", "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_React_Java_SpringBoot_AWS.pdf", "source": "sweep 20:50"}
