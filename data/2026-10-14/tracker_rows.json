@@ -16779,5 +16779,24 @@
   "msg": "messages/366_purplenow_lead_react_dotnet_remote.txt",
   "status": "SENT 2026-10-31 09:35 (#366)",
   "src": "LinkedIn search 'React C2C' 2026-10-31 09:20"
+ },
+ {
+  "company": "Smart IT Frame (Titus Sahayaraj)",
+  "role": "Senior Web Developer / Frontend Architect (React / Next.js)",
+  "loc": "Remote",
+  "arr": "Remote",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-10-30 ~15:00",
+  "skills": "React, Next.js App Router/Server Components, TypeScript, Micro-Frontends, HTML/CSS/SCSS/Tailwind, Webpack/Vite/Turbopack, SSR/SSG/ISR, design systems, Jest/RTL/Cypress/Playwright, CI/CD, feature flags, canary/blue-green, Figma, WCAG, Copilot/Cursor/Claude Code",
+  "visa": "not stated",
+  "recruiter": "Titus Sahayaraj",
+  "contact": "titus.s@smartitframe.com",
+  "link": "https://www.linkedin.com/in/titus-sahayaraj-465535149/",
+  "fit": "Strong: React/Next.js front-end architect, remote; gaps Webpack/Vite tooling claims, feature flags, canary deploys",
+  "resume": "Aaron_Ramirez_Front_End_Engineer_React_NextJS_TypeScript_Ecommerce.pdf",
+  "msg": "messages/367_smartitframe_titus_senior_web_react_nextjs_remote.txt",
+  "status": "SENT 2026-10-31 10:25 (#367)",
+  "src": "LinkedIn search '\"Senior React\" hiring' 2026-10-31 10:00"
  }
 ]
