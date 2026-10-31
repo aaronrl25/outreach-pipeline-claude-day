@@ -1,0 +1,15 @@
+Harvey – Senior Software Engineer, Frontend (San Francisco)
+
+Dear Harvey Engineering Team,
+
+I'm applying for the Senior Software Engineer, Frontend role. I'm a San Francisco-based frontend engineer with 10+ years in software engineering and 7+ years hands-on with React and TypeScript, and the problems you describe (streaming results, long-running jobs, tool-calling workflows, enterprise-grade polish) are the ones I've spent the last two years on.
+
+At Walmart Global Tech I led the React/TypeScript front end for Seller Center, the marketplace platform behind billions in annual GMV. That included the UI for a GenAI seller-support assistant: Claude API / LangChain responses streamed through Node.js middleware into a React chat surface with optimistic updates, cancellation, retry, and structured error states, plus integration with six-plus internal microservices over REST and WebSockets. I set the squad's architecture standards, review protocols, and design documentation, and I own features from scoping and design review through launch and iteration.
+
+Two other parts of my background map to Harvey: regulated-environment UX, from leading the HIPAA-compliant React member application for 1M+ Blue Cross Blue Shield members at HCSC (secure messaging, role-based access, encrypted sessions), and performance work at scale, including a 40% load-time reduction on a Walmart warehouse app serving 500K+ daily associates through bundle splitting, virtualization, and request batching. I build with Tailwind CSS and shared design systems, test with Jest, React Testing Library, Cypress, and Playwright, and use Claude Code and Cursor daily.
+
+I live in San Francisco and am available to start immediately; the hybrid in-person model works well for me. I'd welcome the chance to talk about how I could help ship Assistant, Vault, Workflows, and the Word and Outlook add-ins.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

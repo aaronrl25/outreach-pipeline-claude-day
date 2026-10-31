@@ -1,0 +1,13 @@
+Omni – Frontend Engineer (Embed)
+
+Dear Omni Team,
+
+I'm applying for the Frontend Engineer role focused on Omni Embed. I have 10+ years in software engineering, 7+ years hands-on in JavaScript/TypeScript and React, and a track record of independently shipping senior-level frontend projects to customers.
+
+Most relevant: at Walmart Global Tech I led the React/TypeScript front end for Seller Center, including seller KPI and order-status dashboards and the embedding of React modules into other applications through Electrode Native micro-frontends, which cut new-feature integration time 60%. At IBM / AEP I built operational dashboards over 10+ microservice REST APIs, and at HCSC I led a React member platform for 1M+ users. I've designed and documented APIs consumed by other teams, worked directly with customers and product to define integration requirements, and I use Claude Code and Cursor daily to move faster on the parts of the work that don't need my judgment.
+
+Analytics and data tooling are familiar ground: SQL, Amplitude-style product analytics, and data-dense visualization with Recharts and D3 are part of my regular toolkit. I'm based in San Francisco, where Omni is headquartered, available to start immediately, and comfortable owning a large frontend area with minimal oversight.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

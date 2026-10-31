@@ -1,0 +1,15 @@
+Fanfix – Mobile Engineer, React Native (West Hollywood)
+
+Dear Fanfix Team,
+
+I'm applying for the Mobile Engineer (React Native) role. I have 10+ years in software engineering and 6+ years shipping production React Native apps on iOS and Android, including Expo managed and bare workflows, EAS build/submit, TypeScript, and app store releases end to end.
+
+Highlights that match your requirements: at HCSC I led a React Native member app serving 1M+ users (push notifications, secure messaging, digital ID cards) and set the team's Jest/React Testing Library standards; at Walmart Global Tech I built React Native features for apps used by 500K+ daily associates, cutting load time 40% through bundle optimization, image caching, list virtualization, and request batching, and sustaining 99.9% crash-free sessions; at Eurybia Studio I shipped 0-to-1 Expo and bare-workflow apps with Node.js and Firebase backends, managing App Store and Google Play releases myself. I integrate REST and GraphQL APIs with Redux Toolkit / RTK Query, write Detox end-to-end tests, and run CI/CD on GitHub Actions.
+
+Creator platforms live or die on how fast and polished the app feels, and that is the part of mobile work I enjoy most: startup time, rendering efficiency, and designs implemented accurately across both platforms.
+
+I'm based in San Francisco and would be glad to be in the West Hollywood office on the hybrid schedule; relocating to Los Angeles for the role is fine with me. I'm available to start immediately.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

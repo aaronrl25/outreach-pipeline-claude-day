@@ -1,0 +1,15 @@
+Chime – Senior Software Engineer, Membership Experience (San Francisco)
+
+Dear Chime Membership Team,
+
+I'd like to be considered for the Senior Software Engineer role on the Membership team. I'm a San Francisco-based engineer with 10+ years building consumer-facing products across the full stack, and most of that time has gone into exactly the kind of work this role describes: member-facing mobile features backed by APIs I designed and operated.
+
+At HCSC I led development of a HIPAA-compliant React Native member app for 1M+ Blue Cross Blue Shield of Illinois members (digital ID cards, claims, provider search, push notifications, secure messaging), owning architecture, API design, sprint planning, and delivery, and raising unit test coverage from 45% to 85%. At Walmart Global Tech I shipped React Native and React (TypeScript) features for apps serving 500K+ daily users, built Node.js/Express services and REST APIs over PostgreSQL and Redis, and cut app load time 40% with targeted performance work. I instrument what I ship (Dynatrace telemetry across three apps, MTTR down 50%) and iterate on real usage.
+
+Your stack note on Ruby on Rails "or comparable frameworks" fits me well: my backend work has been in Node.js/Express and Python (FastAPI), with transactional databases, caching, WebSockets, and GitHub Actions CI/CD, and I'm comfortable owning projects end to end from architecture to polished UI. I mentor through code review and collaborate closely with product, design, and data.
+
+I'm in San Francisco, available to start immediately, and glad to work on-site. I'd love to help build the membership, rewards, and engagement experiences that keep Chime members coming back.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

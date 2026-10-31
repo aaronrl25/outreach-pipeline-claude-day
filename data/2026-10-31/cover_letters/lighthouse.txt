@@ -1,0 +1,13 @@
+Senior Full Stack Engineer – venture-backed startup via Lighthouse Labs (San Francisco)
+
+Hello Lighthouse Labs team,
+
+I'm applying for the Senior Full Stack Engineer role with your San Francisco startup client. The role reads like a description of my current work: TypeScript, React, and Next.js on the front end; Python (FastAPI) and Node.js services with PostgreSQL on AWS; and LLM-powered product features made dependable with evals and safeguards.
+
+At Walmart Global Tech I built a GenAI seller-support assistant for Seller Center on the Claude API with LangChain tool calling: streaming interactions with cancel and retry, structured outputs, human approval steps for agent recommendations, and regression evals before each release. At IBM / AEP I integrated Azure OpenAI summarization with human-in-the-loop review into a field-operations platform used by thousands of technicians. Both were shipped end to end, from problem definition through launch, measurement, and iteration, with Jest, Supertest, and PyTest gates in GitHub Actions / Azure DevOps and Dynatrace observability in production.
+
+I have 10+ years of professional experience, so I'm above the 3-to-6-year range you list, and I'm applying because I like the scope: close to product decisions, hands-on across the stack, and accountable for what customers experience. I'm in San Francisco, available to start immediately, and glad to work in person.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

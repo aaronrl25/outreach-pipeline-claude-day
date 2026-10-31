@@ -1,0 +1,15 @@
+Beacon Biosignals – Senior Mobile App Engineer, React Native (Remote)
+
+Dear Beacon Biosignals Mobile Apps Team,
+
+I'm applying for the Senior Mobile App Engineer (React Native) role. I have 10+ years in software engineering, 9 years in mobile development, and 6+ years shipping and maintaining production React Native apps on both iOS and Android, with strong TypeScript and an Expo-based toolchain (EAS build, submit, and update) on GitHub.
+
+The closest match in my background is HCSC Mobile 2.0, a HIPAA-compliant React Native app for 1M+ Blue Cross Blue Shield members, where I led architecture and delivery, built offline-aware data handling and secure messaging, and raised test coverage from 45% to 85% on the way to continuous app-store releases. At IBM / AEP I led the React Native front end for a field-operations platform used by thousands of technicians in low-connectivity areas, which meant offline-tolerant sync, JWT/role-based auth, and crash and session telemetry in Dynatrace that cut P1 resolution time in half. Earlier, at Roambee, I built an IoT asset-tracking app that streamed real-time device location, and I've written native modules in Swift and Kotlin when the bridge needed it.
+
+I care about the product details this role calls out: onboarding that makes a device easy to use, signal-quality feedback before capture, and release reliability. Patient-facing clinical software is where I'd most like to put that experience.
+
+I'm based in San Francisco; I understand the team works in US Eastern time, and I'm glad to keep Eastern hours, as I've done for East Coast teams at AEP and HCSC. I'm available to start immediately.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

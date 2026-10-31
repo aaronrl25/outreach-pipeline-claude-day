@@ -1,0 +1,38 @@
+{
+ "base": "web",
+ "tagline": "Senior Frontend Engineer  ·  React, TypeScript, Tailwind CSS, Next.js  ·  Enterprise SaaS & AI Product UX  ·  10+ Years Software Engineering",
+ "location": "San Francisco, CA  ·  Hybrid",
+ "summary": "Senior Frontend Engineer with 10+ years in software engineering (7+ years hands-on React) leading end-to-end UI work for enterprise and regulated platforms at Walmart Global Tech, IBM/AEP, and HCSC. Owns features from scoping and design review through launch and iteration: polished React + TypeScript interfaces styled with Tailwind CSS and shared design systems, resilient state management (Redux Toolkit, Zustand, React Query), and strong error handling for streaming results and long-running jobs, including a GenAI assistant that streams Claude API / LangChain responses. Optimizes frontend performance at scale (bundle splitting, virtualization, Core Web Vitals), raises the reliability and security bar (JWT/RBAC flows, HIPAA-compliant member app for 1M+ users), and mentors peers through code review and documentation. Daily user of Claude Code and Cursor.",
+ "core_skills": [
+  [
+   "React, TypeScript, Tailwind CSS, Next.js",
+   "Design Systems, Reusable Components, Storybook"
+  ],
+  [
+   "Streaming UX, Long-Running Jobs, Tool-Calling Workflows",
+   "State: Redux Toolkit, Zustand, React Query"
+  ],
+  [
+   "Frontend Performance at Scale, Core Web Vitals",
+   "Security UX: JWT / RBAC, Regulated & Enterprise Apps"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Playwright",
+   "End-to-End Feature Ownership, Design Reviews"
+  ],
+  [
+   "Mentoring, Code Review, Documentation",
+   "AI-Assisted Development: Claude Code, Cursor"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Led the UI for a GenAI seller-support assistant: streamed Claude API / LangChain responses through Node.js middleware into a React chat interface with optimistic updates, cancellation, retry, and structured error states; integrated 6+ marketplace microservices over REST and Socket.IO/WebSockets.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_Harvey_Senior_Software_Engineer_Frontend_React_TypeScript_Tailwind_SF"
+}

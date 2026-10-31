@@ -1,0 +1,32 @@
+{
+ "base": "mobile",
+ "tagline": "Senior Software Engineer  ·  Full Stack: React Native, React, TypeScript, Node.js APIs  ·  Consumer Mobile at Scale  ·  10+ Years Software Engineering",
+ "location": "San Francisco, CA",
+ "summary": "Senior Software Engineer with 10+ years building consumer-facing mobile and web products end to end for Walmart Global Tech, IBM/AEP, and HCSC: React Native and React (TypeScript) front ends plus the Node.js / Express REST APIs, data models, and caching behind them. Shipped engagement and account features for apps serving 500K+ daily users and a HIPAA-compliant member app for 1M+ members (digital ID cards, claims, secure messaging, push notifications), owning architecture, API design, polished UI, and production health. Metrics-driven: instruments features with Dynatrace telemetry, iterates on real usage, and keeps regressions down with Jest, React Testing Library, Detox, and Supertest. Works daily with PostgreSQL, MongoDB, Redis caching, WebSockets, and GitHub Actions CI/CD; mentors engineers through code review.",
+ "core_skills": [
+  [
+   "React Native & React (TypeScript), iOS & Android",
+   "Node.js / Express REST APIs, API Design"
+  ],
+  [
+   "PostgreSQL, MongoDB, Redis Caching",
+   "Transactional Data, Secure Auth (JWT / OAuth 2.0)"
+  ],
+  [
+   "Member Engagement, Rewards & Account Features",
+   "Metrics-Driven Iteration, Telemetry (Dynatrace)"
+  ],
+  [
+   "Jest, React Testing Library, Detox, Supertest",
+   "GitHub Actions CI/CD, Docker, AWS (ECS, RDS, S3)"
+  ],
+  [
+   "End-to-End Ownership, Architecture, Code Review",
+   "Mentoring, Cross-Functional Collaboration"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "REST API design, Node.js/Express, WebSockets/Socket.IO, GraphQL, microservices, PostgreSQL, MongoDB, Redis caching, Firebase, Salesforce (Apex, REST APIs)"
+ },
+ "name": "Aaron_Ramirez_Chime_Senior_Software_Engineer_Membership_Experience_React_Native_Node_SF"
+}

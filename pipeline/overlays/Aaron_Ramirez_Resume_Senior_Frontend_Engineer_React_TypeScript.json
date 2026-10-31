@@ -25,5 +25,8 @@
    "Jest, React Testing Library, Cypress, Playwright",
    "Micro Frontends, Design Systems, CI/CD, Git"
   ]
- ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js (App Router, Server Components, SSR/SSG), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind CSS, CSS Modules, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
+ }
 }

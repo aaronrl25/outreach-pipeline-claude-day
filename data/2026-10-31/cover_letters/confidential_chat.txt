@@ -1,0 +1,13 @@
+Full Stack Software Engineer – Chat Platform (Remote)
+
+Hello,
+
+I'm applying for the Full Stack Software Engineer, Chat Platform role. Real-time messaging, conversational AI integrations, and Web/iOS/Android SDK work are the three areas where I've spent the most time over the last several years.
+
+At Walmart Global Tech I built a GenAI seller-support assistant: a TypeScript/Node.js service streaming Claude API / LangChain responses to React clients over WebSockets, integrated with six-plus internal microservices over REST. At HCSC I led a HIPAA-compliant React Native member app with secure messaging and push notifications for 1M+ members, and I've shipped real-time WebSocket/Socket.IO features on Walmart's warehouse and store apps for 500K+ daily users. My backend work spans Node.js/Express and Python (FastAPI) with REST/JSON APIs, SQL and NoSQL databases, and Docker-based CI/CD on GitHub Actions, Azure DevOps, and Jenkins, and I've troubleshot production issues across backend services, real-time layers, and client SDKs with Dynatrace.
+
+I hold a B.S. in Computer Systems Engineering, have 10+ years of professional development experience, and have worked in Agile/Scrum teams with Jira throughout. I'm based in San Francisco, fully remote-ready, and available to start immediately.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

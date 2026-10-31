@@ -1,0 +1,13 @@
+Senior Full Stack Developer – AI-native auto retail platform (San Francisco)
+
+Hello,
+
+I'm applying for the Senior Full Stack Developer role. I'm a San Francisco-based engineer with 10+ years building full-stack products, and I've spent the last two years shipping AI-native features for a marketplace at scale.
+
+At Walmart Global Tech I led React/TypeScript and Next.js development for Seller Center, the marketplace platform behind billions in annual GMV, and built the Node.js and Python (FastAPI) services behind it, including a GenAI seller-support assistant on the Claude API with LangChain tool calling, approval steps, and regression evals. Earlier I built a warehouse-management front end for 500K+ daily users and led a HIPAA-compliant member platform for 1M+ members at HCSC. I own projects end to end, from technical design and architecture reviews through launch and measurement, and I've led teams of five to six engineers in fast-moving environments.
+
+Your requirements call for TypeScript and Python with React/Next.js; both are in daily use for me, with PostgreSQL and Redis on AWS and GitHub Actions CI/CD. I'm available to start immediately and can be in the San Francisco office for the hybrid schedule.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

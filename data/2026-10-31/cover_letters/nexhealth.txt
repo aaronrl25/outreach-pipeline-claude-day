@@ -1,0 +1,15 @@
+NexHealth – Senior Software Engineer, Fullstack, Practice Engineering
+
+Dear NexHealth Practice Engineering Team,
+
+I'm applying for the Senior Software Engineer, Fullstack role on Practice Engineering. I have 10+ years building customer-facing products end to end, and healthcare software for the people who actually touch it has been a recurring theme: at HCSC I led a HIPAA-compliant React (TypeScript) and React Native member application for 1M+ Blue Cross Blue Shield of Illinois members (digital ID cards, claims, provider search, secure messaging), owning architecture, API design, and delivery across a distributed team.
+
+I'm genuinely full-stack. On the front end I work in React and TypeScript with Redux Toolkit and React Query; on the back end I build Node.js/Express and Python (FastAPI) services with REST and WebSocket APIs over PostgreSQL and Redis, deployed with Docker on AWS through GitHub Actions. I've shipped iOS alongside web for years through React Native (App Store and Google Play releases at HCSC, Walmart, and Eurybia Studio). At Walmart Global Tech I built a GenAI seller-support assistant on the Claude API with LangChain tool calling, approval steps, and regression evals, which speaks to your interest in AI and agentic systems.
+
+I work the way your team describes: define the problem, shape it with product and design, ship it, and iterate on how it's used. Most of my recent teams have been small and remote, so clear written communication is how I operate by default.
+
+I'm based in San Francisco and available to start immediately. I'd welcome a conversation about scheduling, payments, forms, and messaging for front-desk staff and patients.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25

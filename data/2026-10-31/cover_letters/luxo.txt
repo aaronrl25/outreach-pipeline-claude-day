@@ -1,0 +1,13 @@
+Luxomint – Senior Frontend Engineer (Remote, US)
+
+Hello Luxomint hiring team,
+
+I'm applying for the Senior Frontend Engineer role. I have 10+ years in software engineering and 7+ years of hands-on React, and I've spent the last several years owning frontend architecture for consumer-scale products at Walmart Global Tech, IBM/AEP, and HCSC.
+
+What lines up with your requirements: I build with React, Next.js, and TypeScript, styled with Tailwind and CSS Modules inside shared component libraries and design systems; I treat Core Web Vitals, bundle size, and rendering cost as first-class work (40% load-time reduction on a Walmart app serving 500K+ daily users through code splitting, virtualization, and request batching); and I've led accessible, responsive consumer-facing UI for 1M+ Blue Cross Blue Shield members at HCSC, where I also mentored four engineers and introduced a PR review process that lifted team velocity 25%. I've shipped Next.js products with Node.js and Firebase backends since 2018 and have React Native experience for the mobile side of your platform.
+
+I'm based in San Francisco, fully set up for remote work, and available to start immediately. My résumé is attached; I'd be glad to walk through any of this work in more detail.
+
+Best regards,
+Aaron David Ramírez Lezama
+San Francisco, CA  ·  rl.aaron4@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25
