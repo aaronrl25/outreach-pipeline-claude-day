@@ -1,0 +1,139 @@
+{
+ "roles": [
+  {
+   "title": "Frontend Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (TypeScript / Node.js / React)",
+   "bullets": [
+    "Built and operated Node.js / TypeScript middleware services for Seller Center, Walmart's marketplace platform (billions in annual GMV) serving millions of API requests a day; set architecture standards, code review protocols, and design documentation for a squad of 6+ engineers.",
+    "Integrated 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses with rate limiting, request timeouts, and Redis-backed caching to protect upstream services.",
+    "Shipped by continuous deployment through GitHub Actions with Jest, React Testing Library, and Supertest gates; ran Docker containers on AWS ECS/Fargate behind an ALB with RDS PostgreSQL and ElastiCache Redis; owned uptime in the team's on-call rotation with Dynatrace dashboards, alerts, and runbooks."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Web & Mobile Services)",
+   "bullets": [
+    "Led a cross-functional team on AEP's field operations platform, building React (TypeScript) front ends and Node.js / Python API services integrating 10+ microservice REST APIs used by thousands of utility technicians nationwide.",
+    "Implemented authentication and authorization (OAuth 2.0 / JWT, role-based access), offline-tolerant data sync with conflict handling, and Azure AI Services integrations to summarize and classify field notes.",
+    "Automated Azure DevOps pipelines with Docker-based agents and automated test gates; instrumented Dynatrace APM (session replay, error tracking) and wrote on-call runbooks, cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Web Services & React)",
+   "bullets": [
+    "Delivered React (TypeScript) features and Node.js REST / WebSocket services for Walmart's warehouse management system serving 500K+ daily active store associates with real-time inventory events.",
+    "Designed Jest, React Testing Library, and Supertest infrastructure, raising coverage to 80%+ and cutting production regression incidents by 35%; pipelines ran on Jenkins and GitHub with Docker build agents.",
+    "Cut load time by 40% via bundle splitting, HTTP caching headers, list virtualization, and request batching; rolled out Dynatrace across 3 apps, halving MTTR on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / React Native / Expo)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React and React Native (Expo / EAS) member platform serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over authenticated, encrypted REST APIs.",
+    "Drove architecture, sprint planning, and delivery across distributed teams; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85%, and shipped through Jenkins CI/CD with EAS Build, Submit, and over-the-air Updates for the mobile clients."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "Full Stack Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React, Next.js, and React Native (Expo) products on Node.js / Express and Firebase backends for clients in three countries, and kept them healthy in production after handoff.",
+    "Architected a gas delivery tracking platform handling 300+ daily deliveries with live driver location over WebSockets and push notifications on a Node.js/Express API with PostgreSQL and Redis, running in Docker on AWS behind a load balancer; built a Node.js RTMP-to-HLS livestream pipeline served through a CDN and a wine e-commerce storefront with JWT-secured third-party integrations."
+   ]
+  },
+  {
+   "title": "Mobile Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built the Node.js RESTful backend and React clients that streamed real-time IoT asset location over WebSockets to customers worldwide; led a refactor of the ingestion and API layer that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "State & Data:",
+   "Redux / Redux Toolkit, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation, responsive layouts, i18n"
+  ],
+  [
+   "APIs & Backend:",
+   "Node.js / TypeScript (Express, Fastify, NestJS), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, PostgreSQL, Redis, MongoDB, Python (FastAPI)"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, ALB, Lambda, API Gateway, RDS PostgreSQL, ElastiCache Redis, S3, CloudFront), Azure (App Service, DevOps), Docker, GitHub Actions, Jenkins, continuous deployment, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "Jest, Supertest, React Testing Library, Cypress, load testing (k6), code review, performance profiling, Lighthouse"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Expo_Web_Services_Engineer_EAS_Remote",
+ "tagline": "Web Services Engineer  ·  TypeScript / Node.js Services at Scale  ·  REST & GraphQL APIs, PostgreSQL, Redis  ·  Docker, AWS, CDNs  ·  React / React Native / Expo  ·  10+ Years",
+ "location": "San Francisco, CA  ·  Remote (U.S., North American hours)  ·  Full-time",
+ "summary": "Software engineer with 10+ years building and operating developer-facing and consumer-facing web services for Walmart Global Tech, IBM/AEP, and HCSC. Writes TypeScript (Node.js / Express / Fastify) services that handle millions of requests a day, backed by PostgreSQL and Redis, containerized with Docker on AWS ECS/Fargate behind load balancers and CloudFront CDNs, and shipped by continuous deployment with automated test gates. Owns what he ships: adds tests and monitoring (Dynatrace APM, structured logs, alerting), carries the on-call pager, writes runbooks and post-mortems, and has cut P1 MTTR by 50%. Comfortable reading library and runtime source to answer what the docs don't, and making pragmatic performance / security / cost trade-offs. Long-time Expo and EAS user on React Native apps for Walmart and HCSC, so the problems Expo's developers hit are ones he has hit himself. Daily user of Claude Code and Cursor.",
+ "core_skills": [
+  [
+   "TypeScript / Node.js Services (Express, Fastify), Event Loop & Streams",
+   "REST & GraphQL APIs, WebSockets, HTTP/2, Caching & CDNs"
+  ],
+  [
+   "PostgreSQL (schema, indexing, query tuning), Redis",
+   "Docker, AWS ECS/Fargate, ALB, CloudFront, S3, Lambda"
+  ],
+  [
+   "Continuous Deployment: GitHub Actions, Jest / Supertest Gates",
+   "On-Call: Dynatrace APM, Alerting, Runbooks, Post-mortems"
+  ],
+  [
+   "React, Next.js, React Native, Expo / EAS (Build, Submit, Updates)",
+   "Security: OAuth 2.0 / OIDC / JWT, RBAC, Secrets Management"
+  ],
+  [
+   "Code Review at Scale, Design Docs, Mentoring",
+   "Production Debugging, Profiling, Cost Optimization"
+  ]
+ ]
+}
