@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Ojus_Senior_Web_Developer_React_NextJS_Micro_Frontends_Alpharetta",
+ "tagline": "Senior Web Developer  ·  React, Next.js (App Router, Server Components), TypeScript  ·  Micro-Frontend Architecture, Design Systems, WCAG 2.1 AA, i18n  ·  Webpack / Vite, Jest, Cypress, Playwright",
+ "location": "",
+ "summary": "Senior Web Developer with 10+ years of professional software development and 7+ years of hands-on React and TypeScript for Walmart Global Tech (retail and marketplace platforms), IBM/AEP and HCSC. Architects and scales enterprise-grade web applications with React and Next.js (App Router, Server Components, SSR/SSG/ISR rendering strategies) and designs micro-frontend architectures where independently deployed fragments compose into one shell. Leads governance of enterprise UI component libraries, design tokens and frontend standards; scalable CSS with SCSS, CSS Modules and Tailwind; WCAG 2.1 AA accessibility and i18n for global users; performance work with Webpack, Vite and Turbopack. Quality through Jest, React Testing Library, Cypress and Playwright, with canary and blue/green releases on CI/CD. Daily use of Claude Code and GitHub Copilot, plus Cursor.",
+ "core_skills": [
+  [
+   "React, Next.js (App Router, Server Components), TypeScript (7+ yrs)",
+   "Micro-Frontend Architecture, Fragment Composition, Module Federation"
+  ],
+  [
+   "Design Systems, Design Tokens, UI Component Libraries",
+   "WCAG 2.1 AA Accessibility, i18n, Responsive / Mobile-First UI"
+  ],
+  [
+   "CSS3, SCSS/SASS, CSS Modules, Tailwind CSS",
+   "Webpack, Vite, Turbopack, Rendering & State Performance"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Playwright",
+   "CI/CD, Canary Releases, Blue/Green Deployments"
+  ],
+  [
+   "Retail, Marketplace & Payments Platforms (Walmart)",
+   "Claude Code, GitHub Copilot, Cursor; Figma, Storybook"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js (App Router, Server Components, SSR/SSG/ISR), TypeScript, JavaScript (ES6+), micro-frontends (fragment composition, module federation, Electrode Native), Redux Toolkit, Zustand, React Query, HTML5, CSS3/SCSS, CSS Modules, Tailwind, Styled Components, design systems, design tokens, WCAG 2.1 AA, i18n, Core Web Vitals",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Playwright, Supertest; code review, performance profiling, Lighthouse, canary / blue-green releases",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Webpack, Vite, Turbopack, Git/GitHub, mentoring, Claude Code, GitHub Copilot, Cursor"
+ }
+}

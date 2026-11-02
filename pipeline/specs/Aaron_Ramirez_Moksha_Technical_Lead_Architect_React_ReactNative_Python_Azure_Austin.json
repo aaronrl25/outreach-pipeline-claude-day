@@ -1,0 +1,153 @@
+{
+ "roles": [
+  {
+   "title": "Frontend Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform & Mobile Seller Experience (React Native / React / .NET / Azure)",
+   "bullets": [
+    "Spearheaded React Native and React (TypeScript) development for Seller Center, Walmart's marketplace platform (billions in annual GMV); owned system design, architecture standards, code review, and design documentation for a squad of 6+ engineers.",
+    "Designed and built RESTful APIs in C# / ASP.NET Core Web API and Node.js within a 6+ service microservice architecture, published through Azure API Management with OAuth 2.0 / Entra ID security, OpenAPI contracts, and versioning; integrated a GenAI seller-support assistant on the Claude API.",
+    "Set up the team's cloud DevOps foundation: Azure DevOps and GitHub Actions CI/CD with Jest, Detox, and xUnit gates, Docker on Azure App Service and AWS ECS/Fargate; Dynatrace and Application Insights monitoring, owned P1 incident resolution."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (iOS, Android & Web · React Native / .NET / Azure)",
+   "bullets": [
+    "Led a cross-functional team implementing the React Native front end for AEP's field operations platform (10+ microservice REST APIs, thousands of utility technicians); mentored engineers and partnered with product, QA, and other business units.",
+    "Configured and built APIs inside Azure: C# / ASP.NET Core Web API services on Azure App Service and Functions behind Azure API Management with Entra ID / JWT role-based authorization and Key Vault secrets; offline-tolerant sync for low-connectivity areas; Azure AI Services to classify field notes.",
+    "Automated Azure DevOps build and release pipelines with Docker agents, environment promotion, and test gates in two-week Scrum sprints; Dynatrace APM and Application Insights cut P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (iOS & Android · React Native / .NET / Node.js)",
+   "bullets": [
+    "Delivered React Native (TypeScript) iOS and Android features for Walmart's warehouse management system (500K+ daily associates), consuming .NET (ASP.NET Core Web API) and Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Designed and documented RESTful API contracts (OpenAPI, versioning, error handling); built Jest / React Testing Library / xUnit test infrastructure, raising coverage to 80%+ and cutting regression incidents by 35%; Azure DevOps and Jenkins pipelines.",
+    "Optimized app load time by 40% via bundle optimization, image caching, list virtualization, and request batching; Dynatrace across 3 apps cut MTTR by 50%."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Mobile 2.0 – Healthcare Member App (iOS & Android)",
+   "bullets": [
+    "Led development of HCSC Mobile 2.0, a HIPAA-compliant React Native member app for 1M+ Blue Cross Blue Shield members: digital ID cards, claims, provider search, push notifications, and secure messaging over .NET (ASP.NET Core Web API) REST services with Azure-hosted integrations.",
+    "Drove architecture, design documentation, sprint planning, and delivery across distributed teams; mentored 4 engineers in React Native, Redux Saga, and API integration; structured PR review improved velocity by 25%.",
+    "Established Jest unit testing standards (coverage 45% to 85%) with continuous delivery through Jenkins and Azure DevOps CI/CD to app-store releases."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (iOS & Android)",
+   "bullets": [
+    "Built React Native inventory apps used by 1,000+ associates daily across hundreds of stores; barcode scanning improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular component system shared across 3 warehouse apps (40% less duplicate code) with real-time WebSocket sync to Walmart's SAP backend; 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "Full Stack Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service (iOS & Android) · Spark Driver (Android)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflows for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in Agile/Scrum.",
+    "Implemented Electrode Native micro-frontends so React Native modules embed in existing native iOS/Android apps, cutting feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React Native iOS/Android apps on Node.js and Firebase backends, managing App Store and Google Play releases end to end.",
+    "Architected a gas delivery tracking app (300+ daily deliveries, live driver location, push and SMS updates) on Node.js/Express and AWS; built a wine e-commerce app whose JWT-secured integrations drove 120% YoY sales growth."
+   ]
+  },
+  {
+   "title": "Mobile Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (iOS & Android)",
+   "bullets": [
+    "Built the Mobile as Bee iOS/Android app in React Native with a Node.js REST backend streaming real-time IoT asset location over WebSockets; led an iOS refactor that cut crash rates by 60%."
+   ]
+  },
+  {
+   "title": "Game Developer",
+   "company": "Lone Wolf Studio  (Independent Game Studio)",
+   "dates": "Aug 2015 – Jul 2017",
+   "sub": "Puebla, Mexico · Multi-Platform Game Prototypes (C# / Unity)",
+   "bullets": [
+    "Developed multi-platform game prototypes in C# (Unity) and C, owning gameplay systems, tooling, and the art pipeline end to end; showcased the MVP at Tokyo Game Show 2016 and won 5 hackathons on rapid prototyping."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Mobile:",
+   "React Native (Expo, EAS, bare workflow), iOS & Android lifecycle, native modules (Swift/Kotlin), Electrode Native micro-frontends, push notifications, barcode scanning, geolocation, offline sync"
+  ],
+  [
+   "Languages:",
+   "TypeScript, JavaScript (ES6+), Python, C#, Node.js, SQL, HTML5, CSS3"
+  ],
+  [
+   "State & UI:",
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+  ],
+  [
+   "APIs & Backend:",
+   "Python (FastAPI, Flask), .NET (C#, ASP.NET Core Web API), Node.js/Express, REST & BFF API design (OpenAPI, versioning), microservices, GraphQL, WebSockets, SQL Server, PostgreSQL, MongoDB, Redis"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "Azure (API Management, AKS, App Service, Functions, DevOps Pipelines, Entra ID, Key Vault, Application Insights), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, Kubernetes, GitHub Actions, Jenkins, DevSecOps scanning, Dynatrace"
+  ],
+  [
+   "Security:",
+   "OAuth 2.0 / JWT, role-based access, secure token storage, TLS, HIPAA data handling"
+  ],
+  [
+   "Testing & Process:",
+   "Jest, React Testing Library, Detox, xUnit, Supertest; Agile/Scrum, Jira, Figma, design docs, code review, mentoring; Claude Code, GitHub Copilot, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Moksha_Technical_Lead_Architect_React_ReactNative_Python_Azure_Austin",
+ "tagline": "Technical Lead / Architect  ·  React, TypeScript & React Native (iOS/Android)  ·  Python / FastAPI, REST & BFF APIs, Microservices  ·  Microsoft Azure (APIM, AKS), CI/CD & DevSecOps  ·  Onsite/Offshore Team Leadership",
+ "location": "San Francisco, CA  ·  Available onsite in Austin, TX within one week",
+ "summary": "Hands-on Technical Lead / Architect with 10+ years leading end-to-end technical delivery across web, mobile and backend for Walmart Global Tech, IBM/AEP and HCSC. Owns solution architecture for distributed systems: React and TypeScript web apps, React Native (iOS/Android) mobile apps, Python (FastAPI) and C# / Node.js services behind REST and BFF layers, deployed on Microsoft Azure (API Management, App Service, Functions, AKS/containers, Entra ID, Key Vault). Builds the CI/CD and DevSecOps foundation (Azure DevOps, GitHub Actions, Docker, dependency and secret scanning) and leads onsite/offshore engineering teams of 6+ with architecture standards, design documentation, code review and mentoring. Customer-first; owns production issues end to end.",
+ "core_skills": [
+  [
+   "Solution Architecture, Microservices & Distributed Systems",
+   "React, TypeScript & React Native (iOS/Android)"
+  ],
+  [
+   "Python, FastAPI, REST APIs & BFF Architecture",
+   "C# / ASP.NET Core Web API, Node.js, GraphQL"
+  ],
+  [
+   "Microsoft Azure: API Management, AKS, App Service, Functions, Entra ID",
+   "CI/CD & DevSecOps: Azure DevOps, GitHub Actions, Docker"
+  ],
+  [
+   "Leading Onsite/Offshore Teams, Mentoring, Code Review",
+   "System Design, Technical Documentation, Stakeholder Communication"
+  ],
+  [
+   "SQL Server / PostgreSQL / MongoDB, Caching, Event-Driven Integration",
+   "Testing: Jest, PyTest, xUnit, Detox; Dynatrace, Application Insights"
+  ]
+ ],
+ "contact": "dvrnao@gmail.com  ·  (773) 708-2882  ·  linkedin.com/in/aaronsoftware  ·  github.com/aaronrl25"
+}
