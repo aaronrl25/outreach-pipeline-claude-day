@@ -1,0 +1,22 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_ReactJS_Specialist_HTML5_CSS3_Bootstrap_Sunnyvale",
+ "tagline": "ReactJS Specialist / Lead Front-End Engineer  ·  HTML5, CSS3, Bootstrap, Responsive Design  ·  React, TypeScript, Redux  ·  Performance, Unit Testing, Code Review  ·  Mentoring & Agile Delivery  ·  10+ Years",
+ "location": "Sunnyvale, CA (onsite)  ·  Based in the SF Bay Area  ·  Contract (C2C or W2)",
+ "summary": "Front-end specialist with 10+ years designing, developing, and maintaining responsive web applications in HTML5, CSS3, Bootstrap, and ReactJS for Walmart Global Tech, IBM/AEP, and HCSC, including 6+ years leading front-end development for squads of 5–7 engineers. Architects scalable, reusable React component libraries and design systems; builds dynamic, accessible user interfaces with semantic HTML5, CSS3 (Flexbox, Grid, animations), Bootstrap, Sass/SCSS, and Tailwind; optimizes performance with code splitting, memoization, virtualization, and Core Web Vitals tuning; and troubleshoots production front-end issues with Dynatrace and browser profiling. Ensures code quality through Jest / React Testing Library / Cypress unit and end-to-end tests and rigorous code reviews, mentors junior developers on React best practices, and works closely with UX/UI designers (Figma) and product in Scrum sprint planning and estimation. Maintains front-end standards, architecture documentation, and onboarding guides; integrates with REST and GraphQL APIs over Node.js and Java back ends.",
+ "core_skills": [
+  ["HTML5 (Semantic Markup, Forms, Media, Web APIs), CSS3 (Flexbox, Grid, Animations)", "ReactJS (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+)"],
+  ["Bootstrap 4/5, Sass/SCSS, Tailwind, Styled Components, Responsive & Mobile-First Design", "Scalable Component Architecture, Design Systems, Storybook"],
+  ["Redux / Redux Toolkit, Zustand, React Query; REST & GraphQL Integration", "Performance: Code Splitting, Memoization, Virtualization, Core Web Vitals"],
+  ["Unit Testing: Jest, React Testing Library, Cypress; Code Review Standards", "Accessibility (WCAG 2.1 AA), Cross-Browser Compatibility, SEO"],
+  ["Front-End Lead: Mentoring, Technical Guidance, Documentation & Standards", "Agile / Scrum: Sprint Planning, Estimation, UX/UI Collaboration (Figma)"]
+ ],
+ "tech_overrides": {
+  "Front End:": "HTML5, CSS3, Bootstrap 4/5, Sass/SCSS, Tailwind, Styled Components, React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, responsive design, design systems, Storybook, accessibility (WCAG), Core Web Vitals, cross-browser compatibility"
+ },
+ "role_tweaks": {
+  "0": {"title": "Frontend Software Engineer · Front-End Lead"},
+  "1": {"title": "Senior Software Engineer · Front-End Lead"},
+  "3": {"title": "Senior Software Engineer · Front-End Lead"}
+ }
+}
