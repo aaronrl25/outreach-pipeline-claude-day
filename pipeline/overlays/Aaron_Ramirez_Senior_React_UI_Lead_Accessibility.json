@@ -1,0 +1,43 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_React_UI_Lead_Accessibility",
+ "tagline": "Senior React Lead / UI Developer  ·  React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS  ·  Redux / Redux Toolkit, NgRx  ·  Angular  ·  Accessibility (WCAG 2.1 AA, Section 508)  ·  Jest, Cypress  ·  Figma to Code  ·  10+ Years",
+ "location": "",
+ "summary": "Senior front-end lead with 10+ years building responsive single-page applications in React.js and TypeScript, with Angular on enterprise platforms, for Walmart Global Tech, IBM/AEP, and HCSC, including 6+ years in a leadership role on complex projects (teams of 5–7, architecture, standards, code review). Builds reusable component libraries and design systems from Figma mockups; manages state with Redux / Redux Toolkit and NgRx; integrates REST APIs with OAuth 2.0 / JWT authentication and real-time features over WebSockets. Delivers accessibility to WCAG 2.1 AA and Section 508 (semantic HTML, ARIA, keyboard and screen-reader testing with JAWS, NVDA, VoiceOver, axe) and front-end performance (Core Web Vitals, code splitting, lazy loading, memoization). Writes unit and integration tests with Jest, React Testing Library, Cypress, and Jasmine; HTML5, CSS3, and SASS/LESS; Git with GitHub Actions, Azure DevOps, and Jenkins CI/CD. Node.js and Java back-end integration; Agile/Scrum delivery with product, QA, and UX.",
+ "core_skills": [
+  [
+   "React.js (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+)",
+   "Angular (TypeScript, RxJS, NgRx, Angular Material)"
+  ],
+  [
+   "HTML5, CSS3, SASS/LESS, Responsive SPAs, Design Systems, Storybook",
+   "Redux / Redux Toolkit, Zustand, NgRx, React Query"
+  ],
+  [
+   "Accessibility: WCAG 2.1 AA, Section 508, ARIA, JAWS / NVDA / VoiceOver, axe",
+   "REST API Integration, OAuth 2.0 / JWT, WebSockets"
+  ],
+  [
+   "Testing: Jest, React Testing Library, Cypress, Jasmine / Karma",
+   "Figma / Adobe XD Mockups to Clean, Reusable Code"
+  ],
+  [
+   "Front-End Leadership: Architecture, Standards, Code Review, Mentoring",
+   "Performance: Core Web Vitals, Code Splitting, Lazy Loading; CI/CD"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular (RxJS, NgRx, Angular Material), TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass/SCSS, Tailwind, Styled Components, Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, responsive design, design systems, Storybook, accessibility (WCAG 2.1 AA, ARIA), Core Web Vitals, Lighthouse, cross-browser compatibility"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Frontend Software Engineer"
+  },
+  "1": {
+   "title": "Senior Software Engineer · Front End"
+  },
+  "3": {
+   "title": "Senior Software Engineer · Front End"
+  }
+ }
+}

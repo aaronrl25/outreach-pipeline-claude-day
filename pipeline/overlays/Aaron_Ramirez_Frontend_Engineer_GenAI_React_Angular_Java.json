@@ -1,0 +1,55 @@
+{
+ "base": "web",
+ "tagline": "Frontend Engineer – GenAI  ·  React / Angular, TypeScript  ·  Java / Spring Boot & Python APIs  ·  AWS, Azure, GCP  ·  AI Coding Tools (Claude Code, Copilot, Codex, Devin)  ·  MCP, RAG at Scale, AI Agent Frameworks  ·  10+ Years",
+ "location": "",
+ "summary": "Lead Software Engineer with 10+ years designing, developing, and deploying enterprise-grade web applications for Walmart Global Tech, IBM/AEP, and HCSC, and 2+ years hands-on building Generative AI applications in production. Shipped a GenAI seller-support assistant for Walmart's marketplace (500K+ daily users) that orchestrates Claude API / LangChain tool-calling agents through Node.js middleware with streaming UIs, intent routing, retrieval (RAG), evaluation, and guardrails; integrated Azure AI Services to summarize and classify field notes at AEP. Designs agent-based workflows and AI-powered productivity and automation tools with LangChain, LangGraph, the OpenAI Agents SDK, and Google ADK, plus MCP-based tool integration. Full stack in TypeScript / JavaScript with React, Next.js, Tailwind, and Bootstrap on the front end and Python (FastAPI) and Java (Spring Boot) services behind REST and GraphQL APIs; deploys on AWS and Azure with Docker and CI/CD. Drives technical excellence, security, scalability, and performance standards for squads of 6+ engineers and rapidly prototypes AI solutions that reach production. Claude Code, Cursor, and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "Generative AI Apps (2+ yrs): Claude, OpenAI, Azure OpenAI APIs",
+   "Multi-Agent Orchestration: LangChain, LangGraph, OpenAI Agents SDK, Google ADK"
+  ],
+  [
+   "Agent Workflows, Tool Calling, MCP, RAG, Evaluation & Guardrails",
+   "AI-Powered Productivity & Automation Tools, Rapid Prototyping"
+  ],
+  [
+   "TypeScript / JavaScript, React, Next.js, Tailwind, Bootstrap",
+   "Python (FastAPI), Java (Spring Boot), Node.js REST / GraphQL APIs"
+  ],
+  [
+   "Enterprise Application Architecture, Security, Scalability",
+   "AWS (ECS, Lambda, RDS, S3), Azure (App Service, AI Services), Docker"
+  ],
+  [
+   "CI/CD: GitHub Actions, Jenkins; Observability: Dynatrace",
+   "Technical Leadership, Code Review, Mentoring (squads of 6+)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, Python (FastAPI, Flask), Java (Spring Boot), TypeScript, REST APIs, GraphQL, WebSockets/SSE, microservices, event-driven design, PostgreSQL, MongoDB, Redis",
+  "Front End:": "React, Next.js (App Router, SSR), TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Redux Toolkit, React Query, HTML5, CSS3, Storybook, accessibility (WCAG), Core Web Vitals"
+ },
+ "tech_extra": [
+  [
+   "AI Engineering:",
+   "LLM integration (Claude, OpenAI, Azure OpenAI), LangChain, LangGraph, OpenAI Agents SDK, Google ADK, MCP servers and tool calling, RAG with vector search (pgvector, Azure AI Search), prompt engineering, agent evaluation and guardrails, AI-assisted code review and test generation"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Led development of Walmart's Seller Center vendor portal (500K+ daily users, billions in annual GMV): React / TypeScript front end with Node.js REST microservices on AWS; set architecture, security, and code review standards for a squad of 6+ engineers.",
+    "Built and shipped a GenAI seller-support assistant: LangChain tool-calling agents over the Claude API with intent routing, retrieval (RAG) against policy and catalog data, streaming responses through Node.js middleware, and evaluation and guardrail layers; deflected a large share of tier-1 support contacts.",
+    "Prototyped and productionized internal AI productivity tools (automated code review, test generation, documentation agents) with LangGraph workflows and MCP tool integrations; mentored engineers on agent design and prompt engineering."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST, used by thousands of utility technicians nationwide.",
+    "Integrated Azure AI Services to summarize and classify technician field notes and route work orders automatically, reducing manual triage time; improved end-to-end response time by 40% through API payload optimization and caching.",
+    "Instrumented Dynatrace APM across the platform (session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_Frontend_Engineer_GenAI_React_Angular_Java"
+}

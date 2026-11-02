@@ -1,0 +1,20 @@
+To: ravish.bahuguna@karoniinc.com
+Subject: Level 3 Developer – UI (React / Angular, WCAG) – Albany, NY – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_React_UI_Lead_Accessibility.pdf
+
+Hi Ravish,
+
+I saw your post for the Level 3 UI Developer role (Albany, NY hybrid, C2C) and would like to be considered. My resume is attached; LinkedIn: linkedin.com/in/aaronsoftware.
+
+Against the pass/fail qualifications:
+- 10+ years on complex enterprise projects for Walmart Global Tech, IBM/AEP and HCSC, with 6+ years in a leadership role as a developer (architecture, standards, code review, teams of 5–7).
+- 8+ years building responsive single-page applications in React.js and TypeScript, plus Angular (RxJS, NgRx) on enterprise platforms.
+- 5+ years implementing WCAG 2.1 AA / Section 508 accessibility: semantic HTML, ARIA, keyboard and screen-reader testing (JAWS, NVDA, VoiceOver, axe).
+- TypeScript, HTML5, CSS3, SASS/LESS; Redux / Redux Toolkit and NgRx; Jest, React Testing Library, Cypress and Jasmine; Figma and Adobe XD mockups translated into clean, reusable code.
+
+Work authorization: TN (Mexican national), on C2C through my employer. Available for the hybrid schedule and an in-person interview. Available immediately.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
