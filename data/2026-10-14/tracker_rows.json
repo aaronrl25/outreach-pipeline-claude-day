@@ -17596,5 +17596,24 @@
   "status": "INBOUND 2026-11-02 12:58 CST – submission-details form (asks DL/visa/passport/SSN5/rate); Aaron to reply with resume + non-sensitive fields; rate → Patrick",
   "type": "Contract/FT",
   "visa": "TN stated"
+ },
+ {
+  "arr": "",
+  "company": "LanceSoft, Inc. (Anchal Pawar, Recruiting Partner)",
+  "contact": "LinkedIn DM (1st) – no email in post",
+  "fit": "",
+  "link": "https://www.linkedin.com/in/anchal-pawar-0a1635131/",
+  "loc": "US – Remote",
+  "msg": "messages/385_lancesoft_anchal_pawar_senior_mern_linkedin_dm.txt",
+  "pay": "",
+  "posted": "2026-11-02",
+  "recruiter": "Anchal Pawar",
+  "resume": "Aaron_Ramirez_Senior_MERN_Stack_Developer_React_Node_Remote.pdf",
+  "role": "Senior MERN Stack Developer – React 60% / Node 40%, 6+ yrs, remote",
+  "skills": "React, Node.js, Express, MongoDB, PostgreSQL, AWS",
+  "src": "Aaron screenshot → LinkedIn DM",
+  "status": "SENT #385 via LinkedIn DM – text 13:26 CST, PDF 13:37 CST",
+  "type": "C2C/W2",
+  "visa": "TN stated"
  }
 ]
