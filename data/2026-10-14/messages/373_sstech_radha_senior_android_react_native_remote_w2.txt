@@ -1,0 +1,19 @@
+To: radha@sstech-llc.com
+Subject: Senior Android Developer with React Native – Remote – Aaron Ramirez (W2)
+Resume: Aaron_Ramirez_SSTech_Senior_Android_Engineer_React_Native_Remote_W2.pdf
+
+Hi Radha,
+
+I saw your post for the Senior Android Developer (Android Engineer with React Native, remote) and would like to be considered on your W2. My tailored resume is attached.
+
+- 10+ years in software engineering, 8+ years shipping Android apps natively in Kotlin and Java and with React Native for Walmart Global Tech (store, warehouse and Spark Driver apps, 500K+ daily users), HCSC (1M+ members) and IBM/AEP; shipped releases to the Google Play Store with phased rollouts and feature flags.
+- Strong OOP and CS foundation (data structures, algorithms, design patterns, MVVM / clean architecture) and deep Android framework knowledge: components and lifecycles, Jetpack (ViewModel, Room, WorkManager, Compose), Gradle, CI/CD with GitHub Actions, Azure DevOps and Jenkins.
+- Mobile TDD with Espresso, Robolectric, JUnit, Appium, Jest and Detox; SDK-style modules for identity (OAuth 2.0 / JWT, biometrics), payments and analytics; GenAI features in mobile workflows (Azure AI Services, Claude API); Scrum delivery.
+- Note on the 12+ years: I have 10+ years total, disclosed up front so you can decide fit.
+
+Work authorization: TN visa (employer-supported, renewable, no lottery). Available immediately; glad to discuss rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

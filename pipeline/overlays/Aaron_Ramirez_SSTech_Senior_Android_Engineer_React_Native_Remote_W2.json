@@ -1,0 +1,53 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_SSTech_Senior_Android_Engineer_React_Native_Remote_W2",
+ "tagline": "Senior Android Engineer with React Native  ·  Kotlin / Java, Android Framework, Jetpack  ·  React Native (TypeScript), Native Modules  ·  Espresso / Robolectric TDD  ·  Google Play Releases",
+ "location": "Remote (U.S.)  ·  W2 Contract",
+ "summary": "Senior Android engineer with 10+ years in software engineering and 8+ years shipping Android apps, natively in Kotlin and Java and with React Native, for Walmart Global Tech (store, warehouse, and Spark Driver apps, 500K+ daily users), HCSC (1M+ members), and IBM/AEP. Strong OOP and CS foundation (data structures, algorithms, design patterns, MVVM / clean architecture) and deep Android framework knowledge: components and lifecycles, Jetpack (ViewModel, Room, WorkManager, Compose), Gradle, ProGuard/R8. Builds native Kotlin modules for React Native apps and SDK-style modules for identity (OAuth 2.0 / JWT, biometrics), payments, and analytics. Mobile TDD with Espresso, Robolectric, JUnit, Appium, Jest, and Detox; CI/CD on GitHub Actions, Azure DevOps, and Jenkins to Google Play with phased rollouts, feature flags, and Crashlytics/Dynatrace monitoring (99.9% crash-free). Integrates GenAI (Azure AI Services, Claude API) into mobile workflows; Scrum delivery with clear written and verbal communication across onshore and offshore teams.",
+ "core_skills": [
+  [
+   "Android: Kotlin, Java, Framework & Lifecycles, Jetpack (ViewModel, Room, WorkManager, Compose)",
+   "React Native (TypeScript), Native Modules & Bridging, Hermes, Gradle"
+  ],
+  [
+   "OOP, Data Structures & Algorithms, Design Patterns, MVVM / Clean Architecture",
+   "Mobile TDD: Espresso, Robolectric, JUnit, Appium, Jest, Detox"
+  ],
+  [
+   "SDK Modules: Identity (OAuth 2.0, JWT, Biometrics), Payments, Analytics",
+   "Google Play Releases, Signing, Phased Rollouts, Feature Flags"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Jenkins, Expo EAS",
+   "Performance & Stability: Profiling, Low-End Devices, Crashlytics, Dynatrace"
+  ],
+  [
+   "GenAI in Mobile: Azure AI Services, Claude API",
+   "Scrum / Agile, Code Review, Mentoring, Communication"
+  ]
+ ],
+ "tech_overrides": {
+  "Mobile:": "Android (Kotlin, Java, Android SDK, Jetpack: ViewModel, LiveData, Room, WorkManager, Navigation, Compose; Gradle, ProGuard/R8, Play Console), React Native (Expo, EAS, bare workflow, TypeScript, native modules, Hermes), iOS (Swift modules), push notifications, deep links, barcode scanning, geolocation, offline sync, profiling",
+  "Testing & Process:": "Espresso, Robolectric, JUnit, Appium, Jest, React Native Testing Library, Detox; TDD, Agile/Scrum, Jira, Figma, code review, mentoring, Claude Code, GitHub Copilot, Cursor"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Frontend Software Engineer · Android & React Native"
+  },
+  "2": {
+   "title": "Software Engineer · Android & React Native"
+  },
+  "4": {
+   "title": "Software Engineer · Android & React Native"
+  },
+  "5": {
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontends embedding React Native modules into existing native Kotlin/Java Android and iOS apps, cutting new-feature integration time by 60%; optimized the Spark Driver Android app for low-end devices and shipped Google Play releases with phased rollouts."
+   ]
+  },
+  "7": {
+   "title": "Mobile Software Engineer (Android)"
+  }
+ }
+}
