@@ -17672,5 +17672,24 @@
   "status": "SENT #388 – 2026-11-02 ~14:09 CST (Mensaje enviado); relocation offered",
   "type": "W2",
   "visa": "TN stated"
+ },
+ {
+  "arr": "",
+  "company": "Infoway Group (Enoch)",
+  "contact": "Enoch@infowaygroup.com",
+  "fit": "USC/GC preferred",
+  "link": "",
+  "loc": "Boston, MA (onsite)",
+  "msg": "messages/389_infoway_enoch_full_stack_java_react_boston.txt",
+  "pay": "",
+  "posted": "2026-11-02",
+  "recruiter": "Enoch",
+  "resume": "Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf",
+  "role": "Full Stack Developer (Java & React.js) – Infosys / State Street, 6–10 yrs",
+  "skills": "Java, Spring Boot, React.js, REST",
+  "src": "Aaron screenshot",
+  "status": "SENT #389 – 2026-11-02 ~14:15 CST (Mensaje enviado)",
+  "type": "C2C",
+  "visa": "TN stated"
  }
 ]
