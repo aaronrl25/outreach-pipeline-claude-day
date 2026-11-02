@@ -16141,7 +16141,7 @@
   "fit": "React full stack fit",
   "resume": "Aaron_Ramirez_Senior_React_Developer.pdf",
   "msg": "messages/335_sai_fullstack_react_charlotte.txt",
-  "status": "SENT #335 – 2026-10-29 12:1x CST (verified in:sent) | DELIVERY DELAYED 2026-10-30: DNS MX SERVFAIL for sai.com, Gmail retrying until 11-01 10:06 PST (domain in post likely incomplete) | still delayed as of 11-01 15:30, no final bounce yet",
+  "status": "SENT #335 – 2026-10-29 12:1x CST (verified in:sent) | DELIVERY DELAYED 2026-10-30: DNS MX SERVFAIL for sai.com, Gmail retrying until 11-01 10:06 PST (domain in post likely incomplete) | still delayed as of 11-01 15:30, no final bounce yet – BOUNCED 2026-11-01 13:53 PST (DNS MX SERVFAIL 3 days, 4.4.3); not delivered",
   "src": "LinkedIn sweep 2026-10-29 11:57 CST",
   "notes": "rate left open; TN stated"
  },
@@ -17254,5 +17254,24 @@
   "msg": "",
   "status": "NOT SENT – 208 posts / 184 with email / 5 unseen addresses, 0 sendable (Salesforce-first India/UK shift; Java-first Omaha onsite W2-only; generic W2 body shop OPT/H1B list; hotlist; empty post)",
   "src": "LinkedIn content search"
+ },
+ {
+  "arr": "",
+  "company": "LinkedIn C2C sweep",
+  "contact": "",
+  "fit": "",
+  "link": "",
+  "loc": "",
+  "msg": "",
+  "pay": "",
+  "posted": "2026-11-01 22:55 CST",
+  "recruiter": "",
+  "resume": "",
+  "role": "Sweep 2026-11-01 22:55 – 8 queries past-24h, 20 posts, 15 with email, 0 sendable",
+  "skills": "",
+  "src": "linkedin-sweep",
+  "status": "SWEEP – 0 sent (Sunday night: bench sales, India/Vietnam/Indonesia/Dubai/Canada, candidates; LaunchCode no-C2C/no-sponsorship)",
+  "type": "",
+  "visa": ""
  }
 ]
