@@ -1,0 +1,54 @@
+{
+ "base": "mobile",
+ "name": "Aaron_Ramirez_Reveille_Frontend_Mobile_Engineering_Manager_React_Native_Miami",
+ "tagline": "Frontend Mobile Engineering Manager  ·  React Native + Native iOS (Swift) & Android (Kotlin)  ·  Brownfield Migration, TurboModules / JSI  ·  Mobile CI/CD & Releases  ·  Team Leadership",
+ "location": "Miami, FL (hybrid; willing to relocate)  ·  Contract (C2C or W2)",
+ "summary": "Hands-on mobile engineering leader with 10+ years in software engineering, 8+ years shipping Android, iOS, and React Native apps for Walmart Global Tech (500K+ daily users), HCSC (1M+ members), and IBM/AEP, and 6+ years leading teams of 5–7 engineers while still writing production code. Specializes in brownfield migration: embedding React Native into existing Kotlin/Java Android and Swift/Objective-C iOS apps with Electrode Native micro-frontends, native module bridging, and the new architecture (TurboModules, JSI, Fabric), while holding hybrid startup, memory, and crash-free (99.9%) targets. Owns mobile CI/CD (GitHub Actions, Azure DevOps, Expo EAS, fastlane), App Store and Google Play releases with phased rollouts and feature flags, and performance monitoring (Dynatrace, Crashlytics, Sentry). Runs hiring, 1:1s, code review standards, and architecture decisions with product, backend, QA, and security.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript; Native iOS (Swift / Objective-C) & Android (Kotlin / Java)",
+   "Brownfield Migration: Native → React Native, Hybrid App Performance"
+  ],
+  [
+   "Native Module Bridging, TurboModules / JSI, Fabric, Hermes, Metro",
+   "Electrode Native Micro-Frontends, Modular Architecture"
+  ],
+  [
+   "Mobile CI/CD: GitHub Actions, Azure DevOps, Expo EAS, fastlane",
+   "App Releases: App Store Connect, Google Play, Phased Rollouts, Feature Flags"
+  ],
+  [
+   "Performance Monitoring: Dynatrace, Crashlytics, Sentry, Startup & Memory Profiling",
+   "Testing: Jest, RN Testing Library, Detox, Appium, XCTest / Espresso"
+  ],
+  [
+   "People Management: Hiring, 1:1s, Growth Plans, Teams of 5–7",
+   "Technical Leadership: Roadmap, Standards, Code Review, Cross-Functional Delivery"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Frontend Software Engineer · Mobile Tech Lead"
+  },
+  "3": {
+   "title": "Senior Software Engineer · Team Lead"
+  },
+  "4": {
+   "bullets": [
+    "Led the brownfield migration of Walmart store apps: embedded React Native modules into existing native iOS (Swift/Objective-C) and Android (Kotlin/Java) apps via Electrode Native micro-frontends and custom native bridges, cutting feature integration time by 60% while keeping hybrid startup and scroll performance within native budgets.",
+    "Owned the shared React Native component library and release engineering (phased rollouts, feature flags, 99.9% crash-free); mentored 5 onshore/offshore engineers."
+   ]
+  },
+  "5": {
+   "title": "Full Stack Engineer · Team Lead"
+  },
+  "6": {
+   "title": "Lead Engineer · Engineering Manager"
+  }
+ },
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), TypeScript, native modules and bridging, TurboModules / JSI / Fabric, Swift / Objective-C, Kotlin / Java, Hermes, Metro, Gradle, Xcode, Electrode Native micro-frontends, brownfield integration, deep links, push notifications, offline sync, profiling",
+  "Cloud & CI/CD:": "GitHub Actions, Azure DevOps, Jenkins, Expo EAS build & submit, fastlane, App Store Connect, Google Play Console, Docker; AWS (ECS/Fargate, Lambda, RDS, S3), Azure (App Service, AI Services), Firebase; Dynatrace, Crashlytics, Sentry",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Appium, XCTest, Espresso; Agile/Scrum, Jira, release planning, hypercare, hiring and 1:1s, onshore/offshore coordination, Claude Code, GitHub Copilot, Cursor"
+ }
+}

@@ -1,0 +1,19 @@
+To: joelraj@reveilletechnologies.com
+Subject: Frontend Mobile Developer – Manager (React Native, Android, iOS) – Miami, FL – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Reveille_Frontend_Mobile_Engineering_Manager_React_Native_Miami.pdf
+
+Hi Joel,
+
+I saw your post for the Frontend Mobile Developer – Manager role in Miami (hybrid, contract) and would like to be considered. My resume is attached.
+
+- 10+ years in software engineering, 8+ years shipping Android, iOS and React Native apps for Walmart Global Tech (500K+ daily users), HCSC (1M+ members) and IBM/AEP; 6+ years leading teams of 5–7 engineers while still writing production code.
+- Brownfield migration is my core experience: at Walmart I led embedding React Native modules into existing native iOS (Swift/Objective-C) and Android (Kotlin/Java) store apps with Electrode Native micro-frontends and custom native bridges, cutting feature integration time by 60% while keeping hybrid startup and scroll performance within native budgets. Hands-on with native module bridging, TurboModules / JSI and Fabric.
+- Mobile CI/CD and releases: GitHub Actions, Azure DevOps, Expo EAS and fastlane; App Store Connect and Google Play with phased rollouts and feature flags; performance monitoring with Dynatrace, Crashlytics and Sentry (99.9% crash-free sessions).
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area and willing to relocate to Miami for the hybrid schedule. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

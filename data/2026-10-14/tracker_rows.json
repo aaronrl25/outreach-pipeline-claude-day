@@ -17330,5 +17330,24 @@
   "status": "SENT #371 – 2026-11-02 ~09:2x CST (Mensaje enviado)",
   "type": "C2C/W2",
   "visa": "TN stated"
+ },
+ {
+  "arr": "",
+  "company": "Reveille Technologies (Joel Raj)",
+  "contact": "joelraj@reveilletechnologies.com",
+  "fit": "stretch: strong native Kotlin/Swift + people mgmt asked",
+  "link": "",
+  "loc": "Miami, FL (hybrid)",
+  "msg": "messages/372_reveille_joelraj_frontend_mobile_engineering_manager_react_native_miami.txt",
+  "pay": "",
+  "posted": "2026-11-02",
+  "recruiter": "Joel Raj",
+  "resume": "Aaron_Ramirez_Reveille_Frontend_Mobile_Engineering_Manager_React_Native_Miami.pdf",
+  "role": "Frontend Mobile Developer – Manager (React Native + native Android/iOS, brownfield migration)",
+  "skills": "React Native, Kotlin, Swift, TurboModules/JSI, mobile CI/CD, leadership",
+  "src": "linkedin-sweep",
+  "status": "SENT #372 – 2026-11-02 ~09:45 CST (Mensaje enviado) – sent on Aaron's instruction",
+  "type": "Contract (C2C)",
+  "visa": "TN stated"
  }
 ]
