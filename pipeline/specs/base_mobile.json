@@ -7,7 +7,7 @@
    "sub": "Remote · Seller Center – Marketplace Platform & Mobile Seller Experience",
    "bullets": [
     "Spearheaded React Native and React front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
-    "Integrated mobile and web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Integrated mobile and web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, and built Seller Center's interactive analytics with D3.js and SVG (zoomable sales timelines, geographic order heat maps, drill-down charts), plus a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
     "Shipped through GitHub Actions CI/CD with automated Jest, Supertest, and Detox test gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
    ]
   },
@@ -95,7 +95,7 @@
   ],
   [
    "State & UI:",
-   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js"
+   "Redux, Redux Toolkit, RTK Query, Redux Saga, Zustand, Context API, React Hooks, React Navigation, React.js, Next.js, D3.js, SVG"
   ],
   [
    "APIs & Backend:",
