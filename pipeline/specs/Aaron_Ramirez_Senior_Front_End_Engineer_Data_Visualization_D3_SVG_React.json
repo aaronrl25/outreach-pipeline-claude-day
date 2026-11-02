@@ -1,0 +1,139 @@
+{
+ "roles": [
+  {
+   "title": "Frontend Software Engineer · Data Visualization Lead",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
+   "bullets": [
+    "Led React / TypeScript front-end development for Seller Center, Walmart's marketplace platform (billions in annual GMV); set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Built Seller Center's interactive analytics in D3.js and SVG: zoomable sales and order-volume timelines with brushing, geographic choropleth and point maps of orders by region (d3-geo, TopoJSON), price-vs-conversion scatter plots, and linked charts with cross-filtering, all updating live from Socket.IO/WebSockets and REST microservices; Canvas rendering for 100K+ point views.",
+    "Shipped through GitHub Actions CI/CD with Jest, React Testing Library, and Cypress gates (visual regression on chart snapshots); monitored platform health in Dynatrace."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Web)",
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Built the platform's D3.js/SVG operations views: a geographic map of crews, outages, and work orders over the service territory (GeoJSON, clustering, zoom/pan), crew-schedule timelines, and linked charts that filter the map and tables together; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM, cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Web)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, including interactive D3.js/SVG warehouse floor maps, shipment timelines, and throughput scatter plots driven by real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, Canvas fallbacks for dense charts, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "Full Stack Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with a live D3.js/SVG dispatch map (driver locations, routes, ETAs) and delivery timelines over push and WebSocket updates on a Node.js/Express backend on AWS."
+   ]
+  },
+  {
+   "title": "Mobile Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets, rendered as D3.js/SVG maps, sensor timelines, and anomaly scatter plots; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "React.js, Next.js, TypeScript, JavaScript (ES6+), D3.js (d3-scale, d3-shape, d3-axis, d3-zoom, d3-brush, d3-force, d3-geo, d3-transition), SVG, Canvas, Recharts, Plotly, Chart.js, Mapbox GL, Leaflet, Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "State & Data:",
+   "Redux / Redux Toolkit, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation, responsive layouts, i18n"
+  ],
+  [
+   "APIs & Backend:",
+   "REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure (App Service, DevOps, AI Services), Firebase; GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Senior_Front_End_Engineer_Data_Visualization_D3_SVG_React",
+ "tagline": "Senior Front-End Engineer  ·  Interactive Data Visualization: D3.js, SVG, Canvas  ·  Maps, Timelines, Scatter Plots, Linked / Brushed Charts  ·  React, TypeScript, Next.js  ·  Node.js APIs, WebSockets  ·  10+ Years",
+ "location": "San Francisco Bay Area  ·  Remote or Hybrid  ·  Contract (C2C or W2) or Full-time",
+ "summary": "Senior front-end engineer with 10+ years building React and TypeScript applications and 6+ years shipping production interactive visualizations with D3.js and SVG for Walmart Global Tech, IBM/AEP, HCSC, and IoT and delivery startups. Builds geographic maps (GeoJSON / TopoJSON choropleths and point maps with d3-geo), zoomable timelines, scatter plots, and linked, brushed, cross-filtered chart sets over live data from WebSockets and REST, with d3-scale, d3-shape, d3-zoom, d3-brush, and d3-force; renders SVG for interaction and Canvas for 100K+ point datasets; keeps charts accessible (ARIA, keyboard navigation, screen-reader tables) and fast (virtualization, memoized selections, Web Workers). Integrates visualizations into design systems and dashboards with Redux / Zustand / React Query state, tests them with Jest, React Testing Library, and Cypress, and ships through GitHub Actions and Azure DevOps CI/CD. Node.js / Express and Java / Spring Boot API work on the back end; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "D3.js (scale, shape, axis, zoom, brush, force, geo, transition), SVG, Canvas",
+   "Maps: GeoJSON / TopoJSON Choropleths, Point & Heat Maps, Mapbox GL / Leaflet"
+  ],
+  [
+   "Timelines, Scatter Plots, Small Multiples, Linked & Brushed Charts, Cross-Filtering",
+   "Real-Time Data: WebSockets / Socket.IO, Streaming Updates, Transitions"
+  ],
+  [
+   "React.js, TypeScript, Next.js, Hooks; Recharts, Plotly, Chart.js",
+   "Performance: Canvas Rendering, Virtualization, Web Workers, Memoization"
+  ],
+  [
+   "Accessible Charts: ARIA, Keyboard Navigation, WCAG 2.1 AA, Color-Safe Palettes",
+   "Design Systems, Storybook, Responsive & Mobile-First Dashboards"
+  ],
+  [
+   "Node.js / Express REST & GraphQL APIs, PostgreSQL, Redis",
+   "Jest, React Testing Library, Cypress; GitHub Actions / Azure DevOps CI/CD"
+  ]
+ ]
+}
