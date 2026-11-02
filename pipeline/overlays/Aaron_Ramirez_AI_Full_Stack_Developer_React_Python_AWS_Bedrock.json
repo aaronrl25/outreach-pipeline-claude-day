@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock",
+ "tagline": "AI Full Stack Developer  ·  React, TypeScript, JavaScript  ·  Python (FastAPI, Flask)  ·  AWS Bedrock, Lambda, DynamoDB, Serverless  ·  LLM / RAG / Agent Workflows  ·  Graph Data (Neptune exposure)  ·  10+ Years",
+ "location": "Hybrid  ·  Contract (C2C)",
+ "summary": "Senior Full Stack Engineer with 10+ years in software engineering and hands-on experience shipping production Generative AI features: LLM-powered assistants, retrieval-augmented generation, and tool-calling agents built on Claude and OpenAI APIs with LangChain and Python / FastAPI services, fronted by React / TypeScript interfaces, with evaluation harnesses, guardrails, failure handling, and human-in-the-loop review and approval workflows. Strong Python and React development alongside Node.js / TypeScript; REST API and service design over PostgreSQL / Aurora and vector search (pgvector, Pinecone). Owns AWS production deployment and operations (Lambda, API Gateway, ECS/Fargate, S3, RDS, CloudWatch) with GitHub Actions CI/CD pipelines, Terraform and CDK infrastructure as code, Docker, and Dynatrace observability. Experience from Walmart Global Tech, IBM/AEP, and HCSC; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "Python (FastAPI), React / TypeScript, Node.js",
+   "GenAI Agents: Claude & OpenAI APIs, LangChain, LangGraph"
+  ],
+  [
+   "RAG, Embeddings, Vector Search (pgvector, Pinecone)",
+   "Agent Tool Use, Evaluation, Guardrails, Human-in-the-Loop"
+  ],
+  [
+   "AWS Production Ops: Lambda, ECS/Fargate, RDS, S3, CloudWatch",
+   "GitHub Actions CI/CD, Terraform & CDK IaC, Docker"
+  ],
+  [
+   "REST API & Service Design, PostgreSQL, SQL",
+   "Observability (Dynatrace), Incident Response, Failure Handling"
+  ],
+  [
+   "Jest, Pytest, Cypress, Prompt/Output Evaluation",
+   "Code Review, Mentoring, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, streaming UI for LLM responses, HTML5, CSS3, Tailwind, accessibility (WCAG)",
+  "APIs & Backend:": "Python (FastAPI), Node.js / TypeScript (Express, NestJS), REST APIs, GraphQL, microservices, PostgreSQL / Aurora, pgvector, MongoDB, Redis; GenAI: Claude & OpenAI APIs, LangChain, LangGraph, RAG, agent orchestration, tool calling, evaluation and guardrails",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, ECS/Fargate, S3, RDS/Aurora, CloudWatch, Bedrock), Terraform, AWS CDK / CloudFormation, Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

@@ -1,0 +1,18 @@
+To: rdellaporta@judge.com
+Subject: AI Full Stack Developer (AWS Bedrock, React, Python) – Malvern, PA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf
+
+Hi Rob,
+
+I saw your post for the AI Full Stack Developer (AWS Bedrock) role in Malvern, PA (hybrid, 1+ year, C2C) and would like to be considered. My resume is attached.
+
+- 10+ years of application development with React, TypeScript/JavaScript and Python (FastAPI, Flask) for Walmart Global Tech, IBM/AEP and HCSC, including onboarding, identity and risk-style workflows in regulated environments.
+- AI features in production: LLM integration through AWS Bedrock and the Claude API / Azure OpenAI, RAG pipelines, agent workflows with tool calling (LangChain / LangGraph), and evaluation guardrails; serverless AWS stack with Lambda, API Gateway, DynamoDB and S3.
+- Work authorization: TN (Mexican national), on C2C through my employer; happy to confirm status details on a call. Available for the hybrid schedule in Malvern and a video interview. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
