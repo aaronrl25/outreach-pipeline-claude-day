@@ -17691,5 +17691,24 @@
   "status": "SENT #389 – 2026-11-02 ~14:15 CST (Mensaje enviado)",
   "type": "C2C",
   "visa": "TN stated"
+ },
+ {
+  "arr": "",
+  "company": "Aquest Staffing (Mujeeb Farooq)",
+  "contact": "mujeeb.f@aqueststaffing.com",
+  "fit": "",
+  "link": "",
+  "loc": "Dallas, TX or Raleigh, NC (hybrid alternate weeks)",
+  "msg": "messages/390_aquest_mujeeb_front_end_engineer_react_angular_dallas_raleigh.txt",
+  "pay": "",
+  "posted": "2026-11-02",
+  "recruiter": "Mujeeb Farooq",
+  "resume": "Aaron_Ramirez_Photon_Front_End_Engineer_React_Angular.pdf",
+  "role": "Front End Engineer – Angular/React/TS, financial services, 6+ yrs",
+  "skills": "Angular, React, TypeScript, HTML5, CSS3, REST, CI/CD, FE testing",
+  "src": "Aaron screenshot",
+  "status": "SENT #390 – 2026-11-02 ~14:20 CST (Mensaje enviado)",
+  "type": "C2C/W2",
+  "visa": "TN stated"
  }
 ]
