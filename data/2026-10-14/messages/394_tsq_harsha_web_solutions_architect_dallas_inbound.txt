@@ -1,0 +1,18 @@
+To: harsha@tsqsystems.com
+Subject: Re: Seeking for Web Solutions Architect at Dallas, TX -
+Resume: Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+
+Hi Sree Harsha,
+
+Thank you for reaching out. The Web Solutions Architect role in Dallas, TX aligns well with my background, and I would like to be considered. My updated resume is attached.
+
+- 10+ years of software engineering and web application development for Walmart Global Tech, IBM/AEP and HCSC: architecture and hands-on delivery with React, React Native, TypeScript, Next.js and Node.js, REST and GraphQL microservices, and real-time features with Socket.IO / WebSockets.
+- AI/GenAI-enabled solutions in production: LLM integration through the Claude API and AWS Bedrock, RAG pipelines and tool-calling agent workflows; cloud deployments on AWS and Azure with CI/CD (GitHub Actions, Azure DevOps, Jenkins), Docker/Kubernetes and observability.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and I am happy to work onsite in Dallas.
+
+Glad to discuss the rate on a call; I am available any time today or tomorrow between 9 AM and 5 PM CT at (773) 708-2882, or feel free to propose a slot.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
