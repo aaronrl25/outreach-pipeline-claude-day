@@ -1,0 +1,19 @@
+To: arun.kumar@techcafehub.com
+Subject: Full Stack Developer – React / .NET / C# – Fremont, CA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_TechCafeHub_Full_Stack_Developer_React_DotNet_CSharp_Fremont.pdf
+
+Hi Arun,
+
+I saw your post for the Full Stack Developer (React / .NET / C#) role on the enterprise payroll application in Fremont, CA and would like to be considered. My two-page resume is attached.
+
+- Current location: San Francisco Bay Area, local to Fremont; available for the onsite schedule, the three onsite rounds and the Codility assessment.
+- 10+ years of hands-on full-stack development for Walmart Global Tech, IBM/AEP and HCSC: React and TypeScript front ends on C# / .NET (ASP.NET Core, Web API) services with MS SQL Server and PostgreSQL; API integration with distributed back-end systems; payments and financial-grade data handling in regulated platforms.
+- GenAI exposure in production (Claude API, Azure OpenAI, RAG); Python for services and scripts.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
