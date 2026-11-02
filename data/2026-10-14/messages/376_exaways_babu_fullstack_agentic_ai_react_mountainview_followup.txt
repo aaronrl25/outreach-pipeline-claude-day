@@ -1,0 +1,19 @@
+To: babu.m@exaways.com
+Subject: Re: Fullstack with Agentic AI & React – Mountain View, CA (Hybrid) – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Exaways_Java_Full_Stack_React_AI_MountainView.pdf
+
+Hi Babu,
+
+I saw your post today listing the Fullstack with Agentic AI & React opening in Mountain View (hybrid) again, so I am following up on the resume I sent you on October 28. It is attached again for convenience.
+
+- Current location: San Francisco Bay Area, local to Mountain View; available for the hybrid schedule and an in-person interview.
+- 10+ years of full stack development: React / TypeScript front ends on Java / Spring Boot microservices and REST APIs for Walmart Global Tech (Seller Center marketplace), IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- Agentic AI in production: LLM integration on the Claude API and Azure OpenAI with LangChain / LangGraph, tool calling, RAG and human-in-the-loop approvals; Claude Code and GitHub Copilot in daily use.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
