@@ -1,0 +1,139 @@
+{
+ "roles": [
+  {
+   "title": "Frontend Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
+   "bullets": [
+    "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, and built Seller Center's interactive analytics with D3.js and SVG: zoomable sales and order-volume timelines, geographic heat maps of orders by region, and drill-down charts, with a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer · Front End",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Web)",
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (Web)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, including interactive D3.js/SVG warehouse floor maps and shipment timelines driven by real-time inventory events over WebSockets and Node.js microservice REST APIs.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer · Front End",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "Full Stack Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Mobile Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "bullets": [
+    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Front End:",
+   "React.js, Next.js, Angular (RxJS, NgRx, Angular Material), TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass/SCSS, Tailwind, Styled Components, Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, responsive design, design systems, Storybook, accessibility (WCAG 2.1 AA, ARIA), Core Web Vitals, Lighthouse, cross-browser compatibility"
+  ],
+  [
+   "State & Data:",
+   "Redux / Redux Toolkit, React Query, Context API, React Router, Next.js (SSR/SSG), forms & validation, responsive layouts, i18n"
+  ],
+  [
+   "APIs & Backend:",
+   "REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, Firebase, PostgreSQL, MongoDB"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure (App Service, DevOps, AI Services), Firebase; GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Photon_Front_End_Engineer_React_Angular",
+ "tagline": "Front-End Engineer  ·  React.js, TypeScript, JavaScript, HTML5, CSS3  ·  Angular, Responsive Web  ·  REST APIs, Auth, CORS, WebSockets  ·  Core Web Vitals, Design Systems, Accessibility (WCAG)  ·  Node.js  ·  10+ Years",
+ "location": "San Francisco Bay Area  ·  Remote, Hybrid or Onsite  ·  Contract (C2C or W2)",
+ "summary": "Front-end engineer with 10+ years building responsive, high-performance web applications in React.js, TypeScript, JavaScript (ES6+), HTML5, and CSS3 for Walmart Global Tech, IBM/AEP, and HCSC, with Angular (TypeScript, RxJS, NgRx) on enterprise platforms. Builds reusable component libraries and design systems (Storybook, tokens, theming), integrates REST APIs with OAuth 2.0 / JWT authentication, CORS and secure session handling, and real-time features over WebSockets / Socket.IO. Owns front-end performance: Core Web Vitals (LCP, INP, CLS), code splitting, lazy loading, memoization, virtualization, and Lighthouse budgets. Delivers accessibility to WCAG 2.1 AA (semantic HTML, ARIA, keyboard and screen-reader testing) and quality through Jest, React Testing Library, Cypress, and Playwright. Node.js / Express services and BFF layers behind the front ends; GitHub Actions, Azure DevOps, and Jenkins CI/CD; digital modernization of legacy UIs for Fortune 500 platforms.",
+ "core_skills": [
+  [
+   "React.js (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+)",
+   "HTML5, CSS3, Sass/SCSS, Tailwind, Responsive & Mobile-First Design"
+  ],
+  [
+   "Angular (TypeScript, RxJS, NgRx, Angular Material)",
+   "REST API Integration, OAuth 2.0 / JWT, CORS, WebSockets / Socket.IO"
+  ],
+  [
+   "Core Web Vitals (LCP, INP, CLS), Lighthouse, Code Splitting, Lazy Loading",
+   "Reusable Components, Design Systems, Storybook, Theming"
+  ],
+  [
+   "Accessibility: WCAG 2.1 AA, ARIA, Keyboard & Screen-Reader Testing",
+   "Testing: Jest, React Testing Library, Cypress, Playwright"
+  ],
+  [
+   "Node.js / Express, BFF Layers, GraphQL",
+   "Redux / Redux Toolkit, Zustand, React Query; GitHub Actions / Azure DevOps CI/CD"
+  ]
+ ]
+}

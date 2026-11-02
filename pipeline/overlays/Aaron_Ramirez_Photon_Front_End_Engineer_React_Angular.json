@@ -1,0 +1,22 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Photon_Front_End_Engineer_React_Angular",
+ "tagline": "Front-End Engineer  ·  React.js, TypeScript, JavaScript, HTML5, CSS3  ·  Angular, Responsive Web  ·  REST APIs, Auth, CORS, WebSockets  ·  Core Web Vitals, Design Systems, Accessibility (WCAG)  ·  Node.js  ·  10+ Years",
+ "location": "San Francisco Bay Area  ·  Remote, Hybrid or Onsite  ·  Contract (C2C or W2)",
+ "summary": "Front-end engineer with 10+ years building responsive, high-performance web applications in React.js, TypeScript, JavaScript (ES6+), HTML5, and CSS3 for Walmart Global Tech, IBM/AEP, and HCSC, with Angular (TypeScript, RxJS, NgRx) on enterprise platforms. Builds reusable component libraries and design systems (Storybook, tokens, theming), integrates REST APIs with OAuth 2.0 / JWT authentication, CORS and secure session handling, and real-time features over WebSockets / Socket.IO. Owns front-end performance: Core Web Vitals (LCP, INP, CLS), code splitting, lazy loading, memoization, virtualization, and Lighthouse budgets. Delivers accessibility to WCAG 2.1 AA (semantic HTML, ARIA, keyboard and screen-reader testing) and quality through Jest, React Testing Library, Cypress, and Playwright. Node.js / Express services and BFF layers behind the front ends; GitHub Actions, Azure DevOps, and Jenkins CI/CD; digital modernization of legacy UIs for Fortune 500 platforms.",
+ "core_skills": [
+  ["React.js (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+)", "HTML5, CSS3, Sass/SCSS, Tailwind, Responsive & Mobile-First Design"],
+  ["Angular (TypeScript, RxJS, NgRx, Angular Material)", "REST API Integration, OAuth 2.0 / JWT, CORS, WebSockets / Socket.IO"],
+  ["Core Web Vitals (LCP, INP, CLS), Lighthouse, Code Splitting, Lazy Loading", "Reusable Components, Design Systems, Storybook, Theming"],
+  ["Accessibility: WCAG 2.1 AA, ARIA, Keyboard & Screen-Reader Testing", "Testing: Jest, React Testing Library, Cypress, Playwright"],
+  ["Node.js / Express, BFF Layers, GraphQL", "Redux / Redux Toolkit, Zustand, React Query; GitHub Actions / Azure DevOps CI/CD"]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular (RxJS, NgRx, Angular Material), TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass/SCSS, Tailwind, Styled Components, Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, responsive design, design systems, Storybook, accessibility (WCAG 2.1 AA, ARIA), Core Web Vitals, Lighthouse, cross-browser compatibility"
+ },
+ "role_tweaks": {
+  "0": {"title": "Frontend Software Engineer"},
+  "1": {"title": "Senior Software Engineer · Front End"},
+  "3": {"title": "Senior Software Engineer · Front End"}
+ }
+}
