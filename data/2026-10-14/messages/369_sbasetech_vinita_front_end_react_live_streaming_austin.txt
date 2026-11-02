@@ -1,0 +1,19 @@
+To: Vinita.K@sbasetech.net
+Subject: Front-End Developer (React + Live Streaming) – Austin, TX / Sunnyvale, CA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Front_End_Developer_React_Live_Streaming_Austin.pdf
+
+Hi Vinita,
+
+I saw your post for the Front-End Developer (React + Live Streaming) opening and would like to be considered. My resume is attached.
+
+- 10+ years building responsive, accessible web applications for Walmart Global Tech, IBM/AEP and HCSC with React.js, React Hooks and TypeScript: reusable component libraries, semantic HTML5 and Sass/SCSS, REST API integration, Jest / React Testing Library / Cypress.
+- 3+ years building livestream tools in the browser with hls.js: live and low-latency HLS playback, adaptive bitrate, DVR/seek windows, captions, custom accessible player controls and playback telemetry.
+- Node.js / Express and Java / Spring Boot REST services; GitHub with GitHub Actions and Jenkins CI/CD.
+- Work authorization: TN (Mexican national), on C2C through my employer. Based in the SF Bay Area, so Sunnyvale onsite works right away; also open to Austin onsite. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

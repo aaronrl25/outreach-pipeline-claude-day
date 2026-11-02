@@ -1,0 +1,26 @@
+To: raviteja.y@dgallen.co
+Subject: Lead API Developer – Remote – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_Full_Stack_Engineer_React_TypeScript_NodeJS_PostgreSQL_Remote.pdf
+
+Hi Arun,
+
+I saw your post listing the Lead API Developer opening (remote, C2C) and would like to be considered. My resume is attached, and the details you asked for:
+
+- Full name: Aaron David Ramírez Lezama
+- Current location: San Francisco Bay Area, CA
+- Visa status: TN (Mexican national), authorized to work in the U.S. now; on C2C through my employer
+- Expected C2C rate: my employer handles rate discussions and can confirm quickly
+- Availability: immediately
+- Contact: (773) 708-2882 · rl.aaron4@gmail.com
+
+Background:
+- 10+ years of full-stack development with React (including Vite), TypeScript and Node.js for Walmart Global Tech, IBM/AEP and HCSC; Java / Spring Boot and .NET as secondary stacks.
+- REST API design and ownership: API Gateway, OAuth 2.0 / JWT, HTTPS / TLS and DNS fundamentals, versioning and caching; PostgreSQL and Redis.
+- Led teams of 5–7 engineers: design reviews, code review standards, mentoring, production releases.
+
+Happy to discuss next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
