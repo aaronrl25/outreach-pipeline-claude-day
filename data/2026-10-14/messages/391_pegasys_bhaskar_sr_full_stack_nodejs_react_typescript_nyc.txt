@@ -1,0 +1,18 @@
+To: bhaskarpegasys@gmail.com
+Subject: Sr. Full Stack Developer (Node.js / React / TypeScript) – NYC – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_Full_Stack_Engineer_React_TypeScript_NodeJS_PostgreSQL_Remote.pdf
+
+Hi Bhaskar,
+
+I saw your C2C post for the Sr. Full Stack Developer role in NYC (Node.js, React, TypeScript, RESTful APIs; day-1 onsite) and would like to be considered. My resume is attached.
+
+- 10+ years of full-stack development for Walmart Global Tech, IBM/AEP and HCSC with React and TypeScript front ends on Node.js / TypeScript services; the post asks for 12+, so I am disclosing 10+ up front.
+- RESTful API design and integration (OAuth 2.0 / JWT), PostgreSQL and SQL Server data layers, microservices, CI/CD with GitHub Actions and Jenkins, and front-end/API testing with Jest, React Testing Library and Cypress.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available for day-1 onsite in NYC and an in-person interview. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
