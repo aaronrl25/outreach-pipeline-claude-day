@@ -1,0 +1,18 @@
+To: Nithin.j@synstacktech.com
+Subject: Re: Job Opportunity – Python Fullstack Lead | Los Angeles, CA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+
+Hi Nithin,
+
+Thank you for reaching out about the Python Fullstack Lead role in Los Angeles. I am interested; my resume is attached.
+
+- Retail / eCommerce background: Staff Software Engineer on Walmart Global Tech's Seller Center marketplace (high-volume seller and catalog transactions, headless search and content integrations), plus IBM / AEP (500K+ daily users) and HCSC (1M+ members).
+- 10+ years of full stack engineering: Python 3.x back ends (FastAPI, Flask, Django) exposing REST APIs and async services; React.js and TypeScript front ends with Redux Toolkit and React Query, component-based architecture and BFF integration.
+- Cloud-native microservices on AWS (Lambda, ECS, API Gateway, SQS/SNS, S3) and Azure with Docker and CI/CD; event-driven integrations, OAuth2 / JWT security, PostgreSQL and MongoDB; HLD / LLD design and technical leadership of 5–8 engineer teams; AI tools (Claude Code, GitHub Copilot) in daily use.
+
+Visa: TN (Mexican national), authorized to work in the U.S. now; employer-supported and renewable with no lottery. On C2C through my employer. Currently in the SF Bay Area and willing to relocate to Los Angeles for the onsite schedule. Available immediately; glad to discuss rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

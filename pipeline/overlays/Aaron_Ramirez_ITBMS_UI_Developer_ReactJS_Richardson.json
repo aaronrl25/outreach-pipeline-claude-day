@@ -1,0 +1,14 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_ITBMS_UI_Developer_ReactJS_Richardson",
+ "tagline": "Senior UI Developer (ReactJS)  ·  JavaScript (ES6+), TypeScript, HTML5, CSS3  ·  REST API Integration  ·  Enterprise Front-End Development  ·  10+ Years",
+ "location": "Richardson, TX (onsite)  ·  Contract (C2C or W2)",
+ "summary": "Senior UI developer with 10+ years of hands-on front-end development, 8+ of them focused on ReactJS in enterprise settings at Walmart Global Tech, IBM/AEP, and HCSC. Deep proficiency in JavaScript (ES6+), TypeScript, HTML5, CSS3, and REST API integration; builds reusable, accessible component libraries and design systems with React Hooks, Redux / Redux Toolkit, Zustand, and React Query; optimizes performance with code splitting, memoization, virtualization, and Core Web Vitals tuning; and ensures quality with Jest, React Testing Library, and Cypress plus rigorous code reviews. Collaborates with UX/UI designers (Figma), product, and backend teams in Agile/Scrum; mentors developers and maintains front-end standards. Node.js / Express and Java / Spring Boot API experience on the back end; GitHub Actions, Azure DevOps, and Jenkins CI/CD.",
+ "core_skills": [
+  ["ReactJS (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+)", "HTML5, CSS3, Sass/SCSS, Tailwind, Bootstrap, Responsive Design"],
+  ["REST & GraphQL API Integration, WebSockets, Error Handling, Caching", "Redux / Redux Toolkit, Zustand, React Query State Management"],
+  ["Reusable Component Libraries, Design Systems, Storybook", "Performance: Code Splitting, Memoization, Virtualization, Core Web Vitals"],
+  ["Jest, React Testing Library, Cypress; Code Review Standards", "Accessibility (WCAG 2.1 AA), Cross-Browser Compatibility"],
+  ["Enterprise Front-End Development, Agile/Scrum, UX/UI Collaboration (Figma)", "Node.js / Express, Java / Spring Boot APIs; GitHub Actions, Azure DevOps CI/CD"]
+ ]
+}
