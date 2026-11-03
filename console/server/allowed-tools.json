@@ -1,0 +1,9 @@
+{
+  "_comment": "Tools the console lets a sweep use without asking. Everything else is denied automatically in headless mode. Edit and restart the server.",
+  "tools": [
+    "mcp__claude-in-chrome",
+    "Read", "Write", "Edit", "Glob", "Grep", "ToolSearch",
+    "Bash(python3:*)", "Bash(git:*)", "Bash(cp:*)", "Bash(ls:*)", "Bash(cat:*)", "Bash(head:*)", "Bash(tail:*)",
+    "Bash(sed:*)", "Bash(grep:*)", "Bash(mkdir:*)", "Bash(date:*)", "Bash(wc:*)", "Bash(mv:*)", "Bash(diff:*)", "Bash(echo:*)"
+  ]
+}

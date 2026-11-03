@@ -19,3 +19,16 @@ Private repo. Contains personal contact info and resumes; keep it private.
 
 ## Daily sweep
 LinkedIn content search, past 24h, sorted by date: `"React" C2C`, `"React Native" C2C`, `"ReactJS" C2C`, `"Front End" C2C`, `"Angular" C2C`, `"React Native" hiring email`, `"Ionic" OR "Angular" hiring developer email`, `".NET" (React OR Angular OR Ionic) C2C`; plus Google Groups C2C lists and inbox. Build overlay → `make_spec.py` → Gmail compose with PDF → append tracker row, log, leads feed → regenerate tracker PDF.
+
+## Console (React UI to launch sweeps)
+`console/` is a small React + Express app that runs sweeps from a browser instead of the terminal.
+
+```bash
+cd console && npm install
+npm run dev        # API on http://127.0.0.1:8790, UI on http://localhost:5176
+```
+- Buttons: **C2C sweep** (the usual `sweep`), **Inbox check** (Gmail + C2C Groups only), **Easy Apply**, **Custom** (any instruction).
+- Each run launches headless Claude Code (`claude --chrome -p …`) from `$HOME` so the outreach memory loads, with the repo added as a working directory. It drives the same Chrome extension this session uses, so Chrome must be open with the Claude extension connected.
+- The run can only use the tools listed in `console/server/allowed-tools.json` (Chrome tools, file edits, python3/git/cp…). Anything else is denied automatically and shows up as "denied tools" at the end of the run. Edit the list and restart the server to widen or narrow it.
+- The live log, tiles, "Waiting on you" and sends tables read straight from `data/2026-10-14/`, so they refresh after every run. Run history is kept in `console/runs/` (ignored by git).
+- Only one run at a time; **Stop** sends SIGTERM to the run.
