@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express",
+ "tagline": "Senior Full Stack Developer  ·  Node.js / Express.js, React.js, Redux, TypeScript  ·  RESTful Web Services, Microservices, GraphQL  ·  AWS, Docker, CI/CD",
+ "location": "",
+ "summary": "Full Stack JavaScript / TypeScript Engineer with 10+ years building UI-heavy web applications and the Node.js services behind them for Walmart Global Tech, IBM/AEP, and HCSC. Front end in React.js with Redux / Redux Toolkit, React Query, and Next.js, styled with HTML5, CSS3, Sass, and Tailwind CSS inside shared design systems; back end in Node.js / TypeScript with Express.js and NestJS, structured as microservices that expose REST and GraphQL APIs over PostgreSQL and MongoDB. Deploys on AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD, keeps quality high with Jest, React Testing Library, Supertest, and Cypress, and owns production support with Dynatrace. Leads code reviews and mentors engineers; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, Redux / Redux Toolkit, React Query, Next.js",
+   "Node.js, Express.js, NestJS, Microservices"
+  ],
+  [
+   "TypeScript & JavaScript (ES6+)",
+   "REST APIs & GraphQL (Apollo), WebSockets"
+  ],
+  [
+   "HTML5, CSS3, Sass, Tailwind CSS, Design Systems",
+   "PostgreSQL, MongoDB, Redis"
+  ],
+  [
+   "AWS Lambda, ECS/Fargate, RDS, S3, CloudFront",
+   "Docker, GitHub Actions, Jenkins CI/CD"
+  ],
+  [
+   "Jest, React Testing Library, Supertest, Cypress",
+   "Code Review, Mentoring, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, React Query, React Hooks, HTML5, CSS3, Sass/SCSS, Tailwind CSS, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express.js, NestJS, Fastify), REST APIs, GraphQL (Apollo), WebSockets/Socket.IO, microservices, event-driven design, JWT/RBAC auth, PostgreSQL, MongoDB, Redis, Firebase"
+ }
+}
