@@ -18375,5 +18375,24 @@
   "msg": "messages/404_*.txt",
   "status": "SENT #404 – 2026-11-03 ~12:40 CST (Mensaje enviado)",
   "src": "LinkedIn sweep 12:30 CST"
+ },
+ {
+  "company": "Reveille Technologies (Francis Xavier)",
+  "role": "Engineering Manager – Frontend (Mobile & Web Platforms) @ TechHub Miami",
+  "loc": "Miami, FL (onsite) – no location stated",
+  "arr": "",
+  "type": "Contract (C2C)",
+  "pay": "",
+  "posted": "2026-11-03",
+  "skills": "",
+  "visa": "TN stated",
+  "recruiter": "Francis Xavier – Direct 704-444-0653",
+  "contact": "francisxavier.j@reveilletechnologies.com",
+  "link": "",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Reveille_Engineering_Manager_Frontend_Mobile_Web_React_Native_NextJS_Miami.pdf",
+  "msg": "messages/405_*.txt",
+  "status": "SENT #405 – 2026-11-03 12:57/12:59 CST (sent twice, stuck compose) – inbound reply",
+  "src": "Inbound email 12:44"
  }
 ]
