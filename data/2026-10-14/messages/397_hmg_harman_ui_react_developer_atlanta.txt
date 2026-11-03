@@ -1,0 +1,19 @@
+To: harman@hmgamerica.com
+Subject: UI React Developer (IC) – Atlanta, GA onsite – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+
+Hi Harman,
+
+I saw your UI React Developer (Individual Contributor) requirement in Atlanta (onsite, 6–12 months) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end development, 8+ hands-on with React.js, for Walmart Global Tech (Seller Center / Marketplace, retail e-commerce), IBM/AEP and HCSC: TypeScript, modern JavaScript (ES6+), HTML5/CSS3, Redux and Context API state management.
+- Front-end architecture and technical leadership: reusable, responsive component libraries, micro-frontend setups, REST API and third-party integrations, performance and accessibility (WCAG 2.1 AA) optimization, code reviews and front-end best practices.
+- Jest, React Testing Library and Cypress suites; CI/CD and deployment pipelines (GitHub Actions, Jenkins); AWS, Azure and GCP exposure.
+- Available onsite from day 1 in Atlanta. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

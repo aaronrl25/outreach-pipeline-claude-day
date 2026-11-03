@@ -1,0 +1,19 @@
+To: naveenr@everestglobalsolutionsinc.com
+Subject: Lead Node.js Developer with AWS – Texas – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_MERN_Stack_Developer_React_Node_Remote.pdf
+
+Hi Naveen,
+
+I saw your Lead Node.js Developer with AWS requirement in Texas (face-to-face interview) and would like to be considered. My two-page resume is attached.
+
+- 10+ years building full-stack applications for Walmart Global Tech, IBM/AEP and HCSC: Node.js (Express, NestJS) REST APIs and microservices, with React and Angular front ends in TypeScript.
+- AWS cloud-native services (Lambda, ECS/Fargate, API Gateway, RDS, S3, CloudWatch), Docker-based deployments and CI/CD pipelines (GitHub Actions, Jenkins); Java / Spring Boot services alongside Node.js; Azure exposure.
+- Tech-lead experience: API contracts and design reviews, mentoring, and close collaboration with front-end teams.
+- Available for the face-to-face interview. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
