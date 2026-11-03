@@ -1,0 +1,18 @@
+To: nathiya.m@pilvisystems.com
+Subject: React Developer with Python – CA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+
+Hi Nathiya,
+
+I saw your post for the React Developer with Python role in California and would like to be considered. My two-page resume is attached; could you share the full job description and client location?
+
+- 10+ years building production web platforms for Walmart Global Tech, IBM/AEP and HCSC: React.js + TypeScript front ends (Redux Toolkit, React Query, design systems, performance, accessibility).
+- Python backends in daily use: FastAPI / Flask services and REST APIs, Pandas data jobs and PyTest gates, alongside Node.js; PostgreSQL and MongoDB; AWS / Azure with Docker and CI/CD.
+- Based in California. Work authorization: TN (Mexican national), on C2C through my employer (W2 also fine). Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

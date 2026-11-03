@@ -1,0 +1,19 @@
+To: Shivani@xaxis.solutions
+Subject: Full Stack .NET Lead Developer – Wynn Las Vegas – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_XAxis_Lead_Full_Stack_DotNet_Developer_React_NextJS_eCommerce_LasVegas.pdf
+
+Hi Shivani,
+
+I saw your Full Stack .NET Lead Developer requirement for Wynn Las Vegas (onsite, 12+ months) on the C2C group and would like to be considered. My two-page resume is attached.
+
+- 10+ years leading delivery of customer-facing, transaction-oriented web platforms for Walmart Global Tech (Seller Center marketplace and Store Assist order / curbside pickup flows), IBM/AEP and HCSC: C# / .NET Core, ASP.NET Web API, Entity Framework and LINQ services over SQL Server and PostgreSQL, with React, Next.js and TypeScript front ends.
+- Owns API and integration design for search, pricing, inventory, reservations, payments and offers journeys: resiliency, idempotency, observability, secure service-to-service auth (OAuth 2.0, JWT, RBAC); cloud-native deployment on Azure and AWS with Azure DevOps / GitHub Actions CI/CD, Docker, monitoring and incident-response readiness.
+- Hands-on technical lead: architecture and solution design, coding standards, design and pull-request reviews, estimation and decomposition, mentoring, and automated unit / integration / contract / end-to-end / performance testing (xUnit, Moq, Jest, Cypress, k6).
+- Available for the onsite schedule in Las Vegas. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

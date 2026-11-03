@@ -1,0 +1,19 @@
+To: shekar@thinkuit.com
+Subject: MERN Stack Developer (React + Node.js) – Charlotte, NC – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_MERN_Stack_Developer_React_Node_Remote.pdf
+
+Hi Shekar,
+
+I saw your post for the MERN Stack Developer (React + Node.js) role in Charlotte, NC and would like to be considered. My two-page resume is attached.
+
+- 10+ years building full-stack web applications for Walmart Global Tech, IBM/AEP and HCSC: responsive React.js front ends (Hooks, Redux Toolkit, React Query, TypeScript) and Node.js / Express.js REST APIs and microservices over MongoDB and PostgreSQL.
+- Owns the complete stack: schema design and data persistence in MongoDB, modern JavaScript (ES6+), component architecture, state management and async programming, plus troubleshooting production issues end to end; AWS, Docker and GitHub Actions / Jenkins CI/CD; Jest and Cypress coverage.
+- Agile delivery turning wireframes and requirements into shipped features with product and design partners.
+- Available for the in-person interview. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

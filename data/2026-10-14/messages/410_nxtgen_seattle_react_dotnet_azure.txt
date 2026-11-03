@@ -1,0 +1,20 @@
+To: sgouse@nxtgenss.com
+Cc: sparveen@nxtgenss.com
+Subject: React.js Developer | C#/.NET APIs – Seattle, WA – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_NxtGen_Senior_React_Developer_CSharp_DotNet_Azure_Seattle.pdf
+
+Hi Gouse,
+
+I saw your post (and Parveen's) for the React.js Developer with C#/.NET APIs in Seattle, WA and would like to be considered. My two-page resume is attached.
+
+- 10+ years building enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: React.js front ends in TypeScript / JavaScript, HTML5 and CSS3 (Redux Toolkit, React Query, component libraries, accessibility, performance).
+- C# / .NET Core and ASP.NET Core Web API services: REST API development and integration, microservices, Entity Framework Core over SQL Server / Azure SQL and PostgreSQL, with API security (OAuth 2.0, JWT, Entra ID, RBAC).
+- Microsoft Azure delivery: App Service, Azure Functions, API Management, Key Vault and Application Insights, with Azure DevOps / GitHub Actions CI/CD, Docker and automated testing (Jest, React Testing Library, Cypress, xUnit).
+- Available for the 5-day onsite schedule and the virtual interview rounds including the coding round. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

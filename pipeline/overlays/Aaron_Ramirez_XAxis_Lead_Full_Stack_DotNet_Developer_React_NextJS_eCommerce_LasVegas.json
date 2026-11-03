@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_XAxis_Lead_Full_Stack_DotNet_Developer_React_NextJS_eCommerce_LasVegas",
+ "tagline": "Lead Full Stack .NET Developer · C# / .NET Core, ASP.NET Web API, Entity Framework, LINQ, SQL Server · React, Next.js, TypeScript · eCommerce & Booking Platforms · Azure / AWS, CI/CD",
+ "location": "",
+ "summary": "Lead Full Stack .NET Developer with 10+ years delivering customer-facing, transaction-oriented web platforms for Walmart Global Tech (Seller Center marketplace, Store Assist order and curbside pickup flows), IBM/AEP, and HCSC. Hands-on with C#, .NET / .NET Core, ASP.NET Web API, Entity Framework and LINQ over SQL Server and PostgreSQL, with React, Next.js, TypeScript, HTML5 and CSS3 front ends covering search, availability, pricing, reservations, payments and offers journeys. Owns API and integration design with resiliency, idempotency, observability and secure authentication / authorization (OAuth 2.0, JWT, RBAC); deploys cloud-native services on Azure and AWS with Azure DevOps / GitHub Actions CI/CD, Docker, monitoring and incident-response readiness. Provides technical leadership: architecture and solution design, coding standards, design and pull-request reviews, estimation and decomposition, mentoring, and automated unit, integration, contract, end-to-end and performance testing (xUnit, Moq, Jest, Cypress, k6). GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET & .NET Core, ASP.NET Web API, Entity Framework, LINQ",
+   "React, Next.js, TypeScript, JavaScript, HTML5, CSS3"
+  ],
+  [
+   "eCommerce / Booking Journeys: search, pricing, inventory, reservations, payments, offers",
+   "REST API & Integration Design, Data Contracts, Idempotency, Observability"
+  ],
+  [
+   "SQL Server, PostgreSQL, Redis, MongoDB",
+   "Secure Auth (OAuth 2.0, JWT, RBAC), Application Security, Performance"
+  ],
+  [
+   "Azure (App Service, Functions, Azure SQL) & AWS (ECS, Lambda, RDS)",
+   "Azure DevOps, GitHub Actions, Docker, Monitoring & Incident Response"
+  ],
+  [
+   "Technical Leadership, Code Review, Estimation, Mentoring",
+   "xUnit, NUnit, Moq, Jest, Cypress, k6; Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js 16+ / 18, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Redux Toolkit, React Query, responsive and accessible UI (WCAG), Core Web Vitals, A/B experimentation",
+  "APIs & Backend:": "C# / .NET Core & .NET 8 (ASP.NET Web API, Entity Framework Core, LINQ, Dapper, dependency injection), REST API and integration design, distributed integrations, data contracts, idempotent and resilient services, secure service-to-service auth (OAuth 2.0, JWT, RBAC), SQL Server (T-SQL, stored procedures), PostgreSQL, Redis, MongoDB, Node.js/Express",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Functions, Azure SQL, Key Vault, Application Insights), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Azure DevOps, GitHub Actions, Jenkins, Docker, monitoring and alerting dashboards, Dynatrace",
+  "Testing & Quality:": "xUnit, NUnit, Moq, Jest, React Testing Library, Cypress, contract and end-to-end tests, k6 performance tests; code review, performance profiling, Lighthouse"
+ }
+}

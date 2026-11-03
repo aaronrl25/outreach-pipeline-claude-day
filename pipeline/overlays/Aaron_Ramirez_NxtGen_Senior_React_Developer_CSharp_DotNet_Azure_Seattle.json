@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_NxtGen_Senior_React_Developer_CSharp_DotNet_Azure_Seattle",
+ "tagline": "Senior React.js Developer  ·  React 16+ / 18, TypeScript, JavaScript, HTML5, CSS3  ·  C# / .NET Core, ASP.NET Core Web API  ·  Microsoft Azure (App Service, Functions, API Management, Key Vault)  ·  Microservices, CI/CD",
+ "location": "",
+ "summary": "Senior React.js Developer with 10+ years building enterprise web applications for Walmart Global Tech, IBM/AEP, and HCSC. Expert in React (v16+ through 18) with TypeScript, JavaScript, HTML5, and CSS3: component architecture, state management, performance, and accessibility. Full stack on the Microsoft side with C#, .NET Core / .NET 8, and ASP.NET Core Web API services exposing secure RESTful APIs backed by SQL Server / Azure SQL and PostgreSQL. Cloud-native delivery on Microsoft Azure: App Service, Azure Functions, API Management, Key Vault, Entra ID authentication and authorization, microservices, and Azure DevOps / GitHub Actions CI/CD with Docker and automated testing. Applies OOP, SOLID, and design patterns and collaborates with product, QA, and DevOps in Agile/Scrum. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js 16+ / 18, TypeScript, JavaScript (ES6+) (Expert)",
+   "HTML5, CSS3 / SCSS, Tailwind, Responsive & Accessible UI"
+  ],
+  [
+   "C# / .NET Core & .NET 8, ASP.NET Core Web API",
+   "REST API Development & Integration, Microservices"
+  ],
+  [
+   "Azure App Service, Azure Functions, API Management, Key Vault",
+   "API Security, Authentication & Authorization (OAuth 2.0, JWT, Entra ID)"
+  ],
+  [
+   "SQL Server / Azure SQL, PostgreSQL, Entity Framework Core",
+   "Redux Toolkit, React Query, React Hooks, React Router"
+  ],
+  [
+   "Azure DevOps, GitHub Actions, Docker, CI/CD, Git",
+   "Jest, React Testing Library, Cypress, xUnit, Automated Testing"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js 16+ / 18, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Redux Toolkit, React Query, React Hooks, React Router, Next.js, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "C# / .NET Core & .NET 8 (ASP.NET Core Web API, Entity Framework Core, Dapper), REST API development & integration, microservices, API security (OAuth 2.0, JWT, Entra ID, RBAC), SQL Server / Azure SQL (T-SQL, stored procedures), PostgreSQL, Node.js/Express",
+  "Cloud & CI/CD:": "Microsoft Azure (App Service, Azure Functions, API Management, Key Vault, Azure SQL, Application Insights, Entra ID), Azure DevOps, GitHub Actions, Jenkins, Docker, cloud-native microservices, AWS (ECS/Fargate, Lambda, RDS, S3)",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, xUnit, automated testing in CI/CD; code review, performance profiling, Lighthouse"
+ }
+}
