@@ -1,0 +1,18 @@
+To: sandip@dstechnologiesinc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Full Stack Java Developer (Spring Boot, Angular/React) – Dearborn, MI – Aaron Ramirez (C2C)
+
+Hi Sandip,
+
+I saw your post for the Full Stack Java Developer role in Dearborn, MI and would like to be considered. My two-page resume is attached.
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot microservices and REST APIs with Hibernate / JPA over PostgreSQL and MongoDB, behind React.js and Angular front ends in TypeScript.
+- Docker and Kubernetes-style deployments on AWS / Azure with GitHub Actions and Jenkins CI/CD pipelines; JUnit, Jest and Cypress coverage; Agile/Scrum delivery with code reviews.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps on a call.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

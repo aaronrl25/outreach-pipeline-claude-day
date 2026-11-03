@@ -1,0 +1,61 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_EmCube_Lead_Full_Stack_Developer_VueJS_DotNet_Remote",
+ "tagline": "Lead Full Stack Developer  ·  Vue.js 3 (Composition API, Pinia / Vuex, Vue Router) & React, TypeScript  ·  C# / .NET Core, ASP.NET MVC & Web APIs, Entity Framework, SQL Server  ·  OAuth2 / OpenID Connect / Azure AD SSO  ·  Azure / AWS, CI/CD",
+ "location": "",
+ "summary": "Lead Full Stack Developer with 10+ years of front-end development for Walmart Global Tech, IBM / AEP, HCSC and e-commerce clients, including 4+ years of hands-on Vue.js (2.x / 3.x, Composition API, Pinia / Vuex, Vue Router) alongside React, in expert-level TypeScript, JavaScript (ES6+), HTML5 and CSS3 / SCSS. Builds component-driven single-page applications that consume RESTful APIs and JSON, tuned for browser rendering performance and responsive layouts, and secured with authentication / authorization, CORS, XSS and CSRF protection. Full stack with C# / .NET Core and ASP.NET MVC / Web API services over SQL Server (stored procedures, views, Entity Framework) and Node.js, SSO with OAuth2 / OpenID Connect and Azure AD, and Azure / AWS deployments through Git-based branching strategies and CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins). Leads squads of 5 to 7 engineers in Agile/Scrum, owns architecture and code review, and keeps quality high with Jest, Vitest, Cypress and Playwright suites. Claude Code, GitHub Copilot and Cursor in daily use.",
+ "core_skills": [
+  [
+   "Vue.js 2.x / 3.x, Composition API, Pinia / Vuex, Vue Router",
+   "React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3 / SCSS"
+  ],
+  [
+   "Component-Driven SPA Architecture, Responsive Design",
+   "Browser Rendering, Performance Tuning & Optimization"
+  ],
+  [
+   "C# / .NET Core, ASP.NET MVC, Web APIs, Entity Framework",
+   "SQL Server: Stored Procedures, Views, Functions, DB Design"
+  ],
+  [
+   "Front-End Security: AuthN/AuthZ, CORS, XSS, CSRF",
+   "SSO: OAuth2, OpenID Connect, Azure AD"
+  ],
+  [
+   "Jest, Vitest, Cypress, Playwright; Git/GitHub/GitLab CI/CD",
+   "Azure / AWS, Agile/Scrum, Technical Leadership"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Vue.js 2.x / 3.x (Composition API, Pinia, Vuex, Vue Router, Vite), React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3 / SCSS / SASS, Tailwind, responsive design, accessibility (WCAG), Core Web Vitals, browser rendering & performance optimization",
+  "State & Data:": "Pinia / Vuex, Redux / Redux Toolkit, React Query, Vue Router, React Router, RESTful APIs & JSON, forms & validation, responsive layouts, i18n",
+  "APIs & Backend:": "C# / .NET Core / .NET 8, ASP.NET MVC, ASP.NET Core Web API, Entity Framework, LINQ, SQL Server (stored procedures, views, functions), REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Node.js/Express, PostgreSQL, MongoDB",
+  "Cloud & CI/CD:": "Azure (App Service, DevOps, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Docker; GitHub Actions, GitLab CI, Azure DevOps, Jenkins; Git branching strategies (GitFlow, trunk-based); Dynatrace",
+  "Testing & Quality:": "Jest, Vitest, Vue Test Utils, React Testing Library, Cypress, Playwright, Supertest; code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub/GitLab, mentoring, code review; Claude Code, GitHub Copilot, Cursor"
+ },
+ "role_tweaks": {
+  "0": {
+   "sub": "Remote · Seller Center – Marketplace Platform (Vue.js 3 / React / TypeScript)",
+   "bullets": [
+    "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV, and built its embeddable seller-support chat widget in Vue.js 3 + TypeScript (Composition API, Pinia); set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, and built Seller Center's interactive analytics with D3.js and SVG: zoomable sales and order-volume timelines, geographic heat maps of orders by region, and drill-down charts, with a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  },
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (Vue.js / React)",
+   "bullets": [
+    "Led a cross-functional team implementing Vue.js and React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 Vue.js, React and Next.js products with Node.js and Firebase backends for clients in three countries, including a contactless QR digital menu and ordering platform built in Vue.js and deployed at 50+ restaurants during COVID-19.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  }
+ }
+}

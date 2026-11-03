@@ -1,0 +1,21 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_DVGTS_Full_Stack_AI_Engineer_Angular_Java_Azure_OpenAI_Remote",
+ "tagline": "Full Stack AI Engineer  ·  Angular (TypeScript, RxJS) & React  ·  Java / Spring Boot REST APIs & Microservices  ·  Microsoft Azure, Azure OpenAI, Azure DevOps CI/CD  ·  AI Agents, GenAI / LLM Integration, RAG",
+ "location": "",
+ "summary": "Full Stack AI Engineer with 10+ years building cloud-native enterprise applications for Walmart Global Tech, IBM / AEP and HCSC (HIPAA-regulated healthcare data): Angular (TypeScript, RxJS) and React front ends over Java / Spring Boot REST microservices and SQL databases. Hands-on AI application development and integration in production: shipped a GenAI support assistant streaming Claude API / LangChain responses through middleware services for Walmart's marketplace, integrated Azure AI Services to summarize and classify field notes at AEP, and builds tool-calling AI agents with RAG, human-in-the-loop approvals and evaluation loops behind Angular and React UIs. Deploys on Microsoft Azure (App Service, Container Apps, Key Vault, Application Insights) with Azure DevOps and GitHub Actions CI/CD, secures APIs with JWT / OAuth 2.0, and keeps quality high with Jasmine, Jest, JUnit and Cypress suites plus structured code review. Claude Code, GitHub Copilot and Cursor in daily use.",
+ "core_skills": [
+  ["Angular (TypeScript, RxJS, NgRx) & React Front Ends", "Java / Spring Boot REST APIs & Microservices"],
+  ["Microsoft Azure: App Service, Container Apps, Key Vault", "Azure OpenAI, Azure AI Services, Application Insights"],
+  ["AI Agents: Tool Calling, RAG, LangChain, Evaluation", "GenAI / LLM Integration (Claude API, Azure OpenAI)"],
+  ["Azure DevOps & GitHub Actions CI/CD, Docker", "SQL Server, PostgreSQL, MongoDB"],
+  ["JWT / OAuth 2.0 Security, HIPAA-Regulated Data", "Agile/Scrum, Code Review, Claude Code & Copilot (daily)"]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, microservices, REST APIs, JUnit; Node.js/Express, GraphQL, SQL Server, PostgreSQL, MongoDB; Claude API, Azure OpenAI, LangChain, RAG, vector search",
+  "Cloud & CI/CD:": "Azure (App Service, Container Apps, DevOps YAML pipelines, Key Vault, Managed Identity, Application Insights, Azure OpenAI / AI Services), AWS (ECS/Fargate, Lambda, RDS, S3), Docker, GitHub Actions, Jenkins, Dynatrace",
+  "Testing & Quality:": "Jasmine, Karma, JUnit, Jest, Cypress, Supertest; AI evaluation harnesses, code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, code review; Claude Code, GitHub Copilot, Cursor"
+ }
+}
