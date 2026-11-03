@@ -1,0 +1,19 @@
+To: venkat@softsoldesk.com
+Subject: Technical Architect – Web Full Stack (React / Next.js / GraphQL / AWS) – Austin, TX – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+
+Hi Venkat,
+
+I saw your Technical Architect – Web Full Stack requirement in Austin (onsite, C2C) for the realtor.com consumer platforms and would like to be considered. My two-page resume is attached.
+
+- 10+ years building and modernizing consumer-scale web platforms for Walmart Global Tech (Seller Center / Marketplace), IBM/AEP and HCSC: React / Next.js (App Router, SSR) and TypeScript front ends over GraphQL and REST microservices (Node.js), including GraphQL Federation across domain services.
+- AWS cloud-native architecture: ECS/Fargate and EKS (Kubernetes) deployments, Lambda, RDS, S3, CloudFront; Docker, GitHub Actions / Jenkins CI/CD; observability with Dynatrace and CloudWatch.
+- Technical leadership: architecture standards and ADRs, system modernization roadmaps, design reviews, and mentoring for squads of 6+ engineers.
+- Available onsite in Austin. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

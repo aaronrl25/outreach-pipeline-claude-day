@@ -1,0 +1,19 @@
+To: James.miller@donatousa.com
+Subject: Sr. Python Full Stack Engineer – 100% Remote (TN) – Aaron Ramirez
+Resume: Aaron_Ramirez_Donato_Senior_Python_Java_Full_Stack_Engineer_React_Remote.pdf
+
+Hi James,
+
+I saw your Sr. Python Full Stack Engineer requirement (100% remote, long-term contract, Mexican and Canadian citizens) and would like to be considered. I am a Mexican national already working in the U.S. on TN status, so the TN process is straightforward on my side. My two-page resume is attached.
+
+- 10+ years building enterprise applications for Walmart Global Tech, IBM/AEP and HCSC: Python (FastAPI, Flask, Pandas) and Java 17+ / Spring Boot services with Spring Security (OAuth 2.0 / JWT), Spring JDBC and Hibernate data access, and transaction management.
+- Full-stack delivery with ReactJS, TypeScript, JavaScript (ES6+), HTML5 and CSS3; scalable REST and SOAP APIs and microservices; data-processing pipelines over JSON, XML and WSDL; distributed applications on AWS.
+- Strong SQL on Oracle, MySQL and PostgreSQL; Tomcat deployments; Jenkins, Maven, JIRA, Agile; automated testing with JUnit, PyTest and Jest; application security and vulnerability remediation.
+- Available immediately. Happy to work through your TN support process or on C2C through my employer, whichever fits the engagement.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
