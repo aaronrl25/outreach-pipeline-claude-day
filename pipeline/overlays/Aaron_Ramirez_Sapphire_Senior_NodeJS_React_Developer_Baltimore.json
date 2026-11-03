@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Sapphire_Senior_NodeJS_React_Developer_Baltimore",
+ "tagline": "Senior Node.js / React Developer  ·  React, TypeScript, Next.js, Redux Toolkit  ·  Node.js / Express, NestJS REST & GraphQL APIs  ·  C# / .NET  ·  AWS & Azure Cloud, CI/CD, Microservices  ·  Lead-level Architecture & Mentoring",
+ "location": "Available onsite in Baltimore, MD (relocating is fine)  ·  Contract (C2C)",
+ "summary": "Senior Node.js / React Developer with 10+ years building cloud-native web platforms for Walmart Global Tech, IBM/AEP, and HCSC. React and Next.js front ends in TypeScript (Redux Toolkit, React Query) on Node.js / TypeScript (Express, NestJS) and C# / .NET services exposing REST and GraphQL APIs, backed by PostgreSQL / Aurora and MongoDB with Kafka messaging, deployed on AWS (Lambda, API Gateway, ECS/Fargate, S3, RDS) and Azure with Docker and GitHub Actions / Jenkins / Azure DevOps CI/CD. Leads architecture decisions, design and code reviews, and mentoring in Agile/Scrum teams; strong on performance, observability (Dynatrace), and testing (Jest, React Testing Library, Supertest, Cypress above 80% coverage). Integrates LLM APIs (Claude, OpenAI) and RAG into products; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "React.js, Next.js, TypeScript, Redux Toolkit, React Query",
+   "Node.js / TypeScript (Express, NestJS), REST & GraphQL"
+  ],
+  [
+   "C# / .NET (ASP.NET Core, Web API), Java / Spring Boot",
+   "Microservices, Event-Driven Design, Kafka / MSK"
+  ],
+  [
+   "AWS: Lambda, API Gateway, ECS/Fargate, S3, RDS/Aurora",
+   "Azure (App Service, Functions, DevOps), Docker"
+  ],
+  [
+   "PostgreSQL / Aurora, MongoDB, Redis, Prisma",
+   "CI/CD: GitHub Actions, Jenkins, Azure DevOps"
+  ],
+  [
+   "Testing: Jest, RTL, Supertest, Cypress (80%+ coverage)",
+   "Lead-level Architecture, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), Angular (TypeScript, RxJS), JavaScript (ES6+), TypeScript, Redux / Redux Toolkit, React Query, React Hooks, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS, Fastify), C# / .NET (ASP.NET Core, Web API, Entity Framework), Java / Spring Boot, REST APIs, GraphQL, WebSockets, microservices, Kafka, PostgreSQL / Aurora, Prisma ORM, MongoDB, Redis; GenAI: Claude & OpenAI APIs, LangChain, RAG, Python / FastAPI services",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, ECS/Fargate, S3, Cognito, RDS/Aurora, MSK/Kafka, CloudFront, CDK/CloudFormation), Azure (App Service, DevOps); GitHub Actions, Jenkins, Docker, Kubernetes basics, Dynatrace"
+ }
+}

@@ -1,0 +1,19 @@
+To: surya@sapphiresoftwaresolutions.com
+Subject: Senior Node.js / React Developer – Baltimore, MD – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Sapphire_Senior_NodeJS_React_Developer_Baltimore.pdf
+
+Hi Surya,
+
+I saw your post listing the Senior Node.js / React Developer role in Baltimore, MD (onsite) and would like to be considered. I would also be a fit for the Lead React / .NET Engineer opening in Maple Grove, MN. My two-page resume is attached.
+
+- 10+ years building cloud-native web platforms for Walmart Global Tech, IBM/AEP and HCSC: React and Next.js front ends in TypeScript on Node.js / TypeScript (Express, NestJS) services with REST and GraphQL APIs.
+- C# / .NET (ASP.NET Core, Web API) and Java / Spring Boot services, PostgreSQL / Aurora and MongoDB, Kafka messaging, deployed on AWS (Lambda, API Gateway, ECS/Fargate, S3, RDS) and Azure with GitHub Actions, Jenkins and Azure DevOps CI/CD.
+- Lead-level ownership of architecture, design and code reviews and mentoring; Jest, React Testing Library, Supertest and Cypress above 80% coverage; LLM API and RAG integrations (Claude, OpenAI).
+- Available onsite in Baltimore (relocating is fine). Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

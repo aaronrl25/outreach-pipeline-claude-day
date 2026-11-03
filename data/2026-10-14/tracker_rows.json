@@ -18185,5 +18185,43 @@
   "msg": "messages/394_*.txt",
   "status": "SENT #394 – 2026-11-02 ~17:05 CST (Mensaje enviado)",
   "src": "LinkedIn sweep 16:45"
+ },
+ {
+  "company": "i2u Systems (Ashlyn B)",
+  "role": "Senior .NET / Angular Developer – 6+ yrs Angular, Azure DevOps, .NET, AWS migration, TDD, Playwright",
+  "loc": "Michigan (onsite, locals – no location stated)",
+  "arr": "",
+  "type": "Contract (C2C)",
+  "pay": "",
+  "posted": "2026-11-02",
+  "skills": "",
+  "visa": "TN stated",
+  "recruiter": "Ashlyn B",
+  "contact": "ashlynb@i2usystems.com",
+  "link": "",
+  "fit": "",
+  "resume": "Aaron_Ramirez_i2u_Senior_DotNet_Angular_Developer_Michigan.pdf",
+  "msg": "messages/395_*.txt",
+  "status": "SENT #395 – 2026-11-02 ~19:00 CST (Mensaje enviado)",
+  "src": "LinkedIn sweep 18:46"
+ },
+ {
+  "company": "Sapphire Software Solutions (Surya)",
+  "role": "Senior Node.js / React Developer (Baltimore onsite) + Lead React / .NET Engineer (Maple Grove MN)",
+  "loc": "Baltimore, MD (onsite) / Maple Grove, MN",
+  "arr": "",
+  "type": "Contract (C2C)",
+  "pay": "",
+  "posted": "2026-11-02",
+  "skills": "",
+  "visa": "TN stated",
+  "recruiter": "Surya",
+  "contact": "surya@sapphiresoftwaresolutions.com",
+  "link": "https://www.linkedin.com/in/hrsuryaprakash/",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Sapphire_Senior_NodeJS_React_Developer_Baltimore.pdf",
+  "msg": "messages/396_*.txt",
+  "status": "SENT #396 – 2026-11-02 ~19:02 CST (Mensaje enviado) – DUPLICATE of Aaron's own 14:24 CST email",
+  "src": "LinkedIn sweep 18:46"
  }
 ]
