@@ -1,0 +1,19 @@
+To: francisxavier.j@reveilletechnologies.com
+Subject: Re: Immediate Joiners-Engineering Manager – Frontend (Mobile & Web Platforms)@ TechHub, Miami, FL (Onsite)
+Resume: Aaron_Ramirez_Reveille_Engineering_Manager_Frontend_Mobile_Web_React_Native_NextJS_Miami.pdf
+
+Hi Francis,
+
+Thank you for reaching out. I am interested in the Engineering Manager – Frontend (Mobile & Web Platforms) role at TechHub in Miami. My updated two-page resume is attached. Your colleague Joel Raj also has my profile for the Miami mobile manager requirement from yesterday, in case it is the same client.
+
+- 10+ years in software engineering, 8+ years shipping Android (Kotlin/Java), iOS (Swift/Objective-C) and React Native apps for Walmart Global Tech (500K+ daily users), HCSC (1M+ members) and IBM/AEP; 6+ years managing teams of 5–7 engineers (hiring, 1:1s, performance management, sprint planning and delivery) while still writing production code.
+- Web: Next.js and React (TypeScript) production applications with SSR/SSG and Core Web Vitals targets, sharing design systems and state patterns (Redux, React Query) with the mobile apps.
+- Brownfield migration and architecture: embedding React Native into existing native apps with Electrode Native micro-frontends, native module bridging, TurboModules / JSI and Fabric; mobile CI/CD with GitHub Actions, Azure DevOps, Expo EAS and fastlane; monitoring with Crashlytics, Sentry and Dynatrace.
+- Visa status: TN (Mexican national), on C2C through my employer. Relocating to Miami for the onsite schedule is fine with me. Available immediately. Rate: glad to discuss on a call. Best number: (773) 708-2882.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
