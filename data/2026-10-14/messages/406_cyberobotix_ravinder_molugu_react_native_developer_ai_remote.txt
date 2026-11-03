@@ -1,0 +1,21 @@
+To: kravinder@cyberobotix.com
+Cc: ravinder@cyberobotix.com
+Subject: React Native Developer with AI Experience – Remote – Aaron Ramirez (applied on Dice today)
+Resume: Aaron_Ramirez_Cyberobotix_Senior_React_Native_Developer_AI_TypeScript_Monorepo_Remote.pdf
+
+Hi Ravinder,
+
+I applied on Dice this afternoon for your React Native Developer with AI Experience (Remote) posting and wanted to send my tailored two-page resume directly so it does not get lost in the Dice queue.
+
+- 10+ years in software engineering, 6+ years shipping React Native and TypeScript apps to the App Store and Google Play for Walmart Global Tech (mobile commerce and store operations at 500K+ daily users), HCSC and IBM/AEP.
+- Day-to-day in TypeScript monorepos (pnpm workspaces) on React Native CLI with Expo modules where useful: React Navigation, MobX and Redux Toolkit state, React Hook Form + Zod validation, localization, native iOS/Android modules and third-party SDKs (payments, analytics, push) with native dependency management.
+- Owns performance, stability and release quality: Jest and Testing Library suites, ESLint, CI discipline, Firebase / Dynatrace / Sentry observability and incident response for mobile production issues; partners with backend on API contracts and mobile architecture.
+- AI use: Claude Code, GitHub Copilot, Cursor and Windsurf daily for scaffolding, tests and refactors, with independent coding and validation of every generated change. Commerce flows (onboarding, checkout-related components, payment SDK integration) are my core background; glad to walk through loyalty and payment integration specifics on a call.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

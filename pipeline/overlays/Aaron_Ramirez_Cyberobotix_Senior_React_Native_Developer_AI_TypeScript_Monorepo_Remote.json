@@ -1,0 +1,48 @@
+{
+ "base": "mobile",
+ "tagline": "Senior React Native Developer  ·  TypeScript Monorepo (pnpm), React Native CLI + Expo Modules, iOS & Android  ·  Mobile Commerce, Native Modules & SDKs  ·  AI-Assisted Engineering  ·  10+ Years",
+ "location": "Remote (US)  ·  Contract (C2C)  ·  Available immediately",
+ "summary": "Senior React Native Developer with 10+ years in software engineering and 6+ years shipping production React Native and TypeScript apps to the App Store and Google Play for Walmart Global Tech (mobile commerce and store operations at 500K+ daily users), HCSC (1M+ members), and IBM/AEP. Works in TypeScript monorepos (pnpm / Yarn workspaces) on React Native CLI with Expo modules where useful: React Navigation, MobX and Redux Toolkit state, React Hook Form + Zod validation, localization, native iOS/Android modules and third-party SDKs (payments, analytics, push). Owns performance, stability, and release quality: Jest and Testing Library suites, ESLint, CI discipline, observability with Firebase, Dynatrace and Sentry, and incident response for mobile production issues. Uses AI tooling daily (Claude Code, GitHub Copilot, Cursor, Windsurf) with strong independent coding and careful validation of generated output; partners with product, design, and backend on API contracts and mobile architecture.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), React Native CLI + Expo Modules, iOS & Android",
+   "TypeScript & JavaScript (ES6+), React 19, Clean Architecture"
+  ],
+  [
+   "TypeScript Monorepos (pnpm / Yarn Workspaces), Collaborative Git Workflows",
+   "State & Forms: MobX, Redux Toolkit, Zustand, React Hook Form, Zod"
+  ],
+  [
+   "Native Modules (Swift / Kotlin), Third-Party SDKs, Native Dependency Mgmt",
+   "Commerce Flows: Onboarding, Navigation, Checkout Components, Localization"
+  ],
+  [
+   "Jest, React Testing Library, Detox; ESLint, Code Review, CI/CD",
+   "Mobile Analytics & Observability: Firebase, Dynatrace, Sentry, Crashlytics"
+  ],
+  [
+   "App Store & Google Play Releases, Performance & Stability Ownership",
+   "AI-Assisted Engineering: Claude Code, GitHub Copilot, Cursor, Windsurf"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Cyberobotix_Senior_React_Native_Developer_AI_TypeScript_Monorepo_Remote",
+ "tech_overrides": {
+  "State & UI:": "MobX, Redux / Redux Toolkit, RTK Query, Zustand, Context API, React Hooks, React Navigation (v7), React Hook Form, Zod, i18n / localization, React.js, Next.js",
+  "Testing & Process:": "Jest, React Testing Library, Detox, Supertest, ESLint, Knip-style dead-code cleanup; pnpm monorepos, Agile/Scrum, Jira, Figma, code review, mentoring; AI-assisted development: Claude Code, GitHub Copilot, Cursor, Windsurf, Devin"
+ },
+ "role_tweaks": {
+  "2": {
+   "bullets": [
+    "Delivered React Native (TypeScript) iOS and Android features for Walmart's warehouse management system serving 500K+ daily active associates inside a shared TypeScript monorepo (pnpm workspaces): typed API clients, React Navigation flows, MobX / Redux Toolkit stores, and React Hook Form + Zod validated forms.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising coverage to 80%+ and cutting production regression incidents by 35%; owned ESLint rules, CI discipline, and store release quality across iOS and Android.",
+    "Optimized app load time by 40% via bundle optimization, image caching, list virtualization, and request batching; instrumented features with Firebase Analytics and Dynatrace and handled incident response for mobile production issues."
+   ]
+  },
+  "4": {
+   "bullets": [
+    "Built React Native inventory and store commerce apps used by 1,000+ associates daily: onboarding, navigation, order and checkout-related components, and localization; integrated native modules and third-party SDKs (payments, barcode scanning, push notifications) with native dependency management on iOS and Android.",
+    "Designed a modular component system shared across 3 apps, cutting duplicate code by 40%; partnered with backend and platform teams on API contracts and mobile architecture."
+   ]
+  }
+ }
+}
