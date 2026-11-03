@@ -1,13 +1,13 @@
 {
  "roles": [
   {
-   "title": "Staff Software Engineer",
+   "title": "Frontend Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Jan 2026 – Jun 2026",
    "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
    "bullets": [
     "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
-    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, and built Seller Center's interactive analytics with D3.js and SVG: zoomable sales and order-volume timelines, geographic heat maps of orders by region, and drill-down charts, with a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
     "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
    ]
   },
@@ -19,22 +19,22 @@
    "bullets": [
     "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
     "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
-    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates, deploying containerized Node.js services and the web front end to Red Hat OpenShift (Kubernetes) via Helm charts with routes, config maps, and secrets; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
    ]
   },
   {
-   "title": "Software Engineer II",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Aug 2024 – Feb 2025",
    "sub": "Remote · Warehouse Management System (Web)",
    "bullets": [
-    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, including interactive D3.js/SVG warehouse floor maps and shipment timelines driven by real-time inventory events over WebSockets and Node.js microservice REST APIs.",
     "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
     "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
    ]
   },
   {
-   "title": "Senior React Engineer",
+   "title": "Senior Software Engineer",
    "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
    "dates": "Feb 2024 – Jun 2024",
    "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
@@ -45,7 +45,7 @@
    ]
   },
   {
-   "title": "React Engineer",
+   "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2022 – Jan 2024",
    "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
@@ -55,7 +55,7 @@
    ]
   },
   {
-   "title": "React Engineer",
+   "title": "Full Stack Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2021 – Oct 2022",
    "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
@@ -75,7 +75,7 @@
    ]
   },
   {
-   "title": "Software Engineer",
+   "title": "Mobile Software Engineer",
    "company": "Roambee  (IoT Startup, Santa Clara, CA)",
    "dates": "Jun 2017 – Oct 2018",
    "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
@@ -87,7 +87,7 @@
  "tech": [
   [
    "Front End:",
-   "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
+   "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, HTML5, CSS3, Tailwind, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
   ],
   [
    "State & Data:",
@@ -99,7 +99,7 @@
   ],
   [
    "Cloud & CI/CD:",
-   "AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront), Azure (App Service, DevOps, AI Services); GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace (monitoring, logging, observability)"
+   "AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront), Red Hat OpenShift (OCP, Helm, Operators), Azure (App Service, DevOps, AI Services); GitHub Actions, Azure DevOps, Jenkins, Docker, Dynatrace (monitoring, logging, observability)"
   ],
   [
    "Testing & Quality:",
@@ -111,16 +111,16 @@
   ]
  ],
  "name": "Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS",
- "tagline": "Technical Architect – Web Full Stack · React, Next.js, TypeScript · GraphQL & REST Microservices (Node.js) · AWS Cloud-Native Architecture, Kubernetes (EKS), Docker · Application Modernization, Observability, Technical Leadership",
+ "tagline": "Technical Architect – Web Full Stack · React, Next.js, TypeScript · GraphQL & REST Microservices (Node.js) · AWS Cloud-Native Architecture, Kubernetes (EKS, Red Hat OpenShift), Docker · Application Modernization, Observability, Technical Leadership",
  "location": "",
- "summary": "Technical Architect and hands-on Staff-level engineer with 10+ years designing and delivering large-scale consumer and enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Sets enterprise solution and full-stack architecture for React / Next.js / TypeScript front ends (SSR, micro-frontends, design systems) and Node.js microservices exposing GraphQL and REST APIs; leads application modernization and cloud migration onto AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront) with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; and builds in security (JWT, OAuth 2.0, RBAC), scalability, reliability, and observability with Dynatrace, cutting MTTR on critical incidents by 50%. Leads multiple cross-functional engineering teams, owns technology strategy and design documentation, and partners with product and business stakeholders on platforms serving 500K+ daily users. GitHub Copilot and Claude Code in daily use.",
+ "summary": "Technical Architect and hands-on Staff-level engineer with 10+ years designing and delivering large-scale consumer and enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Sets enterprise solution and full-stack architecture for React / Next.js / TypeScript front ends (SSR, micro-frontends, design systems) and Node.js microservices exposing GraphQL and REST APIs; leads application modernization and cloud migration onto AWS (EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront) and Red Hat OpenShift with Docker and GitHub Actions, Azure DevOps, and Jenkins CI/CD; and builds in security (JWT, OAuth 2.0, RBAC), scalability, reliability, and observability with Dynatrace, cutting MTTR on critical incidents by 50%. Leads multiple cross-functional engineering teams, owns technology strategy and design documentation, and partners with product and business stakeholders on platforms serving 500K+ daily users. GitHub Copilot and Claude Code in daily use.",
  "core_skills": [
   [
    "React, Next.js (SSR/SSG), TypeScript, Redux",
    "Node.js / Express, GraphQL & REST Microservices"
   ],
   [
-   "AWS Cloud-Native: EKS/Kubernetes, ECS/Fargate, Lambda, S3, RDS, CloudFront",
+   "AWS Cloud-Native: EKS/Kubernetes, OpenShift, ECS/Fargate, Lambda, S3, RDS",
    "CI/CD: GitHub Actions, Azure DevOps, Jenkins; Docker"
   ],
   [
