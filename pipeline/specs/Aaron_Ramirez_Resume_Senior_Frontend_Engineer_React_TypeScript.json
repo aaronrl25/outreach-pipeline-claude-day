@@ -7,7 +7,7 @@
    "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript)",
    "bullets": [
     "Spearheaded React and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
-    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, including a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
+    "Integrated web clients with 6+ internal marketplace microservices over REST and Socket.IO/WebSockets, and built Seller Center's interactive analytics with D3.js and SVG: zoomable sales and order-volume timelines, geographic heat maps of orders by region, and drill-down charts, with a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware.",
     "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
    ]
   },
@@ -28,7 +28,7 @@
    "dates": "Aug 2024 – Feb 2025",
    "sub": "Remote · Warehouse Management System (Web)",
    "bullets": [
-    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js microservice REST APIs and real-time inventory events over WebSockets.",
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, including interactive D3.js/SVG warehouse floor maps and shipment timelines driven by real-time inventory events over WebSockets and Node.js microservice REST APIs.",
     "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
     "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
    ]
@@ -86,6 +86,10 @@
  ],
  "tech": [
   [
+   "AI Tools & GenAI:",
+   "Claude Code (daily), Cursor, Windsurf, GitHub Copilot, Devin; Claude / OpenAI / Azure OpenAI APIs, MCP servers and tool calling, RAG with vector search, prompt engineering; AI-assisted code review, test generation, and component scaffolding"
+  ],
+  [
    "Front End:",
    "React.js, Next.js (App Router, Server Components, SSR/SSG), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind CSS, CSS Modules, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
   ],
@@ -107,13 +111,13 @@
   ],
   [
    "Process & Tools:",
-   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, Claude Code, Cursor"
+   "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, code reviews"
   ]
  ],
  "name": "Aaron_Ramirez_Resume_Senior_Frontend_Engineer_React_TypeScript",
  "tagline": "Senior Frontend Engineer  ·  React, TypeScript, Next.js, Node.js  ·  10+ Years Software Engineering",
  "location": "San Francisco, CA  ·  Remote (US)",
- "summary": "Senior React Frontend Developer with 10+ years of experience (7+ years hands-on React) building scalable, reusable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive React.js and TypeScript applications around reusable components, custom hooks, and well-structured frontend modules; manages state with Redux / Redux Toolkit; integrates REST APIs with backend teams. Applies frontend design patterns, SOLID principles, and clean-code practices, optimizes performance, and keeps quality high with Jest, React Testing Library, Cypress, and Playwright plus structured code reviews. Experience with micro-frontends, design systems, cloud/API integration, Python, and GenAI integrations.",
+ "summary": "Senior React Frontend Developer with 10+ years of experience (7+ years hands-on React) building scalable, reusable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive React.js and TypeScript applications around reusable components, custom hooks, and well-structured frontend modules; manages state with Redux / Redux Toolkit; integrates REST APIs with backend teams. Applies frontend design patterns, SOLID principles, and clean-code practices, optimizes performance, and keeps quality high with Jest, React Testing Library, Cypress, and Playwright plus structured code reviews. Works AI-first: Claude Code, Cursor, Windsurf, and GitHub Copilot daily for scaffolding, test generation, and refactoring, and integrates LLM features (Claude, OpenAI, Azure OpenAI APIs, RAG) into React products. Experience with micro-frontends, design systems, cloud/API integration, and Python.",
  "core_skills": [
   [
    "React.js, Hooks & Functional Components",
@@ -124,16 +128,16 @@
    "Reusable Components, Custom Hooks & Modules"
   ],
   [
-   "Frontend Architecture, Design Patterns, SOLID",
-   "Performance Optimization & Troubleshooting"
+   "Frontend Architecture, Micro Frontends, Design Systems",
+   "Performance Optimization, SOLID & Design Patterns"
   ],
   [
    "REST APIs & Asynchronous Programming",
-   "HTML5, CSS3, Responsive UI"
+   "HTML5, CSS3, Responsive UI, CI/CD, Git"
   ],
   [
    "Jest, React Testing Library, Cypress, Playwright",
-   "Micro Frontends, Design Systems, CI/CD, Git"
+   "AI-Assisted Development: Claude Code, Cursor, Windsurf, Copilot"
   ]
  ]
 }

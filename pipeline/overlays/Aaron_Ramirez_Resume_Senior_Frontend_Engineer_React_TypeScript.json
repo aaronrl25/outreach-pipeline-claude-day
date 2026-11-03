@@ -3,7 +3,7 @@
  "name": "Aaron_Ramirez_Resume_Senior_Frontend_Engineer_React_TypeScript",
  "tagline": "Senior Frontend Engineer  ·  React, TypeScript, Next.js, Node.js  ·  10+ Years Software Engineering",
  "location": "San Francisco, CA  ·  Remote (US)",
- "summary": "Senior React Frontend Developer with 10+ years of experience (7+ years hands-on React) building scalable, reusable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive React.js and TypeScript applications around reusable components, custom hooks, and well-structured frontend modules; manages state with Redux / Redux Toolkit; integrates REST APIs with backend teams. Applies frontend design patterns, SOLID principles, and clean-code practices, optimizes performance, and keeps quality high with Jest, React Testing Library, Cypress, and Playwright plus structured code reviews. Experience with micro-frontends, design systems, cloud/API integration, Python, and GenAI integrations.",
+ "summary": "Senior React Frontend Developer with 10+ years of experience (7+ years hands-on React) building scalable, reusable, high-performance enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Designs responsive React.js and TypeScript applications around reusable components, custom hooks, and well-structured frontend modules; manages state with Redux / Redux Toolkit; integrates REST APIs with backend teams. Applies frontend design patterns, SOLID principles, and clean-code practices, optimizes performance, and keeps quality high with Jest, React Testing Library, Cypress, and Playwright plus structured code reviews. Works AI-first: Claude Code, Cursor, Windsurf, and GitHub Copilot daily for scaffolding, test generation, and refactoring, and integrates LLM features (Claude, OpenAI, Azure OpenAI APIs, RAG) into React products. Experience with micro-frontends, design systems, cloud/API integration, and Python.",
  "core_skills": [
   [
    "React.js, Hooks & Functional Components",
@@ -14,19 +14,26 @@
    "Reusable Components, Custom Hooks & Modules"
   ],
   [
-   "Frontend Architecture, Design Patterns, SOLID",
-   "Performance Optimization & Troubleshooting"
+   "Frontend Architecture, Micro Frontends, Design Systems",
+   "Performance Optimization, SOLID & Design Patterns"
   ],
   [
    "REST APIs & Asynchronous Programming",
-   "HTML5, CSS3, Responsive UI"
+   "HTML5, CSS3, Responsive UI, CI/CD, Git"
   ],
   [
    "Jest, React Testing Library, Cypress, Playwright",
-   "Micro Frontends, Design Systems, CI/CD, Git"
+   "AI-Assisted Development: Claude Code, Cursor, Windsurf, Copilot"
   ]
  ],
  "tech_overrides": {
-  "Front End:": "React.js, Next.js (App Router, Server Components, SSR/SSG), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind CSS, CSS Modules, Styled Components, design systems, accessibility (WCAG), Core Web Vitals"
- }
+  "Front End:": "React.js, Next.js (App Router, Server Components, SSR/SSG), TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind CSS, CSS Modules, Styled Components, design systems, accessibility (WCAG), Core Web Vitals",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, code reviews"
+ },
+ "tech_extra": [
+  [
+   "AI Tools & GenAI:",
+   "Claude Code (daily), Cursor, Windsurf, GitHub Copilot, Devin; Claude / OpenAI / Azure OpenAI APIs, MCP servers and tool calling, RAG with vector search, prompt engineering; AI-assisted code review, test generation, and component scaffolding"
+  ]
+ ]
 }
