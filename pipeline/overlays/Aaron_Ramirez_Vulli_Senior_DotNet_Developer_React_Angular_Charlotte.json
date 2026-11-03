@@ -1,0 +1,21 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Vulli_Senior_DotNet_Developer_React_Angular_Charlotte",
+ "tagline": "Senior / Lead .NET Developer  ·  C# / .NET Core, ASP.NET Core MVC & Web API  ·  React.js & Angular, TypeScript  ·  Microservices, SQL Server  ·  GitHub Actions, Docker, OpenShift (OCP), Azure / AWS",
+ "location": "",
+ "summary": "Senior .NET Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC. Builds C# services on .NET Core, modern .NET, and .NET Framework (ASP.NET Core MVC, Web API, Entity Framework / EF Core) exposing RESTful APIs and microservices over SQL Server (T-SQL, stored procedures, schema design) and PostgreSQL, behind React.js and Angular front ends in TypeScript, JavaScript, HTML5, and CSS3 that exchange JSON with the services. Applies OOP, SOLID, and design patterns daily; ships through Git/GitHub with GitHub Actions and Azure DevOps pipelines, Docker containers, and Red Hat OpenShift (OCP) and Azure / AWS deployments, with Dynatrace monitoring and logging. Works Agile/Scrum in Jira across the full SDLC with strong analytical, debugging, and performance-optimization skills and clear communication with product, QA, and infrastructure teams. GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  ["C# / .NET Core, modern .NET & .NET Framework", "ASP.NET Core MVC, Web API, RESTful APIs, JSON"],
+  ["Entity Framework / EF Core, SQL Server (T-SQL, Stored Procedures)", "Microservices Architecture, OOP, SOLID, Design Patterns"],
+  ["React.js, Angular, TypeScript, JavaScript, HTML5, CSS3", "Git / GitHub, GitHub Actions, Azure DevOps CI/CD"],
+  ["Docker, Red Hat OpenShift (OCP), Azure & AWS", "Monitoring & Logging: Dynatrace, Application Insights"],
+  ["Jira, Agile/Scrum, Full SDLC, Code Review", "GitHub Copilot & Claude Code (daily); Node.js & Java (secondary)"]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Core, modern .NET & .NET Framework (ASP.NET Core MVC, Web API, Entity Framework / EF Core, Dapper), REST APIs, JSON, microservices, SQL Server (T-SQL, stored procedures), PostgreSQL, Node.js/Express, Java / Spring Boot",
+  "Front End:": "React.js, Next.js, Redux Toolkit, Angular (TypeScript, RxJS, NgRx), JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Git / GitHub, GitHub Actions, Azure DevOps, Jenkins, Docker, Red Hat OpenShift (OCP, Helm), Microsoft Azure (App Service, Functions, Azure SQL, Application Insights), AWS (Lambda, ECS/Fargate, RDS, S3), Dynatrace (monitoring, logging)",
+  "Testing & Quality:": "xUnit, NUnit, Jest, React Testing Library, Jasmine, Cypress; code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Confluence, Figma, Storybook, Git/GitHub, mentoring, GitHub Copilot, Claude Code, Cursor"
+ }
+}

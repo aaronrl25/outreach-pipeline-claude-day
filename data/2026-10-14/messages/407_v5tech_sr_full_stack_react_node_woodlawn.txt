@@ -1,0 +1,18 @@
+To: Raj@v5tech.ai
+Subject: Sr. Full Stack Developer (React/Node) – SSA, Woodlawn, MD – Aaron Ramirez (C2C)
+Resume: Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+
+Hi Raj,
+
+I saw your post for the Sr. Full Stack Developer (React/Node) role with SSA in Woodlawn, MD and would like to be considered. My two-page resume is attached.
+
+- 10+ years building UI-heavy web applications and the Node.js services behind them for Walmart Global Tech, IBM/AEP and HCSC: React.js (Redux, React Query, Next.js) front ends and Node.js / Express.js RESTful web services and microservices over PostgreSQL and MongoDB.
+- Backend architecture and UI framework ownership: shared design systems, API design, JWT/RBAC auth, AWS (Lambda, ECS/Fargate, RDS, S3) with Docker and GitHub Actions / Jenkins CI/CD; Jest, Supertest and Cypress coverage.
+- Available for the onsite schedule and the in-person interview round. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
