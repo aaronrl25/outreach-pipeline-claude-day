@@ -1,0 +1,19 @@
+To: rahul.kumar@envisiontechsol.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Subject: Node.JS Developer with React & AI – NYC (Hybrid) – Aaron Ramirez (C2C / W2)
+
+Hi Rahul,
+
+I saw your LinkedIn post for the Node.JS Developer with React & AI role in NYC (hybrid) and would like to be considered. My resume is attached.
+
+- 10+ years of JavaScript / TypeScript engineering: Node.js REST APIs and middleware plus React.js front ends for Walmart Global Tech (Seller Center, 500K+ daily users), IBM / AEP and HCSC.
+- AI-first development: Claude Code is my daily tool, alongside Cursor, Windsurf and GitHub Copilot. I also ship GenAI features: Claude API / LangChain agents behind Node.js middleware, RAG and streaming UIs.
+- Your post asks for 12+ years; mine is 10+, with lead responsibility on several of those projects.
+- Work authorization: TN (Mexican national); C2C through my employer or W2. Available immediately and open to an in-person interview.
+
+Glad to discuss the rate and start date.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
