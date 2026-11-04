@@ -1,0 +1,18 @@
+To: sarvans@lancesoft.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Senior Java Full Stack Developer (Spring Boot, Angular / React) – New York, NY – Aaron Ramirez (C2C)
+
+Hi Sarvan,
+
+I saw your post for the Senior Java Full Stack Developer role in New York, NY and would like to be considered. My two-page resume is attached.
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot REST microservices behind Angular (TypeScript, RxJS) and React front ends, over SQL and NoSQL databases (PostgreSQL, MongoDB, SQL Server).
+- AWS and Azure deployments with Docker and Kubernetes, Jenkins / GitHub Actions / Azure DevOps CI/CD, system design ownership and performance optimization (40% faster end-to-end response at AEP, 50% lower P1 mean time to resolution).
+- Available for the onsite schedule. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
