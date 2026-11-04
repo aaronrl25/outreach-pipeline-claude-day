@@ -1,0 +1,18 @@
+To: Jayraj@unicomtec.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: Senior AI Engineer – Remote (Agentic AI, GenAI, LLMs, LangChain) – Aaron Ramirez (C2C)
+
+Hi Jayraj,
+
+I saw your Senior AI Engineer (Remote) requirement and would like to be considered. My two-page resume is attached.
+
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC, now focused on AI application engineering: GenAI / LLM integration with Claude API, OpenAI and Azure OpenAI, LangChain / LangGraph-style tool-calling agents, RAG with vector search, prompt engineering, human-in-the-loop approvals and LLM evaluation loops, shipped in production (a seller-support assistant for Walmart's marketplace, Azure AI summarization at AEP).
+- Full stack around the models: Next.js / React / TypeScript front ends, Python (FastAPI) and Node.js services, AWS and Azure; Claude Code, Cursor and Codex in daily use.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Could you share the full JD and client? Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

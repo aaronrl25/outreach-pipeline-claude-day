@@ -1,0 +1,18 @@
+To: charan.b@clouddatavision.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Sr. Full Stack Engineer (React, Python FastAPI / Flask, Agentic AI) – Palo Alto, CA – Aaron Ramirez (C2C)
+
+Hi Charan,
+
+I saw your post for the Sr. Full Stack Engineer role (Zensar, Palo Alto, Day 1 onsite 4 days) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack development for Walmart Global Tech, IBM/AEP and HCSC: strong JavaScript (ES6+) and React front ends over Python (FastAPI, Flask) and Node.js REST APIs with PostgreSQL / MySQL / SQL Server; system design for scalable architectures.
+- AI / agentic frameworks in production: Claude API and LangChain / LangGraph-style tool-calling agents, RAG, human-in-the-loop workflows; Claude Code and Cursor in daily use; Swagger / OpenAPI, Docker, CI/CD, unit and integration testing.
+- Available for the onsite schedule and the face-to-face interview. Work authorization: TN (Mexican national, employer-sponsored like H1B), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
