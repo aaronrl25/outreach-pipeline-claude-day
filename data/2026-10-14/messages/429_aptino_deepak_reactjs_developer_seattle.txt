@@ -1,0 +1,18 @@
+To: Deepak.kumar@aptino.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: React.js Developer – Seattle, WA – Aaron Ramirez (C2C)
+
+Hi Deepak,
+
+I saw your post for the React.js Developer role in Seattle, WA (onsite) and would like to be considered. My two-page resume is attached.
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: React.js, TypeScript and Redux Toolkit front ends with reusable component systems, accessibility and Core Web Vitals performance work on apps serving hundreds of thousands of daily users; Node.js / Express REST APIs behind them.
+- AWS deployments with GitHub Actions / Jenkins CI/CD and Docker; Jest, React Testing Library and Cypress coverage; Agile/Scrum delivery with code reviews and mentoring.
+- Available for the onsite schedule. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Could you share the JD, client and rate range? Happy to discuss next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

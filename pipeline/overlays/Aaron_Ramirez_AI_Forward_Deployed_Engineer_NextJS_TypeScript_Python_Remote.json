@@ -1,0 +1,57 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote",
+ "tagline": "AI Forward Deployed Engineer  ·  Next.js, React, TypeScript  ·  Python (FastAPI) & Node.js APIs  ·  LLMs, RAG, Agentic Workflows, LLM Evaluations  ·  Cursor, Claude Code, Codex in daily use  ·  Idea → Prototype → Production",
+ "location": "",
+ "summary": "Product-minded Forward Deployed Engineer with 10+ years of production software engineering for Walmart Global Tech, IBM/AEP, and HCSC, working AI-first with Cursor, Claude Code, and Codex as daily tools. Takes ambiguous problems from idea to prototype to production end to end: Next.js / React / TypeScript front ends, Python (FastAPI) and Node.js APIs, data and cloud infrastructure on AWS and Azure. Ships AI-native products in production: a GenAI seller-support assistant streaming Claude API / LangChain responses for Walmart's marketplace, Azure AI Services summarization at AEP, tool-calling agents with RAG, human-in-the-loop approvals, and LLM evaluation loops. Partners directly with product and business stakeholders, owns outcomes with high autonomy, and writes the design docs and runbooks teams rely on. Works Americas time zones.",
+ "core_skills": [
+  [
+   "Next.js, React, TypeScript (SSR, App Router, Server Components)",
+   "Python (FastAPI, Flask) & Node.js / Express APIs"
+  ],
+  [
+   "LLMs: Claude API, OpenAI, Azure OpenAI; RAG, Embeddings",
+   "Agentic Workflows: Tool Calling, MCP, Human-in-the-Loop"
+  ],
+  [
+   "LLM Evaluations, Prompt Engineering, Real-Time / Streaming",
+   "Cursor, Claude Code, Codex, GitHub Copilot (daily)"
+  ],
+  [
+   "AWS (ECS/Fargate, Lambda, RDS, S3) & Azure, Docker, CI/CD",
+   "PostgreSQL, MongoDB, Redis, Vector Search"
+  ],
+  [
+   "Rapid Prototyping → Production, Product Thinking",
+   "Stakeholder Partnership, End-to-End Ownership"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Python (FastAPI, Flask), Node.js/Express, TypeScript, REST, GraphQL, WebSockets/streaming, microservices; Claude API, OpenAI, Azure OpenAI, LangChain, RAG, embeddings, vector search (pgvector), MCP tooling; PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, ECS/Fargate, RDS, S3, CloudFront), Azure (App Service, DevOps, AI Services), Docker, GitHub Actions, Jenkins, Azure DevOps, Dynatrace",
+  "Process & Tools:": "Cursor, Claude Code, Codex, GitHub Copilot, MCP; Agile/Scrum, Jira, Figma, Storybook, Git/GitHub; LLM evaluation harnesses, design docs, runbooks",
+  "Front End:": "Next.js (App Router, Server Components, SSR/SSG), React 18, TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, Tailwind, Vite, accessibility (WCAG), Core Web Vitals"
+ },
+ "tech_extra": [
+  [
+   "AI Engineering:",
+   "LLM integration (Claude, OpenAI, Azure OpenAI APIs), retrieval-augmented generation, tool calling, AI-driven code review and test generation, evaluation and guardrails for AI-generated code"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded development of Walmart's Seller Center vendor portal (500K+ daily users, billions in annual GMV): React / TypeScript front end and Node.js REST microservices; set architecture standards and code review protocols for a squad of 6+ engineers.",
+    "Ran an AI-first workflow with Cursor, Claude Code, and GitHub Copilot: multi-file refactors, generated unit and integration tests, and auto-drafted technical documentation, each validated through review, negative-path testing, and CI gates before merge; cut feature lead time and raised test coverage above 80%.",
+    "Mentored engineers on prompt engineering for coding tasks (task framing, repository context, acceptance criteria) and on hardening AI-generated code for security, performance, and maintainability."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's field operations platform: React (TypeScript) web portal integrated with 10+ microservices over REST, used by thousands of utility technicians nationwide.",
+    "Used AI-assisted tooling (Cursor, Copilot) for debugging, refactoring, and test generation across the TypeScript and Java service layers; improved end-to-end response time by 40% through API payload optimization, caching, and state architecture refactoring.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  }
+ }
+}
