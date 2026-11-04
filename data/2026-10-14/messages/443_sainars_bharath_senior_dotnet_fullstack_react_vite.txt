@@ -1,0 +1,18 @@
+To: bharath@sainars.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Vulli_Senior_DotNet_Developer_React_Angular_Charlotte.pdf
+Subject: Senior .NET Full Stack Developer (C# / .NET Core, Microservices, React + Vite) – Aaron Ramirez (C2C)
+
+Hi Bharath,
+
+I saw your post for the Senior .NET Full Stack Developer role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack software development for Walmart Global Tech, IBM/AEP and HCSC: C# / .NET Core, ASP.NET Core and .NET 6/7/8 REST APIs and microservices architecture (4+ years hands-on with microservices) over SQL Server and PostgreSQL.
+- Modern front-end development in React with Vite and TypeScript: reusable UI component systems, state management, accessibility and performance work on applications serving hundreds of thousands of daily users; Docker, Azure / AWS and GitHub Actions CI/CD; Jest, Cypress and xUnit coverage.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately; open to remote, hybrid or onsite.
+
+Could you share the location, client and work mode? Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
