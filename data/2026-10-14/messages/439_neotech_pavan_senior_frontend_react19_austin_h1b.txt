@@ -1,0 +1,19 @@
+To: pavan.t@neotechusa.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf
+Subject: Senior Frontend Engineer (React 19, Redux Toolkit / RTK Query, MUI, Vite) – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Pavan,
+
+I saw your post for the Senior Frontend Engineer role in Austin, TX (onsite) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of React front-end engineering for Walmart Global Tech, IBM/AEP and HCSC: React 18/19 with modern JavaScript and TypeScript, Redux Toolkit and RTK Query, MUI component libraries, Vite builds, REST API integration and responsive, secure UI development.
+- Streaming AI chat UIs in production (Claude API / LangChain responses over WebSockets / SSE through Node.js and FastAPI services), D3.js / SVG and WebGL-style visualizations, frontend performance optimization; Vitest / Jest and React Testing Library coverage.
+- Available for the onsite schedule. Work authorization: TN (Mexican national, employer-sponsored like H1B), on C2C through my employer. Available immediately.
+- Employer (C2C): Strategyz Solutions LLC – Patrick (Peter Wright), Founder – pat@strgyz.com – 302-481-1137.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
