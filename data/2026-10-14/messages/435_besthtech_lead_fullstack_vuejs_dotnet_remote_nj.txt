@@ -1,0 +1,19 @@
+To: hre@besthtech.net
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_EmCube_Lead_Full_Stack_Developer_VueJS_DotNet_Remote.pdf
+Subject: Lead Full Stack Developer (Vue.js / .NET) – Remote, New Providence NJ – Aaron Ramirez (C2C)
+
+Hi,
+
+I saw your post for the Lead Full Stack Developer (Vue.js / .NET) – Remote, New Providence NJ (EST) role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end development for Walmart Global Tech, IBM/AEP, HCSC and e-commerce clients, including 4+ years hands-on with Vue.js (2.x / 3.x, Composition API, Pinia / Vuex, Vue Router) alongside React, in TypeScript, JavaScript (ES6+), HTML5 and CSS3 / SCSS; component-driven SPAs consuming RESTful APIs, with performance tuning and front-end security (authentication / authorization, CORS, XSS, CSRF).
+- Full stack with C# / .NET Core, ASP.NET MVC and Web APIs over SQL Server (stored procedures, views, Entity Framework); SSO with OAuth2 / OpenID Connect / Azure AD; Azure and AWS deployments with Git branching strategies and CI/CD pipelines; Jest, Vitest, Cypress and Playwright test suites; Agile/Scrum lead for squads of 5 to 7 engineers.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, working EST hours.
+- Employer (C2C): Strategyz Solutions LLC – Patrick (Peter Wright), Founder – pat@strgyz.com – 302-481-1137.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

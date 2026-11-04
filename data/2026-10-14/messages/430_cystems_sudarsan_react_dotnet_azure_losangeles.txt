@@ -1,0 +1,19 @@
+To: sudarsan@cystemslogic.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_NxtGen_Senior_React_Developer_CSharp_DotNet_Azure_Seattle.pdf
+Subject: Re: Urgent requirement for React Developer, Los Angeles, CA - Hybrid – Aaron Ramirez (C2C)
+
+Hi Sudarsan,
+
+Thanks for reaching out about the React Developer role in Los Angeles (3 days onsite, 12+ months). I would like to be considered; my two-page resume is attached.
+
+- 10+ years building enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: React.js SPAs in TypeScript with hooks, Context API, React Router, Redux, React Hook Form validation, HTML5 / CSS3 / SASS and responsive design.
+- C# / .NET Core and ASP.NET Core Web API services with Entity Framework over SQL Server / Azure SQL; JWT / OAuth 2.0 / Azure AD authentication with role-based access; SOLID and clean architecture; unit testing (Jest, React Testing Library, xUnit).
+- Azure (App Service, Functions, Azure SQL, Key Vault) with Azure DevOps / GitHub Actions CI/CD, microservices, performance optimization and Dynatrace monitoring; Git, Agile/Scrum and code reviews.
+- Available for the hybrid schedule. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
