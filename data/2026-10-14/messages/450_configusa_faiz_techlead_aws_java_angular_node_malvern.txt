@@ -1,0 +1,18 @@
+To: faiz@configusa.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Strongpoint_Senior_Full_Stack_Developer_Java_Angular_AWS_DC.pdf
+Subject: Tech Lead / Sr Developer – AWS Java Full Stack (Angular, Node.js, Preact) – Malvern, PA – Aaron Ramirez (C2C)
+
+Hi Faiz,
+
+I saw your post for the Tech Lead / Sr Developer – AWS Java Full Stack (Angular, Node.js, Preact) role in Malvern, PA and would like to be considered. My two-page resume is attached; happy to review the complete JD.
+
+- 10+ years delivering enterprise web applications for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot REST microservices with Angular (TypeScript, RxJS) and React / Preact-style component front ends, plus Node.js services; senior-level analysis, design, development and implementation, third-party integrations and backend optimization for performance and scalability under load.
+- AWS (Lambda, ECS/Fargate, RDS, S3, CloudFront) with Docker and Jenkins / GitHub Actions CI/CD; automated test artifacts with JUnit, Jest and Cypress; Agile/Scrum delivery with code reviews and mentoring.
+- Available for the onsite schedule. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

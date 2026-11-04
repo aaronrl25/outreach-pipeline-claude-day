@@ -1,0 +1,18 @@
+To: sravya@easyhireglobal.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: Applied AI Engineering Lead (React / Node / .NET + GenAI, RAG, LangChain) – Nashville / Dallas / Tampa hybrid – Aaron Ramirez (C2C)
+
+Hi Sravya,
+
+I saw your post for the Applied AI Engineering Lead role (hybrid – Nashville, Dallas or Tampa) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC in React, Node.js, Python and C#/.NET, leading squads of 5 to 7 engineers.
+- 2+ years of hands-on AI application development in production: GenAI / LLM integration with Anthropic (Claude API) and OpenAI / Azure OpenAI models, RAG pipelines with vector search, prompt engineering, LangChain / LangGraph-style tool-calling agents with human-in-the-loop and evaluation loops; cloud-native delivery on AWS and Azure.
+- Available for the hybrid schedule. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
