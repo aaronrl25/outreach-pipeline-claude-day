@@ -1,0 +1,18 @@
+To: Karunakar@Velovoxinfotech.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Subject: Senior Node.js Developer (React / TypeScript / Azure) – Remote – Aaron Ramirez (C2C)
+
+Hi Karunakar,
+
+I saw your post for the remote Senior Node.js Developer (React / Azure) role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of hands-on full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Node.js / TypeScript / Express backends with PostgreSQL and Sequelize, and React / TypeScript front ends with Vite, Redux, Material UI and D3 dashboards.
+- Microsoft Azure (App Service, Functions, Service Bus, Event Hubs, Azure DevOps CI/CD), microservices architecture, Okta / OAuth2 and Salesforce API integrations; healthcare and clinical data work at HCSC; GitHub Copilot, Cursor and Claude Code in daily use for code generation, testing and documentation. Travel to Boston when required works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

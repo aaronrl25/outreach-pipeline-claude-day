@@ -1,0 +1,18 @@
+To: avdhesh@enterprisesolutioninc.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Engineer.pdf
+Subject: React Native Technology Lead (React Native, Node.js, AWS) – Irving, TX – Aaron Ramirez (C2C)
+
+Hi Avdhesh,
+
+I saw your post for the React Native Technology Lead role in Irving, TX and would like to be considered. My two-page resume is attached.
+
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC, including React Native apps for iOS and Android with TypeScript / JavaScript, native module integration and App Store / Play Store releases, backed by Node.js services on AWS (ECS/Fargate, Lambda, API Gateway, S3).
+- Experience leading architecture, design, development, deployment and production support of mobile applications, with CI/CD, automated testing and code reviews. Onsite in Irving works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
