@@ -1,0 +1,18 @@
+To: Anil@askinvs.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Sparix_Senior_Full_Stack_Engineer_DotNet_React_AWS_AI_Remote.pdf
+Subject: Solution Architect – C#/.NET, React, Azure/AWS, Microservices – Remote – Aaron Ramirez (C2C)
+
+Hi Anil,
+
+Following up on my October 23 note about the ReactJS Lead role: I saw your new post for the remote Solution Architect position and would like to be considered for it as well. My resume is attached.
+
+- 10+ years of hands-on enterprise delivery for Walmart Global Tech, IBM/AEP and HCSC: React / TypeScript micro-frontends on C# / .NET Core and Node.js microservices, event-driven and API-gateway patterns, OAuth2 / OIDC, JWT and RBAC security, and SQL Server / MongoDB data layers.
+- Cloud migration and legacy modernization on Azure and AWS with Docker, Kubernetes, Terraform-based CI/CD, and performance / observability work (profiling, Dynatrace, 50% lower P1 mean time to resolution); set architecture standards and ran design reviews for cross-functional squads.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

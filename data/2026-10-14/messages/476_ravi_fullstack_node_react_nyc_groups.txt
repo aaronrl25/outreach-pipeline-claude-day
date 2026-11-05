@@ -1,0 +1,18 @@
+To: raviaiasap@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Subject: Fullstack Developer with Node and React – NYC – Aaron Ramirez (C2C)
+
+Hi Ravi,
+
+I saw your C2C requirement for the Fullstack Developer with Node and React in NYC and would like to be considered. My two-page resume is attached.
+
+- 10+ years of hands-on full stack development for Walmart Global Tech, IBM/AEP and HCSC: React with Hooks, Context API and state management, TypeScript across the stack (generics, interfaces, advanced patterns), Node.js services plus Java / Spring Boot microservices, REST API design and integration with OAuth / API keys / JWT.
+- SQL Server and PostgreSQL with stored procedures and performance tuning; Claude Code and Cursor in daily use for coding, testing and documentation; SOLID, clean architecture, Git and CI/CD. Onsite in NYC works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

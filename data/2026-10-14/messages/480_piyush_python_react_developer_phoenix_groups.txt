@@ -1,0 +1,18 @@
+To: vijayraopiyush@gmail.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python React Developer – Phoenix, AZ onsite – Aaron Ramirez (C2C)
+
+Hi Piyush,
+
+I saw your C2C requirement for the Python React Developer in Phoenix, AZ and would like to be considered. My two-page resume is attached.
+
+- Hands-on full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: modern React / TypeScript (Hooks, Redux Toolkit, React Query, reusable component libraries, accessibility, performance) with Python FastAPI / Flask services, REST and GraphQL APIs, WebSockets, and PostgreSQL.
+- Built search, filter, hierarchy and dashboard experiences over large enterprise datasets, and integrated LLM / GenAI features (Claude and OpenAI APIs, RAG, semantic search, MCP and tool calling) with validation and guardrails; Docker, Kubernetes, GitHub Actions / Jenkins CI/CD, Jest, React Testing Library and PyTest. Onsite in Phoenix works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

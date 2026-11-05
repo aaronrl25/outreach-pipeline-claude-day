@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_Angular_Developer_Micro_Frontends_NgRx",
+ "tagline": "Senior Angular Developer · Angular 17+ / 18+, TypeScript, RxJS, NgRx / Redux · Micro Frontends (Module Federation), Web Components · HTML/CSS, SASS, Responsive Design · Jest, Jasmine, Cypress, Webpack · GitHub Copilot & Claude Code",
+ "location": "",
+ "summary": "Front-End Developer with 10+ years building and modernizing enterprise UIs for Walmart Global Tech, IBM/AEP, and HCSC. Strong Angular and TypeScript: Angular 18+, RxJS, NgRx, Angular Material, reactive forms, lazy-loaded routing, and micro-frontend architecture (Module Federation, Electrode Native) for application modernization. Integrates AWS-backed services, REST and GraphQL APIs, and databases; keeps quality high with Jasmine/Karma, Jest, Cypress, and production observability (Dynatrace APM, session replay, crash analytics). React expert as a second framework; uses Claude Code and GitHub Copilot daily.",
+ "core_skills": [
+  [
+   "Angular 18+, TypeScript, RxJS, NgRx",
+   "Micro Frontends: Module Federation, Electrode Native"
+  ],
+  [
+   "Angular Material, Reactive Forms, Lazy-Loaded Routing",
+   "Application Modernization & Legacy Migration"
+  ],
+  [
+   "AWS Services, REST / GraphQL & Database Integration",
+   "Unit Testing: Jasmine/Karma, Jest, Cypress"
+  ],
+  [
+   "Observability: Dynatrace APM, Session Replay",
+   "React & Next.js (Expert, secondary)"
+  ],
+  [
+   "AI-Assisted Development: Claude Code, GitHub Copilot",
+   "Agile/Scrum, Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Angular 18+ (standalone components, signals), TypeScript, RxJS, NgRx, Angular Material, Module Federation / micro frontends; React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Testing & Quality:": "Jasmine, Karma, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}

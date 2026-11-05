@@ -1,0 +1,18 @@
+To: wa@cynosuretechnologies.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+Subject: Senior React Architect – Plano, TX – Aaron Ramirez (C2C)
+
+Hi,
+
+I saw your post for the Senior React Architect role in Plano, TX and would like to be considered. My two-page resume is attached.
+
+- 10+ years of hands-on React / Next.js / TypeScript architecture and delivery for Walmart Global Tech (Seller Center marketplace platform, billions in annual GMV), IBM/AEP and HCSC: UI composition and micro-frontend patterns, state management, API integration (REST and GraphQL), security (OAuth2 / OIDC, JWT) and deployment patterns on AWS and Azure.
+- Led legacy-to-modern storefront and platform migrations and set architecture standards, design governance and code review for squads of 6+ engineers, with performance, accessibility (WCAG) and observability (Dynatrace) built into the target architecture. Onsite in Plano works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
