@@ -1,0 +1,38 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Sparix_Senior_Full_Stack_Engineer_DotNet_React_AWS_AI_Remote",
+ "tagline": "Senior Full Stack Software Engineer · React, TypeScript, JavaScript · C# / .NET Core Web API, REST, PostgreSQL · AWS (ECS/Fargate, Lambda, API Gateway, RDS) · AI-Assisted Development (Claude Code, Cursor, GitHub Copilot)",
+ "location": "Remote (US) · Contract (C2C) · Available immediately",
+ "summary": "Senior Full Stack Software Engineer with 10+ years building scalable, secure enterprise web platforms for Walmart Global Tech, IBM/AEP, and HCSC. Builds React / TypeScript front ends on C# / .NET Core Web API and Node.js services exposing RESTful APIs and third-party integrations over PostgreSQL and SQL Server; deploys cloud-native on AWS (ECS/Fargate, Lambda, API Gateway, RDS, S3) in Docker with GitHub Actions and Azure DevOps CI/CD, automated test gates, and Dynatrace observability. Experienced in greenfield, 0-to-1 product builds and in micro-frontend / microservice architectures for multi-team platforms, with OAuth2 / OIDC, JWT, and role-based security. AI-first developer: Claude Code in daily use alongside Cursor, Windsurf, and GitHub Copilot for coding, debugging, test generation, and refactoring; integrates Claude / OpenAI APIs into product features.",
+ "core_skills": [
+  [
+   "React.js, TypeScript, JavaScript (ES6+), Redux, React Query",
+   "C# / .NET Core Web API, ASP.NET Core, Entity Framework Core"
+  ],
+  [
+   "AWS: ECS/Fargate, Lambda, API Gateway, RDS, S3, CloudFront",
+   "PostgreSQL, SQL Server, MongoDB, Redis"
+  ],
+  [
+   "REST API Design, Third-Party Integrations, Microservices",
+   "Micro-Frontends, Cloud-Native & Scalable Architecture"
+  ],
+  [
+   "CI/CD: GitHub Actions, Azure DevOps, Docker, Automated Testing",
+   "Application Security: OAuth2 / OIDC, JWT, RBAC"
+  ],
+  [
+   "AI-Assisted Development: Claude Code (daily), Cursor, GitHub Copilot",
+   "Greenfield Product Development, Agile/Scrum, Code Review"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET Core Web API, ASP.NET Core, Entity Framework Core, Node.js / Express (TypeScript), REST APIs, GraphQL, WebSockets, microservices, third-party API integrations, PostgreSQL, SQL Server, MongoDB, Redis",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, API Gateway, RDS, S3, CloudFront, IAM), Azure (App Service, Functions), Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, Terraform basics, Dynatrace APM, OAuth2 / OIDC, DevSecOps",
+  "Testing & Quality:": "xUnit, Jest, React Testing Library, Cypress, Supertest; automated CI test gates, code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring"
+ },
+ "tech_extra": [
+  ["AI Tools & GenAI:", "Claude Code (daily), Cursor, Windsurf, GitHub Copilot, Devin; Claude / OpenAI / Azure OpenAI APIs, MCP, RAG, prompt engineering, AI-assisted testing and refactoring"]
+ ]
+}

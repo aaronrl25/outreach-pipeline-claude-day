@@ -1,0 +1,19 @@
+To: naveen.r@mokshaallc.in
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: Lead Web Frontend Engineer (React + TypeScript) – Austin, TX – Sales Command Center – Aaron Ramirez (C2C)
+
+Hi Naveen,
+
+Following up on my note from November 2 about your Technical Lead / Architect role in Austin: I saw your new post for the Lead Web Frontend Engineer (React + TypeScript) on the Sales Command Center project and would like to be considered for it as well. My resume is attached.
+
+- Hands-on React.js / TypeScript lead for Walmart Global Tech, IBM/AEP and HCSC: state management, reusable component libraries and design systems, REST API integration, and enterprise-grade UI/UX.
+- OAuth 2.0 / OIDC and Microsoft Entra ID authentication flows, Jest and React Testing Library standards (coverage raised to 80%+), WCAG accessibility, front-end performance work (40% faster load times), and Azure deployments; React Native exposure on the mobile side.
+- Available immediately, so a Monday, November 9 start onsite in Austin works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

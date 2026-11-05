@@ -1,0 +1,18 @@
+To: rubal.kumar@ampstek.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Subject: Node.js / Full Stack Developer (React + AWS) – Plano, TX – Aaron Ramirez (C2C)
+
+Hi Rubal,
+
+I saw your post for the Node.js / Full Stack Developer (React + AWS) role in Plano, TX and would like to be considered. My two-page resume is attached.
+
+- 10+ years of hands-on full stack development for Walmart Global Tech, IBM/AEP and HCSC: Node.js / Express.js and TypeScript services with React.js front ends, REST microservices, WebSockets, and PostgreSQL / MongoDB.
+- AWS delivery with Lambda, API Gateway, ECS/Fargate, RDS and S3 in Docker containers, GitHub Actions / Jenkins CI/CD with automated test gates, and Dynatrace observability. Onsite in Plano works for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

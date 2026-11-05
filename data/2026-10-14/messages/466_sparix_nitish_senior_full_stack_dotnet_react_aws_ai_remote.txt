@@ -1,0 +1,19 @@
+To: nitish@sparixglobal.com
+Attach: /Users/aaronramirez/Desktop/Outreach_2026-10-14/resumes/Aaron_Ramirez_Sparix_Senior_Full_Stack_Engineer_DotNet_React_AWS_AI_Remote.pdf
+Subject: Senior Full-Stack Software Engineer – AI-Enabled Development (AWS, .NET Core, React) – Remote – Aaron Ramirez (C2C)
+
+Hi Nitish,
+
+I saw your post for the Senior Full-Stack Software Engineer (AI-Enabled Development) role and would like to be considered. My two-page resume is attached; I am available for immediate engagement on C2C.
+
+- 10+ years of hands-on full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: React / TypeScript / JavaScript front ends on C# / .NET Core Web API and Node.js services, PostgreSQL and SQL Server, REST APIs and third-party integrations.
+- AWS cloud-native delivery: ECS/Fargate, Lambda, API Gateway, RDS and S3 in Docker, with GitHub Actions / Azure DevOps CI/CD, automated test gates, and security (OAuth2 / OIDC, JWT) built in; greenfield 0-to-1 product builds and micro-frontend / microservice architectures.
+- AI-assisted development is how I work every day: Claude Code as the primary tool, plus Cursor and GitHub Copilot for coding, debugging, test generation and refactoring.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
