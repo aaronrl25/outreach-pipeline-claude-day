@@ -1,0 +1,18 @@
+To: munisowmya@livemindz.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Tech Lead / Sr Developer – AWS Java Full Stack – Malvern, PA – Aaron Ramirez (C2C)
+
+Hi Muni Sowmya,
+
+I wrote to you on October 29 about the Java Full Stack Developer role in Mount Laurel; I saw your new post for the Tech Lead / Sr Developer – AWS Java Full Stack role in Malvern, PA and would like to be considered for it as well. My resume is attached again for convenience.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot microservices with Angular and React front ends and Node.js services on AWS (ECS, Lambda, DynamoDB, S3, Kinesis, Glue, Redshift, CloudFormation), SQL, GitHub and CI/CD; tech-lead experience running squads of 5 to 7 engineers, architecture standards and code review.
+- Python, cloud migration and test automation hands-on; GitHub Copilot and Claude Code in daily use.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
