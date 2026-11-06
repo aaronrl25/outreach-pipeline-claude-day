@@ -1,0 +1,18 @@
+To: Chriscaro@geopaqlogic.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Senior Full Stack Engineer (React / Java / Node.js, AWS) – Seattle, WA – Aaron Ramirez (C2C)
+
+Hi Chris,
+
+I saw your post for the Senior Full Stack Engineer role in Seattle, WA (hybrid, 12+ months) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: React / JavaScript / TypeScript front ends with Java / Spring Boot and Node.js services, REST APIs and microservices on AWS, SQL and NoSQL data stores.
+- CI/CD with Git-based pipelines, Docker / Kubernetes deployments, Kafka and AWS SNS/SQS messaging; retail-scale e-commerce work at Walmart. Hybrid onsite in Seattle works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

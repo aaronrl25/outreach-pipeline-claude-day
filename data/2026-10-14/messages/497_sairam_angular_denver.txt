@@ -1,0 +1,18 @@
+To: sairamgajula79@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Angular_Developer_Micro_Frontends_NgRx.pdf
+Subject: UI Angular Developer – Denver, CO – Aaron Ramirez (C2C)
+
+Hi Sairam,
+
+I saw your post for the UI Angular Developer role in Denver, CO and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end engineering for Walmart Global Tech, IBM/AEP and HCSC, with strong hands-on Angular: Angular 18+, TypeScript, RxJS, NgRx, Angular Material, reactive forms, lazy-loaded routing and modular architecture (components, services, modules).
+- Application modernization and legacy migration work, including upgrading enterprise Angular applications across major versions and splitting monoliths into micro frontends (Module Federation); responsive, high-performance UIs with Jasmine/Karma, Jest and Cypress coverage.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

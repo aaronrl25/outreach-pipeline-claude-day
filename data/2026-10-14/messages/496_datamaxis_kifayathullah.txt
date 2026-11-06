@@ -1,0 +1,18 @@
+To: Kifayathullah@datamaxis.net
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: Senior React.js Developer – Dearborn, MI (Hybrid) – Aaron Ramirez (C2C)
+
+Hi Kifayathullah,
+
+I saw your post for the Senior React.js Developer role with your direct client in Dearborn, MI (hybrid) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end engineering for Walmart Global Tech, IBM/AEP and HCSC: React.js with TypeScript / JavaScript (ES6+), hooks and reusable component libraries, Redux and Context API state management, REST API integration, HTML5 / CSS3.
+- Front-end security in daily practice: OAuth 2.0 / OpenID Connect flows, token handling and refresh, OWASP-based secure coding; unit and integration testing with Jest and React Testing Library; Agile/Scrum delivery. Familiar with Microsoft Entra ID / MSAL integration.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

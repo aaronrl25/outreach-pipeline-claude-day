@@ -1,0 +1,18 @@
+To: Lucas@americanunit.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+Subject: Senior Frontend Technical Lead – React & Integrations (Remote) – Aaron Ramirez (C2C)
+
+Hi Lucas,
+
+Following up on my earlier emails for the Omaha roles: I saw your new post for the remote Senior Frontend Technical Lead (React & Integrations) and would like to be considered for it as well. My resume is attached.
+
+- 10+ years of engineering for Walmart Global Tech, IBM/AEP and HCSC: React.js / TypeScript / JavaScript front ends, Node.js / Express services, API integrations and application architecture, CI/CD; retail / e-commerce domain at Walmart.
+- Hands-on technical lead experience: architecture decisions, code reviews and mentoring development teams; Azure (App Services, Azure AD B2C) and AWS.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

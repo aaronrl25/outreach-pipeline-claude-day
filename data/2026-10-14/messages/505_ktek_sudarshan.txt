@@ -1,0 +1,18 @@
+To: sudarshan.kushwah@ktekresourcing.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: .NET Full Stack Developer (.NET Core / Angular) – Wilmington, DE – Aaron Ramirez (C2C)
+
+Hi Sudarshan,
+
+I saw your requirement for the .NET Full Stack Developer role in Wilmington, DE and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: C# / ASP.NET Core Web APIs with Entity Framework Core and SQL Server, and Angular (12+ through 18) / TypeScript / RxJS front ends with HTML5, CSS3 and Bootstrap.
+- REST API design and integration, OAuth 2.0 / JWT security, unit testing (xUnit, Jasmine), Git with Azure DevOps / GitHub CI/CD, Docker and Azure services; Agile/Scrum delivery. An in-person client interview works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
