@@ -1,0 +1,18 @@
+To: sony@akitservicesinc.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet.pdf
+Subject: .Net Developer with Angular (Healthcare) – Chicago, IL hybrid – Aaron Ramirez (C2C)
+
+Hi Sony,
+
+I saw your post for the .Net Developer with Angular (Healthcare) role in Chicago (hybrid) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC (HIPAA-governed healthcare member platform, 1M+ members): Angular (TypeScript, RxJS, NgRx) front ends on C# / .NET Web APIs and Python services with SQL Server / PostgreSQL, Azure cloud-native delivery, CI/CD and automated unit / integration / end-to-end testing.
+- Agentic AI applications in production during 2025–2026: LLM integration (Claude API, Azure OpenAI) with tool calling, structured outputs, multi-step LangGraph workflows and RAG, plus evaluation pipelines (test datasets, scoring criteria, regression checks and human review) that gated releases; daily use of Claude Code, Cursor and GitHub Copilot as agentic IDEs. Secure API design (OAuth 2.0 / JWT), observability and reliable async processing. Chicago hybrid works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

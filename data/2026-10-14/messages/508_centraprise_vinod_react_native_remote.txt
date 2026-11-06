@@ -1,0 +1,18 @@
+To: vinod.b@centraprise.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Engineer.pdf
+Subject: React Native Developer – Remote (Contract) – Aaron Ramirez (C2C)
+
+Hi Vinod,
+
+I wrote to you on October 26 about the Java Full Stack (Angular) role in Westborough; I saw your new post for the remote React Native Developer contract (10+ years) and would like to be considered for it. My React Native resume is attached.
+
+- 10+ years of software engineering with 6+ years shipping React Native (iOS / Android) apps for Walmart Global Tech, IBM/AEP and HCSC: TypeScript, Redux / MobX state, native modules and bridging, offline-first sync, push notifications, performance tuning, Jest / Detox testing and CI/CD to the App Store and Google Play, with Node.js / REST / GraphQL back ends on AWS.
+- LinkedIn: linkedin.com/in/aaronsoftware. Remote contract works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
