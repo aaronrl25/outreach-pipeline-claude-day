@@ -1,0 +1,18 @@
+To: smujahed@futransolutions.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: Full Stack Developer with Generative AI (Python / React.js / Azure OpenAI) – New Jersey – Aaron Ramirez (C2C)
+
+Hello,
+
+I saw your LinkedIn post for the Full Stack Developer with Generative AI role in New Jersey and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Python back ends (FastAPI / Flask) and REST APIs integrated with responsive React.js / TypeScript front ends, plus cloud-native deployment on Microsoft Azure (Web Apps, Blob Storage, Key Vault, Azure SQL, Application Insights).
+- Generative AI features in production during 2025–2026: OpenAI API and Azure OpenAI Service integrations with prompt engineering, embeddings, vector search and RAG, LangChain / LangGraph agents with tool calling, and evaluation pipelines; unit testing, profiling, code reviews and production incident triage in Agile teams. Onsite or hybrid in New Jersey works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

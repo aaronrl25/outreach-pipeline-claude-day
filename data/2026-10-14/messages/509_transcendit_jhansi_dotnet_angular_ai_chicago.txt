@@ -1,0 +1,18 @@
+To: jhansi@transcendit.io
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Lead_Software_Engineer_Angular_AI_DotNet.pdf
+Subject: Senior Full Stack .NET Engineer (Angular Expertise) – Chicago, IL hybrid – Aaron Ramirez (C2C)
+
+Hi Jhansi,
+
+I wrote to you on October 27 about the Senior Python Full Stack role; I saw your new post for the Senior Full Stack .NET Engineer (Angular Expertise) in Chicago (hybrid, 3 days) and would like to be considered for it. My Angular / .NET / AI resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Angular (TypeScript, RxJS, NgRx) front ends on C# / .NET Core / ASP.NET Core Web APIs and Python services, SQL Server / PostgreSQL, Azure cloud services, CI/CD and automated testing, with authentication / authorization, API security and observability built in.
+- Agentic AI applications in production during 2025–2026: LLM integrations (Claude API, Azure OpenAI) with tool calling, RAG, prompt engineering and multi-step LangGraph workflows, plus evaluation pipelines and QA frameworks that took proofs of concept into secure, scalable production releases. Chicago hybrid works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
