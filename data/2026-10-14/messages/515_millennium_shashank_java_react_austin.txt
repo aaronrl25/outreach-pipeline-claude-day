@@ -1,0 +1,18 @@
+To: sk.millenniuminc@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Fullstack Developer (Java & ReactJS) – Austin, TX – Aaron Ramirez (C2C)
+
+Hi Shashank,
+
+I saw your requirement for the Fullstack Developer (Java & ReactJS) role in Austin, TX and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java EE / Spring Boot microservices with Hibernate / JPA, REST and SOAP services, API design and versioning behind API gateways (Apigee-style) with API security, and AWS Lambda, S3, SNS / SES, CloudWatch and CloudFront; relational and NoSQL data design.
+- Front end: React.js and Next.js with Redux, Webpack, reusable component libraries, translating designs into high-quality, testable code, and cross-browser performance optimization; Agile delivery with clear communication to stakeholders. Onsite in Austin works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

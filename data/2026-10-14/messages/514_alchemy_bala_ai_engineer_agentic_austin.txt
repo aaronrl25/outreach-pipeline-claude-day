@@ -1,0 +1,18 @@
+To: Bala@Alchemysolutions.us
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: AI Engineer (Agentic AI) – Austin, TX hybrid – Aaron Ramirez (C2C)
+
+Hi Bala,
+
+I saw your post for the hybrid AI Engineer (Agentic AI) contract in Austin, TX and would like to be considered. My two-page resume is attached.
+
+- Agentic AI applications in production during 2025–2026: Python agents built on the Claude Agent SDK, OpenAI Agents SDK and LangGraph, MCP servers and tools integrated with internal systems and APIs, and reusable skills / plugins for Claude Code, Cursor and GitHub Copilot that automate development, testing, documentation and code review across the product development lifecycle; LLM evaluation, guardrails, prompt engineering and RAG.
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC, deploying and monitoring services on AWS with Docker, Terraform, Helm and Amazon EKS, S3 and IAM, with CI/CD; also .NET/C# and Angular on prior projects. Austin hybrid works for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
