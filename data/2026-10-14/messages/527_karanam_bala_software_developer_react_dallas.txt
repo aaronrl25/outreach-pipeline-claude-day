@@ -1,0 +1,18 @@
+To: karanamb82@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: Software Developer (React / Python) – Dallas, TX – Aaron Ramirez (C2C)
+
+Hi Balasurendra,
+
+I saw your post for the Software Developer role in Dallas, TX and would like to be considered. My two-page resume is attached.
+
+- 10+ years of web and mobile application development for Walmart Global Tech, IBM/AEP and HCSC: React, Next.js, TypeScript / JavaScript and React Native front ends with Python (FastAPI / Flask) and Node.js backend APIs, PostgreSQL / SQL Server database integration, REST and GraphQL services on AWS / Azure.
+- Testing and delivery: Jest, React Testing Library, Playwright and Cypress; CI/CD with GitHub Actions and Docker; WCAG 2.x accessibility and Core Web Vitals on high-traffic storefronts; Agile/Scrum delivery. Onsite, hybrid or remote all work for me, and I can start immediately.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

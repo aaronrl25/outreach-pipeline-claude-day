@@ -1,0 +1,18 @@
+To: vincent@kashvida.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Lead Java Full Stack Developer (AI/LLM & Application Security) – Los Angeles, CA – Aaron Ramirez (C2C)
+
+Hi Vincent,
+
+I saw your post for the Lead Java Full Stack Developer (AI/LLM & Application Security) role in Los Angeles, CA and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot / Spring MVC / Spring Security microservices with REST, SOAP and GraphQL APIs, SQL Server / Oracle / MySQL / MongoDB and Kafka event-driven integrations, and React.js, Angular and TypeScript front ends; JUnit / Mockito, Maven, Jenkins, Docker and Kubernetes on Azure and AWS.
+- Secure SDLC in practice: OWASP-aligned secure coding, SonarQube / Snyk and SAST / DAST scanning wired into CI/CD pipelines, and remediation of code-level vulnerabilities through to release. Production AI / LLM integrations during 2025–2026 (RAG, tool calling, prompt engineering, multi-step agent workflows).
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule in Los Angeles and a webcam interview.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
