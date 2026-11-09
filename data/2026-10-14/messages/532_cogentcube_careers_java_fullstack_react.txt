@@ -1,0 +1,17 @@
+To: careers@cogentcube.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Java Full Stack Developer (Java + Python + React/Angular) – Aaron Ramirez (C2C)
+
+Hi Cogent Cube team,
+
+I saw your post for the Java Full Stack Developer role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot / Hibernate microservices and REST APIs with Kafka event streams, Python (Pandas, FastAPI) data and ETL tasks, and responsive React.js and Angular front ends integrated with Java / Python backends; AWS and Azure deployments, Docker, CI/CD and Agile delivery.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, onsite, hybrid or remote.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

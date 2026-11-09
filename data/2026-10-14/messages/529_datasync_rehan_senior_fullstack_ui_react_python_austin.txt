@@ -1,0 +1,18 @@
+To: rehan@datasyncinc.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Senior Full Stack Developer – UI Focused – Austin, TX hybrid – Aaron Ramirez (C2C)
+
+Hi Rehan,
+
+I saw your post for the Senior Full Stack Developer – UI Focused role in Austin, TX (hybrid) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack web application development with a front-end focus for Walmart Global Tech, IBM/AEP and HCSC (healthcare): React, TypeScript and JavaScript responsive UIs and secure enterprise portals, with Python (FastAPI / Flask) and Node.js REST APIs, PostgreSQL / SQL Server, and OAuth 2.0, OIDC and SAML authentication with role-based access control over PHI / PII under HIPAA.
+- AWS and Azure cloud integration with Terraform-managed infrastructure, Docker and Kubernetes deployments, GitHub / GitHub Actions CI/CD with DevSecOps gates, automated testing (Jest, Playwright, PyTest) and Agile delivery.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule in Austin and both webcam and onsite interviews.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

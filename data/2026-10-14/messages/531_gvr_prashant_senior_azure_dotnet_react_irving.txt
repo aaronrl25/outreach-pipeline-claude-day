@@ -1,0 +1,17 @@
+To: prashant.kumar@gvrinfotek.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Senior Azure Full Stack .NET Developer – Irving, TX hybrid – Aaron Ramirez (C2C)
+
+Hi Prashant,
+
+Following up on my email last week about the React Native Team Lead role: I saw your new post for the Senior Azure Full Stack .NET Developer position in Irving, TX (hybrid) and would like to be considered for it as well. My .NET-focused two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: C# / .NET Core REST APIs with LINQ and Entity Framework over SQL Server (complex queries and stored procedures), Azure Functions, App Services and Service Bus, and React.js / Angular front ends; GitHub with CI/CD and GitHub Copilot in daily use.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with a Microsoft Teams interview. LinkedIn: linkedin.com/in/aaronsoftware.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

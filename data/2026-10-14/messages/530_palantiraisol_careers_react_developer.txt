@@ -1,0 +1,18 @@
+To: careers@palantiraisol.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: React Developer – Aaron Ramirez (C2C)
+
+Hi Palantir AI Solutions team,
+
+I saw your post for the React Developer role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end engineering for Walmart Global Tech, IBM/AEP and HCSC: React with TypeScript / JavaScript, reusable component libraries and application frameworks, front-end architecture and technical design with product owners, UX and solution architects, and integration with backend REST / GraphQL APIs and enterprise platforms.
+- Responsive, accessible (WCAG 2.x AA) and performant web applications built to enterprise security and compliance standards; story refinement and estimation in Agile teams; unit and end-to-end testing with Jest, React Testing Library, Playwright and Cypress. Onsite, hybrid or remote all work for me.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
