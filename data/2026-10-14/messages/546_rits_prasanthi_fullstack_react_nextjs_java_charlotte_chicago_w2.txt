@@ -1,0 +1,18 @@
+To: prasanthi.palanki@rits-it.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Developer_TypeScript_Accessibility_Security.pdf
+Subject: Full Stack Developer (Front End 70% / Java 30%) – Charlotte, NC / Chicago, IL – Aaron Ramirez
+
+Hi Prasanthi,
+
+I saw your post for the Full Stack Developer role (front end 70%, Java 30%) in Charlotte, NC / Chicago, IL and would like to be considered. My two-page resume is attached.
+
+- 10+ years of front-end-heavy full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: React.js and Next.js with TypeScript, Tailwind CSS and design-system / web component libraries, accessible and performant UIs, with Java / Spring Boot REST APIs on the back end.
+- Testing and delivery: Jest, React Testing Library, Playwright and Cypress, CI/CD, and Agile/Scrum teams. Either location works for me.
+- Work authorization: TN (Mexican national). Available immediately.
+
+Happy to discuss the details and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
