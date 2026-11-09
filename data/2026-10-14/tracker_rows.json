@@ -23372,5 +23372,24 @@
 "msg": "",
 "status": "NOT SENT",
 "src": "LinkedIn sweep 2026-11-09 14:45 CST (Monday, tenth of the day; 4 core queries into the same store, 68 → 74 posts, 3 new hiring posts)"
+},
+{
+"company": "Sweep 15:00 CST – 0 sends: \"Front End\", Angular and React Native queries returned no new posts since 14:45; the React query timed out twice and loaded only 3–9 posts (LinkedIn throttling after 11 sweeps); 1 new post, an open-to-work candidate. Groups: MuleSoft USC, Databricks admin. Inbox: no recruiter replies.",
+"role": "",
+"loc": "",
+"arr": "",
+"type": "",
+"pay": "",
+"posted": "2026-11-09",
+"skills": "",
+"visa": "",
+"recruiter": "",
+"contact": "",
+"link": "",
+"fit": "",
+"resume": "",
+"msg": "",
+"status": "NOT SENT",
+"src": "LinkedIn sweep 2026-11-09 15:00 CST (Monday, eleventh of the day) + Groups + inbox"
 }
 ]
