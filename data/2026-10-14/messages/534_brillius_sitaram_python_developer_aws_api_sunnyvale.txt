@@ -1,0 +1,18 @@
+To: sitaramk@brillius.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Python Developer (AWS & API) – Sunnyvale, CA – ex-Walmart, Bay Area local – Aaron Ramirez (C2C)
+
+Hi Sitaram,
+
+I saw your post for the Python Developer (AWS & API) role in Sunnyvale, CA and would like to be considered. I am local to the San Francisco Bay Area and a former Walmart Global Tech engineer; my two-page resume is attached.
+
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC: Python (FastAPI / Flask) REST API development and integrations on AWS (Lambda, API Gateway, S3, ECS / EKS), PostgreSQL / SQL Server, OAuth 2.0 / OIDC security, Terraform-managed infrastructure, Docker and Kubernetes, GitHub Actions CI/CD and PyTest.
+- Client-facing delivery: daily collaboration with product, design and business stakeholders, clear written and verbal communication in English and Spanish, and onsite work in Sunnyvale is fine.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

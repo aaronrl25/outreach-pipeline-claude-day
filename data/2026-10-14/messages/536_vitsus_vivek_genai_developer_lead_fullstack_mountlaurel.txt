@@ -1,0 +1,18 @@
+To: vivek@vitsus.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: Gen AI Developer / Lead (Full Stack – Python, React, Azure) – Mount Laurel, NJ – Aaron Ramirez (C2C)
+
+Hi Vivek,
+
+I saw your post for the Gen AI Developer / Lead (Full Stack) role in Mount Laurel, NJ and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Python (FastAPI) application development with React.js / Next.js and TypeScript front ends, deployed on Microsoft Azure (App Service, Functions, Azure DevOps CI/CD) and AWS.
+- Generative AI in production during 2025–2026: OpenAI and Azure OpenAI APIs, retrieval-augmented generation, tool calling and multi-step agent workflows, prompt engineering and LLM evaluation, with testing, deployment and performance optimization of the resulting intelligent applications.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the Mount Laurel schedule.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

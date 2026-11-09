@@ -1,0 +1,18 @@
+To: vijayraopiyush@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Java Full Stack Developer (Java + React + Azure) – Cary, NC – Aaron Ramirez (C2C)
+
+Hi Piyush,
+
+Following up on my email last week about the Phoenix Python / React role: I saw your Java Full Stack Developer requirement in Cary, NC (insurance digital engineering) and would like to be considered for it as well. My Java-focused two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC (insurance / healthcare): Java / Spring Boot microservices and REST APIs with React, TypeScript and HTML/CSS front ends, SQL and NoSQL data, Azure and Azure DevOps CI/CD, Docker and Kubernetes, secure coding and automated testing in Agile POD teams.
+- AI-assisted engineering in daily use (GitHub Copilot, Claude Code, prompt engineering) for development, testing, modernization and documentation.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately and fine with a face-to-face interview.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
