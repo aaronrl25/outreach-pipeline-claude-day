@@ -1,0 +1,18 @@
+To: tina@technipros.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Senior Java Full Stack Developer – Texas (Dallas / Austin / Houston / San Antonio) – Aaron Ramirez
+
+Hi Tina,
+
+I saw your post for the Senior Java Full Stack Developer role in Texas (Dallas, Austin, Houston or San Antonio) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java 17 / Spring Boot / Spring MVC microservices and REST APIs over Oracle, PostgreSQL, MySQL and MongoDB, with Kafka and RabbitMQ messaging, and responsive React.js and Angular front ends.
+- Cloud and DevOps: AWS and Azure deployments, Docker and Kubernetes, Jenkins / Maven / Git CI/CD with Terraform-managed infrastructure; unit and integration testing, code reviews, production troubleshooting and Agile/Scrum delivery.
+- Work authorization: TN (Mexican national). Available immediately for any of the four Texas locations.
+
+Happy to discuss the details and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

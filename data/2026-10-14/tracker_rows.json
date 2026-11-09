@@ -22783,5 +22783,24 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-09 08:50 CST (Monday, second of the day; 4 core queries: React 8+16 / Angular 26 / \"Front End\" 15 / RN 1 = 66 posts, 58 with email; heavy on hotlists) + Groups (TekSkills .NET/Python/Glue $52 no React, Staffbees Java Architect 15+, Confianza FHIR – none) + inbox (nothing new)"
+ },
+ {
+  "company": "Technipros (Tina / Chitti Thalli Byreddy, +1 469-899-9341) – first send under the new W2 rule",
+  "role": "Senior Java Full Stack Developer – Java 17/21, Spring Boot, microservices, React.js or Angular, Oracle/PostgreSQL/MongoDB, Kafka/RabbitMQ, AWS/Azure, K8s; 8+ yrs; 12+ months",
+  "loc": "Dallas / Austin / Houston / San Antonio, TX (no location stated)",
+  "arr": "W2 (C2C not mentioned)",
+  "type": "W2 only per post",
+  "pay": "",
+  "posted": "2026-11-09",
+  "skills": "Java, Spring Boot, React, Angular, Kafka, AWS",
+  "visa": "",
+  "recruiter": "Tina",
+  "contact": "tina@technipros.com",
+  "link": "https://www.linkedin.com/in/chitti-thalli-byreddy-255064341/",
+  "fit": "Java-first with React/Angular – lower bar; W2 post, no C2C/employer mentioned",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf",
+  "msg": "messages/533_technipros_tina_senior_java_fullstack_react_texas_w2.txt",
+  "status": "SENT",
+  "src": "Aaron rule change 2026-11-09 09:05 CST (\"you can send resumes to w2 roles also\") – retro-send of the 08:50 sweep W2 skip"
  }
 ]
