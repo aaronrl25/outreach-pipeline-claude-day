@@ -1,0 +1,18 @@
+To: rajesh@vsiontek.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Java Full Stack Developer with AI (Angular) – San Jose, CA – Aaron Ramirez
+
+Hi Rajesh,
+
+I saw your post for the Java Full Stack Developer with strong AI experience (Angular) in San Jose, CA and would like to be considered. I am local to the San Francisco Bay Area; my two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot microservices and REST APIs with Angular and TypeScript front ends, SQL / NoSQL data, AWS and Azure deployments, CI/CD and Agile delivery.
+- AI in production during 2025–2026: LLM integrations (OpenAI, Azure OpenAI, Claude), retrieval-augmented generation, tool calling and agent workflows, plus AI-assisted engineering with GitHub Copilot and Claude Code.
+- Work authorization: TN (Mexican national). Available immediately for onsite work in San Jose.
+
+Happy to discuss the details and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

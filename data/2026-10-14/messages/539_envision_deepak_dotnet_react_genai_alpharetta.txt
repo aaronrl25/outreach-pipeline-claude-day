@@ -1,0 +1,18 @@
+To: deepak.gupta@envisiontechsol.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Sparix_Senior_Full_Stack_Engineer_DotNet_React_AWS_AI_Remote.pdf
+Subject: .NET + React + GenAI Developer – Alpharetta, GA / Hagerstown – Aaron Ramirez (C2C)
+
+Hi Deepak,
+
+I saw your post for the combination .NET + React + GenAI role (Alpharetta or Hagerstown) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: C# / .NET Core Web APIs and microservices with React and TypeScript front ends, SQL Server / PostgreSQL, and Azure (App Service, Functions, Azure OpenAI, Azure DevOps) and AWS deployments with CI/CD.
+- Generative AI in production during 2025–2026: OpenAI / Azure OpenAI integrations, retrieval-augmented generation, tool calling and agent workflows, with Claude Code and GitHub Copilot in daily use for development and testing.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with either location.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
