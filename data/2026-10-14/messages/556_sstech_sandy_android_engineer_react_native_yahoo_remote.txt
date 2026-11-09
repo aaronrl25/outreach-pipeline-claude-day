@@ -1,0 +1,19 @@
+To: Sandy@sstech-llc.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_SSTech_Senior_Android_Engineer_React_Native_Remote_W2.pdf
+Subject: Android Engineer with React Native – Yahoo – Remote – Aaron Ramirez (C2C)
+
+Hi Sandy,
+
+I saw your post for the Android Engineer with React Native role (Yahoo, remote) and would like to be considered. I shared my profile with Radha on your team last week for this position, and my two-page resume is attached here as well.
+
+- 8+ years shipping Android apps natively in Kotlin and Java and with React Native for Walmart Global Tech, HCSC and IBM/AEP, with releases to the Google Play Store.
+- Strong object-oriented and computer science foundation (data structures, algorithms, software design) and deep Android framework knowledge: components and lifecycles, Jetpack (ViewModel, Room, WorkManager, Compose), plus testing with Espresso, Robolectric and Appium.
+- GenAI features in mobile workflows (Claude API, Azure AI Services) and Scrum delivery.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

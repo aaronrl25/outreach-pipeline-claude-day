@@ -1,0 +1,18 @@
+To: sanchej.waghmare@collabera.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: Full Stack Developer (React / .NET / C# / SQL) – Spring, TX onsite – Aaron Ramirez (C2C)
+
+Hi Sanchej,
+
+Following up on my email last week about the Full Stack Developer role in Houston: I saw your new post for the Full Stack Developer position in Spring, TX (React, .NET / C#, SQL – Real-Time Intelligence & Drilling AI project) and would like to be considered for it as well. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: React and TypeScript front ends with C# / .NET (ASP.NET Core Web API) services and SQL Server, plus production support, troubleshooting and performance tuning on live enterprise applications.
+- AI-assisted engineering in daily use (Claude Code, GitHub Copilot) and Azure DevOps CI/CD.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the onsite schedule in Spring.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
