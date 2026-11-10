@@ -1,0 +1,18 @@
+To: sy9543790@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_React_Native_Engineer.pdf
+Subject: Mobile Web Developer – Brea, CA onsite – Aaron Ramirez (C2C)
+
+Hi Shashikar,
+
+I saw your requirement for the Mobile Web Developer role in Brea, CA (onsite) and would like to be considered. My two-page resume is attached.
+
+- 10+ years building hybrid and cross-platform mobile and web applications in JavaScript and TypeScript for Walmart Global Tech, IBM/AEP and HCSC: React and React Native apps on iOS and Android, Angular front ends, responsive mobile web, and micro-frontend modules embedded in existing native apps.
+- REST API integration with authentication flows, real-time updates over WebSockets, Jest testing, performance optimization, and App Store / Google Play releases through CI/CD.
+- Based in California and fine with the onsite schedule in Brea. Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
