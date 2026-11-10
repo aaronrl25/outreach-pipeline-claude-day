@@ -56,6 +56,40 @@
     "Designed Jest and React Testing Library test infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents.",
     "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
    ]
+  },
+  "3": {
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; built Python (Flask) mock and integration services plus claims and eligibility data-validation scripts for the member APIs; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest and PyTest testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  "4": {
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services and scripts for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  "5": {
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  "7": {
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
+   "bullets": [
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
+   ]
   }
  }
 }

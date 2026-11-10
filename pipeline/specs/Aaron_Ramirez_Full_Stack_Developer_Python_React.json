@@ -37,31 +37,31 @@
    "title": "Senior Software Engineer",
    "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
    "dates": "Feb 2024 – Jun 2024",
-   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
    "bullets": [
     "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
-    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
-    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; built Python (Flask) mock and integration services plus claims and eligibility data-validation scripts for the member APIs; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest and PyTest testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
    ]
   },
   {
    "title": "Software Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2022 – Jan 2024",
-   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
    "bullets": [
     "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
-    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services and scripts for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
    ]
   },
   {
    "title": "Full Stack Engineer",
    "company": "Walmart Global Tech  (Contract)",
    "dates": "Nov 2021 – Oct 2022",
-   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
    "bullets": [
-    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, leading a team of 5 engineers in an Agile/Scrum delivery model.",
-    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%."
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
    ]
   },
   {
@@ -70,17 +70,17 @@
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
-    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and an analytics dashboard that drove 120% year-over-year sales growth."
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
    ]
   },
   {
    "title": "Mobile Software Engineer",
    "company": "Roambee  (IoT Startup, Santa Clara, CA)",
    "dates": "Jun 2017 – Oct 2018",
-   "sub": "Remote · Real-Time IoT Asset Tracking (Web)",
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
    "bullets": [
-    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets; led a refactor that cut crash rates by 60%."
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
    ]
   }
  ],
