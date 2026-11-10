@@ -24191,7 +24191,7 @@
   "src": "LinkedIn sweep 2026-11-10 10:42 CST (Tuesday, fifth of the day; 4 core queries in a new tab, store __postsP, top-of-feed only) + Groups + inbox"
  },
  {
-  "company": "Apex Systems (Everforth Apex) job 3058093 – React Native/React.JS Developer with UX Skills, remote (Dallas), contract, $60–70/hr – Aaron sent the link ('apply here'); form filled in Chrome (Senior_React_Native_Engineer.pdf, Aaron Ramirez), stopped at the reCAPTCHA – waiting for Aaron to tick it and submit. Skips 10:42: Datavernus HHSC repost, Petadata/Divyam H1B, besthtech Senior Java, Judge AI Architect Malvern, Seattle Sr Front-End (locals, no email).",
+  "company": "Skips 10:42 CST: Datavernus HHSC repost, Petadata/Divyam H1B, besthtech Senior Java, Judge AI Architect Malvern, Seattle Sr Front-End (locals, no email).",
   "role": "",
   "loc": "",
   "arr": "",
@@ -24202,11 +24202,11 @@
   "visa": "",
   "recruiter": "",
   "contact": "",
-  "link": "https://www.apexsystems.com/job/3058093_usa/react-nativereactjs-developer-with-ux-skills",
+  "link": "",
   "fit": "",
   "resume": "",
   "msg": "",
-  "status": "NOT SENT – Apex pending Aaron's CAPTCHA + submit",
+  "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-10 10:42 CST (Tuesday, fifth of the day; 4 core queries in a new tab, store __postsP, top-of-feed only) + Groups + inbox"
  },
  {
@@ -24246,5 +24246,43 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-10 10:50 CST (this session; store __postsN 64 → 129; overlaps the console session's 10:42 pass) + Groups + inbox"
+ },
+ {
+  "company": "Apex Systems (Everforth Apex) – job 3058093",
+  "role": "React Native/React.JS Developer with UX Skills – design-system component library, RN + ReactJS, 5+ yrs",
+  "loc": "Remote (Dallas, TX)",
+  "arr": "Contract",
+  "type": "Contract (direct application)",
+  "pay": "$60–70/hr",
+  "posted": "2026-11-03",
+  "skills": "React Native, ReactJS, design systems, accessibility",
+  "visa": "Not stated",
+  "recruiter": "Riley (virtual recruiter)",
+  "contact": "recruiterriley@vr.apexsystems.com",
+  "link": "https://www.apexsystems.com/job/3058093_usa/react-nativereactjs-developer-with-ux-skills",
+  "fit": "strong RN match",
+  "resume": "Aaron_Ramirez_Senior_React_Native_Engineer.pdf",
+  "msg": "",
+  "status": "APPLIED – 2026-11-10 ~10:45 CST (Apex careers site; confirmation page + virtual recruiter email 10:46)",
+  "src": "Aaron sent the Apex link 2026-11-10 ('apply here'); filled in Chrome, Aaron ticked the reCAPTCHA and submitted"
+ },
+ {
+  "company": "Skips 11:00 CST – 0 sends: Intellisoft/Matt FastAPI + React Austin locals (HHSC healthcare req, held; Intellisoft/mike sent 11-09); Infinity-arc Java FS + Golang Dallas/Raleigh; Techtrovesoft .NET Core Plano; hotlists / candidate posts.",
+  "role": "",
+  "loc": "",
+  "arr": "",
+  "type": "",
+  "pay": "",
+  "posted": "2026-11-10",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "",
+  "link": "",
+  "fit": "",
+  "resume": "",
+  "msg": "",
+  "status": "NOT SENT",
+  "src": "LinkedIn sweep 2026-11-10 11:00 CST (Tuesday, sixth of the day; store __postsP) + inbox"
  }
 ]
