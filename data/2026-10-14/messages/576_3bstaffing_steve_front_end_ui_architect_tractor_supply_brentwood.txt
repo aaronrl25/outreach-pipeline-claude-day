@@ -1,0 +1,19 @@
+To: steve@3bstaffing.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Technical_Architect_Web_Full_Stack_React_NextJS_AWS.pdf
+Subject: Front End UI Architect (Web) – Brentwood, TN onsite – Aaron Ramirez (C2C)
+
+Hi Steve,
+
+I saw your requirement for the Front End UI Architect (Web) role in Brentwood, TN and would like to be considered. My two-page resume is attached.
+
+- 10+ years of frontend and software engineering for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP and HCSC, setting frontend architecture standards, design documentation and code review for multiple product squads.
+- Expert in React, TypeScript, JavaScript, HTML and CSS; Next.js rendering architectures (SSR, SSG, ISR, client rendering and hydration tradeoffs), Micro Frontends, design systems with Storybook, and state and data management with Redux Toolkit, React Query, Context API and GraphQL.
+- Large-scale retail and e-commerce experience: Core Web Vitals and performance budgets, accessibility, CI/CD quality gates and automated testing, Dynatrace observability, and Azure / Kubernetes deployments with API integration.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, ready to start before December 1, and fine with the onsite schedule and the technical assessment.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
