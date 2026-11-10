@@ -1,0 +1,18 @@
+To: akhil.k@siraconsultinginc.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf
+Subject: .NET Developer with React – Lisle, IL onsite – Aaron Ramirez (C2C)
+
+Hi Akhil,
+
+I wrote to you on November 5 about the Senior Angular Developer role in Tampa. I saw your new post for the .NET Developer with React role in Lisle, IL (onsite) and would like to be considered for it as well. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: C#, ASP.NET Core and Web API REST services with React.js front ends in TypeScript / JavaScript, HTML5 and CSS3, and SQL Server and PostgreSQL data (queries, stored procedures, optimization).
+- Clean, reusable code with code reviews, automated testing, Git, and CI/CD on Azure and AWS; strong debugging and production troubleshooting.
+- Work authorization: TN (Mexican national), on C2C through my employer. I have not been submitted to Tech-M for this role. Available immediately, and fine with the onsite schedule in Lisle.
+
+Happy to discuss the details and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

@@ -24531,5 +24531,24 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-10 13:40 CST (second session, store __postsN 189 → 211) + inbox"
+ },
+ {
+  "company": "Sira Consulting (Akhil Kumar Velagaleti) – 2nd role after the 11-05 Tampa Angular send; implementation partner Tech-M",
+  "role": ".NET Developer with React – C#, ASP.NET, .NET Core/MVC, Web API, SQL Server, Entity Framework, React.js; $55/hr C2C",
+  "loc": "Lisle, IL (onsite)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "$55/hr C2C",
+  "posted": "2026-11-10",
+  "skills": "C#, ASP.NET Core, Web API, SQL Server, Entity Framework, React.js",
+  "visa": "USC / H1B / H4 / L2S; I-94 must reflect H1B / H4 / L2S (TN not listed)",
+  "recruiter": "Akhil Kumar Velagaleti",
+  "contact": "akhil.k@siraconsultinginc.com",
+  "link": "https://www.linkedin.com/in/akhilkumar-velagaleti-985441161/",
+  "fit": "sent on Aaron's instruction despite the visa/I-94 line; TN stated plainly; 'not submitted to Tech-M' stated",
+  "resume": "Aaron_Ramirez_Senior_DotNet_Developer_React_Angular.pdf",
+  "msg": "messages/580_sira_akhil_dotnet_developer_react_lisle.txt",
+  "status": "SENT #580 – 2026-11-10 13:48 CST (Mensaje enviado; in:sent 143 KB)",
+  "src": "LinkedIn sweep 2026-11-10 13:40 CST; Aaron: 'you can try this'"
  }
 ]
