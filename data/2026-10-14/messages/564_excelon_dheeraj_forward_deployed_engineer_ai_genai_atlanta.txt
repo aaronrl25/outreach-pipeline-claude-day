@@ -1,0 +1,19 @@
+To: dheeraj.singh@excelonsolutions.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_AI_Forward_Deployed_Engineer_NextJS_TypeScript_Python_Remote.pdf
+Subject: Forward Deployed Engineer (FDE) – AI / GenAI – Atlanta, GA hybrid – Aaron Ramirez (C2C)
+
+Hi Dheeraj,
+
+I saw your post for the Forward Deployed Engineer (FDE) – AI / GenAI contract in Atlanta, GA and would like to be considered. My two-page resume is attached.
+
+- 10+ years of hands-on software engineering for Walmart Global Tech, IBM/AEP and HCSC, delivering production applications on AWS: Python (FastAPI) and TypeScript / Node.js back ends with React front ends, serverless and microservices (Lambda, API Gateway, S3, RDS), Docker / Kubernetes and CI/CD.
+- GenAI in production: LLM features with AWS Bedrock and the Claude API, agent workflows with LangChain / LangGraph, MCP integrations to enterprise APIs and data, RAG pipelines, prompt engineering and evaluation, with PII-aware design from regulated healthcare work.
+- Rapid prototyping to hardened production releases, using AI-assisted development tools daily.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

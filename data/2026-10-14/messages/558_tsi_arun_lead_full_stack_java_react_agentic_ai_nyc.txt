@@ -1,0 +1,18 @@
+To: tsi.recruiters.9@gmail.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf
+Subject: Lead Full Stack Developer – Java + React + Agentic AI – NYC hybrid – Aaron Ramirez (C2C)
+
+Hi Arun,
+
+I saw your post for the Lead Full Stack Developer role (Java + React + Agentic AI, NYC hybrid) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java / Spring Boot microservices and REST APIs with React and TypeScript front ends, SQL Server and PostgreSQL, CI/CD with Azure DevOps and GitHub Actions, and enterprise-scale transactional systems.
+- Agentic AI tools are part of my daily workflow: Claude Code every day, plus Cursor and GitHub Copilot, with code review, automated tests and security checks on everything that ships.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

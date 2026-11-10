@@ -1,0 +1,18 @@
+To: iram.n@amazesystemsinc.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Subject: Sr. Software Developer – MEAN Stack – Middletown, NJ / Redmond, WA – Aaron Ramirez (C2C)
+
+Hi Iram,
+
+We were in touch in October about the Mobile Architect role. I would also like to be considered for the Sr. Software Developer – MEAN Stack contract (Middletown, NJ or Redmond, WA). An updated two-page resume is attached.
+
+- 10+ years of JavaScript / TypeScript engineering for Walmart Global Tech, IBM/AEP and HCSC: Node.js and Express back ends (async/await, promises, functional patterns), React with Redux and Angular front ends, MongoDB, and microservices.
+- Azure development, Docker and Kubernetes, and automation testing with Cypress, Selenium, Mocha and Jest, including automated unit tests in CI.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with either location.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
