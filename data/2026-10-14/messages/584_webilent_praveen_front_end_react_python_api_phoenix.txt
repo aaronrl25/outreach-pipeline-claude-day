@@ -1,0 +1,18 @@
+To: praveen@webilent.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Subject: Front-End Engineer (React) with Python API – Phoenix, AZ hybrid – Aaron Ramirez (C2C)
+
+Hi Praveen,
+
+I saw your post for the Front-End Engineer (React) with Python API Experience role in Phoenix, AZ (hybrid, 3 days onsite) and would like to be considered. My two-page resume is attached.
+
+- 10+ years of engineering for Walmart Global Tech, IBM/AEP and HCSC: React and TypeScript front ends (reusable components, state management, performance, accessibility) backed by Python (FastAPI / Flask) REST APIs, with PostgreSQL and OAuth 2.0 / JWT security.
+- Jest and PyTest testing, code reviews, CI/CD with Docker on AWS and Azure, and production troubleshooting.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule in Phoenix.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
