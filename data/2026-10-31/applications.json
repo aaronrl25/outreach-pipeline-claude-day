@@ -222,5 +222,104 @@
   "type": "Lead – rate",
   "src": "LinkedIn Jobs 24h sweep 2026-10-31",
   "ts": "2026-10-31T11:09"
+ },
+ {
+  "company": "Wall Street Consulting Services LLC",
+  "role": "Senior Frontend Developer / Full Stack Software Engineer III (Node, SQL, React, API, DevOps)",
+  "loc": "Remote",
+  "link": "https://www.linkedin.com/jobs/view/4489129248/",
+  "status": "APPLIED",
+  "notes": "W2 yes",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "FutureTech Recruitment",
+  "role": "Senior Software Engineer (React/TypeScript/Node)",
+  "loc": "Remote US",
+  "link": "https://www.linkedin.com/jobs/view/4487953455/",
+  "status": "APPLIED",
+  "notes": "TypeScript 8",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Precision Technologies",
+  "role": "Senior React Developer",
+  "loc": "Remote",
+  "link": "https://www.linkedin.com/jobs/view/4487910615/",
+  "status": "APPLIED",
+  "notes": "",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Yorkshire Global Solutions Inc",
+  "role": "Senior Web Developer (React/Python) – client Banner Health",
+  "loc": "Remote",
+  "link": "https://www.linkedin.com/jobs/view/4487916483/",
+  "status": "APPLIED",
+  "notes": "W2 yes",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Jobgether",
+  "role": "Senior Frontend Engineer",
+  "loc": "Remote US",
+  "link": "https://www.linkedin.com/jobs/view/4487697622/",
+  "status": "APPLIED",
+  "notes": "location SF",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "SMARTFOX",
+  "role": "Frontend Engineer",
+  "loc": "Remote US",
+  "link": "https://www.linkedin.com/jobs/view/4487947381/",
+  "status": "APPLIED",
+  "notes": "",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Prudent Technologies and Consulting",
+  "role": "Full Stack Engineer (US & Canada) Remote",
+  "loc": "Remote",
+  "link": "https://www.linkedin.com/jobs/view/4487331724/",
+  "status": "APPLIED",
+  "notes": "",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Synechron",
+  "role": "React.JS Developer",
+  "loc": "Charlotte, NC",
+  "link": "https://www.linkedin.com/jobs/view/4485874220/",
+  "status": "APPLIED",
+  "notes": "in-person interview yes",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "Smart IT Frame LLC",
+  "role": "React Developer (8+ yrs)",
+  "loc": "Charlotte, NC",
+  "link": "https://www.linkedin.com/jobs/view/4487920467/",
+  "status": "APPLIED",
+  "notes": "NoSQL years entered 5 (not on file – matched his saved PostgreSQL 5; confirm)",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "HartleyCo",
+  "role": "Senior Software Engineer (Full Stack)",
+  "loc": "Redwood City, CA onsite",
+  "link": "https://www.linkedin.com/jobs/view/4487125562/",
+  "status": "APPLIED",
+  "notes": "US-institution bachelor's: No (factual); 2+ yrs: Yes; onsite Redwood City: Yes",
+  "ts": "2026-11-10T05:41"
+ },
+ {
+  "company": "dynamism",
+  "role": "Senior Full-Stack Engineer (Multiple)",
+  "loc": "San Francisco, CA",
+  "link": "https://www.linkedin.com/jobs/view/4488825837/",
+  "status": "APPLIED",
+  "notes": "certification question (urn 9702): No; Node 8; one 'We must fill this position u…' question was auto-answered Yes",
+  "ts": "2026-11-10T05:41"
  }
 ]
