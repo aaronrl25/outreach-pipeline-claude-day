@@ -1,0 +1,81 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Principal_Engineer_Application_Architect_Java_Spring_Boot_ReactJS",
+ "tagline": "Principal Engineer / Application Architect  ·  Java 17+, Spring Boot, ReactJS, REST APIs, Microservices  ·  Kafka, Event-Driven & Distributed Systems  ·  Kubernetes / OpenShift, DevSecOps, CI/CD  ·  Application Modernization",
+ "location": "Open to Plano, TX or Charlotte, NC (Hybrid)",
+ "summary": "Hands-on Principal Engineer and Application Architect with 10+ years of software engineering experience leading architecture, application modernization, and engineering strategy for enterprise platforms at Walmart Global Tech, IBM / American Electric Power, and HCSC. Expert in Java 17+, Spring Boot, ReactJS, REST APIs, and microservices on Oracle SQL and PostgreSQL with JPA / Hibernate. Designs distributed systems and event-driven architecture on Kafka for scalability, performance optimization, and security (OAuth2, OIDC, JWT, Spring Security). Drives solution design, technical standards, and enterprise governance; delivers through DevSecOps and CI/CD with Jenkins, SonarQube, Bitbucket, Kubernetes / OpenShift, and Helm. Mentors engineering teams, manages stakeholders, and leads root-cause analysis in complex production environments. Applies AI-enabled engineering and developer productivity solutions daily.",
+ "core_skills": [
+  [
+   "Java 17+, Spring Boot, Spring Security, JPA / Hibernate",
+   "ReactJS, TypeScript, JavaScript (ES6+), REST APIs"
+  ],
+  [
+   "Microservices, Distributed Systems, Event-Driven Architecture",
+   "Apache Kafka, Scalability, Performance Optimization"
+  ],
+  [
+   "Solution Design, Application Architecture, Technical Standards",
+   "Application Modernization, Enterprise Governance"
+  ],
+  [
+   "Security: OAuth2, OIDC, JWT, Spring Security, DevSecOps",
+   "CI/CD: Jenkins, SonarQube, Bitbucket, Automated Testing"
+  ],
+  [
+   "Kubernetes / OpenShift, Helm, Docker, AWS, Azure",
+   "Oracle SQL, PostgreSQL, Production Troubleshooting, RCA"
+  ],
+  [
+   "Technical Leadership, Mentoring, Stakeholder Management",
+   "AI-Enabled Engineering, Developer Productivity"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "ReactJS, TypeScript, JavaScript (ES6+), Next.js, Redux / Redux Toolkit, React Query, HTML5, CSS3, micro-frontends, design systems, accessibility (WCAG), Core Web Vitals",
+  "State & Data:": "Oracle SQL, PostgreSQL, SQL Server, MongoDB, Redis; JPA / Hibernate, data modeling, query and performance tuning",
+  "APIs & Backend:": "Java 17+, Spring Boot, Spring Framework / MVC, Spring Security, JPA / Hibernate, REST APIs, microservices, Apache Kafka, event-driven architecture, distributed systems, OAuth2, OIDC, JWT; Node.js / Express, GraphQL, WebSockets",
+  "Cloud & CI/CD:": "Kubernetes, Red Hat OpenShift, Helm, Docker, Jenkins, SonarQube, Bitbucket, Git / GitHub, GitHub Actions, Azure DevOps, CI/CD, DevSecOps; AWS (EKS, ECS / Fargate, Lambda, RDS, S3), Azure; Dynatrace",
+  "Testing & Quality:": "JUnit, Mockito, Jest, React Testing Library, Cypress, automated testing, code review, SonarQube quality gates, performance profiling, root-cause analysis",
+  "Process & Tools:": "Agile / Scrum, Jira, architecture and design documentation, enterprise governance, mentoring; AI-enabled engineering with Claude Code, GitHub Copilot, Cursor"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Staff Engineer",
+   "sub": "Remote · Seller Center – Marketplace Platform (Java / Spring Boot / ReactJS)",
+   "bullets": [
+    "Led architecture and solution design for Seller Center, Walmart's marketplace platform supporting billions in annual GMV: Java 17 / Spring Boot microservices and REST APIs with a ReactJS / TypeScript front end; established technical standards, design documentation, and code review protocols for a squad of 6+ engineers.",
+    "Designed event-driven integrations on Kafka across 6+ marketplace microservices for seller reporting and order reconciliation, with JPA / Hibernate persistence on Oracle SQL and PostgreSQL; secured services with Spring Security, OAuth2, OIDC, and JWT.",
+    "Drove DevSecOps delivery: CI/CD pipelines with automated JUnit, Jest, and React Testing Library gates and static code analysis; containerized services with Docker on Kubernetes and AWS; led production troubleshooting and root-cause analysis with Dynatrace; introduced AI-enabled engineering practices (Claude Code, GitHub Copilot) for developer productivity."
+   ]
+  },
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (Java / Spring Boot / ReactJS)",
+   "bullets": [
+    "Led a cross-functional team modernizing AEP's field operations platform: ReactJS (TypeScript) front ends integrated with 10+ Java / Spring Boot microservices over REST APIs, used by thousands of utility technicians; owned solution design, sprint planning, code reviews, and stakeholder communication.",
+    "Implemented authentication and authorization across the platform with Spring Security, OAuth2, OIDC, and JWT (role-based access); deployed Java and Node.js services to Kubernetes / Red Hat OpenShift with Helm charts; improved end-to-end response time by 40% through API payload optimization and caching.",
+    "Automated build and release pipelines with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM and led root-cause analysis on production incidents, cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "2": {
+   "sub": "Remote · Warehouse Management System (Java / Spring Boot / ReactJS)",
+   "bullets": [
+    "Delivered full stack features for Walmart's warehouse management system serving 500K+ daily active associates: Java / Spring Boot REST APIs and ReactJS (TypeScript) UI consuming real-time inventory events; drove architecture decisions across the service and UI codebase.",
+    "Designed automated testing infrastructure (JUnit, Jest, React Testing Library), raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines on Jenkins with Docker build agents.",
+    "Led performance optimization, cutting load time by 40% via request batching, API response caching, and bundle splitting; implemented Dynatrace across 3 applications, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  "3": {
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant ReactJS (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, and secure messaging over REST APIs with authenticated, encrypted sessions in a regulated, compliance-driven environment.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%.",
+    "Established automated unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  "5": {
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's Fulfillment-as-a-Service platform, on Java / Spring Boot microservices and REST APIs; led a team of 5 engineers in an Agile / Scrum delivery model.",
+    "Implemented a micro-frontend architecture enabling ReactJS modules to embed into existing applications, reducing new-feature integration time by 60%."
+   ]
+  }
+ }
+}
