@@ -24493,5 +24493,43 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-10 13:35 CST (store __postsP 89 → 146) + Groups + inbox"
+ },
+ {
+  "company": "Hrize (Bulbul Baliyan)",
+  "role": "AI Engineer – PDLC / Agentic AI: Python, Claude Agent SDK / OpenAI Agents SDK / LangGraph, MCP servers, daily Claude/Cursor/Copilot, AWS EKS/S3/IAM, Terraform, Helm, Docker, CI/CD; .NET/Angular/RAG a plus",
+  "loc": "TX / NC (hybrid, local candidates only)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "Not stated",
+  "posted": "2026-11-10",
+  "skills": "Python, LangGraph, MCP, Claude, AWS EKS, Terraform, Helm",
+  "visa": "Not stated",
+  "recruiter": "Bulbul Baliyan",
+  "contact": "bulbul.baliyan@hrize.us",
+  "link": "https://www.linkedin.com/in/bulbul-baliyan-8934b1386/",
+  "fit": "locals-asked → no location stated; Claude Agent SDK not claimed (Anthropic/OpenAI APIs + LangGraph stated)",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf",
+  "msg": "messages/579_hrize_bulbul_ai_engineer_pdlc_agentic_ai_tx_nc.txt",
+  "status": "SENT #579 – 2026-11-10 13:41 CST (Mensaje enviado; in:sent 144 KB)",
+  "src": "LinkedIn sweep 2026-11-10 13:40 CST (post 11m old)"
+ },
+ {
+  "company": "Skips 13:40 CST (posts newer than the other session's 13:35 pass): Sira .NET + React Lisle $55 (USC/H1B/H4/L2S, I-94 must show that status); Mountgraph Culver Full Stack Architect 15+; EdgeAll AppSec manager; Technical AI Product Manager ×2 (no email); Jupiter AI data/Snowflake ×3. Reply: Succor/Hema 13:37 on #578 – 'looking local candidates NYC' (left for Aaron).",
+  "role": "",
+  "loc": "",
+  "arr": "",
+  "type": "",
+  "pay": "",
+  "posted": "2026-11-10",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "",
+  "link": "",
+  "fit": "",
+  "resume": "",
+  "msg": "",
+  "status": "NOT SENT",
+  "src": "LinkedIn sweep 2026-11-10 13:40 CST (second session, store __postsN 189 → 211) + inbox"
  }
 ]

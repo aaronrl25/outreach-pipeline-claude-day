@@ -1,0 +1,19 @@
+To: bulbul.baliyan@hrize.us
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf
+Subject: AI Engineer – PDLC / Agentic AI – Aaron Ramirez (C2C)
+
+Hi Bulbul,
+
+I saw your post for the AI Engineer – PDLC / Agentic AI role and would like to be considered. My two-page resume is attached.
+
+- 10+ years of software engineering for Walmart Global Tech, IBM/AEP and HCSC, with agentic AI in production during 2025–2026: Python services, LangChain / LangGraph agent workflows on Anthropic Claude and OpenAI APIs, MCP tool servers and tool / function calling, RAG, prompt engineering, evaluation and guardrails.
+- Daily hands-on use of Claude Code and GitHub Copilot across the development lifecycle, with independent review and validation of generated code.
+- AWS deployments (EKS / Kubernetes, S3, IAM) with Terraform, Helm, Docker and CI/CD; C# / .NET and Angular on the application side.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and fine with the hybrid schedule.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
