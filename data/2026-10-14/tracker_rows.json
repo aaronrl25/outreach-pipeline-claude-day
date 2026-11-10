@@ -24341,5 +24341,24 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-10 11:50 CST (store __postsN 129 → 149) + inbox"
+ },
+ {
+  "company": "ASoftTek (bvineth@) – first send to this recruiter (domprakash@ posts were skipped 10-17/10-19)",
+  "role": "Sr. Frontend Engineer (React.js & React Native) – TypeScript, Redux Toolkit, Redux-Saga, reusable UI components, responsive UI, REST/auth, Jest/RNTL, AWS Amplify/Cognito, WebSocket real-time UI; 10–15 yrs",
+  "loc": "Remote – open to travel",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "Not stated",
+  "posted": "2026-11-10",
+  "skills": "React.js, React Native, TypeScript, Redux Toolkit, Redux-Saga, Jest, AWS Amplify/Cognito, WebSockets",
+  "visa": "Not stated",
+  "recruiter": "",
+  "contact": "bvineth@asofttek.com",
+  "link": "",
+  "fit": "core fit; subject line exactly as the post requires",
+  "resume": "Aaron_Ramirez_ASoftTek_Sr_Frontend_Engineer_ReactJS_React_Native_Remote.pdf",
+  "msg": "messages/574_asofttek_bvineth_sr_frontend_engineer_reactjs_react_native_remote.txt",
+  "status": "SENT #574 – 2026-11-10 12:32 CST (Mensaje enviado; in:sent 149 KB)",
+  "src": "Post text pasted by Aaron 2026-11-10 ~12:25 CST"
  }
 ]

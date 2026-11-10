@@ -1,0 +1,20 @@
+To: bvineth@asofttek.com
+Attach: /Users/aaronramirez/Projects/outreach-pipeline/data/2026-10-14/resumes/Aaron_Ramirez_ASoftTek_Sr_Frontend_Engineer_ReactJS_React_Native_Remote.pdf
+Subject: Sr. Frontend Engineer – React.js / React Native
+
+Hello,
+
+I saw your post for the Sr. Frontend Engineer (React.js & React Native) role, remote and open to travel, and would like to be considered. My two-page resume is attached.
+
+- 10+ years building React.js and React Native applications in TypeScript / JavaScript (ES6+) for Walmart Global Tech, IBM/AEP and HCSC, including React architecture standards, component lifecycle and rendering performance.
+- Redux Toolkit for application and shared state and Redux-Saga for API orchestration and asynchronous workflows; reusable, configurable UI components and responsive UI across desktop, tablet and mobile with HTML5 / CSS3.
+- REST API integration with authentication flows and error handling, and WebSocket real-time UI for live order, inventory and field-equipment status; AWS on the cloud side.
+- Unit and component testing with Jest, React Testing Library and React Native Testing Library; UI debugging and performance optimization with browser DevTools.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately, and travel is fine with me.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
