@@ -1,0 +1,32 @@
+{
+ "base": "web",
+ "tagline": "Full Stack Developer (Front-End Focused) · React.js, Next.js, TypeScript, Tailwind CSS · Reusable UI Components & Design Systems · Java / Spring Boot REST Services · Debugging & Performance",
+ "location": "",
+ "summary": "Front-end-focused Full Stack Developer with 10+ years building React applications for Walmart Global Tech, IBM/AEP, and HCSC: React 18, TypeScript, Hooks, Redux / Redux Toolkit, React Query, Next.js, and Tailwind CSS with reusable component libraries, accessibility (WCAG), and Core Web Vitals performance work on applications serving hundreds of thousands of daily users. Working knowledge of Java: integrates with and extends Java / Spring Boot REST services, reads and debugs service-layer code, and collaborates closely with backend engineers on API contracts, authentication (OAuth 2.0, JWT), and data models. Strong problem-solving and debugging across the stack with Chrome DevTools, Dynatrace, and structured logging; Jest, React Testing Library, and Cypress coverage above 80% in GitHub Actions and Jenkins CI/CD. Collaborative team member in Agile/Scrum squads; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "React.js, Next.js & TypeScript (Expert)",
+   "Tailwind CSS, Component Libraries, Design Systems"
+  ],
+  [
+   "Java / Spring Boot REST Integration (Working Knowledge)",
+   "REST APIs, GraphQL, OAuth 2.0 / JWT"
+  ],
+  [
+   "Debugging & Problem Solving: DevTools, Dynatrace",
+   "Performance: Core Web Vitals, Bundle Splitting"
+  ],
+  [
+   "Redux / Redux Toolkit, React Query, Hooks, Accessibility (WCAG)",
+   "Jest, React Testing Library, Cypress"
+  ],
+  [
+   "Agile/Scrum, Cross-Team Collaboration, Code Review",
+   "Claude Code, GitHub Copilot (daily)"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java / Spring Boot REST services (integration, debugging), Node.js/Express, REST APIs, GraphQL, WebSockets, microservices, PostgreSQL, MongoDB"
+ },
+ "name": "Aaron_Ramirez_Full_Stack_Developer_React_NextJS_TypeScript_Tailwind_Java"
+}

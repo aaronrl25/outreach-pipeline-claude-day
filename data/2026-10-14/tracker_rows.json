@@ -25082,5 +25082,24 @@
   "msg": "messages/598_photon_jani.txt",
   "status": "SENT #598 2026-11-11 13:45 CST; post pasted by Aaron; TN + C2C stated, onsite Dallas OK",
   "src": "Pasted post (Aaron)"
+ },
+ {
+  "company": "RITS (Sai Srikar Veeramalla) – 3rd RITS recruiter",
+  "role": "Full Stack Developer (Front end 70% / Java 30%) – React.js, Next.js, TypeScript, Tailwind, web components",
+  "loc": "Charlotte, NC / Chicago, IL",
+  "arr": "Not stated",
+  "type": "W2 (C2C not mentioned)",
+  "pay": "",
+  "posted": "2026-11-11",
+  "skills": "React.js, Next.js, TypeScript, Tailwind CSS, web components, Java",
+  "visa": "Not stated",
+  "recruiter": "Sai Srikar",
+  "contact": "Saisrikar.veeramalla@rits-it.com",
+  "link": "",
+  "fit": "Strong front end; Java at working-knowledge level. Web components not claimed.",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_React_NextJS_TypeScript_Tailwind_Java.pdf",
+  "msg": "messages/599_rits_saisrikar.txt",
+  "status": "SENT #599 2026-11-11 14:31 CST; screenshot from Aaron; same RITS req as #546 (Prasanthi 11-09), sent because Aaron pointed at it",
+  "src": "Aaron screenshot (LinkedIn post)"
  }
 ]
