@@ -1,0 +1,95 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet",
+ "tagline": "Senior Full Stack Developer  ·  React.js, TypeScript, Angular  ·  Python (FastAPI / Flask)  ·  C# / .NET (ASP.NET Core Web API)  ·  SQL & Data Validation  ·  Cypress / Playwright, WCAG Accessibility  ·  AWS / Azure, CI/CD",
+ "location": "",
+ "summary": "Senior Full Stack Engineer with 10+ years building production web platforms and leading engineering squads for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP, and HCSC. Back end in Python (FastAPI, Flask, Django), C# / .NET (ASP.NET Core Web API) and Node.js / Express microservices exposing REST and GraphQL APIs over PostgreSQL and MongoDB; front end in React.js, TypeScript, and Next.js (SSR, SSG, ISR) with Core Web Vitals performance work. Technical lead for squads of 5–6+ engineers: architecture standards, design documentation, code review, sprint planning, and mentoring. Deploys on AWS and Azure with Docker and GitHub Actions / Jenkins CI/CD; keeps quality high with PyTest, Jest, React Testing Library, and Cypress. Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "Python (FastAPI, Flask, Django), Pandas, PyTest",
+   "React.js, Next.js (SSR, SSG, ISR), TypeScript"
+  ],
+  [
+   "Technical Leadership: Squads of 5–6+ Engineers",
+   "Architecture Standards, Design Docs, Code Review"
+  ],
+  [
+   "REST APIs, Microservices, SQL, PostgreSQL, MongoDB",
+   "C# / .NET (ASP.NET Core Web API), Node.js, GraphQL"
+  ],
+  [
+   "AWS & Azure, Docker, GitHub Actions / Jenkins CI/CD",
+   "Mentoring, Sprint Planning, Agile/Scrum Delivery"
+  ],
+  [
+   "E-Commerce & Enterprise Platforms: Walmart, AEP, HCSC",
+   "Jest, React Testing Library, Cypress, Performance"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, Angular, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, design systems, design tokens, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "Testing & Quality:": "PyTest, Jest, React Testing Library, Cypress, Playwright, Detox, Supertest; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor (design-to-code, test generation, component scaffolding)",
+  "APIs & Backend:": "Python (FastAPI, Flask, Django), C# / .NET (ASP.NET Core, Web API), Node.js/Express, TypeScript, REST APIs, GraphQL, microservices, WebSockets/Socket.IO, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis"
+ },
+ "role_tweaks": {
+  "0": {
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led React / TypeScript and Python development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Built Python (FastAPI) services for seller reporting, order reconciliation, and agent orchestration alongside Node.js middleware over 6+ marketplace microservices (REST, WebSockets), including a GenAI seller-support assistant on the Claude API with LangChain tool-calling agents.",
+    "Shipped through GitHub Actions CI/CD with PyTest, Jest, React Testing Library, and Supertest gates; containerized React, Node.js, and Python services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  },
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led a cross-functional team delivering React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians; ran sprint planning, code reviews, and release coordination.",
+    "Developed Python (Flask / FastAPI) integration services and Pandas-based reconciliation jobs feeding work-order and crew dashboards; implemented JWT / role-based authorization and offline-tolerant sync; integrated Azure AI Services / Azure OpenAI to summarize and classify field notes.",
+    "Automated Azure DevOps pipelines with Docker agents and PyTest / Jest gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "2": {
+   "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library test infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents.",
+    "Optimized load time by 40% via bundle splitting, image caching, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  "3": {
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; built Python (Flask) mock and integration services plus claims and eligibility data-validation scripts for the member APIs; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest and PyTest testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  },
+  "4": {
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services and scripts for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  "5": {
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing applications, reducing new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  "7": {
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
+   "bullets": [
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ }
+}
