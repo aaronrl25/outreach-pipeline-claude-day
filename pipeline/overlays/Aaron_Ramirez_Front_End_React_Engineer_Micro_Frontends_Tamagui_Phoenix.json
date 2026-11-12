@@ -1,0 +1,52 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Front_End_React_Engineer_Micro_Frontends_Tamagui_Phoenix",
+ "tagline": "Front End React Engineer  ·  React 18, TypeScript, Redux Toolkit, React Query  ·  Modular Micro-Frontends: Independently Deployed React Modules  ·  Tamagui UI Framework, Design Systems, Component Libraries  ·  REST / GraphQL Integration, Performance, Testing, CI/CD",
+ "location": "Phoenix, AZ (onsite or hybrid works for me)  ·  Contract (C2C or W2)",
+ "summary": "Front End React Engineer with 10+ years of experience (7+ years hands-on React) leading front-end delivery for Walmart Global Tech, IBM/AEP, and HCSC. Builds modular front ends from independently developed and deployed React modules: Electrode Native micro-frontends at Walmart and Tamagui-based component frameworks at IBM/AEP and HCSC, the same modular model as American Express One App. Leads teams of 5–7 engineers on React.js applications in JavaScript (ES6+) and TypeScript: React Hooks, reusable component libraries and design systems, Redux / Redux Toolkit and Context API state management, and REST API integration with backend teams. Owns HTML5/CSS3 responsive layouts, Webpack/Vite/Babel/npm build tooling, Git workflows, and web performance optimization and browser debugging; keeps quality high with Jest, React Testing Library, and Cypress plus structured code reviews.",
+ "core_skills": [
+  [
+   "React.js, Hooks, Component Lifecycle, Reusable Components",
+   "JavaScript (ES6+) & TypeScript"
+  ],
+  [
+   "Modular Micro-Frontends: Independently Deployed React Modules",
+   "Tamagui UI Framework, Design Systems, Component Libraries"
+  ],
+  [
+   "Redux / Redux Toolkit, Context API, RTK Query",
+   "REST APIs & Front-End / Back-End Integration (Node.js, Java services)"
+  ],
+  [
+   "HTML5, CSS3, Responsive Design; Web Performance & Browser Debugging",
+   "Webpack, Vite, Babel, npm; Git Workflows; CI/CD"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Technical Leadership (teams of 5–7), Code Review, Mentoring"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "title": "Frontend Software Engineer · Tech Lead"
+  },
+  "1": {
+   "title": "Senior Software Engineer · UI Lead",
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform on the Tamagui UI framework with a shared, themed component library, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization flows (JWT, role-based access) and offline-tolerant data sync; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM (session replay, error tracking), cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "3": {
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application built with the Tamagui UI framework and serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; mentored 4 engineers in React, Redux Saga, and front-end best practices and introduced structured PR review that improved team velocity by 25%.",
+    "Established Jest-based unit testing standards, raising coverage from 45% to 85% and enabling continuous delivery through Jenkins CI/CD."
+   ]
+  }
+ },
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), Redux / Redux Toolkit, Zustand, Context API, React Hooks, React Query, D3.js, SVG, HTML5, CSS3, Tailwind, Styled Components, Tamagui, micro-frontends (Electrode Native), design systems, accessibility (WCAG), Core Web Vitals"
+ }
+}
