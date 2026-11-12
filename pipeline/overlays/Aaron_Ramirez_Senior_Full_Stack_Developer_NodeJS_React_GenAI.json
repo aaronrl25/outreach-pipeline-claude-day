@@ -1,0 +1,34 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_Full_Stack_Developer_NodeJS_React_GenAI",
+ "tagline": "Senior Full Stack Developer  ·  Node.js / TypeScript, Java / Spring Boot  ·  React & Angular  ·  AWS Cloud (Lambda, ECS, API Gateway, S3)  ·  Generative AI / LLM Integration (RAG, Agents)  ·  CI/CD, DevOps & Microservices",
+ "location": "",
+ "summary": "Senior Full Stack Developer with 10+ years building cloud-native web platforms for Walmart Global Tech, IBM/AEP, and HCSC. React and Angular front ends on Node.js / TypeScript and Java / Spring Boot microservices with REST and GraphQL APIs, PostgreSQL / Aurora and MongoDB data, and Kafka messaging, deployed on AWS (Lambda, API Gateway, ECS/Fargate, S3, Cognito, RDS) with Docker and GitHub Actions / Jenkins CI/CD. Integrates Generative AI into products: LLM APIs (Claude, OpenAI), retrieval-augmented generation, embeddings and vector search, tool-calling agents, evaluation and guardrails with LangChain and Python/FastAPI services, and uses Claude Code and GitHub Copilot daily. Strong on DevOps practices, observability (Dynatrace), performance, and testing (Jest, React Testing Library, Supertest, Cypress above 80% coverage); mentors engineers and leads design and code reviews in Agile/Scrum teams.",
+ "core_skills": [
+  [
+   "Node.js / TypeScript (Express, NestJS), Java / Spring Boot",
+   "React.js, Next.js, Angular, TypeScript, Redux Toolkit"
+  ],
+  [
+   "AWS: Lambda, API Gateway, ECS/Fargate, S3, Cognito, RDS",
+   "Microservices, REST / GraphQL, Kafka / MSK, Event-Driven"
+  ],
+  [
+   "Generative AI: Claude & OpenAI APIs, RAG, Agents, LangChain",
+   "Vector Search / Embeddings, Prompt Evaluation, Guardrails"
+  ],
+  [
+   "CI/CD & DevOps: GitHub Actions, Jenkins, Docker, IaC (CDK)",
+   "PostgreSQL / Aurora, MongoDB, Redis, Prisma"
+  ],
+  [
+   "Testing: Jest, RTL, Supertest, Cypress (80%+ coverage)",
+   "Observability (Dynatrace), Code Review, Mentoring"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js (Vite, Next.js), Angular (TypeScript, RxJS), JavaScript (ES6+), TypeScript, Redux / Redux Toolkit, React Query, React Hooks, HTML5, CSS3, Tailwind, design systems, accessibility (WCAG), Core Web Vitals",
+  "APIs & Backend:": "Node.js / TypeScript (Express, NestJS, Fastify), Java / Spring Boot, REST APIs, GraphQL, WebSockets, microservices, Kafka, PostgreSQL / Aurora, Prisma ORM, MongoDB, Redis; GenAI: Claude & OpenAI APIs, LangChain, RAG, vector databases (pgvector, Pinecone), Python / FastAPI services",
+  "Cloud & CI/CD:": "AWS (Lambda, API Gateway, ECS/Fargate, S3, Cognito, RDS/Aurora, MSK/Kafka, CloudFront, CDK/CloudFormation), Azure (App Service, DevOps); GitHub Actions, Jenkins, Docker, Kubernetes basics, Dynatrace"
+ }
+}
