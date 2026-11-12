@@ -1,0 +1,67 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_Front_End_Developer_React_TypeScript_Zustand_Accessibility",
+ "tagline": "Senior Front-End Developer  ·  React (Hooks, Memoization, Render Performance), TypeScript, Vite  ·  State Management at Scale: Zustand, Redux Toolkit  ·  Interactive Canvas & SVG Graphics (D3.js)  ·  Accessibility: WCAG 2.1 AA, ARIA, Keyboard & Screen Readers  ·  AI-Assisted Development (Claude Code)",
+ "location": "",
+ "summary": "Senior front-end developer with 10+ years building React and TypeScript applications for Walmart Global Tech, IBM/AEP, HCSC, and IoT and delivery startups. Deep in the React render model: hooks discipline, memoization, effect timing, and profiling re-renders in data-dense, real-time interfaces fed by WebSockets. 6+ years shipping interactive graphics with D3.js, SVG, and Canvas, rendering Canvas for 100K+ point datasets and keeping them fast with virtualization, memoized selections, and Web Workers. Keeps large state models coherent with Zustand, Redux Toolkit, and React Query. Treats accessibility as a core requirement: semantic HTML, ARIA, full keyboard operation, focus management, and screen-reader testing (JAWS, NVDA, VoiceOver, axe) to WCAG 2.1 AA and Section 508. TypeScript, Vite, and behavior-focused tests with Jest, React Testing Library, and Cypress, shipped through GitHub Actions and Azure DevOps CI/CD. Uses Claude Code and GitHub Copilot daily: breaks work into well-specified tasks, reviews generated code closely, and sets conventions for the team.",
+ "core_skills": [
+  [
+   "React.js (Hooks, Context, Suspense), TypeScript, JavaScript (ES6+), Vite",
+   "Render Performance: Profiling, Memoization, Virtualization, Web Workers"
+  ],
+  [
+   "State Management at Scale: Zustand, Redux Toolkit, React Query",
+   "Interactive Graphics: Canvas, SVG, D3.js (zoom, brush, force, transition)"
+  ],
+  [
+   "Accessibility: WCAG 2.1 AA, Section 508, ARIA, Focus Management",
+   "Keyboard & Screen-Reader Testing: JAWS, NVDA, VoiceOver, axe"
+  ],
+  [
+   "Real-Time Data: WebSockets / Socket.IO, Streaming Updates",
+   "Design Systems, Storybook, Responsive UI for Low-End Devices"
+  ],
+  [
+   "Testing: Jest, React Testing Library, Cypress (80%+ coverage)",
+   "AI-Assisted Development: Claude Code, GitHub Copilot; Code Review"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, TypeScript, JavaScript (ES6+), D3.js (d3-scale, d3-shape, d3-axis, d3-zoom, d3-brush, d3-force, d3-geo, d3-transition), SVG, Canvas, Recharts, Plotly, Chart.js, Mapbox GL, Leaflet, Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3, Tailwind, Styled Components, Storybook, accessibility (WCAG), Core Web Vitals"
+ },
+ "role_tweaks": {
+  "0": {
+   "title": "Frontend Software Engineer · Data Visualization Lead",
+   "bullets": [
+    "Led React / TypeScript front-end development for Seller Center, Walmart's marketplace platform (billions in annual GMV); set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Built Seller Center's interactive analytics in D3.js and SVG: zoomable sales and order-volume timelines with brushing, geographic choropleth and point maps of orders by region (d3-geo, TopoJSON), price-vs-conversion scatter plots, and linked charts with cross-filtering, all updating live from Socket.IO/WebSockets and REST microservices; Canvas rendering for 100K+ point views.",
+    "Shipped through GitHub Actions CI/CD with Jest, React Testing Library, and Cypress gates (visual regression on chart snapshots); monitored platform health in Dynatrace."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Led a cross-functional team implementing React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians nationwide.",
+    "Built the platform's D3.js/SVG operations views: a geographic map of crews, outages, and work orders over the service territory (GeoJSON, clustering, zoom/pan), crew-schedule timelines, and linked charts that filter the map and tables together; integrated Azure AI Services to summarize and classify field notes.",
+    "Automated build and release pipelines in Azure DevOps with Docker-based agents and automated test gates in two-week Scrum sprints; instrumented Dynatrace APM, cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "2": {
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, including interactive D3.js/SVG warehouse floor maps, shipment timelines, and throughput scatter plots driven by real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; build and release pipelines ran on Jenkins and GitHub with Docker-based build agents.",
+    "Optimized load time by 40% via bundle splitting, Canvas fallbacks for dense charts, list virtualization, and network request batching; implemented Dynatrace across 3 apps, cutting MTTR by 50% on critical incidents."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Node.js and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with a live D3.js/SVG dispatch map (driver locations, routes, ETAs) and delivery timelines over push and WebSocket updates on a Node.js/Express backend on AWS."
+   ]
+  },
+  "7": {
+   "bullets": [
+    "Built React clients with a Node.js RESTful backend streaming real-time IoT asset location over WebSockets, rendered as D3.js/SVG maps, sensor timelines, and anomaly scatter plots; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ }
+}

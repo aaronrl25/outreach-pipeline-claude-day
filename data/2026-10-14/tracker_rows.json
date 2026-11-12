@@ -25975,5 +25975,24 @@
   "msg": "messages/612_jasvik_kevin_java_full_stack_developer.txt",
   "status": "SENT #612 2026-11-12 11:07 CST; Groups; references the October .NET email; phone emailed to Aaron",
   "src": "C2C Groups"
+ },
+ {
+  "company": "Inherent Technologies (Bhanu Pratap, 520 495 0058) – 2nd Inherent contact after Danish 11-02; inbound email pasted by Aaron",
+  "role": "Senior Front-End Developer – React 19, Three.js / React Three Fiber (weighted most), Zustand, accessibility, Claude Code; client via HCL; 1 yr",
+  "loc": "Hoboken, NJ (remote)",
+  "arr": "Remote",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-11-12",
+  "skills": "",
+  "visa": "",
+  "recruiter": "Bhanu Pratap",
+  "contact": "bhanu@inherenttech.com",
+  "link": "",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Senior_Front_End_Developer_React_TypeScript_Zustand_Accessibility.pdf",
+  "msg": "messages/613_inherent_bhanu_senior_front_end_react_r3f_remote.txt",
+  "status": "SENT #613 2026-11-12 11:31 CST; reply on his thread 11:31 CST after Aaron said 'answer him'; Three.js / R3F NOT claimed (Aaron did not confirm experience) – led with React render performance, Canvas/SVG/D3, Zustand, accessibility, Claude Code; new overlay",
+  "src": "Inbound email (Aaron paste)"
  }
 ]
