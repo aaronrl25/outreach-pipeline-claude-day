@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_DotNet_Full_Stack_Developer_Angular",
+ "tagline": "Senior .NET / Angular Developer  ·  C# / .NET (ASP.NET Core, Web API), Angular, TypeScript  ·  Azure DevOps CI/CD, AWS Cloud Migration  ·  TDD, Playwright Integration Testing, Process-Oriented Agile",
+ "location": "",
+ "summary": "Senior .NET / Angular Developer with 10+ years building and maintaining scalable web applications for Walmart Global Tech, IBM/AEP and HCSC: Angular (TypeScript, RxJS, NgRx) front ends on C# / .NET (ASP.NET Core, Web API, Entity Framework) services, delivered through Azure DevOps pipelines and migrated to AWS (ECS/Fargate, Lambda, RDS, S3). Works test-first (TDD with xUnit and Jest) with Playwright end-to-end and integration suites, follows process-oriented Agile delivery, and takes ownership of technical tasks with minimal supervision. Clear communicator with cross-functional teams; GitHub Copilot and Claude Code in daily use.",
+ "core_skills": [
+  [
+   "C# / .NET (ASP.NET Core, Web API, Entity Framework)",
+   "Angular, TypeScript, RxJS, NgRx, Angular Material"
+  ],
+  [
+   "Azure DevOps (Pipelines, Releases, Boards, Repos)",
+   "AWS Cloud Migration: ECS/Fargate, Lambda, RDS, S3"
+  ],
+  [
+   "Test-Driven Development: xUnit, Jest",
+   "Playwright Integration & E2E Testing, Cypress"
+  ],
+  [
+   "REST APIs, Microservices, SQL Server / PostgreSQL",
+   "Agile/Scrum, Process-Oriented Delivery, Code Review"
+  ],
+  [
+   "React.js & Node.js",
+   "GitHub Copilot, Claude Code, Cursor"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "C# / .NET (ASP.NET Core, Web API, Entity Framework), REST APIs, microservices, Node.js/Express, Java / Spring Boot, SQL Server, PostgreSQL, MongoDB",
+  "Front End:": "Angular (TypeScript, RxJS, NgRx, Angular Material), React.js, Next.js, Redux Toolkit, HTML5, CSS3/SCSS, Tailwind, accessibility (WCAG), Core Web Vitals",
+  "Cloud & CI/CD:": "Azure DevOps (pipelines, releases, boards), Microsoft Azure (App Service, Functions, Azure SQL), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront) cloud migration, GitHub Actions, Jenkins, Docker, Dynatrace",
+  "Testing & Quality:": "TDD: xUnit, Jest, React Testing Library; Playwright, Cypress, Supertest; code review, performance profiling, Lighthouse"
+ }
+}
