@@ -26066,5 +26066,41 @@
   "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf",
   "msg": "messages/617_donato_sandy_java_full_stack_menands_ny.txt",
   "status": "SENT #617 2026-11-12 15:50 CST; post rate $55/hr C2C – rate left open; LinkedIn URL in body as the post requires; no location stated, onsite + in-person round OK"
+ },
+ {
+  "company": "Staffworxs (Saranya A)",
+  "role": "Senior Python Full Stack Developer – Django/Flask/FastAPI, React or Angular, PostgreSQL/MongoDB/Redis, AWS/Azure/GCP, Docker/K8s; 10+ yrs",
+  "loc": "United States (location not stated)",
+  "arr": "",
+  "type": "W2 (C2C not mentioned)",
+  "pay": "",
+  "posted": "2026-11-13",
+  "skills": "",
+  "visa": "",
+  "recruiter": "Saranya A",
+  "contact": "saranyaa@staffworxs.com",
+  "link": "https://www.linkedin.com/in/saranya-a-a17393226/",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf",
+  "msg": "messages/618_staffworxs_saranya_senior_python_full_stack_w2.txt",
+  "status": "SENT #618 2026-11-13 08:48 CST; W2-only post → W2 rule, no C2C/employer mention; TN stated; Kubernetes not claimed in the email"
+ },
+ {
+  "company": "Miracle Software Systems (Swetha Kolli, 248-412-0232)",
+  "role": "Senior Full Stack Developer – Java/Spring Boot, React, GCP, Jenkins CI/CD, Terraform, TDD/BDD; 8+ yrs",
+  "loc": "Michigan (hybrid, locals only)",
+  "arr": "Hybrid",
+  "type": "W2 (C2C not mentioned)",
+  "pay": "",
+  "posted": "2026-11-13",
+  "skills": "",
+  "visa": "",
+  "recruiter": "Swetha Kolli",
+  "contact": "skolli4@miraclesoft.com",
+  "link": "https://www.linkedin.com/in/swetha-kolli-776582235/",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Senior_Java_Full_Stack_Developer_React_GenAI.pdf",
+  "msg": "messages/619_miracle_swetha_senior_full_stack_java_react_michigan_w2.txt",
+  "status": "SENT #619 2026-11-13 08:48 CST; W2-only + locals-asked → no C2C, no location stated; GCP and Terraform not claimed in the email; first Miracle send (earlier Java/Angular/GCP Dearborn posts skipped); phone emailed to Aaron"
  }
 ]
