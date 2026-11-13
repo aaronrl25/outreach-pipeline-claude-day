@@ -1,0 +1,34 @@
+{
+ "base": "mobile",
+ "tagline": "Mobile Lead Developer  ·  React Native, iOS & Android, TypeScript  ·  Mobile Architecture, Release Engineering, Team Leadership",
+ "location": "",
+ "summary": "Hands-on Mobile Lead Developer with 10+ years in software engineering and 6+ years building and supporting high-volume consumer and enterprise mobile applications across iOS and Android at Walmart Global Tech (500K+ daily users), HCSC (1M+ members), and IBM/AEP. Owns mobile architecture, coding standards, reusable components, and technical-debt reduction while staying active in design, code review, and troubleshooting; leads production support with crash analytics (Dynatrace, Crashlytics), log and trace analysis, and root-cause fixes that raised crash-free sessions to 99.9%. Deep in React Native internals (native modules and bridging, Hermes, Metro, Gradle, Xcode), secure auth and token handling, push notifications, deep links, payments and analytics SDKs, and release engineering through App Store Connect and Google Play with phased rollouts and feature flags. Mentors onshore and offshore engineers and coordinates with product, backend, QA, DevOps, and security teams through releases and hypercare.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript, Hooks, Navigation",
+   "Native Modules, Bridging / TurboModules, Hermes, Metro"
+  ],
+  [
+   "Technical Leadership: Roadmap, Standards, Code Review",
+   "Production Support: Triage, RCA, Crash & Log Analysis"
+  ],
+  [
+   "Release Engineering: Signing, Feature Flags, Phased Rollout, App Store & Play",
+   "Mobile Security: Secure Storage, Token Mgmt, OWASP Mobile"
+  ],
+  [
+   "REST APIs, Auth/SSO, Deep Links, Push, Payments & Analytics SDKs",
+   "Jest, RN Testing Library, Detox, Appium; CI/CD Pipelines"
+  ],
+  [
+   "Performance: Startup, Responsiveness, Memory, Network",
+   "Onshore / Offshore Mentoring, Agile Estimation & Planning"
+  ]
+ ],
+ "role_tweaks": {},
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), TypeScript, native modules and bridging / TurboModules (Swift, Kotlin), Hermes, Metro, Gradle, Xcode, Electrode Native micro-frontends, deep links, push notifications, payments and analytics SDKs, offline sync, performance profiling",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Appium, Supertest; Dynatrace, Firebase Crashlytics, Sentry; Agile/Scrum, Jira, release planning, hypercare, onshore/offshore coordination, mentoring, Claude Code, Cursor"
+ },
+ "name": "Aaron_Ramirez_Mobile_Lead_Developer_React_Native_iOS_Android"
+}
