@@ -51,7 +51,8 @@
     "Implemented and deployed an enterprise-level agentic GenAI seller-support assistant for Seller Center (500K+ daily users, billions in annual GMV): LangChain / LangGraph tool-calling agents over the Claude API with intent routing, structured JSON outputs, evaluation sets, and guardrails; deflected a large share of tier-1 support contacts.",
     "Built the RAG architecture behind it: ingestion and chunking of policy and catalog documents, embeddings stored in a pgvector vector database on PostgreSQL, and retrieval with source citations, exposed through Python (FastAPI) REST APIs with streaming responses to the React front end.",
     "Deployed the LLM services in Docker containers on GCP (Cloud Run, Vertex AI) and AWS ECS/Fargate through GitHub Actions CI/CD with PyTest gates; built internal AI productivity agents (code review, test generation, documentation) with LangGraph and MCP tools; set architecture and code review standards for a squad of 6+ engineers."
-   ]
+   ],
+   "title": "Staff Engineer"
   },
   "1": {
    "sub": "Remote · Enterprise Field Operations Platform (Python / Generative AI / ML / Document AI)",
