@@ -1,0 +1,104 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Full_Stack_Developer_Python_React_Cupertino",
+ "tagline": "Lead Full Stack Developer  ·  Python (FastAPI / Flask / Django), React / Next.js  ·  REST / GraphQL APIs, PostgreSQL, Redis, Celery / RQ  ·  Docker, Kubernetes, Jenkins, AWS / GCP / Azure, GenAI",
+ "location": "San Francisco Bay Area, CA  ·  Available onsite in Cupertino, CA",
+ "summary": "Lead Full Stack Developer with 10+ years building and maintaining scalable, responsive web applications for Walmart Global Tech (Seller Center marketplace, billions in annual GMV), IBM/AEP, and HCSC. Back end in Python (FastAPI, Flask, Django) exposing REST and GraphQL APIs, with asynchronous processing and task queues (Celery, RQ), PostgreSQL (schema design, queries, migrations, optimization), and Redis (caching, pub/sub, background tasks); front end in React / Next.js, JavaScript (ES6+), HTML5, and CSS3 with responsive design. Ships through Git, Jenkins, Docker / Docker Compose, and Kubernetes with automated build and deployment pipelines on AWS, GCP, and Azure. Builds GenAI features in production (LLM APIs, RAG, agents). Unit testing with PyTest and Jest, best coding practices, and Agile/Scrum delivery leading squads of 5–6+ engineers.",
+ "core_skills": [
+  [
+   "Python (FastAPI, Flask, Django), REST / GraphQL APIs",
+   "React / Next.js, JavaScript (ES6+), HTML5, CSS3, Responsive Design"
+  ],
+  [
+   "Async Processing & Task Queues: Celery, RQ",
+   "PostgreSQL: Schema Design, Queries, Migrations, Optimization"
+  ],
+  [
+   "Redis: Caching, Pub/Sub, Background Tasks",
+   "Git, Jenkins, Docker & Docker Compose, Kubernetes"
+  ],
+  [
+   "Automated Build & Deployment Pipelines (CI/CD)",
+   "Cloud Platforms: AWS, GCP, Azure"
+  ],
+  [
+   "GenAI: LLM APIs, RAG, Agents (LangChain / LangGraph)",
+   "Unit Testing (PyTest, Jest), Agile/Scrum, Team Leadership"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, responsive design, Redux Toolkit, React Query, Tailwind, accessibility (WCAG 2.1)",
+  "Testing & Quality:": "Unit testing with PyTest, Jest, and React Testing Library; Cypress; code review, best coding practices, performance profiling",
+  "Process & Tools:": "Agile/Scrum, Jira, Git/GitHub, mentoring; GenAI: Claude API, OpenAI API, Azure OpenAI, LangChain, RAG; Claude Code, Cursor",
+  "APIs & Backend:": "Python (FastAPI, Flask, Django), REST APIs, GraphQL, async processing and task queues (Celery, RQ), PostgreSQL (schema design, queries, migrations, optimization), Redis (caching, pub/sub, background tasks), Node.js/Express, WebSockets, microservices",
+  "Cloud & CI/CD:": "Git, Jenkins, Docker and Docker Compose, Kubernetes, GitHub Actions, Azure DevOps, automated build and deployment pipelines; AWS (ECS/Fargate, Lambda, RDS, S3), GCP (Cloud Run, GKE, BigQuery), Azure (App Service, AI Services); Dynatrace",
+  "State & Data:": "PostgreSQL, Redis, MongoDB, SQL, Pandas, data validation and reconciliation pipelines"
+ },
+ "role_tweaks": {
+  "0": {
+   "sub": "Remote · Seller Center – Marketplace Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led React / Next.js and Python development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, best coding practices, and code review for a cross-functional squad of 6+ engineers in Agile/Scrum.",
+    "Built Python (FastAPI) REST / GraphQL services for seller reporting and order reconciliation with Celery task queues on Redis for asynchronous processing, Redis caching and pub/sub, and PostgreSQL schema design, migrations, and query optimization; shipped a GenAI seller-support assistant (Claude API, LangChain agents, RAG).",
+    "Shipped through Git, Jenkins, and GitHub Actions automated build and deployment pipelines with PyTest and Jest unit-test gates; containerized services with Docker / Docker Compose and deployed on Kubernetes (GKE on GCP) and AWS ECS/Fargate with RDS PostgreSQL; monitored performance and scalability in Dynatrace."
+   ],
+   "title": "Staff Engineer"
+  },
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led a cross-functional team delivering React (TypeScript) front ends for AEP's field operations platform, integrating 10+ microservice REST APIs and complex data-entry workflows used by thousands of utility technicians; ran sprint planning, code reviews, and release coordination.",
+    "Developed Python (Flask / FastAPI) integration services with RQ background jobs on Redis and Pandas reconciliation jobs over PostgreSQL feeding work-order and crew dashboards; implemented JWT / role-based authorization; integrated Azure OpenAI (GenAI) to summarize and classify field notes.",
+    "Automated Azure DevOps build and deployment pipelines with Docker agents and PyTest / Jest gates, deploying to Kubernetes in two-week Scrum sprints; instrumented Dynatrace APM, cutting P1 mean time to resolution by 50%."
+   ]
+  },
+  "2": {
+   "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs on GCP and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library unit testing infrastructure, raising code coverage to 80%+ and cutting production regressions by 35%; optimized load time by 40% with bundle splitting and Redis-backed API caching; pipelines on Jenkins and Git with Docker build agents."
+   ]
+  },
+  "3": {
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React member application serving 1M+ Blue Cross Blue Shield of Illinois members (digital ID cards, claims, provider search, secure messaging) over REST APIs; built Python (Flask) integration services and data-validation scripts; mentored 4 engineers and raised test coverage from 45% to 85% with Jest and PyTest."
+   ]
+  },
+  "4": {
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily with barcode scanning that improved inventory accuracy by 25%; wrote Python (Flask, Pandas) services on GCP for inventory data validation and reporting; real-time WebSocket sync with Walmart's SAP backend at 99.9% crash-free sessions."
+   ]
+  },
+  "5": {
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist over Node.js and Python REST services on GCP, leading a team of 5 engineers in Agile/Scrum; implemented a micro-frontend architecture that cut new-feature integration time by 60%."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends on GCP for clients in three countries, including a gas delivery tracking platform (300+ daily deliveries, Docker on AWS) and a wine e-commerce storefront that drove 120% year-over-year sales growth."
+   ]
+  },
+  "7": {
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
+   "bullets": [
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ },
+ "roles_prepend": [
+  {
+   "title": "Lead Full Stack Engineer",
+   "company": "Lidia  (Contract)",
+   "dates": "Jun 2026 – Present",
+   "sub": "Remote · Central de Abastos – AI Wholesale Marketplace App (React / Python / GenAI)",
+   "bullets": [
+    "Lead engineer for Lidia's Central de Abastos AI application for wholesale food-market vendors and buyers: responsive React / Next.js front end over Python (FastAPI) REST APIs with PostgreSQL and Redis caching.",
+    "Built GenAI features on LLM APIs for product search, pricing, and order assistance, with asynchronous background tasks on Celery; containerized with Docker / Docker Compose and deployed to the cloud through automated CI/CD pipelines with PyTest and Jest unit tests."
+   ]
+  }
+ ]
+}
