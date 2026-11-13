@@ -8,18 +8,19 @@
    "bullets": [
     "Implemented and deployed an enterprise-level agentic GenAI seller-support assistant for Seller Center (500K+ daily users, billions in annual GMV): LangChain / LangGraph tool-calling agents over the Claude API with intent routing, structured JSON outputs, evaluation sets, and guardrails; deflected a large share of tier-1 support contacts.",
     "Built the RAG architecture behind it: ingestion and chunking of policy and catalog documents, embeddings stored in a pgvector vector database on PostgreSQL, and retrieval with source citations, exposed through Python (FastAPI) REST APIs with streaming responses to the React front end.",
-    "Deployed the LLM services in Docker containers on AWS ECS/Fargate through GitHub Actions CI/CD with PyTest gates; built internal AI productivity agents (code review, test generation, documentation) with LangGraph and MCP tools; set architecture and code review standards for a squad of 6+ engineers."
+    "Deployed the LLM services in Docker containers on GCP (Cloud Run, Vertex AI) and AWS ECS/Fargate through GitHub Actions CI/CD with PyTest gates; built internal AI productivity agents (code review, test generation, documentation) with LangGraph and MCP tools; set architecture and code review standards for a squad of 6+ engineers."
    ]
   },
   {
    "title": "Senior Software Engineer",
    "company": "IBM / American Electric Power  (Contract)",
    "dates": "Mar 2025 – Jan 2026",
-   "sub": "Remote · Enterprise Field Operations Platform (Python / Azure OpenAI / React)",
+   "sub": "Remote · Enterprise Field Operations Platform (Python / Generative AI / ML / Document AI)",
    "bullets": [
-    "Integrated Azure OpenAI and Azure AI Services NLP into AEP's field operations platform to classify and summarize technician field notes, extract structured work-order data, and route work orders automatically, reducing manual triage time for thousands of utility technicians.",
-    "Developed Python (Flask / FastAPI) integration services and Pandas / SQL reconciliation jobs feeding work-order and crew dashboards over 10+ microservice REST APIs; implemented JWT / role-based authorization.",
-    "Automated Azure DevOps pipelines with Docker agents and PyTest gates; instrumented Dynatrace APM and led root-cause analysis on P1 incidents, cutting mean time to resolution by 50%."
+    "Implemented Generative AI across AEP's field operations platform: Azure OpenAI and OpenAI API pipelines that classify and summarize technician field notes, extract structured work-order data, and route work orders automatically for thousands of utility technicians.",
+    "Fine-tuned open-source LLMs (Llama, Mistral) with PyTorch and Hugging Face Transformers (LoRA / PEFT) for utility-domain classification and extraction; built multi-agent workflows with CrewAI and LangGraph and RAG over FAISS and pgvector vector databases of embeddings.",
+    "Delivered a Document AI / OCR extraction solution (Azure AI Document Intelligence) turning scanned work orders, inspection forms, and invoices into validated structured JSON output; built Streamlit and Flask UIs and FastAPI REST APIs in Docker containers for reviewers and model demos.",
+    "Applied supervised and unsupervised machine learning, deep learning, reinforcement learning, and NLP in Python (PyTorch, scikit-learn, Pandas, SQL) for work-order prioritization, anomaly detection, and crew scheduling; led root-cause analysis on P1 incidents with Dynatrace, cutting MTTR by 50%."
    ]
   },
   {
@@ -28,7 +29,7 @@
    "dates": "Aug 2024 – Feb 2025",
    "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
    "bullets": [
-    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs and real-time inventory events over WebSockets.",
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs on GCP (GKE, BigQuery) and real-time inventory events over WebSockets.",
     "Designed Jest and React Testing Library test infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents."
    ]
   },
@@ -49,7 +50,7 @@
    "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
    "bullets": [
     "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
-    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services and scripts for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services on GCP (Cloud Run, BigQuery) for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
    ]
   },
   {
@@ -58,7 +59,7 @@
    "dates": "Nov 2021 – Oct 2022",
    "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
    "bullets": [
-    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services on GCP, leading a team of 5 engineers in an Agile/Scrum delivery model.",
     "Implemented a micro-frontend architecture that reduced new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
    ]
   },
@@ -68,7 +69,7 @@
    "dates": "Oct 2018 – Nov 2021",
    "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
    "bullets": [
-    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends for clients in three countries.",
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends on GCP (Cloud Run, Cloud Functions, Cloud SQL) for clients in three countries.",
     "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
    ]
   },
@@ -141,5 +142,6 @@
    "Machine Learning, Deep Learning, NLP",
    "Cloud: Azure, AWS, GCP; CI/CD; Root-Cause Analysis"
   ]
- ]
+ ],
+ "edu": "B.S. Computer Systems Engineering  ·  Universidad España y México  ·  Puebla, Mexico  ·  Accelerate AI Residency"
 }
