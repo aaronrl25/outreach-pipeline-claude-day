@@ -1,0 +1,145 @@
+{
+ "roles": [
+  {
+   "title": "Frontend Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Jan 2026 – Jun 2026",
+   "sub": "Remote · Seller Center – Marketplace Platform (Generative AI / Python / React)",
+   "bullets": [
+    "Implemented and deployed an enterprise-level agentic GenAI seller-support assistant for Seller Center (500K+ daily users, billions in annual GMV): LangChain / LangGraph tool-calling agents over the Claude API with intent routing, structured JSON outputs, evaluation sets, and guardrails; deflected a large share of tier-1 support contacts.",
+    "Built the RAG architecture behind it: ingestion and chunking of policy and catalog documents, embeddings stored in a pgvector vector database on PostgreSQL, and retrieval with source citations, exposed through Python (FastAPI) REST APIs with streaming responses to the React front end.",
+    "Deployed the LLM services in Docker containers on AWS ECS/Fargate through GitHub Actions CI/CD with PyTest gates; built internal AI productivity agents (code review, test generation, documentation) with LangGraph and MCP tools; set architecture and code review standards for a squad of 6+ engineers."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "IBM / American Electric Power  (Contract)",
+   "dates": "Mar 2025 – Jan 2026",
+   "sub": "Remote · Enterprise Field Operations Platform (Python / Azure OpenAI / React)",
+   "bullets": [
+    "Integrated Azure OpenAI and Azure AI Services NLP into AEP's field operations platform to classify and summarize technician field notes, extract structured work-order data, and route work orders automatically, reducing manual triage time for thousands of utility technicians.",
+    "Developed Python (Flask / FastAPI) integration services and Pandas / SQL reconciliation jobs feeding work-order and crew dashboards over 10+ microservice REST APIs; implemented JWT / role-based authorization.",
+    "Automated Azure DevOps pipelines with Docker agents and PyTest gates; instrumented Dynatrace APM and led root-cause analysis on P1 incidents, cutting mean time to resolution by 50%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Aug 2024 – Feb 2025",
+   "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library test infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents."
+   ]
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "Infosys / Health Care Service Corporation (HCSC)  (Contract)",
+   "dates": "Feb 2024 – Jun 2024",
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; built Python (Flask) mock and integration services plus claims and eligibility data-validation scripts for the member APIs; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%."
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2022 – Jan 2024",
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services and scripts for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  {
+   "title": "Full Stack Engineer",
+   "company": "Walmart Global Tech  (Contract)",
+   "dates": "Nov 2021 – Oct 2022",
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented a micro-frontend architecture that reduced new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
+   ]
+  },
+  {
+   "title": "Lead Engineer",
+   "company": "Eurybia Studio",
+   "dates": "Oct 2018 – Nov 2021",
+   "sub": "Puebla, Mexico · Restaurant Tech, On-Demand Delivery & E-Commerce Clients (Mexico, U.S., France)",
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  {
+   "title": "Mobile Software Engineer",
+   "company": "Roambee  (IoT Startup, Santa Clara, CA)",
+   "dates": "Jun 2017 – Oct 2018",
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
+   "bullets": [
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ ],
+ "tech": [
+  [
+   "Generative AI & Agents:",
+   "LLMs (OpenAI API / GPT, Azure OpenAI, Claude, open-source Llama and Mistral), LLM fine-tuning (LoRA / PEFT), RAG architecture, embeddings and vector databases (pgvector, Azure AI Search, FAISS), LangGraph, LangChain, Google ADK, CrewAI, OpenAI Agents SDK, MCP tool calling, prompt engineering, evaluation and guardrails, LLM deployment"
+  ],
+  [
+   "ML & NLP:",
+   "PyTorch, Hugging Face Transformers, scikit-learn; supervised and unsupervised learning, reinforcement learning, deep learning; NLP (classification, summarization, entity extraction); Document AI / OCR (Azure AI Document Intelligence), structured output creation (JSON schema)"
+  ],
+  [
+   "Front End:",
+   "Streamlit, React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, streaming chat and agent UIs"
+  ],
+  [
+   "State & Data:",
+   "SQL (PostgreSQL, SQL Server), MongoDB, Redis, Pandas, NumPy, data analysis and modeling, data validation pipelines"
+  ],
+  [
+   "APIs & Backend:",
+   "Python (FastAPI, Flask, Django), REST APIs, GraphQL, WebSockets / SSE streaming, microservices, Node.js/Express, Java (Spring Boot)"
+  ],
+  [
+   "Cloud & CI/CD:",
+   "Azure (Azure OpenAI, AI Services, App Service, DevOps), AWS (Bedrock, ECS/Fargate, Lambda, RDS, S3), GCP (Vertex AI, Cloud Run); Docker containers, GitHub Actions, Jenkins, Dynatrace"
+  ],
+  [
+   "Testing & Quality:",
+   "PyTest, LLM and agent evaluation sets, prompt and structured-output regression tests, Jest, Cypress, code review"
+  ],
+  [
+   "Process & Tools:",
+   "Agile/Scrum, Jira, Git/GitHub, mentoring; Claude Code, Cursor, GitHub Copilot"
+  ]
+ ],
+ "name": "Aaron_Ramirez_Senior_GenAI_Engineer_Python_LLM_RAG_Agentic_AI",
+ "tagline": "Senior Generative AI Engineer  ·  Python, LLMs, RAG, Agentic AI (LangGraph, Google ADK, CrewAI)  ·  OpenAI API, Vector Databases, FastAPI, Docker  ·  Azure / AWS / GCP",
+ "location": "",
+ "summary": "Senior Software Engineer with 10+ years delivering enterprise platforms for Walmart Global Tech, IBM/AEP, and HCSC, 3+ years of Python, and 2+ years implementing real Generative AI projects in production. Built and deployed an enterprise-level agentic GenAI seller-support assistant for Walmart's marketplace (500K+ daily users): LLM tool-calling agents with RAG over a vector database of embeddings, structured outputs, evaluation, and guardrails, served through Python FastAPI REST APIs in Docker containers on AWS. Integrated Azure OpenAI and Azure AI Services NLP at AEP to classify and summarize field documents. Works with both OpenAI and open-source LLMs and with agent frameworks including LangGraph, LangChain, Google ADK, and CrewAI. Strong analytical and problem-solving skills: disaggregates issues, identifies root causes, and recommends solutions; leads squads of 6+ engineers.",
+ "core_skills": [
+  [
+   "Generative AI (2+ yrs): LLMs, RAG Architecture, Prompt Engineering",
+   "Agentic AI: LangGraph, LangChain, Google ADK, CrewAI, MCP"
+  ],
+  [
+   "OpenAI API, Azure OpenAI, Claude API; Open-Source LLMs",
+   "Vector Databases & Embeddings: pgvector, Azure AI Search"
+  ],
+  [
+   "LLM Fine-Tuning, Evaluation, Guardrails, LLM Deployment",
+   "Document AI / OCR, Data Extraction, Structured Outputs"
+  ],
+  [
+   "Python (3+ yrs), PyTorch, SQL, Pandas, PyTest",
+   "FastAPI, Flask, Streamlit, REST APIs, Docker Containers"
+  ],
+  [
+   "Machine Learning, Deep Learning, NLP",
+   "Cloud: Azure, AWS, GCP; CI/CD; Root-Cause Analysis"
+  ]
+ ]
+}
