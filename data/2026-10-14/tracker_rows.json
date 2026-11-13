@@ -26492,5 +26492,41 @@
   "resume": "Aaron_Ramirez_Senior_Full_Stack_Engineer_Agentic_AI.pdf",
   "msg": "messages/628_esi_abhinav_ai_native_software_engineer_chicago_edina.txt",
   "status": "SENT #628 2026-11-13 09:52 CST; Groups req 09:22 CST; contract-to-hire; C2C through employer stated; 'worked in Chicago for several years', hybrid OK; rate left open"
+ },
+ {
+  "company": "Datamaxis (Vasanth Kumar) – 2nd Datamaxis send after #501-range Kifayathullah 11-05",
+  "role": "Senior Full Stack Engineer – Python, FastAPI, React, TypeScript, Azure, Docker, GitLab CI/CD, Entra ID, Pytest, Playwright, GitHub Copilot; healthcare/medical device preferred; 12–20 yrs",
+  "loc": "Remote",
+  "arr": "",
+  "type": "C2C",
+  "pay": "",
+  "posted": "2026-11-13",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "vkumar@datamaxis.net",
+  "link": "https://www.linkedin.com/in/vasanth-kumar-d-1a2a652b6/",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf",
+  "msg": "messages/629_datamaxis_vasanth_senior_full_stack_python_react_azure_remote.txt",
+  "status": "SENT #629 2026-11-13 10:18 CST; post asks 12–20 yrs, 10+ stated; Playwright written as 'end-to-end browser automation' (not claimed by name); GitLab CI/CD and Terraform not claimed; HCSC healthcare stated"
+ },
+ {
+  "company": "Intela Group (Raj)",
+  "role": "Senior Software Engineer (React) / Frontend Lead Developer – architecture, mentoring, hands-on; 14+ yrs; 6 months",
+  "loc": "Plano, TX (hybrid, local only, on-site interview)",
+  "arr": "",
+  "type": "W2 (C2C not mentioned)",
+  "pay": "",
+  "posted": "2026-11-13",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "raj@intelagroupgs.com",
+  "link": "",
+  "fit": "",
+  "resume": "Aaron_Ramirez_Lead_UI_Developer_React_Node_AWS.pdf",
+  "msg": "messages/630_intela_raj_senior_software_engineer_react_plano_w2.txt",
+  "status": "SENT #630 2026-11-13 10:18 CST; W2-only + locals-asked → no C2C, no location stated; on-site interview OK; post asks 14+ yrs, 10+ stated"
  }
 ]
