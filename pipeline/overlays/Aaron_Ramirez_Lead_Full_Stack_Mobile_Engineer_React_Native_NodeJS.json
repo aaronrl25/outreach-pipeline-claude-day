@@ -1,0 +1,47 @@
+{
+ "base": "mobile",
+ "tagline": "Lead Full-Stack Mobile Engineer  ·  React Native, Node.js, TypeScript  ·  iOS & Android, .NET MAUI / Xamarin, Release Engineering",
+ "location": "",
+ "summary": "Hands-on Mobile Lead Developer with 10+ years in software engineering and 6+ years building and supporting high-volume consumer and enterprise mobile applications across iOS and Android at Walmart Global Tech (500K+ daily users), HCSC (1M+ members), and IBM/AEP. Owns mobile architecture, coding standards, reusable components, and technical-debt reduction while staying active in design, code review, and troubleshooting; leads production support with crash analytics (Dynatrace, Crashlytics), log and trace analysis, and root-cause fixes that raised crash-free sessions to 99.9%. Deep in React Native internals (native modules and bridging, Hermes, Metro, Gradle, Xcode), with working experience in .NET MAUI / Xamarin cross-platform apps, secure auth and token handling, push notifications, deep links, payments and analytics SDKs, and release engineering through App Store Connect and Google Play with phased rollouts and feature flags. Mentors onshore and offshore engineers and coordinates with product, backend, QA, DevOps, and security teams through releases and hypercare.",
+ "core_skills": [
+  [
+   "React Native (6+ yrs), TypeScript, Hooks, Navigation",
+   "Native Modules, TurboModules, Hermes; .NET MAUI / Xamarin"
+  ],
+  [
+   "Technical Leadership: Roadmap, Standards, Code Review",
+   "Production Support: Triage, RCA, Crash & Log Analysis"
+  ],
+  [
+   "Release Engineering: Signing, Feature Flags, Phased Rollout, App Store & Play",
+   "Mobile Security: Secure Storage, Token Mgmt, OWASP Mobile"
+  ],
+  [
+   "REST APIs, Auth/SSO, Deep Links, Push, Payments & Analytics SDKs",
+   "Jest, RN Testing Library, Detox, Appium; CI/CD Pipelines"
+  ],
+  [
+   "Performance: Startup, Responsiveness, Memory, Network",
+   "Onshore / Offshore Mentoring, Agile Estimation & Planning"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "sub": "Remote · Seller Center – Marketplace Platform & Mobile Seller Experience  ·  App Store & Google Play: Walmart Seller"
+  },
+  "3": {
+   "sub": "Chicago, IL (Hybrid) · HCSC Mobile 2.0 – Healthcare Member App (iOS & Android)  ·  App Store & Google Play: BCBSIL"
+  },
+  "5": {
+   "sub": "Remote · Store Assist – Fulfillment as a Service (iOS & Android) · Spark Driver (Android)  ·  App Store & Google Play: MyWalmart, Spark Driver"
+  },
+  "7": {
+   "sub": "Remote · Real-Time IoT Asset Tracking (iOS & Android)  ·  App Store & Google Play: Decklar Visibility"
+  }
+ },
+ "tech_overrides": {
+  "Mobile:": "React Native (Expo, EAS, bare workflow), TypeScript, native modules and bridging / TurboModules (Swift, Kotlin), .NET MAUI / Xamarin, Hermes, Metro, Gradle, Xcode, Electrode Native micro-frontends, deep links, push notifications, payments and analytics SDKs, offline sync, performance profiling",
+  "Testing & Process:": "Jest, React Native Testing Library, Detox, Appium, Supertest; Dynatrace, Firebase Crashlytics, Sentry; Agile/Scrum, Jira, release planning, hypercare, onshore/offshore coordination, mentoring, Claude Code, Cursor"
+ },
+ "name": "Aaron_Ramirez_Lead_Full_Stack_Mobile_Engineer_React_Native_NodeJS"
+}
