@@ -1,0 +1,19 @@
+To: waseem.ahmad@1rpo.net
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_NodeJS_React_GenAI.pdf
+Subject: Senior Full Stack Software Engineer – New York Mills, NY – Aaron Ramirez (C2C)
+
+Hi Waseem,
+
+I am applying for your Senior Full Stack Software Engineer role (React / Angular / Node.js / Java / AWS), onsite in New York Mills, NY. My two-page resume is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: React and Angular front ends on Node.js / TypeScript and Java / Spring Boot microservices, REST APIs and SQL databases.
+- AWS (Lambda, API Gateway, ECS, S3, RDS) with Docker and Jenkins / GitHub Actions CI/CD, automated testing with Jest and Cypress, and production monitoring and incident resolution.
+- Technical leadership: mentoring, design and code reviews, and feature delivery across distributed teams.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately and fine with the onsite schedule.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software

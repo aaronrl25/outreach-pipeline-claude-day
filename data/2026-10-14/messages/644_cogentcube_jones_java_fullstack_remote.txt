@@ -1,0 +1,18 @@
+To: jones@cogentcube.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Subject: Java Fullstack Developer – Remote – Aaron Ramirez (C2C)
+
+Hi Jones,
+
+I wrote to you on October 28 about your Python Full Stack role. I am also applying for your Java Fullstack Developer role (remote); my two-page resume for it is attached.
+
+- 10+ years of full stack engineering for Walmart Global Tech, IBM/AEP and HCSC: Java, Spring Boot, Spring MVC and Spring Security, REST APIs and microservices, SQL with Hibernate / JPA.
+- React and Angular in TypeScript / JavaScript, HTML and CSS across the same projects, with Redux, Docker and Jenkins CI/CD on AWS and Azure.
+- Work authorization: TN (Mexican national), on C2C through my employer. Available immediately.
+
+Happy to discuss the rate and next steps.
+
+Best regards,
+Aaron David Ramírez Lezama
+(773) 708-2882 · rl.aaron4@gmail.com
+linkedin.com/in/aaronsoftware · github.com/aaronrl25 · aron.software
