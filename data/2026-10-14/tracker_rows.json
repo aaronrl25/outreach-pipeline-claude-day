@@ -27212,5 +27212,23 @@
   "resume": "",
   "msg": "",
   "status": "NOT SENT"
+ },
+ {
+  "company": "Ace Technologies (asengar@)",
+  "role": "Senior UI Engineer – React.js: React Hooks, HTML5, CSS3, JavaScript, TypeScript, CI/CD, Git, design patterns; Redux a plus; 8–10 yrs; 12 months",
+  "loc": "Sunnyvale, CA",
+  "arr": "Hybrid, local candidates only",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-16",
+  "skills": "React, Hooks, TypeScript, Redux",
+  "visa": "GC candidates only (post)",
+  "recruiter": "",
+  "contact": "asengar@acetechnologies.com",
+  "link": "",
+  "fit": "Strong on skills; visa mismatch",
+  "resume": "Aaron_Ramirez_Resume_Senior_Frontend_Engineer_React_TypeScript.pdf",
+  "msg": "messages/664_acetech_senior_ui_engineer_react_sunnyvale.txt",
+  "status": "SENT #664 2026-11-16 12:02 CST; screenshot from Aaron → sent although the post says GC only; TN stated plainly; Bay Area local stated; likely the same Sunnyvale React UI req as PTR Global #651"
  }
 ]
