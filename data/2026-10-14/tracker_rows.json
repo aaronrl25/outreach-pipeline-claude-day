@@ -27523,5 +27523,24 @@
   "resume": "",
   "msg": "",
   "status": "NOT SENT"
+ },
+ {
+  "company": "Red Oak Technologies (Raj Subbaram) – post + address pasted by Aaron; same streaming req as PTR Global",
+  "role": "Full Stack Engineer (Front End 80% / Back End 20%) – Java, Node.js, ReactJS, React Hooks, TypeScript, Sass/SCSS, semantic HTML, accessibility (keyboard, VoiceOver), security, unit testing, GitHub; streaming platform background",
+  "loc": "Sunnyvale, CA (Hybrid)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-16",
+  "skills": "React, React Hooks, TypeScript, Node.js, Java, Sass/SCSS, accessibility",
+  "visa": "TN stated",
+  "recruiter": "Raj Subbaram",
+  "contact": "raj.subbaram@redoaktech.com",
+  "link": "",
+  "fit": "Front-end heavy React + Node/Java, Bay Area local – strong; streaming background light",
+  "resume": "Aaron_Ramirez_Full_Stack_Engineer_Front_End_React_Java_NodeJS_Accessibility.pdf",
+  "msg": "messages/678_redoak_raj_full_stack_engineer_front_end_sunnyvale.txt",
+  "status": "SENT",
+  "src": "Post text + email pasted by Aaron 2026-11-16 15:22 CST"
  }
 ]
