@@ -1,0 +1,5 @@
+To: sai.kiran9@vasssoft.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_NodeJS_React_GenAI.pdf
+Subject: Full Stack AI Developer (React, Next.js, Node.js, GraphQL) – Aaron Ramirez (C2C)
+
+(body as sent 2026-11-16 10:17 CST via Gmail connector; see Gmail Sent)
