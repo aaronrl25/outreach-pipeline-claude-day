@@ -27938,5 +27938,24 @@
   "resume": "",
   "msg": "",
   "status": "NOT SENT"
+ },
+ {
+  "company": "NxtGen Software Solutions (Sayista Parveen) – 2nd role after #410 (11-03, she asked visa + location, Aaron answered); screenshot from Aaron",
+  "role": "Lead Full Stack Developer (Strong Front-End) – React.js, JS / TS, HTML5, CSS3, responsive / mobile-first; Python 3.11+, FastAPI / Flask, Pydantic, pytest, async",
+  "loc": "Austin, TX (Local only)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "React, TypeScript, Python, FastAPI, Flask, Pydantic, pytest",
+  "visa": "TN stated",
+  "recruiter": "Sayista Parveen",
+  "contact": "sparveen@nxtgenss.com",
+  "link": "",
+  "fit": "React + Python FastAPI – strong",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf",
+  "msg": "messages/697_nxtgen_parveen_lead_full_stack_developer_front_end_austin.txt",
+  "status": "SENT",
+  "src": "Screenshot from Aaron 2026-11-17 11:50 CST"
  }
 ]
