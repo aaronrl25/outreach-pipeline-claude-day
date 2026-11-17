@@ -28621,5 +28621,24 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-17 15:00 CST (Tuesday, eleventh; 6 queries, store __postsY 0→122, 3 new via __seen)"
+ },
+ {
+  "company": "Vyze Inc (V. Singh) – 2nd Vyze recruiter after Roshan (10-27); screenshot from Aaron",
+  "role": "Full Stack Software Engineer – Java, Spring Boot, JS / TS, React / Angular, REST, microservices, Python automation, AWS, CI/CD, Prometheus / Grafana / CloudWatch, AI dev tools (Copilot, Cursor, Amazon Q); Ropes assessment → phone → onsite panel",
+  "loc": "Washington, DC / Rockville, MD / McLean, VA (Hybrid 3 days, locals, F2F)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "Java, Spring Boot, React, Angular, Python, AWS",
+  "visa": "TN stated",
+  "recruiter": "V. Singh",
+  "contact": "vsingh@vyzeinc.com",
+  "link": "",
+  "fit": "Java + React/Angular + Python + AWS – good",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Python_Spring_Boot_AWS_React.pdf",
+  "msg": "messages/729_vyze_vsingh_full_stack_software_engineer_java_react_dc.txt",
+  "status": "SENT",
+  "src": "Screenshot from Aaron 2026-11-17 14:52 CST"
  }
 ]
