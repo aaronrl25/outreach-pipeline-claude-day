@@ -28583,5 +28583,43 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-17 14:50 CST (Tuesday, tenth; 6 queries, store __postsY 0→100, 11 new via __seen)"
+ },
+ {
+  "company": "Mindlance (Rohit Singh) – banking client, 15+ W2 roles",
+  "role": "Lead Java Developer / Senior Java Fullstack Developer – React: Java, Spring Boot, React, REST APIs, Azure, OAuth 2.0, CI/CD, IaC; banking / payments preferred",
+  "loc": "Buffalo, NY (hybrid, 4 days onsite)",
+  "arr": "W2",
+  "type": "W2 (C2C not mentioned)",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "",
+  "visa": "TN stated",
+  "recruiter": "Rohit Singh",
+  "contact": "rohits@mindlance.com",
+  "link": "",
+  "fit": "Java + React; Java-first",
+  "resume": "Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf",
+  "msg": "messages/728_mindlance_rohit_senior_java_fullstack_react_buffalo.txt",
+  "status": "SENT",
+  "src": "LinkedIn sweep 2026-11-17 15:00 CST (Tuesday, eleventh; 6 queries, store __postsY 0→122, 3 new via __seen)"
+ },
+ {
+  "company": "Sweep 2026-11-17 15:00 CST skips: Veridiants/Roshni Microsoft SQL DBA with full stack NYC (DBA-first), open-to-work post",
+  "role": "",
+  "loc": "",
+  "arr": "",
+  "type": "",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "",
+  "visa": "",
+  "recruiter": "",
+  "contact": "",
+  "link": "",
+  "fit": "",
+  "resume": "",
+  "msg": "",
+  "status": "NOT SENT",
+  "src": "LinkedIn sweep 2026-11-17 15:00 CST (Tuesday, eleventh; 6 queries, store __postsY 0→122, 3 new via __seen)"
  }
 ]
