@@ -1,0 +1,52 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS",
+ "tagline": "Lead Java Full Stack Developer  ·  Java, Spring Boot, Microservices, GraphQL & REST APIs  ·  React, TypeScript  ·  AWS, Kafka, PostgreSQL, Docker, CI/CD  ·  Claude Code & GitHub Copilot",
+ "location": "",
+ "summary": "Lead Java Full Stack Developer with 10+ years of full-stack development and senior/lead-level technical ownership for Walmart Global Tech, IBM/AEP, and HCSC. Strong hands-on React and TypeScript: modern UI patterns, state management (Redux Toolkit, React Query), and performance optimization. Back end in Java and Spring Boot microservices exposing GraphQL and REST APIs, event-driven messaging with Kafka, and SQL on PostgreSQL. Designs, deploys, and supports scalable, highly available cloud-native applications on AWS (ECS/Fargate, Lambda, API Gateway, RDS / Aurora PostgreSQL, S3, CloudWatch) with Docker. Secures services with OIDC/OAuth2, JWT, authentication, authorization, and service-to-service communication patterns. Owns CI/CD, Git, automated testing, code reviews, observability, monitoring, and production support for squads of 6+ engineers. Hands-on with Claude Code and GitHub Copilot for AI-assisted development, debugging, refactoring, and testing.",
+ "core_skills": [
+  [
+   "Java, Spring Boot, Microservices, Spring Security",
+   "GraphQL & REST API Development, Kafka Messaging"
+  ],
+  [
+   "React, TypeScript, JavaScript, Modern UI Patterns",
+   "State Management (Redux Toolkit), Performance Optimization"
+  ],
+  [
+   "AWS: ECS/Fargate, Lambda, API Gateway, RDS / Aurora PostgreSQL",
+   "Docker, Kubernetes, Cloud-Native, High Availability"
+  ],
+  [
+   "OIDC/OAuth2, JWT, Authentication & Authorization",
+   "SQL, PostgreSQL, Hibernate/JPA, MongoDB"
+  ],
+  [
+   "CI/CD, Git, Automated Testing (JUnit, Jest), Code Reviews",
+   "Observability, Monitoring (Dynatrace), Production Support"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Java, Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, microservices, GraphQL and REST APIs, Kafka, JUnit; Node.js/Express, WebSockets, SQL, PostgreSQL, MongoDB",
+  "Testing & Quality:": "JUnit, Jest, React Testing Library, Cypress, Supertest; code review, performance profiling, Lighthouse, Core Web Vitals",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring, AI-assisted engineering (Claude Code, Cursor, GitHub Copilot)",
+  "Cloud & CI/CD:": "AWS (ECS/Fargate, Lambda, API Gateway, RDS / Aurora PostgreSQL, S3, CloudFront, CloudWatch), Azure; Docker, Kubernetes, Jenkins, GitHub Actions, Git, Dynatrace"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Led front-end architecture and delivery for Walmart's Seller Center vendor portal (500K+ daily users, billions in annual GMV): React / TypeScript component architecture, Redux Toolkit state management, routing, and testing standards for a squad of 6+ engineers; defined GraphQL and REST API contracts with the Java / Spring Boot microservices behind the UI.",
+    "Drove performance and quality: Core Web Vitals, code splitting and bundle optimization, caching, and runtime observability with Dynatrace and client-side error reporting; raised Lighthouse scores and reduced P1 resolution time.",
+    "Built rich data visualization dashboards, real-time updates, and complex form and workflow experiences; established secure client-side patterns (OAuth2 / OIDC auth flows, token handling, XSS/CSRF prevention, dependency hygiene).",
+    "Adopted AI-assisted engineering (Claude Code, Cursor, GitHub Copilot) for scaffolding, test generation, and refactoring across the React and Spring Boot codebases, with human review gates."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST and GraphQL, serving thousands of utility technicians nationwide.",
+    "Implemented secure authentication and authorization (OAuth2 / JWT) across the React front end and Spring Boot services; improved end-to-end response time by 40% through API payload optimization, caching, code splitting, and state architecture refactoring.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  }
+ }
+}

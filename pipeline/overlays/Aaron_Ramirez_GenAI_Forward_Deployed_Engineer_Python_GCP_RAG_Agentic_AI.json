@@ -1,0 +1,108 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_GenAI_Forward_Deployed_Engineer_Python_GCP_RAG_Agentic_AI",
+ "tagline": "Forward Deployed Engineer (FDE) – Generative AI  ·  Python, LLMs, RAG, Agentic AI / Multi-Agent Systems (LangGraph, CrewAI, Google ADK), MCP  ·  GCP, Vector Databases",
+ "location": "",
+ "summary": "Forward Deployed Engineer with 10+ years of software development for Walmart Global Tech, IBM/AEP, and HCSC, 3+ years of Python, and 2+ years taking production-grade Generative AI solutions from POC to production. Built and deployed an enterprise agentic GenAI seller-support assistant for Walmart's marketplace (500K+ daily users): LLM tool-calling agents and agentic workflows with RAG over a vector database, MCP tools, evaluation pipelines, and guardrails, served through Python FastAPI APIs in Docker on Google Cloud Platform (GCP: Vertex AI, Cloud Run) and AWS. Integrates AI applications with enterprise APIs, legacy systems, and structured / unstructured data pipelines; implements multi-agent systems with LangGraph, CrewAI, and Google ADK with tracing and AI observability. Leads technical discovery sessions with customer teams and squads of 6+ engineers.",
+ "core_skills": [
+  [
+   "Generative AI: LLMs, RAG, Vector Databases, Prompt Engineering",
+   "Agentic AI: Multi-Agent Systems, LangGraph, CrewAI, Google ADK, MCP"
+  ],
+  [
+   "Python (FastAPI, Flask), REST APIs, Data Pipelines",
+   "Google Cloud Platform (GCP): Vertex AI, Cloud Run, BigQuery"
+  ],
+  [
+   "LLM Evaluation Pipelines, AI Observability, Tracing",
+   "Token Optimization, Cost-per-Request, Agent Debugging"
+  ],
+  [
+   "POC to Production Deployment, Enterprise API Integration",
+   "Structured / Unstructured Data Processing, State Management"
+  ],
+  [
+   "Customer-Facing Technical Discovery, Cross-Functional Teams",
+   "Docker, CI/CD, AWS, Azure; React / TypeScript Agent UIs"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "Streamlit, React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, streaming chat and agent UIs",
+  "State & Data:": "SQL (PostgreSQL, SQL Server), MongoDB, Redis, Pandas, NumPy, data analysis and modeling, data validation pipelines",
+  "APIs & Backend:": "Python (FastAPI, Flask, Django), REST APIs, GraphQL, WebSockets / SSE streaming, microservices, Node.js/Express, Java (Spring Boot)",
+  "Cloud & CI/CD:": "Azure (Azure OpenAI, AI Services, App Service, DevOps), AWS (Bedrock, ECS/Fargate, Lambda, RDS, S3), GCP (Vertex AI, Cloud Run); Docker containers, GitHub Actions, Jenkins, Dynatrace",
+  "Testing & Quality:": "PyTest, LLM and agent evaluation sets, prompt and structured-output regression tests, Jest, Cypress, code review",
+  "Process & Tools:": "Agile/Scrum, Jira, Git/GitHub, mentoring; Claude Code, Cursor, GitHub Copilot"
+ },
+ "tech_extra": [
+  [
+   "ML & NLP:",
+   "PyTorch, Hugging Face Transformers, scikit-learn; supervised and unsupervised learning, reinforcement learning, deep learning; NLP (classification, summarization, entity extraction); Document AI / OCR (Azure AI Document Intelligence), structured output creation (JSON schema)"
+  ],
+  [
+   "Generative AI & Agents:",
+   "LLMs (OpenAI API / GPT, Azure OpenAI, Claude, open-source Llama and Mistral), LLM fine-tuning (LoRA / PEFT), RAG architecture, embeddings and vector databases (pgvector, Azure AI Search, FAISS), LangGraph, LangChain, Google ADK, CrewAI, OpenAI Agents SDK, MCP tool calling, prompt engineering, evaluation and guardrails, LLM deployment"
+  ]
+ ],
+ "role_tweaks": {
+  "0": {
+   "sub": "Remote · Seller Center – Marketplace Platform (Generative AI / Python / React)",
+   "bullets": [
+    "Implemented and deployed an enterprise-level agentic GenAI seller-support assistant for Seller Center (500K+ daily users, billions in annual GMV): LangChain / LangGraph tool-calling agents over the Claude API with intent routing, structured JSON outputs, evaluation sets, and guardrails; deflected a large share of tier-1 support contacts.",
+    "Built the RAG architecture behind it: ingestion and chunking of policy and catalog documents, embeddings stored in a pgvector vector database on PostgreSQL, and retrieval with source citations, exposed through Python (FastAPI) REST APIs with streaming responses to the React front end.",
+    "Deployed the LLM services in Docker containers on GCP (Cloud Run, Vertex AI) and AWS ECS/Fargate through GitHub Actions CI/CD with PyTest gates; built internal AI productivity agents (code review, test generation, documentation) with LangGraph and MCP tools; set architecture and code review standards for a squad of 6+ engineers."
+   ],
+   "title": "Staff Engineer"
+  },
+  "1": {
+   "sub": "Remote · Enterprise Field Operations Platform (Python / Generative AI / ML / Document AI)",
+   "bullets": [
+    "Implemented Generative AI across AEP's field operations platform: Azure OpenAI and OpenAI API pipelines that classify and summarize technician field notes, extract structured work-order data, and route work orders automatically for thousands of utility technicians.",
+    "Fine-tuned open-source LLMs (Llama, Mistral) with PyTorch and Hugging Face Transformers (LoRA / PEFT) for utility-domain classification and extraction; built multi-agent workflows with CrewAI and LangGraph and RAG over FAISS and pgvector vector databases of embeddings.",
+    "Delivered a Document AI / OCR extraction solution (Azure AI Document Intelligence) turning scanned work orders, inspection forms, and invoices into validated structured JSON output; built Streamlit and Flask UIs and FastAPI REST APIs in Docker containers for reviewers and model demos.",
+    "Applied supervised and unsupervised machine learning, deep learning, reinforcement learning, and NLP in Python (PyTorch, scikit-learn, Pandas, SQL) for work-order prioritization, anomaly detection, and crew scheduling; led root-cause analysis on P1 incidents with Dynatrace, cutting MTTR by 50%."
+   ]
+  },
+  "2": {
+   "sub": "Remote · Warehouse Management System (React / TypeScript / Python)",
+   "bullets": [
+    "Delivered React (TypeScript) features for Walmart's warehouse management system serving 500K+ daily active store associates, consuming Node.js and Python (FastAPI) REST APIs on GCP (GKE, BigQuery) and real-time inventory events over WebSockets.",
+    "Designed Jest and React Testing Library test infrastructure, raising code coverage to 80%+ and reducing production regression incidents by 35%; wrote Python data-validation and release-check scripts; pipelines on Jenkins and GitHub with Docker build agents."
+   ]
+  },
+  "3": {
+   "sub": "Chicago, IL (Hybrid) · HCSC Member Experience 2.0 – Healthcare Member Platform (React / TypeScript / Python)",
+   "bullets": [
+    "Led development of HCSC Member Experience 2.0, a HIPAA-compliant React (TypeScript) member application serving 1M+ Blue Cross Blue Shield of Illinois members: digital ID cards, claims, provider search, push notifications, and secure messaging over REST APIs with authenticated, encrypted sessions.",
+    "Drove architecture, sprint planning, and feature delivery across hybrid distributed teams; built Python (Flask) mock and integration services plus claims and eligibility data-validation scripts for the member APIs; mentored 4 engineers and introduced structured PR review that improved team velocity by 25%."
+   ]
+  },
+  "4": {
+   "sub": "Remote · Receiving 1.0 & 2.0 – Store Inventory Apps (React / Python)",
+   "bullets": [
+    "Built React inventory management apps used by 1,000+ associates daily across hundreds of store locations, with barcode scanning that improved inventory accuracy by 25% and cut check-in time by 40%.",
+    "Designed a modular, reusable component system shared across 3 apps, cutting duplicate code by 40%; wrote Python (Flask, Pandas) services on GCP (Cloud Run, BigQuery) for inventory data validation and reporting; implemented real-time WebSocket/Socket.IO sync with Walmart's SAP backend and sustained 99.9% crash-free sessions."
+   ]
+  },
+  "5": {
+   "sub": "Remote · Store Assist – Fulfillment as a Service · Spark Driver (React / Node.js / Python)",
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, over Node.js and Python REST services on GCP, leading a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented a micro-frontend architecture that reduced new-feature integration time by 60%; automated order-data checks and release verification with Python scripts."
+   ]
+  },
+  "6": {
+   "bullets": [
+    "Led engineering for the studio; shipped 0-to-1 React and Next.js products with Python (Django / Flask), Node.js, and Firebase backends on GCP (Cloud Run, Cloud Functions, Cloud SQL) for clients in three countries.",
+    "Architected a gas delivery tracking platform supporting 300+ daily deliveries with live driver location and push notifications on a Node.js/Express backend on AWS in Docker; built a wine e-commerce storefront with JWT-secured third-party API integration and a Python-driven analytics dashboard that drove 120% year-over-year sales growth."
+   ]
+  },
+  "7": {
+   "sub": "Remote · Real-Time IoT Asset Tracking (React / Node.js / Python)",
+   "bullets": [
+    "Built React clients with Node.js and Python RESTful services streaming real-time IoT asset location over WebSockets; wrote Python scripts for device telemetry parsing; led a refactor that cut crash rates by 60%."
+   ]
+  }
+ },
+ "edu": "B.S. Computer Systems Engineering  ·  Universidad España y México  ·  Puebla, Mexico  ·  Accelerate AI Residency"
+}

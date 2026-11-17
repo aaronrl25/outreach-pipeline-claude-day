@@ -1,0 +1,41 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_ReactJs_Developer_JavaScript_REST_API_MongoDB_PostgreSQL",
+ "tagline": "ReactJs Developer  ·  React, JavaScript (ES6+) / TypeScript, Redux  ·  REST API Integration, Node.js  ·  MongoDB, SQL, Postgres (PostgreSQL)",
+ "location": "",
+ "summary": "ReactJs Developer with 10+ years building production web applications for Walmart Global Tech, IBM/AEP, and HCSC, with React and JavaScript as the primary stack: React hooks, Redux Toolkit, React Query, reusable component libraries, routing, forms, and performance work on applications serving hundreds of thousands of daily users. Integrates React front ends with REST API services built on Node.js/Express, with data in MongoDB and SQL databases (Postgres / PostgreSQL): schema design, queries, indexes, and aggregation for dashboards and reporting. Ships through GitHub Actions and Jenkins CI/CD with Jest and React Testing Library coverage above 80%, Docker on AWS, and Dynatrace monitoring. Sets code review and front-end standards for squads of 6+ engineers; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "ReactJs / React 18, Hooks, Redux Toolkit, React Query",
+   "JavaScript (ES6+), TypeScript, HTML5, CSS3"
+  ],
+  [
+   "REST API Design & Integration, Node.js / Express",
+   "WebSockets, GraphQL, JSON, OAuth2 / JWT"
+  ],
+  [
+   "MongoDB (Documents, Aggregation, Indexes)",
+   "SQL, Postgres / PostgreSQL (Queries, Joins, Tuning)"
+  ],
+  [
+   "Reusable Components, Responsive UI, Accessibility",
+   "Performance: Code Splitting, Caching, Virtualization"
+  ],
+  [
+   "Jest, React Testing Library, Cypress",
+   "Git, CI/CD (GitHub Actions, Jenkins), Docker, AWS, Agile/Scrum"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "REST API development and integration, Node.js/Express, GraphQL, WebSockets/Socket.IO, microservices, MongoDB, SQL, Postgres (PostgreSQL), Redis"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded ReactJs and TypeScript front-end development for Seller Center, Walmart's marketplace platform supporting billions in annual GMV; set architecture standards, code review protocols, and system design documentation for a cross-functional squad of 6+ engineers.",
+    "Integrated React clients with 6+ internal marketplace microservices over REST API and Socket.IO/WebSockets, with Node.js/Express services backed by MongoDB and Postgres (SQL), and built interactive analytics with D3.js: sales and order-volume timelines, geographic heat maps, and drill-down charts.",
+    "Shipped through GitHub Actions CI/CD with automated Jest, React Testing Library, and Supertest gates; containerized backend services with Docker on AWS ECS/Fargate with RDS PostgreSQL; monitored platform health in Dynatrace."
+   ]
+  }
+ }
+}

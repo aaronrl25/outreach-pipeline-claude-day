@@ -1,0 +1,67 @@
+{
+ "base": "web",
+ "tagline": "Senior Full Stack Developer  ·  Java, Python, Spring Boot  ·  RESTful APIs, OpenAPI  ·  AWS (Lambda, ECS/Fargate, API Gateway, CloudWatch), Docker, CI/CD  ·  React / Angular",
+ "location": "",
+ "summary": "Full Stack Developer with 10+ years delivering enterprise applications for Walmart Global Tech, IBM/AEP, and HCSC with strong hands-on Java, Python, and Spring Boot. Develops RESTful APIs with OpenAPI specifications on Java / Spring Boot and Python (FastAPI, Flask) services, deployed cloud-native on AWS: Lambda, ECS/Fargate, API Gateway, CloudWatch, Secrets Manager, and Auto Scaling, with Docker containerization and CI/CD pipelines. Unit, integration, and performance testing with JUnit, PyTest, and Jest above 80% coverage. Front-end development in React and Angular with TypeScript. Modernizes applications into cloud-based, containerized, and serverless solutions; strong communication and troubleshooting on production incidents (Dynatrace). Works AI-first with GitHub Copilot and Claude Code.",
+ "core_skills": [
+  [
+   "Java 17+, Spring Boot, Spring Security, Hibernate",
+   "Python (FastAPI, Flask, Pandas, PyTest)"
+  ],
+  [
+   "RESTful APIs, OpenAPI Specifications, Microservices",
+   "AWS: Lambda, ECS/Fargate, API Gateway, CloudWatch"
+  ],
+  [
+   "Docker, Containerization, Serverless, Auto Scaling",
+   "CI/CD Pipelines (Jenkins, GitHub Actions), Git, Maven"
+  ],
+  [
+   "React.js & Angular, TypeScript, JavaScript",
+   "Oracle, PostgreSQL, MySQL · SQL"
+  ],
+  [
+   "Unit, Integration & Performance Testing (JUnit, PyTest, Jest)",
+   "AI Development Tools: GitHub Copilot, Claude Code"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Python (FastAPI, Flask, Pandas), Java 17+ / Spring Boot, Spring Security, Spring JDBC, Hibernate/JPA, transaction management, REST & SOAP web services (JSON, XML, WSDL), microservices, Node.js/Express, GraphQL, Tomcat, Oracle, MySQL, PostgreSQL, MongoDB",
+  "Testing & Quality:": "JUnit, PyTest, Jest, React Testing Library, Cypress, Supertest; code review, OWASP security reviews and vulnerability remediation, performance profiling",
+  "Cloud & CI/CD:": "AWS (Lambda, ECS/Fargate, API Gateway, CloudWatch, Secrets Manager, Auto Scaling, EC2, RDS, S3), Azure; Docker, Jenkins, Maven, GitHub Actions, Dynatrace"
+ },
+ "role_tweaks": {
+  "0": {
+   "bullets": [
+    "Spearheaded full stack development for Walmart's Seller Center vendor portal (billions in annual GMV): Java / Spring Boot REST microservices and a React / TypeScript front end; designed service contracts, integrated with marketplace backend systems, and set architecture standards and code review protocols for a squad of 6+ engineers.",
+    "Built Python (FastAPI) services for reporting, reconciliation, and agent orchestration alongside the Java / Spring Boot microservices, with PyTest gates in the Jenkins pipeline.",
+    "Built and maintained REST endpoints and shared service modules consumed across 3 product teams, with API documentation, integration tests, and performance profiling that reduced redundant implementation work and accelerated sprint delivery.",
+    "Integrated a GenAI seller-support assistant into Seller Center (Claude API with LangChain tool-calling agents, RAG over seller documentation, human-in-the-loop approvals) behind the React UI and Spring Boot / Node.js services; Claude Code and GitHub Copilot daily for scaffolding, test generation, and refactoring."
+   ]
+  },
+  "1": {
+   "bullets": [
+    "Developed and maintained AEP's full stack field operations platform: React (TypeScript) web portal integrated with 10+ Java / Spring Boot microservices over REST, delivering data-entry and dispatch workflows used by thousands of utility technicians nationwide.",
+    "Developed Python (Flask / FastAPI) integration services and Pandas-based reconciliation jobs feeding the field dashboards; secured REST and SOAP integrations with Spring Security (OAuth 2.0 / JWT) and Oracle / PostgreSQL data access.",
+    "Implemented secure authentication and authorization (OAuth2 / JWT) across the React front end and Spring Boot services; integrated Azure AI Services / Azure OpenAI to summarize and classify field notes; improved end-to-end response time by 40% through API payload optimization, caching, and code splitting.",
+    "Instrumented Dynatrace APM across the platform (crash analytics, session replay, performance dashboards), reducing mean time to resolution by 50% on P1 incidents."
+   ]
+  },
+  "2": {
+   "bullets": [
+    "Delivered full stack features for Walmart's warehouse management system (500K+ daily active associates): Java / Spring Boot REST endpoints and React / React Native associate UI; drove architecture decisions across the service and UI codebase.",
+    "Wrote Python data-validation and release-check scripts and FastAPI REST endpoints consumed by the associate UI; pipelines on Jenkins and Maven with Docker build agents.",
+    "Designed Jest and React Testing Library unit testing infrastructure, increasing coverage to 80%+ and reducing production regression incidents by 35%.",
+    "Optimized load time by 40% via network request batching, API response caching, bundle optimization, and list virtualization."
+   ]
+  },
+  "5": {
+   "bullets": [
+    "Delivered curbside pickup, order management, and associate workflow features for Store Assist, Walmart's FaaS platform, on Java / Spring Boot services; led a team of 5 engineers in an Agile/Scrum delivery model.",
+    "Implemented Electrode Native micro-frontend architecture enabling React modules to embed into existing native apps, reducing new-feature integration time by 60%.",
+    "Contributed reusable component libraries and performance-optimized React modules to the Spark Driver and Dispense platforms."
+   ]
+  }
+ },
+ "name": "Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Python_Spring_Boot_AWS_React"
+}
