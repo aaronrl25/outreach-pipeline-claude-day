@@ -27674,5 +27674,24 @@
   "resume": "",
   "msg": "",
   "status": "NOT SENT"
+ },
+ {
+  "company": "Apetan Consulting (Nitin Goley) – inbound req; client International Motors through IBM",
+  "role": "Senior Software Engineer 2 – B2B eCommerce Platform: React.js / Next.js storefront on Spryker Cloud Commerce OS, TypeScript, Python, SQL, REST / GraphQL, ERP / OMS integrations, EDI",
+  "loc": "Lisle, IL (100% Onsite, Illinois locals)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "React, Next.js, TypeScript, Python, SQL, GraphQL, eCommerce",
+  "visa": "TN stated (list omits TN)",
+  "recruiter": "Nitin Goley",
+  "contact": "nitin@apetan.com",
+  "link": "",
+  "fit": "React/Next.js + eCommerce – good; visa list and locals are risks",
+  "resume": "Aaron_Ramirez_Senior_Software_Engineer_React_NextJS_TypeScript_Python_Ecommerce.pdf",
+  "msg": "messages/685_apetan_nitin_senior_software_engineer_2_b2b_ecommerce_lisle.txt",
+  "status": "SENT",
+  "src": "Inbound email 2026-11-17 09:29 CST; sent at Aaron's instruction"
  }
 ]
