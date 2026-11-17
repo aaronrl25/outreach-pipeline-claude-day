@@ -1,0 +1,33 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Senior_React_Developer_TypeScript_Azure",
+ "tagline": "Senior React.js Developer  ·  React 18, TypeScript, Redux Toolkit, Next.js  ·  Microsoft Azure (App Service, DevOps Pipelines, Azure AI Services)  ·  AI/LLM Integration (Azure OpenAI, Claude API, LangChain)",
+ "location": "",
+ "summary": "Senior React.js Developer with 10+ years building production web platforms for Walmart Global Tech, IBM/AEP, and HCSC, with React and modern front-end development as the primary skill: React 18, TypeScript, Redux Toolkit, React Query, component libraries, accessibility, and Core Web Vitals performance work on applications serving hundreds of thousands of daily users. Azure cloud engineering and deployments: App Service and Container Apps, Azure DevOps YAML pipelines, Key Vault and managed identity, Application Insights, and Azure AI Services, alongside AWS ECS/Fargate and Lambda. Backend and API development with Node.js/Express and Python FastAPI over REST, GraphQL, and WebSockets with PostgreSQL. AI/LLM and automation solutions in production: shipped a GenAI seller-support assistant streaming Claude API / LangChain responses through Node.js middleware for Walmart's marketplace, and integrated Azure AI Services to summarize and classify field notes at AEP. Sets architecture standards and code review protocols for squads of 6+ engineers; Claude Code, GitHub Copilot, and Cursor in daily use.",
+ "core_skills": [
+  [
+   "React 18, TypeScript, Redux Toolkit, React Query, Next.js",
+   "Component Libraries, Accessibility (WCAG), Core Web Vitals"
+  ],
+  [
+   "Azure: App Service, Container Apps, DevOps Pipelines, Key Vault",
+   "Azure AI Services, Application Insights, Azure Monitor"
+  ],
+  [
+   "Node.js/Express & Python FastAPI REST, GraphQL, WebSockets",
+   "PostgreSQL, MongoDB, Redis, Docker"
+  ],
+  [
+   "AI/LLM Integration: Claude API, Azure OpenAI, LangChain, RAG",
+   "Automation: Tool-Calling Agents, Intent Routing, Workflows"
+  ],
+  [
+   "CI/CD: Azure DevOps, GitHub Actions, Jenkins",
+   "Jest, React Testing Library, Cypress; Dynatrace Observability"
+  ]
+ ],
+ "tech_overrides": {
+  "APIs & Backend:": "Node.js/Express, Python FastAPI, TypeScript, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis",
+  "Cloud & CI/CD:": "Azure (App Service, Container Apps, DevOps YAML pipelines, Key Vault, Managed Identity, Application Insights, Log Analytics, AI Services), AWS (ECS/Fargate, Lambda, RDS, S3, CloudFront), Docker, GitHub Actions, Jenkins, Dynatrace"
+ }
+}

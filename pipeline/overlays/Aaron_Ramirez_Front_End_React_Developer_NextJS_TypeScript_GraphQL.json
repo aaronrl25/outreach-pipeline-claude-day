@@ -1,0 +1,35 @@
+{
+ "base": "web",
+ "name": "Aaron_Ramirez_Front_End_React_Developer_NextJS_TypeScript_GraphQL",
+ "tagline": "Front-End React Developer  ·  React 19, Next.js 16 (App Router, SSR / SSG / ISR, Server Components), TypeScript, Tailwind CSS  ·  REST / GraphQL Integration  ·  Core Web Vitals, Accessibility  ·  WebSockets, Component-Based Architecture",
+ "location": "",
+ "summary": "Front End Developer with 10+ years building production React and Next.js applications for Walmart Global Tech (Seller Center marketplace, billions in annual GMV, and store apps), IBM/AEP, and HCSC. Very strong Next.js: App Router, server and client components, SSR / SSG / ISR, route handlers, caching and revalidation strategies, image and font optimization, and Core Web Vitals work; React 19 patterns (hooks, Suspense, transitions, server actions) in strict TypeScript with Tailwind CSS design systems. Integrates REST and GraphQL APIs and Node.js / Python backends; tests with Jest, React Testing Library, Cypress, and Playwright; ships through GitHub Actions / Jenkins CI/CD on AWS and Azure. Owns architecture and debugging end to end; Claude Code and GitHub Copilot in daily use.",
+ "core_skills": [
+  [
+   "Next.js 16 (App Router, SSR / SSG / ISR, Server Components)",
+   "React 19, TypeScript (strict), React Hooks, Suspense"
+  ],
+  [
+   "Tailwind CSS, Design Systems, Responsive & Accessible UI",
+   "REST & GraphQL API Integration, Node.js / Python Backends"
+  ],
+  [
+   "Core Web Vitals, Caching / Revalidation, Image Optimization",
+   "JavaScript (ES6+), HTML5, CSS3, Storybook"
+  ],
+  [
+   "Retail / E-Commerce: Walmart Marketplace & Store Apps",
+   "Redux Toolkit, Zustand, React Query, Forms & Validation"
+  ],
+  [
+   "Jest, React Testing Library, Cypress, Playwright",
+   "CI/CD: GitHub Actions, Jenkins; AWS, Azure, Docker"
+  ]
+ ],
+ "tech_overrides": {
+  "Front End:": "React 19, Next.js 16 (App Router, server components, server actions, route handlers, ISR/revalidation), TypeScript, JavaScript (ES6+), Tailwind CSS, Redux / Redux Toolkit, Zustand, React Query, HTML5, CSS3, Styled Components, Storybook, design systems, accessibility (WCAG 2.1, ARIA), Core Web Vitals, Lighthouse",
+  "Testing & Quality:": "Jest, React Testing Library, Cypress, Detox, Supertest; accessibility audits (axe, screen readers), code review, performance profiling, Lighthouse",
+  "Process & Tools:": "Agile/Scrum, Jira, Figma, Storybook, Git/GitHub, mentoring; AI-assisted development with Claude Code, GitHub Copilot, Cursor (design-to-code, test generation, component scaffolding)",
+  "APIs & Backend:": "Node.js/Express, Python FastAPI, TypeScript, REST APIs, GraphQL, WebSockets/Socket.IO, microservices, Claude API, Azure OpenAI, LangChain, RAG, PostgreSQL, MongoDB, Redis"
+ }
+}
