@@ -1,0 +1,5 @@
+To: ram@tekwings.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Subject: Senior Full Stack .NET Developer (React.js, TypeScript, SQL, Docker) – State of Texas – Aaron Ramirez (TN, C2C)
+
+(body as sent 2026-11-17 14:45 CST via Gmail connector; see Gmail Sent)

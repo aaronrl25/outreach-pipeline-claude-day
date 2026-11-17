@@ -28526,5 +28526,24 @@
   "msg": "",
   "status": "NOT SENT",
   "src": "LinkedIn sweep 2026-11-17 14:10 CST (Tuesday, ninth; 6 queries, store __postsY 0→112, 48 new via __seen)"
+ },
+ {
+  "company": "Tekwings (Ramsaran CK) – State of Texas, direct client",
+  "role": "Senior Full Stack .NET Developer – .NET MVC Web APIs, React.js, advanced TypeScript, SQL, Docker; 14+ yrs; TX candidates with TX DL; 2+ yrs state-agency experience mandatory",
+  "loc": "Austin, TX (100% remote in Texas)",
+  "arr": "C2C",
+  "type": "Contract",
+  "pay": "",
+  "posted": "2026-11-17",
+  "skills": "",
+  "visa": "TN stated",
+  "recruiter": "Ramsaran CK",
+  "contact": "ram@tekwings.com",
+  "link": "",
+  "fit": "Weak – TX DL and state-agency experience required",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf",
+  "msg": "messages/726_tekwings_ram_senior_full_stack_dotnet_react_state_of_texas.txt",
+  "status": "SENT",
+  "src": "Aaron 2026-11-17 14:45 CST: \"try here\" on a post I had skipped in the 14:10 sweep"
  }
 ]
