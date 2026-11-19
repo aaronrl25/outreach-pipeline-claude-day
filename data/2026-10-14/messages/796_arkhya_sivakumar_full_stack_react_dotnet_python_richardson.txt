@@ -1,0 +1,5 @@
+To: sivak@arkhyatech.com
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet.pdf
+Role: Full Stack Developer (.NET + Snowflake + React + Python) – React / TypeScript primary, Angular, .NET APIs, Python, SQL, Cypress / Playwright, WCAG
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

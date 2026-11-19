@@ -1,0 +1,5 @@
+To: jayaram.k@atxtechnologycorp.com
+Attach: resumes/Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf
+Role: Senior .NET / React Developer – React / Angular with .NET, Redux, micro-frontends (Module Federation), design systems, Docker / K8s, WCAG; 12+ yrs; visa list H1B / USC / H4EAD / GC
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

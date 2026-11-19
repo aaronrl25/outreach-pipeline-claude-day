@@ -1,0 +1,5 @@
+To: jyothsna.dodla@sysintelli.net
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_NodeJS_React_GenAI.pdf
+Role: Java Full Stack AI Engineer – React, Next.js, TypeScript, Node.js, Python, LLM APIs, RAG, AI agents, vector search, SSE / WebSockets; 7+ yrs; 'USC, GC, GC EAD, TN for W2'
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

@@ -1,0 +1,5 @@
+To: rronald@keypixelusa.com
+Attach: resumes/Aaron_Ramirez_Senior_Front_End_Developer_React_TypeScript_Zustand_Accessibility.pdf
+Role: Sr. React Developer – React.js, onboarding workflows, notifications center, approval workflows, reconciliation UI; healthcare preferred; 10+ yrs
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

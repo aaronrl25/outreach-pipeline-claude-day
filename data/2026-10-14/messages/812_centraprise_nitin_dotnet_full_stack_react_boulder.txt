@@ -1,0 +1,5 @@
+To: nitin.k@centraprise.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: .NET Full Stack Developer – .NET Core / C#, React.js, Kubernetes / Docker, Kafka, Elasticsearch; banking preferred; face-to-face interview
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

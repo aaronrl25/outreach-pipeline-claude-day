@@ -1,0 +1,5 @@
+To: shiv.sharma@deskpei.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_NodeJS_React_GenAI.pdf
+Role: Java Full Stack AI Engineer – React, Next.js, TypeScript, Node.js, Python, Java, LLM, RAG, AI agents, SSE, WebSockets; visa: H1B PWL level 3 accepted
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

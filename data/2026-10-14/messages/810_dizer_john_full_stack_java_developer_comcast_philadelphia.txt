@@ -1,0 +1,5 @@
+To: john.d@dizercorp.com
+Attach: resumes/Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf
+Role: Full Stack Java Developer – Job ID 538312 – Java, Spring Boot, microservices, Angular or React, Kubernetes, Docker; 7–10 yrs; any visa
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

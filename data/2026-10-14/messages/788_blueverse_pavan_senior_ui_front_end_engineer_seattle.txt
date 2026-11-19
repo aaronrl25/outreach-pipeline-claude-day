@@ -1,0 +1,5 @@
+To: pavan@blueversesystems.com
+Attach: resumes/Aaron_Ramirez_Senior_Front_End_Developer_React_TypeScript_Zustand_Accessibility.pdf
+Role: Senior UI / Front-End Engineer – React.js, TypeScript, GraphQL, WCAG, Jest / RTL; 10+ yrs (Position 3 of a multi-role post)
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

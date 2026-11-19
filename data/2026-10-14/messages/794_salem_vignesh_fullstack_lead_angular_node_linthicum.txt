@@ -1,0 +1,5 @@
+To: Varuswamy@saleminfotech.com
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf
+Role: Fullstack Developer – Lead – Angular 11+, TypeScript, Node.js, Express.js, AWS, PostgreSQL / MongoDB; 7+ yrs, 3+ lead; in-person interview
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

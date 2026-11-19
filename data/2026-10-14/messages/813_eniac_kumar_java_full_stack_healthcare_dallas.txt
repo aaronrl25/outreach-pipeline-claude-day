@@ -1,0 +1,5 @@
+To: kumar.r@eniacsys.com
+Attach: resumes/Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf
+Role: Java Full Stack Developer – Healthcare Domain – Java, Spring Boot, React, TypeScript, Node.js, Snowflake, MySQL, Kafka, Redis, Docker, Azure; healthcare mandatory, supply chain
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

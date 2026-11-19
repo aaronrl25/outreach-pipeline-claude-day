@@ -1,0 +1,5 @@
+To: sumitkumar562002ceetu@gmail.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: Solution Architect (Hands-on Coding & Development) – C#, .NET, React, cloud, microservices, security, DevOps; 6+ months
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

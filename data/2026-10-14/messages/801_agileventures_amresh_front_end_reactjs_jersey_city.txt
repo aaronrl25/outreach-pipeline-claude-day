@@ -1,0 +1,5 @@
+To: Amresh@agileventures.net
+Attach: resumes/Aaron_Ramirez_Front_End_React_Developer_NextJS_TypeScript_GraphQL.pdf
+Role: Front-End Software Engineer (ReactJS) – React, TypeScript, GraphQL, WebSockets, micro-frontends; 4–7 yrs; W2 contract, no C2C, all visas on W2; financial markets preferred
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

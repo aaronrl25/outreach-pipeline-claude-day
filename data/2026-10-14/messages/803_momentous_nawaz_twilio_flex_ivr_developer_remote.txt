@@ -1,0 +1,5 @@
+To: Nawaz@momentousa.com
+Attach: resumes/Aaron_Ramirez_Senior_AI_Agent_Developer_Google_ADK_Dialogflow_CX.pdf
+Role: Twilio Flex / IVR Developer – Twilio Flex, Studio, TaskRouter, Functions, React, Node.js / TypeScript, AWS
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

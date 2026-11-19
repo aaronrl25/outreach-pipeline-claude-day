@@ -1,0 +1,5 @@
+To: siva.k@avanceservices.us
+Attach: resumes/Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf
+Role: AI Engineer – React, TypeScript, JavaScript, Python, microservices; GenAI, OpenAI, Copilot, Amazon Bedrock; 10+ yrs
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

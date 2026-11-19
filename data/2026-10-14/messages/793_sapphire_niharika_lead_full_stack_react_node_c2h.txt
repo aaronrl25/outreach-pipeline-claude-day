@@ -1,0 +1,5 @@
+To: niha@sapphiresoftwaresolutions.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Role: Lead Developer / Strong Senior Full Stack Engineer – React, JS / TS, Node.js, REST, SQL, Kubernetes / Azure containers; 6-month contract to hire
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

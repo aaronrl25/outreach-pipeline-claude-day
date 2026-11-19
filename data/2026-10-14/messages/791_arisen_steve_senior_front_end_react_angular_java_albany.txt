@@ -1,0 +1,5 @@
+To: Steve@arisenit.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Role: Senior Front-End Developer – React.js / Angular / Java (08-15122) – React, Angular, Next.js, TypeScript 84 mo; Java 11+ / Spring Boot 84 mo; RTL / Jest; CI/CD; AI dev tools
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)

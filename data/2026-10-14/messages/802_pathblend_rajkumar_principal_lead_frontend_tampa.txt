@@ -1,0 +1,5 @@
+To: rajkumar@pathblends.com
+Attach: resumes/Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf
+Role: Principal / Lead Frontend Developer – JS / TS, React / Angular, Redux Toolkit / NgRx, WebSockets, RxJS, GraphQL, AG-Grid; FX / payments experience mandatory; 10+ yrs; W-2 only
+
+(body as sent 2026-11-19 12:1x CST via Gmail connector, htmlBody; see Gmail Sent)
