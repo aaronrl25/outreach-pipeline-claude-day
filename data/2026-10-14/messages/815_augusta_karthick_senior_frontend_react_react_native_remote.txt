@@ -1,0 +1,5 @@
+To: karthick.raja@augustahitech.com
+Attach: resumes/Aaron_Ramirez_ASoftTek_Sr_Frontend_Engineer_ReactJS_React_Native_Remote.pdf
+Role: Senior Frontend Engineer (React and React Native) – React Hooks / Context / Redux / Zustand, REST, real-time streams, Vite / Webpack; 5+ yrs; 3-month contract
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

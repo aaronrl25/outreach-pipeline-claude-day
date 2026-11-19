@@ -1,0 +1,5 @@
+To: ajit.c@vaspiretech.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: Full Stack .NET Developer – C#, .NET Core, React, Node.js, SQL Server, Azure / AWS, CI/CD, IAM
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

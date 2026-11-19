@@ -1,0 +1,5 @@
+To: rajeshkumar.g@srsconsultinginc.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Role: Full Stack Developer – Java, Spring Boot, Angular, React, TypeScript, microservices, PostgreSQL / MySQL / SQL Server / Oracle, AWS / Azure / GCP, Docker / K8s; 10+ yrs
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

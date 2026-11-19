@@ -1,0 +1,5 @@
+To: sameer.m@gratiture.us
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: Senior Technical Lead – C#, .NET Core, React, micro-frontends, Azure / AWS, OAuth2 / OIDC, Docker / K8s, SQL Server; 10–12 yrs; 6+ months
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

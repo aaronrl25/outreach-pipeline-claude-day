@@ -1,0 +1,5 @@
+To: jayanthan.s@promantisinc.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: .Net C# Solutions Architect – C#, .NET, strong React / JavaScript / TypeScript, microservices, cloud, security, DevOps; no GC
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

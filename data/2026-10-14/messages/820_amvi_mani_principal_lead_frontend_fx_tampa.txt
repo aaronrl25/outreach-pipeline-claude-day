@@ -1,0 +1,5 @@
+To: mani@amvitechnologies.com
+Attach: resumes/Aaron_Ramirez_Senior_Frontend_Developer_React_Angular.pdf
+Role: Principal / Lead Frontend Developer – Payments / FX – JS / TS, React / Angular, Redux Toolkit / NgRx, WebSockets / SSE / RxJS, AG-Grid; 10+ yrs; max $50/hr C2C
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

@@ -1,0 +1,5 @@
+To: saicharan@menzotech.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Role: Senior Full Stack Java Developer – Java, Spring Boot, microservices, Angular; 9+ yrs
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

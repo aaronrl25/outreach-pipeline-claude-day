@@ -1,0 +1,5 @@
+To: harshit.awasthi@gvrinfotek.com
+Attach: resumes/Aaron_Ramirez_Senior_DotNet_Full_Stack_Developer_Angular.pdf
+Role: .NET Technical Lead – C#, .NET Core, Angular, SQL Server; 12+ yrs; 2nd round onsite
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

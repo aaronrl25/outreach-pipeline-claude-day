@@ -1,0 +1,5 @@
+To: jhansi@transcendit.io
+Attach: resumes/Aaron_Ramirez_ReactJs_Developer_JavaScript_REST_API_MongoDB_PostgreSQL.pdf
+Role: Senior React Developer – React.js, JavaScript, Redux, REST, onboarding UI, notification centers, approval workflows; healthcare a plus; 10+ yrs
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)

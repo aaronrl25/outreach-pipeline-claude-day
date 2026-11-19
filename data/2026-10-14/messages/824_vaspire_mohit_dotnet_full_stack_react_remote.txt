@@ -1,0 +1,5 @@
+To: Mohit.kumar@vaspiretech.com
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet.pdf
+Role: .NET Full Stack Developer – C#, .NET Core, React, SQL primary; Python / PySpark API second; healthcare good to have; 8+ yrs; no GC; max $45/hr C2C
+
+(body as sent 2026-11-19 13:0x CST via Gmail connector, htmlBody; see Gmail Sent)
