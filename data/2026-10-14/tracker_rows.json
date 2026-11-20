@@ -31053,5 +31053,115 @@
   "msg": "messages/856_triano_adarsha_full_stack_java_react_mobile_buffalo.txt",
   "status": "SENT",
   "src": "LinkedIn sweep 2026-11-20 12:40 CST (7 queries, store __postsY 0→149, 129 with email, 35 new via __seen)"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "hemanthm@tekskillsinc.com",
+  "company": "TekSkills (Hemanth Ram Mathi) – 4th vendor on the Minnesota City AI/ML req (Longfinch #848, Kanand #849 unanswered)",
+  "role": "AI/ML Developer – React + Python; 10+ yrs; 12 months; employer to be cc’d",
+  "location": "Minnesota City, MN (hybrid)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf",
+  "notes": "#857 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/857_tekskills_hemanth_ai_ml_developer_minnesota_city.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "kayalvizhi@sightspectrum.com",
+  "company": "Sight Spectrum (Kayalvizhi S)",
+  "role": "Java Full Stack Developer with AI – Angular, Java, Spring Boot, Azure, AI-powered apps; 10+ yrs",
+  "location": "Remote (PST candidates only) – stated San Francisco Bay Area",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf",
+  "notes": "#858 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/858_sightspectrum_kayalvizhi_java_full_stack_ai_remote_pst.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "venu@flexontechnologies.com",
+  "company": "Flexon Technologies (Venu Gopal Salla)",
+  "role": "Senior Full Stack Technical Lead – AWS Cloud (Asset Management) – React, Angular, Node, Java, .NET, Python, AWS, Terraform; $60/hr",
+  "location": "New York Mills, NY",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf",
+  "notes": "#859 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/859_flexon_venu_sr_full_stack_technical_lead_aws_ny_mills.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "vincent@kashvida.com",
+  "company": "Kashvida (Vincent) – repost of the #526 role (unanswered)",
+  "role": "Lead Java Full Stack Developer (AI/LLM & Application Security) – Java, Spring Boot, React, Angular, SAST remediation, RAG; any visa, $58 max",
+  "location": "Los Angeles, CA (hybrid / onsite – no location stated)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf",
+  "notes": "#860 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/860_kashvida_vincent_lead_java_full_stack_ai_appsec_la_repost.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "jyothsna.dodla@sysintelli.net",
+  "company": "Sysintelli (Jyothsna Goud) – follow-up in the #799 thread; repost now lists \"TN for W2\"",
+  "role": "Java Full Stack AI Engineer – React, Next.js, TypeScript, Node.js, Python, LLM, RAG; 12+ yrs",
+  "location": "Miami, FL (5 days onsite)",
+  "type": "W2",
+  "resume": "Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf",
+  "notes": "#861 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/861_sysintelli_jyothsna_miami_ai_followup_tn_w2.txt; threaded reply to #799, W2 wording (no C2C mention)"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "lavanya@ipolarityllc.com",
+  "company": "iPolarity (Thaneeru Lavanya) – 5th vendor on the Minnesota City AI/ML req",
+  "role": "AI/ML Developer – React JS, Python, AI Developer; 12 months",
+  "location": "Minnesota City, MN (hybrid)",
+  "type": "W2/C2C",
+  "resume": "Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf",
+  "notes": "#862 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/862_ipolarity_lavanya_ai_ml_developer_minnesota_city.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "sherlyn@vysystems.com",
+  "company": "VY Systems (Sherlyn; posted by Thuspika Nijar)",
+  "role": "Twilio Full Stack Contact Center Engineer – Twilio Flex, TaskRouter, React, Node.js, TypeScript, AWS, conversational AI; 10+ yrs",
+  "location": "Remote",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Senior_AI_Agent_Developer_Google_ADK_Dialogflow_CX.pdf",
+  "notes": "#863 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/863_vysystems_sherlyn_twilio_full_stack_contact_center_remote.txt; Twilio Flex not claimed – positioned on React / Node + Dialogflow CX / CCAI"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "bhupendra.chauhan@compunnel.com",
+  "company": "Compunnel (Bhupendra Chauhan) – same Texas .NET req as eHub #853 / Veridiants #854",
+  "role": ".NET Full Stack Engineer – C#, .NET Core, Angular & React, Azure / AWS, AI; 6+ yrs; $55–58/hr",
+  "location": "Texas (no location stated)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet.pdf",
+  "notes": "#864 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/864_compunnel_bhupendra_dotnet_full_stack_angular_react_texas.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "anjali.singh@excelonsolutions.com",
+  "company": "Excelon Solutions (Anjali Singh Gusain)",
+  "role": "Senior Full Stack .NET / Angular Developer – C#, .NET, Angular, AWS (S3, ECS, Fargate), PostgreSQL, Copilot; 14+ yrs",
+  "location": "Houston, TX (onsite)",
+  "type": "C2C/W2",
+  "resume": "Aaron_Ramirez_Senior_DotNet_Full_Stack_Developer_Angular.pdf",
+  "notes": "#865 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/865_excelon_anjali_sr_full_stack_dotnet_angular_houston.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "uday.dara@digitechserve.com",
+  "company": "Digitech Serve (Uday Dara)",
+  "role": "AngularJS / Node.js / MongoDB Developer – 7–9+ yrs; up to $53/hr; final round F2F",
+  "location": "Tempe, AZ (hybrid)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf",
+  "notes": "#866 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/866_digitech_uday_angularjs_node_mongodb_tempe.txt; AngularJS 1.x not claimed – said Angular"
  }
 ]
