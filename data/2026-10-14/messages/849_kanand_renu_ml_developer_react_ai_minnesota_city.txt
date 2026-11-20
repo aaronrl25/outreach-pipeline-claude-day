@@ -1,0 +1,5 @@
+To: renu.k@kanandcorp.com
+Attach: resumes/Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf
+Role: ML Developer – must have React JS, AI Developer; 15+ yrs; 12 months
+
+(body as sent 2026-11-20 12:37 CST via Gmail connector, htmlBody; see Gmail Sent)

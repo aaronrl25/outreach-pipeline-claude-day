@@ -1,0 +1,5 @@
+To: shivanshug@mindlance.com
+Attach: resumes/Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf
+Role: Software Engineer III – Full Stack Engineer – Java, Spring Boot, React.js, REST; mobile exposure a plus; 12 months; W2 only, no C2C
+
+(body as sent 2026-11-20 12:37 CST via Gmail connector, htmlBody; see Gmail Sent)

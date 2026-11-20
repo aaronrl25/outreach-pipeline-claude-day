@@ -1,0 +1,5 @@
+To: smita.ekcel@gmail.com
+Attach: resumes/Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf
+Role: Gen AI Developer / Lead Full Stack – Python (FastAPI / Flask / Django), React.js, OpenAI APIs / Azure OpenAI, RAG, vector search, Azure AI services, Docker, Azure DevOps; 10–12+ yrs
+
+(body as sent 2026-11-20 12:37 CST via Gmail connector, htmlBody; see Gmail Sent)

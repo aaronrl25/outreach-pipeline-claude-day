@@ -1,0 +1,5 @@
+To: yashi@purplehires.com
+Attach: resumes/Aaron_Ramirez_AI_Full_Stack_Developer_React_Python_AWS_Bedrock.pdf
+Role: GenAI Developer / Lead Full Stack (position 2 of a multi-role post) – Python, React.js, Azure OpenAI, LLMs, RAG, FastAPI / Flask; 10–12+ yrs; visa-independent candidates
+
+(body as sent 2026-11-20 12:37 CST via Gmail connector, htmlBody; see Gmail Sent)

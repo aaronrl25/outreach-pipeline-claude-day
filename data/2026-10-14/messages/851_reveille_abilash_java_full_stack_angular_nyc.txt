@@ -1,0 +1,5 @@
+To: abilashravindran@reveilletechnologies.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_Java_Angular_React.pdf
+Role: Java Full Stack Developer – Java 17+, Spring Boot / Spring Cloud, Angular 15, SQL; 10+ yrs; 6 months; F2F interview
+
+(body as sent 2026-11-20 12:37 CST via Gmail connector, htmlBody; see Gmail Sent)
