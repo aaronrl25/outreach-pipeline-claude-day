@@ -1,0 +1,5 @@
+To: rumpa@ampstek.com
+Role: Full-Stack Data Engineer – React / TypeScript, Python, GCP, pandas / Polars, Postgres / Snowflake / Redshift; 10+ yrs; passport number requested (not sent)
+Location: Denver, CO (day 1 onsite)
+Resume: Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Sent: 2026-11-20 ~15:25 CST via Gmail connector (htmlBody)

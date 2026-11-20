@@ -1,0 +1,5 @@
+To: Kifayathullah@datamaxis.net
+Role: Senior Full-Stack Developer with Python – Python, FastAPI, React, TypeScript, Azure, Entra ID, pytest / Vitest / Playwright; 10+ yrs
+Location: Remote
+Resume: Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Sent: 2026-11-20 ~15:25 CST via Gmail connector (htmlBody)

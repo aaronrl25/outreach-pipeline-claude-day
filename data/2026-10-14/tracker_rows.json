@@ -31163,5 +31163,38 @@
   "type": "C2C",
   "resume": "Aaron_Ramirez_Full_Stack_Developer_Angular_NodeJS.pdf",
   "notes": "#866 2026-11-20 14:3x CST; TN stated; Aaron chose 'Send all 1–10'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/866_digitech_uday_angularjs_node_mongodb_tempe.txt; AngularJS 1.x not claimed – said Angular"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "Kifayathullah@datamaxis.net",
+  "company": "Datamaxis / AB2 Consulting (Kifayathullah) – same remote Python role as Datamaxis/Vasanth 11-13 (unanswered)",
+  "role": "Senior Full-Stack Developer with Python – Python, FastAPI, React, TypeScript, Azure, Entra ID, pytest / Vitest / Playwright; 10+ yrs",
+  "location": "Remote",
+  "type": "C2C/W2/1099",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf",
+  "notes": "#867 2026-11-20 15:2x CST; TN stated; Aaron chose 'Send all 1–3'; htmlBody; message id returned, not re-checked in in:sent; offered as fit; messages/867_datamaxis_kifayathullah_sr_full_stack_python_remote.txt"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "rumpa@ampstek.com",
+  "company": "Ampstek (Rumpa Chakraborty)",
+  "role": "Full-Stack Data Engineer – React / TypeScript, Python, GCP, pandas / Polars, Postgres / Snowflake / Redshift; 10+ yrs; passport number requested (not sent)",
+  "location": "Denver, CO (day 1 onsite)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf",
+  "notes": "#868 2026-11-20 15:2x CST; TN stated; Aaron chose 'Send all 1–3'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/868_ampstek_rumpa_full_stack_data_engineer_denver.txt; passport number not sent; GCP / pandas / Snowflake / Redshift not claimed"
+ },
+ {
+  "date": "2026-11-20",
+  "status": "sent",
+  "recruiter_email": "sathyavani.k@varite.com",
+  "company": "Varite (Sathyavani K) – same Minnetonka req as Burgeon #852; \"H1B only preferred\"",
+  "role": "Technology Lead Java Full Stack with AI – Java, React.js; 14+ yrs; MN locals",
+  "location": "Minnetonka, MN (onsite, locals – no location stated)",
+  "type": "C2C",
+  "resume": "Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf",
+  "notes": "#869 2026-11-20 15:2x CST; TN stated; Aaron chose 'Send all 1–3'; htmlBody; message id returned, not re-checked in in:sent; offered as weak; messages/869_varite_sathyavani_tech_lead_java_full_stack_ai_minnetonka.txt"
  }
 ]
