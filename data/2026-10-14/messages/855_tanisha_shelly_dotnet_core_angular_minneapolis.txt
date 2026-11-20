@@ -1,0 +1,5 @@
+To: shelly@tanishasystems.com
+Attach: resumes/Aaron_Ramirez_Senior_DotNet_Full_Stack_Developer_Angular.pdf
+Role: Dot Net Developer – .NET Core + Angular 8+, C#, TypeScript, SPA, Entity Framework / Dapper, TDD / BDD; 8+ yrs
+
+(body as sent 2026-11-20 12:58 CST via Gmail connector, htmlBody; see Gmail Sent)

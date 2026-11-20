@@ -1,0 +1,5 @@
+To: tinku@veridiants.com
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet.pdf
+Role: .NET Full-Stack Engineer – C#, .NET Core, .NET microservices, Angular and React, ASP.NET Core Web API, EF, SQL Server; F2F interview
+
+(body as sent 2026-11-20 12:58 CST via Gmail connector, htmlBody; see Gmail Sent)

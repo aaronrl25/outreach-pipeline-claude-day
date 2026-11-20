@@ -1,0 +1,5 @@
+To: inzamam.h@ehub.global
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_React_Python_DotNet.pdf
+Role: .NET Full Stack Engineer – .NET Core, C#, .NET microservices, Angular, React, REST, SQL Server; 8–12 yrs; any visa except OPT / CPT / GC; in-person interview
+
+(body as sent 2026-11-20 12:58 CST via Gmail connector, htmlBody; see Gmail Sent)
