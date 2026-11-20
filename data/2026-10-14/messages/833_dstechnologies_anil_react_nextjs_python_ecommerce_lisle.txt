@@ -1,0 +1,5 @@
+To: anil@dstechnologiesinc.com
+Attach: resumes/Aaron_Ramirez_Senior_Software_Engineer_React_NextJS_TypeScript_Python_Ecommerce.pdf
+Role: Senior Full Stack Developer – React, Next.js, TypeScript, Python, SQL, enterprise eCommerce, REST / GraphQL integrations, AI coding tools; any valid work authorization
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

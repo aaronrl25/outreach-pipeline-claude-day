@@ -1,0 +1,5 @@
+To: rasheed@arkinfotechspectrum.com
+Attach: resumes/Aaron_Ramirez_Senior_Software_Engineer_React_NextJS_TypeScript_Python_Ecommerce.pdf
+Role: Senior Full Stack (Java in one title) Developer – React, Next.js, JS / TS, Python, SQL, transactional eCommerce, ERP / OMS integrations, event-driven; 10+ yrs
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

@@ -1,0 +1,5 @@
+To: dheeraj.singh@excelonsolutions.com
+Attach: resumes/Aaron_Ramirez_Senior_Angular_Developer_Micro_Frontends_NgRx.pdf
+Role: Senior Front End (Angular) Developer (15+ yrs asked) – Angular 18+, TypeScript, RxJS, NX monorepo, Jest / Karma, Gitflow, Figma
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

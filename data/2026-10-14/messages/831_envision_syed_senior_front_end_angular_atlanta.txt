@@ -1,0 +1,5 @@
+To: syed.chisty@envisiontechsol.com
+Attach: resumes/Aaron_Ramirez_Senior_Angular_Developer_Micro_Frontends_NgRx.pdf
+Role: Senior Front-End (Angular) Developer – Angular 18+, TypeScript, RxJS, SASS / SCSS, Jest / Karma; NX monorepo and micro frontends a plus
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

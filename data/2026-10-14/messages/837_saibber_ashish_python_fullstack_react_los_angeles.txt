@@ -1,0 +1,5 @@
+To: ashish.s1@saibber108.com
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Role: Python Fullstack Developer – Python 3 FastAPI / Flask / Django, React + TypeScript, AWS / Azure / GCP, PostgreSQL + NoSQL; retail or e-commerce experience
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

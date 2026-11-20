@@ -1,0 +1,5 @@
+To: manish.singh@xchangesoft.net
+Attach: resumes/Aaron_Ramirez_Full_Stack_Developer_Python_React.pdf
+Role: Software Engineer – Python / JavaScript / TypeScript – Python, REST, PyTest, Claude Code / Copilot, Node.js / React / Kafka / Redis; F2F interview
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

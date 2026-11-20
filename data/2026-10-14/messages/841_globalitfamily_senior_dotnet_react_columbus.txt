@@ -1,0 +1,5 @@
+To: amishra@globalitfamily.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: .NET Senior Full Stack Developer (Programmer 4) – C#, .NET Core 6 / 8, React + Redux, Node.js, Azure, Redis, SQL Server; 7+ yrs; 12/07/2026–06/30/2027
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

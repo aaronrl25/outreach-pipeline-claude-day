@@ -1,0 +1,5 @@
+To: upendar.k@sritechsolutions.com
+Attach: resumes/Aaron_Ramirez_Lead_Java_Full_Stack_Developer_React_TypeScript_Spring_Boot_AWS.pdf
+Role: Senior Full Stack Architect – Java, Spring Boot, microservices, AWS / Azure, Angular or React, Oracle, DevOps, SaaS integrations, AI dev tools; 10–15 yrs
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

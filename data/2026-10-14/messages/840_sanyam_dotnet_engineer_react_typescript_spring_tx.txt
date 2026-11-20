@@ -1,0 +1,5 @@
+To: vikaskyun@gmail.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_TypeScript_DotNet_Core_AWS.pdf
+Role: .NET Engineer – C#, .NET Core / .NET 6+, React, TypeScript; 5+ yrs; 24-month contract; onsite interviews; no GC / USC on C2C
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)

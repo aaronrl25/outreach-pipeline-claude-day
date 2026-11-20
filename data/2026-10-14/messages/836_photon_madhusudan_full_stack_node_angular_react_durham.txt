@@ -1,0 +1,5 @@
+To: madhusudan.gaddam@photon.com
+Attach: resumes/Aaron_Ramirez_Senior_Full_Stack_Developer_React_NodeJS_Express.pdf
+Role: Full Stack Developer (Node + Angular/React) – Node.js REST 2+ recent, Angular / React 2+ recent, TypeScript 5–7, GitHub, Sonar, Jenkins, Datadog, Splunk; 6+ yrs; full-time, no C2C
+
+(body as sent 2026-11-20 11:38 CST via Gmail connector, htmlBody; see Gmail Sent)
